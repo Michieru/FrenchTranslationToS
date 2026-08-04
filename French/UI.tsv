@@ -68,7 +68,7 @@ UI_20150317_000067	{@st43}Enregistrer	{@st43}등록
 UI_20150317_000068	{@st43}Annuler	{@st43}취소				
 UI_20150317_000069	Distributeur de Buffs	버프 자판기				
 UI_20150317_000070	{@st59}Fermer	{@st59}버프 자판기를 닫습니다.				
-UI_20150317_000071	{@st59}Distributeur de buffs{nl} - Vous pouvez payer de l'argent pour recevoir des buffs d'un autre joueur.	{@st59}버프 자판기{nl} - 실버를 지불해 해당 플레이어에게 버프 기술을 시전받을 수 있습니다.				
+UI_20150317_000071	{@st59}Distributeur de buffs{nl} - Vous pouvez payer de l'argent pour recevoir des buffs{nl}d'un autre joueur.	{@st59}버프 자판기{nl} - 실버를 지불해 해당 플레이어에게 버프 기술을 시전받을 수 있습니다.				
 UI_20150317_000072	Menu du Carrosse	마차메뉴				
 UI_20150317_000073	{ol}{s22}Débarquer{/}	{ol}{s22}내리기{/}				
 UI_20150317_000074	Incantation	캐스팅				
@@ -263,7 +263,7 @@ UI_20150317_000262	Pièces consommées : 0	소모 코인 : 0
 UI_20150317_000263	Intro	인트로				
 UI_20150317_000264	{@st43}Inventaire{/}	{@st43}인벤토리{/}				
 UI_20150317_000265	{@st59}Fermer{/}	{@st59}인벤토리를 닫습니다{/}				
-UI_20150317_000266	{@st59b}Équipement {nl} {@st59s}- Coiffure/Costume : équipement pour changer l'apparence d'un personnage. {nl} - Arme : possibilité d'équiper une arme à une main ou à deux mains {nl} (une arme secondaire/bouclier peut être équipée avec une arme à une main) {nl} - Armure : Haut, Bas, Gants, Chaussures. {nl} - Accessoires : possibilité d'équiper 1 collier et 2 bracelets. {nl} {/}	{@st59b}착용장비{nl}{@st59s} - 헤어/코스튬 : 외형 변경 가능 아이템 착용{nl} - 무기 : 한손 장비 및 양손 장비 착용 가능{nl}   (한손 장비 착용시 서브웨폰/방패 착용 가능 ){nl} - 방어구 : 상의, 하의, 장갑, 신발 착용{nl} - 악세서리 : 목걸이 1개, 팔찌 2개 착용{nl}{/}				
+UI_20150317_000266	{@st59b}Équipement {nl} {@st59s}- Coiffure/Costume : équipement pour changer l'apparence d'un{nl}personnage. {nl} - Arme : possibilité d'équiper une arme à une main ou à deux{nl}mains {nl} (une arme secondaire/bouclier peut être équipée avec une arme{nl}à une main) {nl} - Armure : Haut, Bas, Gants, Chaussures. {nl} - Accessoires : possibilité d'équiper 1 collier et 2 bracelets. {nl} {/}	{@st59b}착용장비{nl}{@st59s} - 헤어/코스튬 : 외형 변경 가능 아이템 착용{nl} - 무기 : 한손 장비 및 양손 장비 착용 가능{nl}   (한손 장비 착용시 서브웨폰/방패 착용 가능 ){nl} - 방어구 : 상의, 하의, 장갑, 신발 착용{nl} - 악세서리 : 목걸이 1개, 팔찌 2개 착용{nl}{/}				
 UI_20150317_000267	{@st59}Coiffure 1{/}	{@st59}헤어 코스튬1{/}				
 UI_20150317_000268	{@st59}Coiffure 2{/}	{@st59}헤어 코스튬2{/}				
 UI_20150317_000269	{@st59}Collier{/}	{@st59}목걸이{/}				
@@ -474,7 +474,7 @@ UI_20150317_000473	Enregistrer les Règles	규칙을 등록합니다
 UI_20150317_000474	{Gr gradation1}Annuler{/}	{gr gradation1}취소{/}				
 UI_20150317_000475	Annuler l'Action	작업을 취소합니다				
 UI_20150317_000476	{@st43}Infos sur le Compagnon	{@st43}컴패니언 정보				
-UI_20150317_000477	{@st59b}Infos sur le compagnon{nl}{@st59s} - Vous pouvez activer votre compagnon ou le mettre en mode repos avec le bouton ci-dessous. {nl} - Les attributs et les objets équipés de votre compagnon peuvent être personnalisés. {/}	{@st59b}컴패니언 정보{nl}{@st59s} - 휴면/활동 버튼으로 컴패니언 넣고 빼기 가능{nl} - 컴패니언의 특성, 아이템 장착으로 커스터마이즈 가능{/}				
+UI_20150317_000477	{@st59b}Infos sur le compagnon{nl}{@st59s} - Vous pouvez activer votre compagnon ou le mettre en mode repos avec le{nl}bouton ci-dessous. {nl} - Les attributs et les objets équipés de votre compagnon peuvent être{nl}personnalisés. {/}	{@st59b}컴패니언 정보{nl}{@st59s} - 휴면/활동 버튼으로 컴패니언 넣고 빼기 가능{nl} - 컴패니언의 특성, 아이템 장착으로 커스터마이즈 가능{/}				
 UI_20150317_000478	{@st59}Fermer{/}	{@st59}컴패니언 정보를 닫습니다{/}				
 UI_20150317_000479	{@st41b}Nom : {@sti9}%s{/}	{@st41b}이름 : {@sti9}%s{/}				
 UI_20150317_000480	{@sti9}%s{@st41b}Complicité : {@sti9}%s {@st41b}Niveau{/}	{@sti9}%s{@st41b}과의 친밀도 : {@sti9}%s {@st41b}레벨{/}				
@@ -483,10 +483,10 @@ UI_20150317_000482	{@st41b}Endurance{/}	{@st41b}스태미나{/}
 UI_20150317_000483	{@st41b}Affinité{/}	{@st41b}친밀도{/}				
 UI_20150317_000484	{@st41b}Attributs et Informations	{@st41b}특성 및 정보				
 UI_20150317_000485	{@st43}Compagnon{/}	{@st43}컴패니언{/}				
-UI_20150317_000486	{@st59b}Compagnon{nl}{@st59s} - Cliquez sur un objet de la liste pour voir plus d'informations. {/}	{@st59b}컴패니언{nl}{@st59s} - 목록에서 원하는 항목을 클릭해서 상세 정보 보기{/}				
+UI_20150317_000486	{@st59b}Compagnon{nl}{@st59s} - Cliquez sur un objet de la liste pour voir plus{nl}d'informations. {/}	{@st59b}컴패니언{nl}{@st59s} - 목록에서 원하는 항목을 클릭해서 상세 정보 보기{/}				
 UI_20150317_000487	{@st59}Fermer{/}	{@st59}컴패니언을 닫습니다{/}				
 UI_20150317_000488	{@st59}Fermer{/}	{@st59}도움말 창을 닫습니다{/}				
-UI_20150317_000489	{@st59}Aide{nl} - Consultez des informations détaillées et des astuces. {nl} - Consultez d'autres sujets depuis la liste d'aide{/}	{@st59}도움말{nl} - 도움말 상세 보기{nl} - 다른 항목을 보려면 도움말 목록에서 선택{/}				
+UI_20150317_000489	{@st59}Aide{nl} - Consultez des informations{nl}détaillées et des astuces. {nl} - Consultez d'autres sujets depuis la{nl}liste d'aide{/}	{@st59}도움말{nl} - 도움말 상세 보기{nl} - 다른 항목을 보려면 도움말 목록에서 선택{/}				
 UI_20150317_000490	{@st43}Aide{/}	{@st43}도움말{/}				
 UI_20150317_000491	Sujets d'Aide	도움말 제목				
 UI_20150317_000492	{ol}{#AAAA00}{s16}Temps écoulé : %s	{ol}{#AAAA00}{s16}진행시간 : %s				
@@ -614,10 +614,10 @@ UI_20150317_000613	Emplacement Rapide de Repos	휴식 퀵슬롯
 UI_20150317_000614	{@st43}Boîte de dialogue{/}	{@st43}말풍선{/}				
 UI_20150317_000615	Nom Temporaire	임시이름				
 UI_20150317_000616	{@st41b} {s18} Espace d'Inventaire Insuffisant 	{@st41b}{s18}인벤토리 공간 부족				
-UI_20150317_000617	Vous ne pouvez pas obtenir l'objet car votre inventaire est plein{nl}Veuillez libérer de l'espace dans votre inventaire.	인벤토리가 가득 차서 아이템을 획득할 수 없습니다.{nl}인벤토리를 정리해 주세요.				
+UI_20150317_000617	Vous ne pouvez pas obtenir l'objet car votre inventaire{nl}est plein{nl}Veuillez libérer de l'espace dans votre inventaire.	인벤토리가 가득 차서 아이템을 획득할 수 없습니다.{nl}인벤토리를 정리해 주세요.				
 UI_20150317_000618	{@st44}Ensemble d'objets obtenu !{/}	{@st44}세트 아이템 획득!{/}				
 UI_20150317_000619	Veuillez sélectionner un objet	아이템을 선택해주세요				
-UI_20150317_000620	{@st59b} boutique {nl} {@st59s} - Clic droit et entrez la quantité pour acheter plusieurs exemplaires {nl} - Double clic droit pour vendre toute la pile d'objets {/}	{@st59b}상점{nl}{@st59s} - 아이템을 대량 구입하려면 마우스 우클릭 후 갯수 입력{nl} - 아이템을 전량 판매하려면 마우스 더블 우클릭으로 이용{/}				
+UI_20150317_000620	{@st59b} boutique {nl} {@st59s} - Clic droit et entrez la quantité pour acheter plusieurs{nl}exemplaires {nl} - Double clic droit pour vendre toute la pile d'objets {/}	{@st59b}상점{nl}{@st59s} - 아이템을 대량 구입하려면 마우스 우클릭 후 갯수 입력{nl} - 아이템을 전량 판매하려면 마우스 더블 우클릭으로 이용{/}				
 UI_20150317_000621	{@st59}Fermer{/}	{@st59}상점을 닫습니다{/}				
 UI_20150317_000622	{@st59}Première Page{/}	{@st59}처음 페이지{/}				
 UI_20150317_000623	{@st59}Page Suivante{/}	{@st59}다음 페이지{/}				
@@ -1366,7 +1366,7 @@ UI_20150323_001365	{@st41}Vendre	{@st41}판매
 UI_20150323_001366	{@st41}Matériaux d'Alchimie	{@st41}연금 재료				
 UI_20150323_001367	{@st41}Résultat d'alchimie {@stx1}(%s requis){/}	{@st41}연금 대상 {@stx1}(%s 소요){/}				
 UI_20150323_001368	{@st59}Invoquer l'Animal{/}	{@st59}펫을 소환합니다.{/}				
-UI_20150323_001369	{@st41b}Paramètres du Personnage{/}	{@st41b}캐릭터 설정{/}				
+UI_20150323_001369	{@st41b}Paramètres Perso.{/}	{@st41b}캐릭터 설정{/}				
 UI_20150323_001370	{@st59}Grimoire{/}	{@st59}그리모어{/}				
 UI_20150323_001371	{@st41b}Appliquer le Flou Lumineux{/}	{@st41b}블룸 적용{/}				
 UI_20150323_001372	{@st41b}Appliquer le Vignettage{/}	{@st41b}비넷팅 적용{/}				
@@ -1462,7 +1462,7 @@ UI_20150406_001461	{@st41b}Durée du Camp	{@st41b}캠프 유지 시간
 UI_20150406_001462	{@st42b}Un camp de base dure 24 heures supplémentaires lorsqu'il est renouvelé. {nl}%s argent est consommé.	{@st42b}갱신시 24시간 추가 캠프 유지되며{nl} %s실버가 소모됩니다.				
 UI_20150406_001463	{@st41}Retirer le Camp	{@st41}캠프 해체				
 UI_20150406_001464	{@st42}Retirer la Table	{@st42}테이블 해체				
-UI_20150406_001465	{@st59b}Grimoire{nl}{@st59s} - Placez une carte sur le paquet pour commencer l'invocation{/}	{@st59b}그리모어{nl}{@st59s} - 카드를 덱에 올리고 소환술을 실행합니다{/}				
+UI_20150406_001465	{@st59b}Grimoire{nl}{@st59s} - Placez une carte sur le paquet pour{nl}commencer l'invocation{/}	{@st59b}그리모어{nl}{@st59s} - 카드를 덱에 올리고 소환술을 실행합니다{/}				
 UI_20150406_001466	{@st41}Ma Skill d'Invocation	{@st41}내 소환 스킬				
 UI_20150406_001467	{@st41}Statistique	{@st41}스텟				
 UI_20150406_001468	{@st41b}Nom de la Boîte d'Offrande	{@st41b}봉헌함 이름				
@@ -1518,7 +1518,7 @@ UI_20150428_001517	{@st41b}Retirer la Gemme	{@st41b}젬 제거
 UI_20150428_001518	{@st42}{s14}{#ffff00}Mode Interface{/}	{@st42}{s14}{#ffff00}UI 모드{/}				
 UI_20150428_001519	{@st59}Utilisez le clavier ou la manette pour contrôler l'interface	{@st59}키보드나 조이패드를 사용해서 UI를 조작합니다				
 UI_20150428_001520	Utiliser la Recherche de Groupe 	파티원 찾기 기능 사용				
-UI_20150428_001521	Quand un personnage correspondant à vos conditions de groupe est trouvé {nl}la notification [Groupe trouvé !] s'affichera.	찾기 기능을 사용하는 캐릭터 중 조건에 맞는 캐릭터를{nl}만난다면 [파티 조건 일치!] 문구가 표시 됩니다.				
+UI_20150428_001521	Quand un personnage correspondant à vos conditions de{nl}groupe est trouvé {nl}la notification [Groupe trouvé !] s'affichera.	찾기 기능을 사용하는 캐릭터 중 조건에 맞는 캐릭터를{nl}만난다면 [파티 조건 일치!] 문구가 표시 됩니다.				
 UI_20150428_001522	{@st41}Style de Jeu{/}	{@st41}플레이 스타일{/}				
 UI_20150428_001523	Quêtes	퀘스트 진행				
 UI_20150428_001524	Chasse	사냥 중심				
@@ -1581,7 +1581,7 @@ UI_20150714_001580	%s (Rang %s)	%s (%s 랭크)
 UI_20150714_001581	Nom de la Classe	직업이름				
 UI_20150714_001582	{@st41b}Inviter	{@st41b}초대				
 UI_20150714_001583	{@st41}Vous pouvez passer aux contrôles clavier, manette ou souris dans le menu système.{nl}	{@st41}조이패드나 마우스 조작을 원할 경우, 시스템 메뉴의 게임 설정에서 선택할 수 있습니다.{/}				
-UI_20150714_001584	Quand vous rencontrez un personnage correspondant à vos conditions de groupe, {nl}la notification [Groupe trouvé !] s'affichera.{nl}Vous serez également recommandé à d'autres groupes.	조건이 일치하는 캐릭터를 만난다면 [파티 조건 일치!] 문구가 표시 됩니다.{nl}또한 파티원을 구하는 다른 파티에 자주 추천됩니다.				
+UI_20150714_001584	Quand vous rencontrez un personnage correspondant à vos{nl}conditions de groupe, {nl}la notification [Groupe trouvé !] s'affichera.{nl}Vous serez également recommandé à d'autres groupes.	조건이 일치하는 캐릭터를 만난다면 [파티 조건 일치!] 문구가 표시 됩니다.{nl}또한 파티원을 구하는 다른 파티에 자주 추천됩니다.				
 UI_20150714_001585	{@st42}Style de Jeu{/}	{@st42}플레이 스타일{/}				
 UI_20150714_001586	{@st42}Différence de niveau{/}	{@st42}레벨 차이{/}				
 UI_20150714_001587	Tous	관계없음				
@@ -1624,7 +1624,7 @@ UI_20150714_001623	{@st59}Augmenter les Skills{/}	{@st59}스킬을 올려주세�
 UI_20150714_001624	{@st59}Fermer{/}	{@st59}스킬과 특성을 닫습니다{/}				
 UI_20150714_001625	{@st43}Skills et Attributs{/}	{@st43}스킬과 특성{/}				
 UI_20150714_001626	Points de statut restants {nl}{@st46}%s	남은 스테이터스 포인트 {nl}{@st46}%s				
-UI_20150714_001627	J'aime reçus : %s	내가 받은 좋아요! : %s개				
+UI_20150714_001627	Mentions J'aime reçues : %s	내가 받은 좋아요! : %s개				
 UI_20150714_001628	{@st66b}Afficher l'XP Gagnée{/}	{@st66b}경험치 획득량 표기{/}				
 UI_20150714_001629	{@st66b}Afficher le Nom du Personnage{/}	{@st66b}캐릭터 이름 보기{/}				
 UI_20150714_001630	{@st66b}Afficher Uniquement le Nom d'Équipe{/}	{@st66b}팀 이름만 표시{/}				
@@ -1836,7 +1836,7 @@ UI_20151224_001835	{@st59}Fermer{/}	{@st59}주문 판매상점을 닫습니다{/
 UI_20151224_001836	{@st43}Boutique de Sorts	{@st43}주문 판매상점	UI_20150317_000065	{@st43}Distributeur de Buffs	{@st43}버프 자판기	
 UI_20151224_001837	Boutique de Sorts	주문 판매상점	UI_20150317_000069	Distributeur de Buffs	버프 자판기	
 UI_20151224_001838	{@st59}Fermer	{@st59}주문 판매상점을 닫습니다.	UI_20150317_000070	{@st59}Fermer	{@st59}버프 자판기를 닫습니다.	
-UI_20151224_001839	{@st59}Boutique de sorts{nl} - Vous pouvez recevoir un Skill de buff d'un joueur en payant en argent.	{@st59}주문 판매상점{nl} - 실버를 지불해 해당 플레이어에게 버프 스킬을 받을 수 있습니다.	UI_20150317_000071	{@st59}Distributeur de buffs{nl} - Vous pouvez payer de l'argent pour recevoir des buffs d'un autre joueur.	{@st59}버프 자판기{nl} - 실버를 지불해 해당 플레이어에게 버프 기술을 시전받을 수 있습니다.	
+UI_20151224_001839	{@st59}Boutique de sorts{nl} - Vous pouvez recevoir un Skill de buff d'un joueur en payant en argent.	{@st59}주문 판매상점{nl} - 실버를 지불해 해당 플레이어에게 버프 스킬을 받을 수 있습니다.	UI_20150317_000071	{@st59}Distributeur de buffs{nl} - Vous pouvez payer de l'argent pour recevoir des buffs{nl}d'un autre joueur.	{@st59}버프 자판기{nl} - 실버를 지불해 해당 플레이어에게 버프 기술을 시전받을 수 있습니다.	
 UI_20151224_001840	{@st41b}Construire	{@st41b}건설				
 UI_20151224_001841	{@st41b}Matériaux et Prix	{@st41b}소비재료 및 비용				
 UI_20151224_001842	{@st66b}Camp de Base	{@st66b}베이스캠프	UI_20150406_001460	{@st41b}Camp de Base	{@st41b}베이스캠프	
@@ -1961,7 +1961,7 @@ UI_20151224_001960	{@st41}Utiliser	{@st41}사용
 UI_20151224_001961	{@st59b}Classes{nl}{@st59s}- Vous pouvez apprendre de nouvelles Skills en augmentant le Cercle de votre classe. {nl} - Vous pouvez choisir parmi 3 classes disponibles pour votre avancement de la 1re à la 2e classe. {nl} - Vous pouvez avancer jusqu'à 3 fois dans la même classe. {nl} - Vous ne pouvez pas revenir à votre classe précédente une fois que vous avez avancé vers une autre classe. {nl} - Vous devez consommer tous vos points de Skill pour pouvoir avancer. {nl} - Vous pouvez choisir la même classe.{nl}{@st59b}Skills{nl}{@st59s} - Vous pouvez augmenter le rang de chaque Skill jusqu'au niveau 5.{nl} - Les attributs appris auprès de vos maîtres sont visibles sous vos Skills. {/}	{@st59b}클래스{nl}{@st59s} - 클래스의 서클을 성장시켜 해당 클래스의 스킬을 습득{nl} - 1차 직업에서 2차 직업로 전직할 경우 3개 클래스 선택 가능{nl} - 동일한 직업으로 총 3회까지 전직 가능{nl} - 동일한 클래스도 선택 가능{nl}{@st59b}스킬{nl}{@st59s} - 각 랭크별 스킬은 최대 5레벨 증가 가능{nl} - 마스터에게 배운 특성은 스킬 하단에서 확인 가능{/}	UI_20150317_000649	{@st59b}Classes{nl}{@st59s}- Vous pouvez apprendre de nouvelles Skills en augmentant le Cercle de votre classe. {nl} - Vous pouvez choisir parmi 3 classes disponibles pour votre avancement de la 1re à la 2e classe. {nl} - Vous pouvez avancer jusqu'à 3 fois dans la même classe. {nl} - Vous ne pouvez pas revenir à votre classe précédente une fois que vous avez avancé vers une autre classe. {nl} - Vous devez consommer tous vos points de Skill pour pouvoir avancer. {nl} - Vous pouvez choisir la même classe.{nl}{@st59b}Skills{nl}{@st59s} - Vous pouvez augmenter le rang de chaque Skill jusqu'au niveau 5.{nl} - Les attributs appris auprès de vos maîtres sont visibles sous vos Skills. {/}	{@st59b}클래스{nl}{@st59s} - 클래스의 서클을 성장시켜 해당 클래스의 스킬을 습득{nl} - 1차 직업에서 2차 직업로 전직할 경우 3개 클래스 선택 가능{nl} -  동일한 직업으로 총 3회까지 전직 가능{nl} -  다른 직업으로 전직 시 이전 직업은 전직 불가{nl} -  스킬포인트 모두 소비 시 전직 가능{nl} - 동일한 클래스도 선택 가능{nl}{@st59b}스킬{nl}{@st59s} - 각  랭크별 스킬은 최대 5레벨 증가 가능{nl} - 마스터에게 배운 특성은 스킬 하단에서 확인 가능{/}	
 UI_20151224_001962	{@st66b}Informations{/}	{@st66b}정보{/}				
 UI_20151224_001963	{@st66b}Hauts Faits{/}	{@st66b}업적{/}	UI_20150401_001440	{@st41b}Hauts Faits{/}	{@st41b}업적{/}	
-UI_20151224_001964	{@st66b}Paramètres du Personnage{/}	{@st66b}캐릭터 설정{/}				
+UI_20151224_001964	{@st66b}Paramètres Perso.{/}	{@st66b}캐릭터 설정{/}				
 UI_20151224_001965	{@st59}Collection (F11){/}	{@st59}콜렉션 (F11){/}				
 UI_20151224_001966	{@st66b}Paramètres des Touches	{@st66b}키 설정				
 UI_20151224_001967	{@st42}Durée : %s{/}	{@st42}사용기간 : %s{/}				
@@ -2049,7 +2049,7 @@ UI_20151224_002048	{@st42}Avantages %s{/}	{@st42}%s 혜택적용{/}
 UI_20151224_002049	Avantages	혜택				
 UI_20160224_002050	Coffre d'Équipe	팀 창고				
 UI_20160224_002051	{@st59}Fermer{/}	{@st59}팀 창고를 닫습니다{/}				
-UI_20160224_002052	Vous pouvez stocker des objets échangeables, au coût de 1 Potentiel.{nl}Retirer des objets du coffre d'équipe déduira 1 de vos{nl}échanges restants, quel que soit le nombre d'objets retirés.	거래가 가능한 아이템만 보관할 수 있으며, 포텐셜 1이 감소합니다.{nl}팀 창고에서 아이템을 꺼낼 때는 아이템 갯수에 관계없이 거래 가능횟수가 1 차감됩니다.				
+UI_20160224_002052	Vous pouvez stocker des objets échangeables, au coût de 1{nl}Potentiel.{nl}Retirer des objets du coffre d'équipe déduira 1 de vos{nl}échanges restants, quel que soit le nombre d'objets retirés.	거래가 가능한 아이템만 보관할 수 있으며, 포텐셜 1이 감소합니다.{nl}팀 창고에서 아이템을 꺼낼 때는 아이템 갯수에 관계없이 거래 가능횟수가 1 차감됩니다.				
 UI_20160224_002053	Récupérer l'Objet	아이템 수령				
 UI_20160224_002054	Général : /s (discussion){nl}Cri : /y (discussion){nl}Groupe : /p (discussion){nl}Chuchotement : /w Nom d'équipe (discussion){nl}Réponse : /r (discussion){nl} {nl}Possibilité de changer avec la touche Tab	일반 : /s 할말{nl}외침 : /y 할말{nl}파티 : /p 할말{nl}귓속말 : /w 팀이름 할말{nl}답신 : /r 할말{nl} {nl}Tab키로 전환 가능	UI_20150803_001767	Général : /s discussion{nl}Cri : /y discussion {nl}Groupe : /p discussion{nl} Chuchotement : /w NomÉquipe discussion	일반 : /s 할말{nl}외침 : /y 할말{nl}파티 : /p 할말{nl}귓속말 : /w 팀이름 할말	
 UI_20160224_002055	{@59}Fermer{/}	{@59}닫기{/}				
@@ -2174,7 +2174,7 @@ UI_20160323_002173	[Serveur] Nom de Guilde	[서버] 길드명
 UI_20160323_002174	Historique / Score	전적 / 점수				
 UI_20160323_002175	[Créé il y a %s]	[결성: %s 전]				
 UI_20160411_002176	{@st66b}Utiliser la Vibration de la Caméra{/}	{@st66b}카메라 진동 사용{/}				
-UI_20160425_002177	{@st42}Si les deux parties utilisent des Tokens,{nl}les propriétés d'échange de l'arme{nl}ne seront pas modifiées.{/}	{@st42}양쪽 모두 토큰 혜택을 적용받는다면{nl}무기 아이템의 거래 속성은{nl}변경되지 않습니다.{/}				
+UI_20160425_002177	{@st42}Si les deux parties utilisent des{nl}Tokens,{nl}les propriétés d'échange de l'arme{nl}ne seront pas modifiées.{/}	{@st42}양쪽 모두 토큰 혜택을 적용받는다면{nl}무기 아이템의 거래 속성은{nl}변경되지 않습니다.{/}				
 UI_20160425_002178	{@st66b}Appliquer l'Effet d'Arrière-plan	{@st66b} 환경 이펙트 적용				
 UI_20160425_002179	{@st66b}Appliquer les Parties Mortes	{@st66b} 데드 파츠 적용				
 UI_20160425_002180	{@st66b}Appliquer les Silhouettes de Personnages	{@st66b} 캐릭터 실루엣 적용				
@@ -2194,7 +2194,7 @@ UI_20160520_002193	{@st49}Utiliser{/}	{@st49}사용{/}
 UI_20160520_002194	{@st42}Guerre de Guilde	{@st42}길드 전쟁				
 UI_20160520_002195	Déclarer Neutre	중립 선언				
 UI_20160603_002196	{@st66b}Vitesse de contrôle des Skills (%s){/}	{@st66b}스킬조작 속도 (%s){/}				
-UI_20160613_002197	{@st42}Si les deux parties utilisent des Tokens,{nl}les équipements échangeables ne deviendront pas non échangeables.{nl}{#FFFF00}Les consommables et matériaux deviendront{nl}non échangeables quelle que soit l'utilisation de Token.{/}	{@st42}양쪽 모두 토큰 혜택을 적용받는다면 {nl}장비 아이템의 거래 속성은 변경되지 않습니다.{nl}{#FFFF00}소비나 재료 아이템은 토큰여부와 상관없이 {nl}거래불가로 옵션이 조정됩니다.{/}	UI_20160425_002177	{@st42}Si les deux parties utilisent des Tokens,{nl}les propriétés d'échange de l'arme{nl}ne seront pas modifiées.{/}	{@st42}양쪽 모두 토큰 혜택을 적용받는다면{nl}무기 아이템의 거래 속성은{nl}변경되지 않습니다.{/}	
+UI_20160613_002197	{@st42}Si les deux parties utilisent des Tokens,{nl}les équipements échangeables ne deviendront pas{nl}non échangeables.{nl}{#FFFF00}Les consommables et matériaux deviendront{nl}non échangeables quelle que soit l'utilisation de{nl}Token.{/}	{@st42}양쪽 모두 토큰 혜택을 적용받는다면 {nl}장비 아이템의 거래 속성은 변경되지 않습니다.{nl}{#FFFF00}소비나 재료 아이템은 토큰여부와 상관없이 {nl}거래불가로 옵션이 조정됩니다.{/}	UI_20160425_002177	{@st42}Si les deux parties utilisent des{nl}Tokens,{nl}les propriétés d'échange de l'arme{nl}ne seront pas modifiées.{/}	{@st42}양쪽 모두 토큰 혜택을 적용받는다면{nl}무기 아이템의 거래 속성은{nl}변경되지 않습니다.{/}	
 UI_20160617_002198	{@st59}Fermer{/}	{@st59}제작 UI를 닫습니다.{/}	UI_20150729_001739	{@st59}Fermer la Fabrication de Flèches{/}	{@st59}화살제작을 닫습니다.{/}	
 UI_20160617_002199	{@st43}{s22}Niveau d'équipe %s{/}	{@st43}{s22}팀 레벨  %s{/}				
 UI_20160622_002200	{@st41}Signaler{/}	{@st41}신고{/}				
@@ -2263,14 +2263,14 @@ UI_20160811_002262	{img icon_item_tospoint 24 24}{@st41b}Consomme 5 TP{nl}Désé
 UI_20160811_002263	{@st41b}Confirmer	{@st41b}최종확인				
 UI_20160811_002264	{@st42}Mes Objets d'Échange{/}	{@st42}내 거래 목록{/}				
 UI_20160811_002265	{@st42}Objets d'Échange de l'Autre Joueur{/}	{@st42}상대방 거래 목록{/}				
-UI_20160811_002266	{@st66b}Si les deux parties utilisent des Tokens,{nl}les propriétés d'échange de l'équipement restent inchangées.{nl}Les consommables et matériaux deviendront non échangeables{nl}quelle que soit l'utilisation de Token.{/}	{@st66b}거래 시 유저가 모두 토큰을 사용 중 이라면{nl}장비 아이템의 속성 변경이 없습니다.{nl}소비나 재료 아이템은 토큰여부와 상관없이 거래불가입니다.{/}				
+UI_20160811_002266	{@st66b}Si les deux parties utilisent des Tokens,{nl}les propriétés d'échange de l'équipement restent{nl}inchangées.{nl}Les consommables et matériaux deviendront non{nl}échangeables{nl}quelle que soit l'utilisation de Token.{/}	{@st66b}거래 시 유저가 모두 토큰을 사용 중 이라면{nl}장비 아이템의 속성 변경이 없습니다.{nl}소비나 재료 아이템은 토큰여부와 상관없이 거래불가입니다.{/}				
 UI_20160811_002267	Correspondance de Token	토큰일치				
 UI_20160811_002268	{@st42}Cet objet deviendra non échangeable après l'échange{/}	{@st42}거래 후 장비 아이템 거래 불가{/}				
 UI_20160811_002269	{@st42}Cet objet restera échangeable après l'échange{/}	{@st42}거래 후 장비 아이템 거래 가능{/}				
 UI_20160811_002270	{@st41b}Échanger	{@st41b}거래				
 UI_20160811_002271	{@st41b}Non	{@st41b}아니오				
-UI_20160811_002272	{@st66d}Les propriétés de l'objet ne seront pas modifiées{nl}car les deux parties utilisent des Tokens.{/}	{@st66d}거래 대상 양측이 모두 토큰 사용으로{nl}아이템 속성이 변경되지 않습니다.{/}				
-UI_20160811_002273	{@st66d}Les propriétés de l'objet seront modifiées{nl}car les deux parties n'utilisent pas de Token.{/}	{@st66d}거래 대상 양측이 모두 토큰 사용하지 않아{nl}아이템 속성이 변경 됩니다.{/}				
+UI_20160811_002272	{@st66d}Les propriétés de l'objet ne seront pas{nl}modifiées{nl}car les deux parties utilisent des{nl}Tokens.{/}	{@st66d}거래 대상 양측이 모두 토큰 사용으로{nl}아이템 속성이 변경되지 않습니다.{/}				
+UI_20160811_002273	{@st66d}Les propriétés de l'objet seront{nl}modifiées{nl}car les deux parties n'utilisent{nl}pas de Token.{/}	{@st66d}거래 대상 양측이 모두 토큰 사용하지 않아{nl}아이템 속성이 변경 됩니다.{/}				
 UI_20160811_002274	{@st42}Liste des objets qui deviendront non échangeables après l'échange{/}	{@st42}거래 속성이 변경되는 아이템 목록{/}				
 UI_20160811_002275	{@st66b}{s20}Votre personnage est actuellement en {/}{s20}{#770000}combat{@st66b}{s20}.{/}	{@st66b}{s20}캐릭터가 현재 {/}{s20}{#770000}전투 중{@st66b}{s20}입니다.{/}				
 UI_20160811_002276	{@st66b}Annuler{/}	{@st66b}취소{/}				
@@ -2286,7 +2286,7 @@ UI_20160811_002285	Niveau décroissant{/}	레벨 내림차순{/}
 UI_20160811_002286	{img %s 12 12}{/} {@st66b}{s18}Carte de Monstre{/}	{img %s 12 12}{/} {@st66b}{s18}몬스터 카드{/}				
 UI_20160811_002287	Transcender l'Objet	아이템 초월				
 UI_20160811_002288	Transcendance	초월				
-UI_20160811_002289	{@st59b}Transcender l'objet{nl}{@st59s}- Une autre façon d'améliorer les performances de l'objet, en plus de l'enclume{nl}- Objets pouvant transcender : armes, armures et accessoires{nl}- Taux de réussite de la transcendance = Ingrédients utilisés / Ingrédients maximum requis{nl}- Augmente le palier de transcendance de 1 en cas de succès (maximum 10 paliers){nl}- Diminue le palier de transcendance de 1 en cas d'échec (aucune perte de Potentiel){nl}- Les objets transcendés ne peuvent pas être échangés{/}	{@st59b}아이템 초월{nl}{@st59s}- 모루 강화와는 다른 아이템 성능 강화{nl}- 초월 가능 장비 : 무기, 방어구, 장신구{nl}- 초월 성공 확률 = 넣은 재료 개수 / 최대 필요 재료 개수{nl}- 성공 시, 초월이 1단계 상승(최대 10단계){nl}- 실패 시, 초월이 -1단계 하락(포텐셜은 감소되지 않음){nl}- 초월시킨 장비는 거래 제한으로 변경됨{/}				
+UI_20160811_002289	{@st59b}Transcender l'objet{nl}{@st59s}- Une autre façon d'améliorer les performances de l'objet, en plus de l'enclume{nl}- Objets pouvant transcender : armes, armures et accessoires{nl}- Taux de réussite de la transcendance = Ingrédients utilisés / Ingrédients{nl}maximum requis{nl}- Augmente le palier de transcendance de 1 en cas de succès (maximum 10 paliers){nl}- Diminue le palier de transcendance de 1 en cas d'échec (aucune perte de{nl}Potentiel){nl}- Les objets transcendés ne peuvent pas être échangés{/}	{@st59b}아이템 초월{nl}{@st59s}- 모루 강화와는 다른 아이템 성능 강화{nl}- 초월 가능 장비 : 무기, 방어구, 장신구{nl}- 초월 성공 확률 = 넣은 재료 개수 / 최대 필요 재료 개수{nl}- 성공 시, 초월이 1단계 상승(최대 10단계){nl}- 실패 시, 초월이 -1단계 하락(포텐셜은 감소되지 않음){nl}- 초월시킨 장비는 거래 제한으로 변경됨{/}				
 UI_20160811_002290	{@st42}Palier %s{/}	{@st42}%s단계{/}				
 UI_20160811_002291	Extraire la Gemme Bénie	축복석 추출				
 UI_20160811_002292	{@st59b}Extraire la gemme bénie{nl}{@st59s}- Extrait une gemme bénie d'un objet transcendé{nl}- Prérequis d'extraction : Marteau de démantèlement{nl}- Vous récupérerez une partie des gemmes bénies utilisées pour la transcendance, même si l'objet sera détruit. {nl}- Impossible au palier de transcendance 0.{/}	{@st59b}축복석 추출{nl}{@st59s}- 초월아이템에서 축복석 추출{nl}- 축복석 추출 재료 : 분해의 망치{nl}- 축복석 추출시 해당 아이템은 제거되지만, 사용된 축복석의 일부를 되돌려 받을 수 있습니다. {nl}- 초월 0단계에서는 사용할 수 없습니다.{/}				
@@ -2348,7 +2348,7 @@ UI_20161005_002347	{@st66d}Vous ne pourrez pas annuler ceci une fois le Skill ap
 UI_20161005_002348	Un parchemin qui vainc rapidement{nl}les monstres dans un donjon instancié.	인스턴스 던전의 몬스터를 {nl}빠르게 처치할 수 있는 주문서 입니다.				
 UI_20161005_002349	Bon de Nettoyage d'Instance	인스턴스 던전 소탕권{/}				
 UI_20161005_002350	Avertissement	주의사항				
-UI_20161005_002351	 Les monstres vaincus par le pilier de lumière{nl}ne seront pas enregistrés dans le Journal d'aventure, et{nl}les objets tomberont près du pilier de lumière.{nl}Attention à la perte possible d'objets.{nl}Le bon utilisé disparaîtra instantanément{nl}et ne peut être utilisé que dans des donjons instanciés.{/}	 빛기둥에 죽은 몬스터는 모험일지에 기록되지{nl}않을 수 있으며, 빛기둥 주변에서 아이템이 떨어지게{nl}되어, 유실 가능성에 유의해 주시기 바랍니다.{nl}사용한 소탕권은 즉시 사라지며, 해당회차 인스턴스{nl}던전에서만 적용됩니다.{/}				
+UI_20161005_002351	 Les monstres vaincus par le pilier de lumière{nl}ne seront pas enregistrés dans le Journal{nl}d'aventure, et{nl}les objets tomberont près du pilier de lumière.{nl}Attention à la perte possible d'objets.{nl}Le bon utilisé disparaîtra instantanément{nl}et ne peut être utilisé que dans des donjons{nl}instanciés.{/}	 빛기둥에 죽은 몬스터는 모험일지에 기록되지{nl}않을 수 있으며, 빛기둥 주변에서 아이템이 떨어지게{nl}되어, 유실 가능성에 유의해 주시기 바랍니다.{nl}사용한 소탕권은 즉시 사라지며, 해당회차 인스턴스{nl}던전에서만 적용됩니다.{/}				
 UI_20161005_002352	Voulez-vous utiliser le bon de nettoyage d'instance ?{/}	인스턴스 던전 소탕권을 사용하시겠습니까?{/}				
 UI_20161005_002353	{@st59b}Extraction de gemmes bénies{nl}{@st59s}- Extrait une gemme bénie d'un objet transcendé{nl}- Prérequis d'extraction : Marteau de démantèlement{nl}- Vous récupérerez une partie des gemmes bénies utilisées pour la transcendance, même si l'objet sera détruit.{nl}  : Taux de réussite actuel / 40 % du montant des gemmes bénies sera retourné. {nl}- Impossible d'utiliser ceci quand votre objet est au palier de transcendance 0.{/}	{@st59b}축복석 추출{nl}{@st59s}- 초월아이템에서 축복석 추출{nl}- 축복석 추출 재료 : 분해의 망치{nl}- 축복석 추출시 해당 아이템은 제거되지만, 사용된 축복석의 일부를 되돌려 받을 수 있습니다. {nl}   : 현재까지 성공 / 실패에 사용된 축복석의 40%를 돌려받습니다. {nl}- 초월 0단계에서는 사용할 수 없습니다.{/}	UI_20160811_002292	{@st59b}Extraire la gemme bénie{nl}{@st59s}- Extrait une gemme bénie d'un objet transcendé{nl}- Prérequis d'extraction : Marteau de démantèlement{nl}- Vous récupérerez une partie des gemmes bénies utilisées pour la transcendance, même si l'objet sera détruit. {nl}- Impossible au palier de transcendance 0.{/}	{@st59b}축복석 추출{nl}{@st59s}- 초월아이템에서 축복석 추출{nl}- 축복석 추출 재료 : 분해의 망치{nl}- 축복석 추출시 해당 아이템은 제거되지만, 사용된 축복석의 일부를 되돌려 받을 수 있습니다. {nl}- 초월 0단계에서는 사용할 수 없습니다.{/}	
 UI_20161005_002354	Mission Échouée	미션 실패				
@@ -2446,7 +2446,7 @@ UI_20161108_002445	{@st42b}Ouvrir Cube béni de la Déesse X %s	{@st42b}축복�
 UI_20161108_002446	{@st42b}Ouvrir Cube secret de Leticia X %s	{@st42b}레티샤의 비밀 큐브 X %s 열기				
 UI_20161108_002447	{@st41}Ouvrir le Cube de Compensation	{@st41}보상 큐브 열기				
 UI_20161108_002448	{@st59}Fermer{/}	{@st59}창을 닫습니다.{/}				
-UI_20161108_002449	{@st66b}Pourrait contenir quelque chose de mystérieux{nl}une fois ouvert.{/}	{@st66b}사용하면 무언가 알 수 없는 것을{nl}획득할 수 있을 것 같습니다.{/}				
+UI_20161108_002449	{@st66b}Pourrait contenir quelque chose{nl}de mystérieux{nl}une fois ouvert.{/}	{@st66b}사용하면 무언가 알 수 없는 것을{nl}획득할 수 있을 것 같습니다.{/}				
 UI_20161121_002450	{@st41}Réinitialisation des entrées : 06h00 chaque jour{/}	{@st41}입장 횟수 초기화 : 매일 6시{/}				
 UI_20161121_002451	Nom/Emplacement	이름/위치				
 UI_20161121_002452	Niveau Requis	입장레벨				
@@ -2484,14 +2484,14 @@ UI_20161214_002483	{@st41b}Fonds Restants {/}{img white_right_arrow 15 18}	{@st4
 UI_20161214_002484	Les cartes de niveau 1 ne consomment pas 5 TP.	1레벨 카드는 5TP가 소모되지 않습니다.				
 UI_20161214_002485	{@st66b}Classement en temps réel	{@st66b}실시간 랭킹	UI_20160811_002277	{@st66b}Classement en temps réel	{@st66b}주간 실시간 랭킹	
 UI_20161214_002486	Classement de la Saison Précédente	지난 시즌 랭킹	UI_20160811_002279	Classement de la Semaine Précédente	지난 주간 랭킹	
-UI_20161214_002487	Augmente le taux d'XP/de butin{nl}jusqu'à 3 fois en consommant{nl}le compteur d'entrées et{nl}des Tokens de multiplication de donjon instancié.	던전 입장 소비 횟수와{nl} 인스턴스 던전 배수 토큰 아이템을{nl}소모한 만큼{nl}경험치/아이템드랍률을{nl} 최대 3배까지 증가시킵니다.				
+UI_20161214_002487	Augmente le taux d'XP/de butin{nl}jusqu'à 3 fois en consommant{nl}le compteur d'entrées et{nl}des Tokens de multiplication de{nl}donjon instancié.	던전 입장 소비 횟수와{nl} 인스턴스 던전 배수 토큰 아이템을{nl}소모한 만큼{nl}경험치/아이템드랍률을{nl} 최대 3배까지 증가시킵니다.				
 UI_20161214_002488	{@st41b}Activer le Mode Multiplication	{@st41b}배수모드 발동				
 UI_20161214_002489	{@st41b}Annuler le Mode Multiplication	{@st41b}배수모드 취소				
 UI_20161214_002490	Nombre du Mode Multiplication	배수모드 적용 개수				
 UI_20161214_002491	Veuillez patienter.	잠시 후 이동됩니다				
 UI_20161214_002492	{@st66b}Équipement{/}	{@st66b}장비{/}				
 UI_20161214_002493	{@st66b}Objet{/}	{@st66b}아이템{/}				
-UI_20161214_002494	{@st59b}Transcendance d'objet{nl}{@st59s}- Améliore les performances d'un objet d'une façon différente de l'amélioration à l'enclume{nl}- Transcendables : Arme, Armure, Accessoire{nl}- Chance de transcendance = Quantité d'ingrédients / Minimum requis{nl}- En cas de succès, le niveau de transcendance augmente de 1 (Max. 10){nl}- En cas d'échec, le niveau de transcendance et le potentiel diminuent de 1 (le niveau de transcendance ne descend pas sous 1){nl}- Un objet transcendé ne peut pas être échangé{/}	{@st59b}아이템 초월{nl}{@st59s}- 모루 강화와는 다른 아이템 성능 강화{nl}- 초월 가능 장비 : 무기, 방어구, 장신구{nl}- 초월 성공 확률 = 넣은 재료 개수 / 최대 필요 재료 개수{nl}- 성공 시, 초월이 1단계 상승(최대 10단계){nl}- 실패 시, 초월과 포텐셜이 1단계 하락(초월은 1단계 이하로 떨어지지 않음){nl}- 초월시킨 장비는 거래 제한으로 변경됨{/}	UI_20160811_002289	{@st59b}Transcender l'objet{nl}{@st59s}- Une autre façon d'améliorer les performances de l'objet, en plus de l'enclume{nl}- Objets pouvant transcender : armes, armures et accessoires{nl}- Taux de réussite de la transcendance = Ingrédients utilisés / Ingrédients maximum requis{nl}- Augmente le palier de transcendance de 1 en cas de succès (maximum 10 paliers){nl}- Diminue le palier de transcendance de 1 en cas d'échec (aucune perte de Potentiel){nl}- Les objets transcendés ne peuvent pas être échangés{/}	{@st59b}아이템 초월{nl}{@st59s}- 모루 강화와는 다른 아이템 성능 강화{nl}- 초월 가능 장비 : 무기, 방어구, 장신구{nl}- 초월 성공 확률 = 넣은 재료 개수 / 최대 필요 재료 개수{nl}- 성공 시, 초월이 1단계 상승(최대 10단계){nl}- 실패 시, 초월이 -1단계 하락(포텐셜은 감소되지 않음){nl}- 초월시킨 장비는 거래 제한으로 변경됨{/}	
+UI_20161214_002494	{@st59b}Transcendance d'objet{nl}{@st59s}- Améliore les performances d'un objet d'une façon différente de l'amélioration à l'enclume{nl}- Transcendables : Arme, Armure, Accessoire{nl}- Chance de transcendance = Quantité d'ingrédients / Minimum requis{nl}- En cas de succès, le niveau de transcendance augmente de 1 (Max. 10){nl}- En cas d'échec, le niveau de transcendance et le potentiel diminuent de 1 (le niveau de transcendance ne descend pas sous 1){nl}- Un objet transcendé ne peut pas être échangé{/}	{@st59b}아이템 초월{nl}{@st59s}- 모루 강화와는 다른 아이템 성능 강화{nl}- 초월 가능 장비 : 무기, 방어구, 장신구{nl}- 초월 성공 확률 = 넣은 재료 개수 / 최대 필요 재료 개수{nl}- 성공 시, 초월이 1단계 상승(최대 10단계){nl}- 실패 시, 초월과 포텐셜이 1단계 하락(초월은 1단계 이하로 떨어지지 않음){nl}- 초월시킨 장비는 거래 제한으로 변경됨{/}	UI_20160811_002289	{@st59b}Transcender l'objet{nl}{@st59s}- Une autre façon d'améliorer les performances de l'objet, en plus de l'enclume{nl}- Objets pouvant transcender : armes, armures et accessoires{nl}- Taux de réussite de la transcendance = Ingrédients utilisés / Ingrédients{nl}maximum requis{nl}- Augmente le palier de transcendance de 1 en cas de succès (maximum 10 paliers){nl}- Diminue le palier de transcendance de 1 en cas d'échec (aucune perte de{nl}Potentiel){nl}- Les objets transcendés ne peuvent pas être échangés{/}	{@st59b}아이템 초월{nl}{@st59s}- 모루 강화와는 다른 아이템 성능 강화{nl}- 초월 가능 장비 : 무기, 방어구, 장신구{nl}- 초월 성공 확률 = 넣은 재료 개수 / 최대 필요 재료 개수{nl}- 성공 시, 초월이 1단계 상승(최대 10단계){nl}- 실패 시, 초월이 -1단계 하락(포텐셜은 감소되지 않음){nl}- 초월시킨 장비는 거래 제한으로 변경됨{/}	
 UI_20161214_002495	{@st59b}Extraction de gemme bénie{nl}{@st59s}- Extrait les gemmes bénies des objets transcendés{nl}- Ingrédient pour l'extraction de gemme bénie : Marteau de démantèlement{nl}- Une partie des gemmes bénies utilisées sur l'objet peut être remboursée. {nl}   : Selon le niveau de transcendance actuel et le potentiel restant, le taux de remboursement varie de 20 % minimum à 90 % maximum. {nl}- Ne peut pas être utilisé au niveau de transcendance 0.{/}	{@st59b}축복석 추출{nl}{@st59s}- 초월아이템에서 축복석 추출{nl}- 축복석 추출 재료 : 분해의 망치{nl}- 축복석 추출시 해당 아이템은 제거되지만, 사용된 축복석의 일부를 되돌려 받을 수 있습니다. {nl}   : 현재 초월 단계와 잔여 포텐셜에 따라 최소 20% ~ 최대 90%의 초월석을 돌려받습니다. {nl}- 초월 0단계에서는 사용할 수 없습니다.{/}	UI_20161005_002353	{@st59b}Extraction de gemmes bénies{nl}{@st59s}- Extrait une gemme bénie d'un objet transcendé{nl}- Prérequis d'extraction : Marteau de démantèlement{nl}- Vous récupérerez une partie des gemmes bénies utilisées pour la transcendance, même si l'objet sera détruit.{nl}  : Taux de réussite actuel / 40 % du montant des gemmes bénies sera retourné. {nl}- Impossible d'utiliser ceci quand votre objet est au palier de transcendance 0.{/}	{@st59b}축복석 추출{nl}{@st59s}- 초월아이템에서 축복석 추출{nl}- 축복석 추출 재료 : 분해의 망치{nl}- 축복석 추출시 해당 아이템은 제거되지만, 사용된 축복석의 일부를 되돌려 받을 수 있습니다. {nl}   : 현재까지 성공 / 실패에 사용된 축복석의 40%를 돌려받습니다. {nl}- 초월 0단계에서는 사용할 수 없습니다.{/}	
 UI_20161214_002496	{@st66b}Enregistrer{/}	{@st66b}강화 저장{/}				
 UI_20161214_002497	{@st66b}Afficher les dégâts des autres personnages	{@st66b}다른 캐릭터 대미지 보기				
@@ -2507,7 +2507,7 @@ UI_20161214_002506	{@black_18_b}Hebdomadaire (réinitialisé chaque lundi){/}	{@
 UI_20161214_002507	{@brown_16}Participation Individuelle{/}	{@brown_16}개인 참여{/}				
 UI_20161214_002508	Autorité de Guilde	길드 권한				
 UI_20161221_002509	Utiliser le bon de réinitialisation de rang ?	랭크 초기화 아이템을 사용하시겠습니까?{/}				
-UI_20161221_002510	L'objet disparaîtra de votre{nl}inventaire et vos choix de rang seront réinitialisés.	사용한 아이템은 인벤토리에서 사라지며{nl}전체 랭크가 초기화 됩니다.{/}				
+UI_20161221_002510	L'objet disparaîtra de votre{nl}inventaire et vos choix de rang seront{nl}réinitialisés.	사용한 아이템은 인벤토리에서 사라지며{nl}전체 랭크가 초기화 됩니다.{/}				
 UI_20161221_002511	{@st66d_y}Conditions et Précautions{/}	{@st66d_y}조건 및 주의 사항{/}				
 UI_20161221_002512	{@st58}Aucun Objet Équipé{/}	{@st59}장비 장착 상태{/}				
 UI_20161221_002513	{@st59}Aucun Apprentissage d'Attribut en Cours{/}	{@st59}특성 습득 대기 상태{/}				
@@ -2516,12 +2516,12 @@ UI_20161221_002515	{@st59}Personnage en Ville{/}	{@st59}마을{/}
 UI_20161221_002516	{@st59}Aucun Skill de Boutique en Cours d'Utilisation{/}	{@st59}상점 스킬 운영{/}				
 UI_20161221_002517	{@st59}Aucune Fabrication en Cours{/}	{@st59}제작 중{/}				
 UI_20161221_002518	{@st59}Aucun Personnage Templier Maître de Guilde{/}	{@st59}템플러 직업을 가진 길드 마스터 캐릭터{/}				
-UI_20161221_002519	* Les cartes de monstre équipées seront automatiquement{nl}retirées sans pénalité.	* 착용 중인 몬스터 카드는 제약없이 자동으로 해제됩니다.				
-UI_20161221_002520	* Les niveaux d'attribut acquis avant la réinitialisation{nl}pourront être réappris gratuitement après la réinitialisation.	* 초기화 전 올린 특성의 레벨은{nl}초기화 후 다시 올릴 경우 실버가 소모되지 않습니다.				
+UI_20161221_002519	* Les cartes de monstre équipées seront{nl}automatiquement{nl}retirées sans pénalité.	* 착용 중인 몬스터 카드는 제약없이 자동으로 해제됩니다.				
+UI_20161221_002520	* Les niveaux d'attribut acquis avant la{nl}réinitialisation{nl}pourront être réappris gratuitement après la{nl}réinitialisation.	* 초기화 전 올린 특성의 레벨은{nl}초기화 후 다시 올릴 경우 실버가 소모되지 않습니다.				
 UI_20161221_002521	* Des cartes d'XP équivalentes au dernier rang atteint{nl}	* 마지막 달성한 				
 UI_20161221_002522	Niveau de Classe 15	클래스 15레벨				
 UI_20161221_002523	 seront fournies dans votre inventaire.	을 확인해 {nl} 그에 해당하는 클래스 경험치 카드를 인벤토리로 지급합니다.				
-UI_20161221_002524	* Les costumes spécifiques à la classe reçus{nl}via l'avancement de rang seront supprimés.	* 전직 시 지급된 직업별 코스튬은 반환됩니다.				
+UI_20161221_002524	* Les costumes spécifiques à la{nl}classe reçus{nl}via l'avancement de rang seront{nl}supprimés.	* 전직 시 지급된 직업별 코스튬은 반환됩니다.				
 UI_20161221_002525	* Vous retournerez à la caserne après avoir utilisé le bon.	* 초기화 후엔 캐릭터 선택창으로 돌아갑니다.				
 UI_20170117_002526	{@st66b}Optimisation (Bêta){/}	{@st66b}최적화(Beta){/}				
 UI_20170117_002527	{@st59}Fonction ON/OFF pour le traitement multithread optimisé.{/}	{@st59}최적화(Beta) 를 적용합니다.{/}				
@@ -2555,7 +2555,7 @@ UI_20170313_002554	{@st41b}Collection{/}	{@st41b}콜렉션{/}
 UI_20170313_002555	{@st66b}[%s]{nl}Pièce obtenue.{/}	{@st66b}[%s]{nl}조각 획득{/}				
 UI_20170313_002556	{@st59}Fermer la fenêtre.{/}	{@st59}합성창을 닫습니다{/}				
 UI_20170313_002557	{@st41b}Combiner les {@sti9}%s badges{/} sélectionnés ?{/}	{@st41b}선택한 {@sti9}%s개{/} 아이템으로 합성하시겠습니까?{/}				
-UI_20170313_002558	{@st59b}Combiner les badges{nl}{@st59s} - Sélectionnez les badges depuis votre inventaire.{nl}{/}	{@st59b}증표 합성{nl}{@st59s} - 합성할 증표를 인벤토리에서 선택하여 등록{nl}{/}				
+UI_20170313_002558	{@st59b}Combiner les badges{nl}{@st59s} - Sélectionnez les badges depuis votre{nl}inventaire.{nl}{/}	{@st59b}증표 합성{nl}{@st59s} - 합성할 증표를 인벤토리에서 선택하여 등록{nl}{/}				
 UI_20170313_002559	{@st41b}Combiner	{@st41b}합성				
 UI_20170313_002560	{@st66b}Objets à Réparer	{@st66b}수리 필요 아이템 목록				
 UI_20170313_002561	{@st66b}Utiliser les Effets de Chute d'Objets	{@st66b}아이템 드랍 이펙트 사용				
@@ -2596,7 +2596,7 @@ UI_20170330_002595	{@st66}Taille de Police	{@st66}글자 크기
 UI_20170330_002596	{@st66b}Afficher le Message de Connexion	{@st66b}접속 알림 표시				
 UI_20170330_002597	{@st66}Membres de la Guilde{/}	{@st66}길드원{/}				
 UI_20170330_002598	{@st66}Amis{/}	{@st66}친구{/}				
-UI_20170330_002599	{@st66b}Si les deux joueurs échangeant sont utilisateurs de Token,{nl}l'équipement échangeable, les consommables,{nl}les gemmes et autres objets resteront échangeables.{/}	{@st66b}거래 시 유저가 모두 토큰을 사용 중 이라면{nl}장비, 소모품, 기타, 카드, 젬 아이템의 속성 변경이 없습니다.{/}	UI_20160811_002266	{@st66b}Si les deux parties utilisent des Tokens,{nl}les propriétés d'échange de l'équipement restent inchangées.{nl}Les consommables et matériaux deviendront non échangeables{nl}quelle que soit l'utilisation de Token.{/}	{@st66b}거래 시 유저가 모두 토큰을 사용 중 이라면{nl}장비 아이템의 속성 변경이 없습니다.{nl}소비나 재료 아이템은 토큰여부와 상관없이 거래불가입니다.{/}	
+UI_20170330_002599	{@st66b}Si les deux joueurs échangeant sont{nl}utilisateurs de Token,{nl}l'équipement échangeable, les{nl}consommables,{nl}les gemmes et autres objets resteront{nl}échangeables.{/}	{@st66b}거래 시 유저가 모두 토큰을 사용 중 이라면{nl}장비, 소모품, 기타, 카드, 젬 아이템의 속성 변경이 없습니다.{/}	UI_20160811_002266	{@st66b}Si les deux parties utilisent des Tokens,{nl}les propriétés d'échange de l'équipement restent{nl}inchangées.{nl}Les consommables et matériaux deviendront non{nl}échangeables{nl}quelle que soit l'utilisation de Token.{/}	{@st66b}거래 시 유저가 모두 토큰을 사용 중 이라면{nl}장비 아이템의 속성 변경이 없습니다.{nl}소비나 재료 아이템은 토큰여부와 상관없이 거래불가입니다.{/}	
 UI_20170330_002600	{s18}Objets Avec Date d'Expiration	{s18}기간제 아이템 목록				
 UI_20170330_002601	Objet(s) proche(s) de leur date d'expiration. Fermer ?	곧 기간이 만료됩니다. 종료하시겠습니까?				
 UI_20170330_002602	{@st43}{s20}Objets Expirés{/}	{@st43}{s20}기간제 지난 아이템 일괄 삭제 목록{/}				
@@ -2651,14 +2651,14 @@ UI_20170420_002650	{@st41b}Ce cube ne peut pas être rouvert.{/}	{@st41b}한번 
 UI_20170420_002651	{@st41}Ouvrir le Cube de Costume	{@st41}코스튬 큐브  열기				
 UI_20170420_002652	{@st66b}Utiliser pour obtenir un costume.{/}	{@st66b}코스튬을 얻을 수 있습니다.{/}				
 UI_20170510_002653	* Après la réinitialisation, vous recevrez des points d'attribut{nl}équivalents au niveau de vos attributs avant la réinitialisation.	* 초기화 전 올린 특성의 레벨은{nl}초기화 후 특성 포인트를 돌려드립니다.				
-UI_20170510_002654	* Des cartes d'XP de classe équivalentes au dernier niveau de classe{nl}atteint seront envoyées dans votre inventaire.	* 마지막 달성한 클래스 레벨을 확인해 {nl} 그에 해당하는 클래스 경험치 카드를 인벤토리로 지급합니다.				
+UI_20170510_002654	* Des cartes d'XP de classe équivalentes au dernier{nl}niveau de classe{nl}atteint seront envoyées dans votre inventaire.	* 마지막 달성한 클래스 레벨을 확인해 {nl} 그에 해당하는 클래스 경험치 카드를 인벤토리로 지급합니다.				
 UI_20170615_002655	{@st42b}Ouvrir Cube secret de Leticia X %s	{@st42b}레티샤 큐브 X %s 열기	UI_20161108_002446	{@st42b}Ouvrir Cube secret de Leticia X %s	{@st42b}레티샤의 비밀 큐브 X %s 열기	
 UI_20170615_002656	{@st43}{s22}Cube de Recette{/}	{@st43}{s22}레시피 큐브{/}				
 UI_20170615_002657	{@st41}Sélectionnez une recette et confirmez{/}	{@st41}레시피를 선택 후 확인을 눌러주세요{/}				
 UI_20170615_002658	{@st41b}Recevoir{/}	{@st41b}받기{/}				
 UI_20170726_002659	{@st66b}Paramètres du Groupe	{@st66b}그룹 설정				
 UI_20170726_002660	{@st66b}Paramètres de Couleur	{@st66b}색 설정				
-UI_20170726_002661	{@st66d}Si au moins un joueur n'est pas utilisateur de Token,{nl}l'objet deviendra non échangeable après l'échange.{/}	{@st66d}한 명 이라도 토큰을 사용하지 않으면{nl} 교환 후 아이템이 거래 불가 상태가 됩니다.{/}	UI_20160811_002273	{@st66d}Les propriétés de l'objet seront modifiées{nl}car les deux parties n'utilisent pas de Token.{/}	{@st66d}거래 대상 양측이 모두 토큰 사용하지 않아{nl}아이템 속성이 변경 됩니다.{/}	
+UI_20170726_002661	{@st66d}Si au moins un joueur n'est pas utilisateur de{nl}Token,{nl}l'objet deviendra non échangeable après{nl}l'échange.{/}	{@st66d}한 명 이라도 토큰을 사용하지 않으면{nl} 교환 후 아이템이 거래 불가 상태가 됩니다.{/}	UI_20160811_002273	{@st66d}Les propriétés de l'objet seront{nl}modifiées{nl}car les deux parties n'utilisent{nl}pas de Token.{/}	{@st66d}거래 대상 양측이 모두 토큰 사용하지 않아{nl}아이템 속성이 변경 됩니다.{/}	
 UI_20170726_002662	{@st42b}Démarrer{/}	{@st42b}시작{/}				
 UI_20170726_002663	Pour commencer à pêcher, sélectionnez votre appât.	낚시를 시작합니다. 사용할 미끼를 올려주세요.				
 UI_20170726_002664	Placez votre appât ici.	미끼를 올려주세요				
@@ -2964,9 +2964,9 @@ UI_20171128_002963	{@st59}Fermer l'Interface de la Boutique de Portail Placé{/}
 UI_20171128_002964	Voulez-vous annuler votre dernier avancement ?{/}	마지막 전직을 취소하고 되돌리시겠습니까?{/}				
 UI_20171128_002965	Si vous annulez votre avancement de classe actuel, l'avancement sera annulé et votre XP de classe actuelle disparaîtra.{/}	현재 클래스의 전직을 취소하고 전직 이전으로 되돌아가며{nl}클래스 경험치는 사라집니다.{/}				
 UI_20171128_002966	* La rétrogradation ne peut être utilisée qu'une fois pour un même rang.{nl}Elle ne peut pas être utilisée plusieurs fois.	* 랭크 다운은 동일한 랭크에서 한 번만 사용할 수 있으며{nl}연속해서 사용할 수 없습니다.				
-UI_20171128_002967	* De plus, la rétrogradation ne peut pas être utilisée à un rang inférieur{nl}à un rang où elle a déjà été utilisée.	* 마지막으로 랭크 다운을 사용한 랭크보다 낮은 랭크에서는{nl}이용이 불가능 합니다.				
+UI_20171128_002967	* De plus, la rétrogradation ne peut pas être utilisée{nl}à un rang inférieur{nl}à un rang où elle a déjà été utilisée.	* 마지막으로 랭크 다운을 사용한 랭크보다 낮은 랭크에서는{nl}이용이 불가능 합니다.				
 UI_20171128_002968	* Les Skills et attributs des cercles de classe retirés ou ajustés{nl}seront reconvertis en points.	* 초기화로 인해 삭제 또는 서클이 내려가는 클래스는{nl}스킬과 특성을 초기화 후 포인트로 반환됩니다.				
-UI_20171128_002969	* Les costumes spécifiques à la classe reçus via l'avancement de rang{nl}seront supprimés si la classe est complètement retirée.	* 초기화로 인해 클래스가 완전히 삭제되는 경우에는{nl}전직 시 지급된 직업별 코스튬이 제거됩니다.				
+UI_20171128_002969	* Les costumes spécifiques à la classe reçus via{nl}l'avancement de rang{nl}seront supprimés si la classe est complètement retirée.	* 초기화로 인해 클래스가 완전히 삭제되는 경우에는{nl}전직 시 지급된 직업별 코스튬이 제거됩니다.				
 UI_20171128_002970	* Vous retournerez à la caserne après confirmation.	* 초기화 후에는 캐릭터 선택창으로 돌아갑니다.				
 UI_20171128_002971	{@st59}Infos sur le Rang{/}	{@st59}랭크 정보{/}				
 UI_20171128_002972	{@st66b}Simplifier les Effets de Buff{/}	{@st66b}버프 이펙트 간소화{/}				
@@ -2977,12 +2977,12 @@ UI_20171128_002976	Nom de la carte	맵이름
 UI_20171128_002977	{@st42b}Utiliser	{@st42b}이용하기				
 UI_20171128_002978	Quantité d'Objets d'Entrée de Donjon de Raid Consommée -2	레이드 던전 입장 아이템 소모 개수 -2				
 UI_20180108_002979	{@st59}Costume à Effet{/}	{@st59}이펙트 코스튬{/}				
-UI_20180115_002980	{@st66b}{s16}*Les objets restent échangeables uniquement s'il reste des échanges disponibles.{/}{/}	{@st66b}{s16}*잔여 거래 가능 횟수가 있어야만, {nl}거래한 아이템의 속성이 그대로 유지됩니다.{/}{/}	UI_20170330_002599	{@st66b}Si les deux joueurs échangeant sont utilisateurs de Token,{nl}l'équipement échangeable, les consommables,{nl}les gemmes et autres objets resteront échangeables.{/}	{@st66b}거래 시 유저가 모두 토큰을 사용 중 이라면{nl}장비, 소모품, 기타, 카드, 젬 아이템의 속성 변경이 없습니다.{/}	
-UI_20180115_002981	{s16}{@st66b}*{/}{@st66d_y}Plus d'échanges disponibles{/}{@st66b} signifie que {/} {@st66d_y}tous les objets échangés{nl}ne peuvent plus être échangés ni transférés via le coffre d'équipe{/}{@st66b}.{/}{/}	{s16}{@st66b}*{/}{@st66d_y}거래 가능 횟수 0{/}{@st66b} 상태에서는{/} {@st66d_y}거래한 모든 아이템이{nl} 팀 창고 이동 및 거래가 불가능{/}{@st66b}해집니다.{/}{/}				
+UI_20180115_002980	{@st66b}{s16}*Les objets restent échangeables uniquement s'il reste des échanges disponibles.{/}{/}	{@st66b}{s16}*잔여 거래 가능 횟수가 있어야만, {nl}거래한 아이템의 속성이 그대로 유지됩니다.{/}{/}	UI_20170330_002599	{@st66b}Si les deux joueurs échangeant sont{nl}utilisateurs de Token,{nl}l'équipement échangeable, les{nl}consommables,{nl}les gemmes et autres objets resteront{nl}échangeables.{/}	{@st66b}거래 시 유저가 모두 토큰을 사용 중 이라면{nl}장비, 소모품, 기타, 카드, 젬 아이템의 속성 변경이 없습니다.{/}	
+UI_20180115_002981	{s16}{@st66b}*{/}{@st66d_y}Plus d'échanges disponibles{/}{@st66b} signifie que {/} {@st66d_y}tous les{nl}objets échangés{nl}ne peuvent plus être échangés ni transférés via le{nl}coffre d'équipe{/}{@st66b}.{/}{/}	{s16}{@st66b}*{/}{@st66d_y}거래 가능 횟수 0{/}{@st66b} 상태에서는{/} {@st66d_y}거래한 모든 아이템이{nl} 팀 창고 이동 및 거래가 불가능{/}{@st66b}해집니다.{/}{/}				
 UI_20180115_002982	{s16}{@st66b}*{/}{@st66d_y}Les Tokens d'événement offrent 0 échange.{nl}{/} {@st66b}Assurez-vous de vérifier le nombre avant d'échanger.{/}{/}	{s16}{@st66b}*{/}{@st66d_y}증정용 토큰에는 거래 가능 횟수가 없습니다.{nl}{/} {@st66b}거래 시 주의해 주세요.{/}{/}				
 UI_20180115_002983	{@st66d_y}Les objets deviendront non échangeables{/}	{@st66d_y}거래 후 모든 아이템 팀 창고 이동 및 거래 불가{/}	UI_20160811_002268	{@st42}Cet objet deviendra non échangeable après l'échange{/}	{@st42}거래 후 장비 아이템 거래 불가{/}	
 UI_20180115_002984	{@st42}Les objets restent échangeables et peuvent être stockés en équipe{/}	{@st42}거래 후 모든 아이템 팀 창고 이동 및 거래 가능{/}	UI_20160811_002269	{@st42}Cet objet restera échangeable après l'échange{/}	{@st42}거래 후 장비 아이템 거래 가능{/}	
-UI_20180115_002985	{@st66d}Les objets suivants deviendront{nl}  {@st66d_y}non échangeables (Échange NON, Coffre d'équipe NON){/}.{/}	{@st66d}아래 아이템이{nl}  {@st66d_y}팀 창고 이동 및 거래 불가{/} 상태가 됩니다.{/}	UI_20170726_002661	{@st66d}Si au moins un joueur n'est pas utilisateur de Token,{nl}l'objet deviendra non échangeable après l'échange.{/}	{@st66d}한 명 이라도 토큰을 사용하지 않으면{nl} 교환 후 아이템이 거래 불가 상태가 됩니다.{/}	
+UI_20180115_002985	{@st66d}Les objets suivants deviendront{nl}  {@st66d_y}non échangeables (Échange NON, Coffre{nl}d'équipe NON){/}.{/}	{@st66d}아래 아이템이{nl}  {@st66d_y}팀 창고 이동 및 거래 불가{/} 상태가 됩니다.{/}	UI_20170726_002661	{@st66d}Si au moins un joueur n'est pas utilisateur de{nl}Token,{nl}l'objet deviendra non échangeable après{nl}l'échange.{/}	{@st66d}한 명 이라도 토큰을 사용하지 않으면{nl} 교환 후 아이템이 거래 불가 상태가 됩니다.{/}	
 UI_20180115_002986	{@st42}Objets Non Échangeables (Échange NON, Coffre d'Équipe NON){/}	{@st42}팀 창고 이동 및 거래 속성이 변경되는 아이템 목록{/}	UI_20160811_002274	{@st42}Liste des objets qui deviendront non échangeables après l'échange{/}	{@st42}거래 속성이 변경되는 아이템 목록{/}	
 UI_20180208_002987	{@st59}Fermer{/}	{@st59}전직 정보 창을 닫습니다{/}	UI_20150317_000086	{@st59}Fermer{/}	{@st59}클래스 정보 창을 닫습니다{/}	
 UI_20180208_002988	Objet Obtenu	획득 아이템				
@@ -3002,8 +3002,8 @@ UI_20180208_003001	Résultat de l'Extraction d'Éclat Béni	축복받은 조각 
 UI_20180208_003002	{@st43b}{s18}Effet Appliqué{/}	{@st43b}{s18}적용효과{/}				
 UI_20180208_003003	{@st43b}{s20}Effet Appliqué{/}	{@st43b}{s20}적용효과{/}				
 UI_20180208_003004	{@st59}Afficher l'Option d'Application de Carte de Monstre{/}	{@st59}몬스터 카드 적용 옵션을 봅니다{/}				
-UI_20180208_003005	*Vous ne pouvez pas rétrograder si vous avez{nl}des cartes de rang ou des cartes d'XP de classe non utilisées.	* 초기화 후 사용하지 않은 랭크 카드, 클래스 경험치 복구 카드가{nl} 있을 경우 랭크 다운을 할 수 없습니다.				
-UI_20180208_003006	*Les attributs communs comme le changement d'arme seront aussi réinitialisés,{nl}et les points d'attribut seront rendus.	* 초기화 시 무기 스왑과 같은 공용 특성도 초기화 되며,{nl}이때 투자한 특성 포인트는 반환됩니다.				
+UI_20180208_003005	*Vous ne pouvez pas rétrograder si{nl}vous avez{nl}des cartes de rang ou des cartes d'XP{nl}de classe non utilisées.	* 초기화 후 사용하지 않은 랭크 카드, 클래스 경험치 복구 카드가{nl} 있을 경우 랭크 다운을 할 수 없습니다.				
+UI_20180208_003006	*Les attributs communs comme le changement d'arme seront{nl}aussi réinitialisés,{nl}et les points d'attribut seront rendus.	* 초기화 시 무기 스왑과 같은 공용 특성도 초기화 되며,{nl}이때 투자한 특성 포인트는 반환됩니다.				
 UI_20180208_003007	{@st43}{s22}Ajouter un Emplacement{/}	{@st43}{s22}소켓 추가{/}				
 UI_20180208_003008	{@st59}Annuler{/}	{@st59}사용을 취소합니다{/}				
 UI_20180208_003009	{@st41}{s20}Emplacements actuels :{@st43} %s / {@st43}%s	{@st41}{s20}현재 소켓 현황 :{@st43} %s / {@st43}%s				
@@ -3171,7 +3171,7 @@ UI_20180517_003170	{@st43b}{s16}%s points	{@st43b}{s16}%s 포인트
 UI_20180517_003171	Insignes obtenus [ %s]	증표 [ %s 개] 획득				
 UI_20180517_003172	{@st66d}{s20}Retour dans %s secondes.{/}	{@st66d}{s20}%s초 후에 귀환됩니다.{/}				
 UI_20180517_003173	{@st66d}Retour{/}	{@st66d}귀환{/}				
-UI_20180517_003174	Si vous annulez votre avancement de classe actuel,{nl}l'avancement sera annulé et{nl}{@st66d_y}votre XP de classe actuelle disparaîtra.{/}{/}	현재 클래스의 전직을 취소하고 전직 이전으로 되돌아가며{nl}{@st66d_y}클래스 경험치는 사라집니다.{/}{/}	UI_20171128_002965	Si vous annulez votre avancement de classe actuel, l'avancement sera annulé et votre XP de classe actuelle disparaîtra.{/}	현재 클래스의 전직을 취소하고 전직 이전으로 되돌아가며{nl}클래스 경험치는 사라집니다.{/}	
+UI_20180517_003174	Si vous annulez votre avancement de classe{nl}actuel,{nl}l'avancement sera annulé et{nl}{@st66d_y}votre XP de classe actuelle disparaîtra.{/}{/}	현재 클래스의 전직을 취소하고 전직 이전으로 되돌아가며{nl}{@st66d_y}클래스 경험치는 사라집니다.{/}{/}	UI_20171128_002965	Si vous annulez votre avancement de classe actuel, l'avancement sera annulé et votre XP de classe actuelle disparaîtra.{/}	현재 클래스의 전직을 취소하고 전직 이전으로 되돌아가며{nl}클래스 경험치는 사라집니다.{/}	
 UI_20180517_003175	{@st45tw2}Conditions et Précautions{/}	{@st45tw2}조건 및 주의 사항{/}				
 UI_20180517_003176	{@st66b}Réapparaître dans la Tour de Guilde{/}	{@st66b}길드 타워에서 부활하기{/}				
 UI_20180517_003177	{@st59}Promotion de Guilde (Alt + R){/}	{@st59}길드 홍보 (Alt + R){/}				
@@ -3326,7 +3326,7 @@ UI_20180629_003325	{@st42}{s18}{nl}Retour{nl}	{@st42}{s18}{nl}돌아가기{nl}
 UI_20180629_003326	Teinture de Perruque	가발 염색				
 UI_20180629_003327	Qté Actuelle	소지 개수				
 UI_20180629_003328	Important {img tip_questionmark 20 20}	주의 사항 {img tip_questionmark 20 20}				
-UI_20180629_003329	Veuillez d'abord déséquiper tout votre équipement.{nl}Les costumes de classe de base changent de genre automatiquement.{/}{nl}{@st67}{#fe7e00}{b}Les costumes premium genrés{nl}ne conviendront plus à votre personnage après le changement de genre.{/}	모든 장비 해제 한 뒤에 전환 가능{nl}기본 직업별 코스튬은 성별 자동 변경{/}{nl}{@st67}{#fe7e00}{b}기존 성별에 맞게 구매한 유료코스튬은{nl}성별 변환 후, 장착 불가{/}				
+UI_20180629_003329	Veuillez d'abord déséquiper tout votre équipement.{nl}Les costumes de classe de base changent de genre{nl}automatiquement.{/}{nl}{@st67}{#fe7e00}{b}Les costumes premium genrés{nl}ne conviendront plus à votre personnage après le{nl}changement de genre.{/}	모든 장비 해제 한 뒤에 전환 가능{nl}기본 직업별 코스튬은 성별 자동 변경{/}{nl}{@st67}{#fe7e00}{b}기존 성별에 맞게 구매한 유료코스튬은{nl}성별 변환 후, 장착 불가{/}				
 UI_20180629_003330	{@st66b}Voir Uniquement le Nom d'Équipe{/}	{@st66b}팀 이름만 보기{/}				
 UI_20180629_003331	{@st66b}Voir le Nom du Groupe{/}	{@st66b}파티 이름 보기{/}				
 UI_20180629_003332	{@st66b}Voir les Noms des Autres Personnages{/}	{@st66b}다른 캐릭터 이름 보기{/}				
@@ -3659,10 +3659,10 @@ UI_20190104_003658	Enregistrez des potions de PV à consommer avec le Skill Aspe
 UI_20190104_003659	Enregistrez des potions de PM à consommer avec le Skill Aspersion de potion de PM.	스프링클 SP 포션 스킬 사용시 소모될 SP 포션을 등록해주세요.				
 UI_20190104_003660	{@st63}Recevoir la récompense et partir.{/}	{@st63}보상을 획득하고 퇴장합니다.{/}				
 UI_20190104_003661	{@st63}Passer à l'étage suivant{/}	{@st63}다음층으로 이동{/}				
-UI_20190104_003662	{@st66b}{s16}* Les objets resteront échangeables après un échange{nl}uniquement s'ils ne possèdent aucune restriction d'échange actuelle.{/}{/}	{@st66b}{s16}*무제한 거래 가능 상태 이어야만, {nl}거래한 아이템의 속성이 그대로 유지됩니다.{/}{/}	UI_20180115_002980	{@st66b}{s16}*Les objets restent échangeables uniquement s'il reste des échanges disponibles.{/}{/}	{@st66b}{s16}*잔여 거래 가능 횟수가 있어야만, {nl}거래한 아이템의 속성이 그대로 유지됩니다.{/}{/}	
-UI_20190104_003663	{s16}{@st66b}*{/}{@st66d_y}Restrictions d'échange{/}{@st66b} signifie que {/} {@st66d_y}tous les objets échangés{nl}ne peuvent plus être échangés ni transférés via le coffre d'équipe{/}{@st66b}.{/}{/}	{s16}{@st66b}*{/}{@st66d_y}무제한 거래 불가{/}{@st66b} 상태에서는{/} {@st66d_y}거래한 모든 아이템이{nl} 팀 창고 이동 및 거래가 불가능{/}{@st66b}해집니다.{/}{/}	UI_20180115_002981	{s16}{@st66b}*{/}{@st66d_y}Plus d'échanges disponibles{/}{@st66b} signifie que {/} {@st66d_y}tous les objets échangés{nl}ne peuvent plus être échangés ni transférés via le coffre d'équipe{/}{@st66b}.{/}{/}	{s16}{@st66b}*{/}{@st66d_y}거래 가능 횟수 0{/}{@st66b} 상태에서는{/} {@st66d_y}거래한 모든 아이템이{nl} 팀 창고 이동 및 거래가 불가능{/}{@st66b}해집니다.{/}{/}	
+UI_20190104_003662	{@st66b}{s16}* Les objets resteront échangeables après un{nl}échange{nl}uniquement s'ils ne possèdent aucune restriction{nl}d'échange actuelle.{/}{/}	{@st66b}{s16}*무제한 거래 가능 상태 이어야만, {nl}거래한 아이템의 속성이 그대로 유지됩니다.{/}{/}	UI_20180115_002980	{@st66b}{s16}*Les objets restent échangeables uniquement s'il reste des échanges disponibles.{/}{/}	{@st66b}{s16}*잔여 거래 가능 횟수가 있어야만, {nl}거래한 아이템의 속성이 그대로 유지됩니다.{/}{/}	
+UI_20190104_003663	{s16}{@st66b}*{/}{@st66d_y}Restrictions d'échange{/}{@st66b} signifie que {/} {@st66d_y}tous les objets{nl}échangés{nl}ne peuvent plus être échangés ni transférés via le{nl}coffre d'équipe{/}{@st66b}.{/}{/}	{s16}{@st66b}*{/}{@st66d_y}무제한 거래 불가{/}{@st66b} 상태에서는{/} {@st66d_y}거래한 모든 아이템이{nl} 팀 창고 이동 및 거래가 불가능{/}{@st66b}해집니다.{/}{/}	UI_20180115_002981	{s16}{@st66b}*{/}{@st66d_y}Plus d'échanges disponibles{/}{@st66b} signifie que {/} {@st66d_y}tous les{nl}objets échangés{nl}ne peuvent plus être échangés ni transférés via le{nl}coffre d'équipe{/}{@st66b}.{/}{/}	{s16}{@st66b}*{/}{@st66d_y}거래 가능 횟수 0{/}{@st66b} 상태에서는{/} {@st66d_y}거래한 모든 아이템이{nl} 팀 창고 이동 및 거래가 불가능{/}{@st66b}해집니다.{/}{/}	
 UI_20190104_003664	{s16}{@st66b}*{/}{@st66d_y}Les Tokens d'événement ne lèvent pas les restrictions d'échange.{nl}{/} {@st66b}Veuillez en prendre note.{/}{/}	{s16}{@st66b}*{/}{@st66d_y}증정용 토큰으로는 무제한 거래 상태가 될 수 없습니다.{nl}{/} {@st66b}거래 시 주의해 주세요.{/}{/}	UI_20180115_002982	{s16}{@st66b}*{/}{@st66d_y}Les Tokens d'événement offrent 0 échange.{nl}{/} {@st66b}Assurez-vous de vérifier le nombre avant d'échanger.{/}{/}	{s16}{@st66b}*{/}{@st66d_y}증정용 토큰에는 거래 가능 횟수가 없습니다.{nl}{/} {@st66b}거래 시 주의해 주세요.{/}{/}	
-UI_20190104_003665	{@st66d}Les objets ci-dessous seront{nl}  {@st66d_y}liés au personnage.{nl}Coffre d'équipe NON, Échange personnel NON, Marché NON{/}	{@st66d}아래 아이템은{nl}  {@st66d_y}캐릭터에게 귀속됩니다.{nl}팀 창고 이동, 개인 및 마켓 거래 불가{/}	UI_20180115_002985	{@st66d}Les objets suivants deviendront{nl}  {@st66d_y}non échangeables (Échange NON, Coffre d'équipe NON){/}.{/}	{@st66d}아래 아이템이{nl}  {@st66d_y}팀 창고 이동 및 거래 불가{/} 상태가 됩니다.{/}	
+UI_20190104_003665	{@st66d}Les objets ci-dessous seront{nl}  {@st66d_y}liés au personnage.{nl}Coffre d'équipe NON, Échange personnel NON, Marché NON{/}	{@st66d}아래 아이템은{nl}  {@st66d_y}캐릭터에게 귀속됩니다.{nl}팀 창고 이동, 개인 및 마켓 거래 불가{/}	UI_20180115_002985	{@st66d}Les objets suivants deviendront{nl}  {@st66d_y}non échangeables (Échange NON, Coffre{nl}d'équipe NON){/}.{/}	{@st66d}아래 아이템이{nl}  {@st66d_y}팀 창고 이동 및 거래 불가{/} 상태가 됩니다.{/}	
 UI_20190104_003666	Échanger un Artefact	유물 교환				
 UI_20190104_003667	Avantages Token	토큰 혜택				
 UI_20190104_003668	{s18}Expire bientôt.	{s18}곧 기간이 만료됩니다.	UI_20170330_002600	{s18}Objets Avec Date d'Expiration	{s18}기간제 아이템 목록	
@@ -3719,16 +3719,16 @@ UI_20190104_003718	{@st59}Fermer la carte.{/}	{@st59}지도를 닫습니다{/}
 UI_20190104_003719	%s{@st42}{s14}{#ffff00}Annuler (touche de saut){/}	%s{@st42}{s14}{#ffff00}취소(점프 키){/}				
 UI_20190104_003720	{@st41b}Collection{/}	{@st41b}컬렉션{/}	UI_20170313_002554	{@st41b}Collection{/}	{@st41b}콜렉션{/}	
 UI_20190104_003721	{s20}Changer d'arbre de classe ?{/}	{s20}계열 변경을 하시겠습니까?{/}				
-UI_20190104_003722	* Après le changement d'arbre de classe, vous recevrez des points d'attribut{nl}équivalents au niveau de vos attributs avant le changement.	* 계열 변경 전 올린 특성의 레벨은{nl}계열 변경 후 특성 포인트를 돌려드립니다.				
-UI_20190104_003723	* Des cartes d'XP de classe équivalentes au dernier niveau de classe{nl}atteint seront envoyées dans votre inventaire.	* 마지막 달성한 클래스 레벨을 확인해 그에 해당하는 {nl} 클래스 경험치 카드를 인벤토리로 지급합니다.				
+UI_20190104_003722	* Après le changement d'arbre de classe, vous recevrez des{nl}points d'attribut{nl}équivalents au niveau de vos attributs avant le changement.	* 계열 변경 전 올린 특성의 레벨은{nl}계열 변경 후 특성 포인트를 돌려드립니다.				
+UI_20190104_003723	* Des cartes d'XP de classe équivalentes au dernier{nl}niveau de classe{nl}atteint seront envoyées dans votre inventaire.	* 마지막 달성한 클래스 레벨을 확인해 그에 해당하는 {nl} 클래스 경험치 카드를 인벤토리로 지급합니다.				
 UI_20190104_003724	* Vous retournerez à la caserne après avoir changé d'arbre de classe.	* 계열 변경 후엔 캐릭터 선택창으로 돌아갑니다.				
-UI_20190104_003725	* Vous ne pouvez pas changer d'arbre de classe{nl}si vous avez des cartes de récupération d'XP non utilisées dans votre inventaire.	* 사용하지 않은 클래스 경험치 복구카드가 {nl} 있을 경우 계열 변경을 할 수 없습니다.				
+UI_20190104_003725	* Vous ne pouvez pas changer d'arbre de classe{nl}si vous avez des cartes de récupération d'XP non utilisées{nl}dans votre inventaire.	* 사용하지 않은 클래스 경험치 복구카드가 {nl} 있을 경우 계열 변경을 할 수 없습니다.				
 UI_20190104_003726	Voulez-vous vraiment passer à la classe sélectionnée ?{/}	선택하신 클래스를 변경하시겠습니까?{/}				
-UI_20190104_003727	Votre classe sera changée vers la classe nouvellement sélectionnée{nl}et des {@st66d_y}Points de changement de classe seront consommés.{/}{/}	해당 클래스의 전직을 취소하고 선택한 클래스로 변경되며{nl}{@st66d_y}클래스 변경 포인트가 소모됩니다.{/}{/}				
-UI_20190104_003728	* Les Skills et attributs des classes supprimées{nl}seront rendus sous forme de points.	* 변경으로 인해 삭제 되는 클래스는 스킬과{nl}특성을 초기화 후 포인트로 반환됩니다.				
-UI_20190104_003729	* Changer de classe retirera les costumes de classe{nl}des classes vers lesquelles vous aviez précédemment avancé.	* 클래스 변경을 진행하면 기존에 전직했던{nl} 클래스의 코스튬이 제거됩니다.				
+UI_20190104_003727	Votre classe sera changée vers la classe nouvellement{nl}sélectionnée{nl}et des {@st66d_y}Points de changement de classe seront{nl}consommés.{/}{/}	해당 클래스의 전직을 취소하고 선택한 클래스로 변경되며{nl}{@st66d_y}클래스 변경 포인트가 소모됩니다.{/}{/}				
+UI_20190104_003728	* Les Skills et attributs des{nl}classes supprimées{nl}seront rendus sous forme de{nl}points.	* 변경으로 인해 삭제 되는 클래스는 스킬과{nl}특성을 초기화 후 포인트로 반환됩니다.				
+UI_20190104_003729	* Changer de classe retirera les costumes de classe{nl}des classes vers lesquelles vous aviez précédemment{nl}avancé.	* 클래스 변경을 진행하면 기존에 전직했던{nl} 클래스의 코스튬이 제거됩니다.				
 UI_20190104_003730	* Vous retournerez à votre caserne après confirmation.	* 변경 후에는 캐릭터 선택창으로 돌아갑니다.				
-UI_20190104_003731	* Les attributs communs seront aussi réinitialisés,{nl}et les points d'attribut seront rendus.	* 변경 시 공용 특성도 초기화 되며,{nl}이때 투자한 특성 포인트는 반환됩니다.				
+UI_20190104_003731	* Les attributs communs seront aussi{nl}réinitialisés,{nl}et les points d'attribut seront rendus.	* 변경 시 공용 특성도 초기화 되며,{nl}이때 투자한 특성 포인트는 반환됩니다.				
 UI_20190104_003732	{@st41b}Coût de réparation{/} %s	{@st41b}수리 비용{/} %s				
 UI_20190104_003733	{@st66b}%sRessusciter avec un cristal mystérieux%s{/}	{@st66b}%s신비한 크리스탈로 부활하기%s{/}				
 UI_20190104_003734	{@st42}{s20}Skills et Attributs	{@st42}{s20}스킬과 특성				
@@ -3969,7 +3969,7 @@ UI_20191024_003968	{@st41b}{s18}Niv. 4 : %s{/}{/}	{@st41b}{s18}4 단계 : %s{/}{
 UI_20191024_003969	{@st41b}{s18}Niv. 5 : %s{/}{/}	{@st41b}{s18}5 단계 : %s{/}{/}				
 UI_20191024_003970	Infos sur les Installations de Logement de Guilde	길드 하우징 시설 정보				
 UI_20191024_003971	Contribution et Kilométrage	기여도 및 길드 마일리지 관리				
-UI_20191024_003972	[Conversion de la contribution en kilométrage de guilde]{nl}- Ratio de conversion de 1 (contribution de guilde) : 1 (kilométrage de guilde).{nl} {nl}[Conversion du kilométrage de guilde en contribution]{nl}- Ratio de conversion de 10 (kilométrage de guilde) : 1 (contribution de guilde){nl}- Cette fonction ne peut être utilisée que par le maître de guilde.{nl} {nl}[Répartition de la contribution aux membres]{nl}- Ratio de répartition de 1 (ma contribution) : 1 (contribution du membre){nl}- Cette fonction ne peut être utilisée que par le maître de guilde.	[내 기여도를 길드 마일리지로 전환]{nl}- 1(길드 기여도) : 1(길드 마일리지)의 비율로 기여도가 길드 마일리지로 전환됩니다.{nl} {nl}[길드 마일리지를 기여도로 전환]{nl}- 10(길드 마일리지) : 1(길드 기여도)의 비율로 길드 마일리지가 기여도로 전환됩니다.{nl}- 해당 기능은 길드 마스터만 이용이 가능합니다.{nl} {nl}[길드원에게 기여도 분배]{nl}- 1(내 기여도) : 1(길드원 기여도)의 비율로 기여도를 길드원에게 분배할 수 있습니다.{nl}- 해당 기능은 길드 마스터만 이용이 가능합니다.				
+UI_20191024_003972	[Conversion de la contribution en kilométrage de guilde]{nl}- Ratio de conversion de 1 (contribution de guilde) : 1 (kilométrage{nl}de guilde).{nl} {nl}[Conversion du kilométrage de guilde en contribution]{nl}- Ratio de conversion de 10 (kilométrage de guilde) : 1{nl}(contribution de guilde){nl}- Cette fonction ne peut être utilisée que par le maître de guilde.{nl} {nl}[Répartition de la contribution aux membres]{nl}- Ratio de répartition de 1 (ma contribution) : 1 (contribution du{nl}membre){nl}- Cette fonction ne peut être utilisée que par le maître de guilde.	[내 기여도를 길드 마일리지로 전환]{nl}- 1(길드 기여도) : 1(길드 마일리지)의 비율로 기여도가 길드 마일리지로 전환됩니다.{nl} {nl}[길드 마일리지를 기여도로 전환]{nl}- 10(길드 마일리지) : 1(길드 기여도)의 비율로 길드 마일리지가 기여도로 전환됩니다.{nl}- 해당 기능은 길드 마스터만 이용이 가능합니다.{nl} {nl}[길드원에게 기여도 분배]{nl}- 1(내 기여도) : 1(길드원 기여도)의 비율로 기여도를 길드원에게 분배할 수 있습니다.{nl}- 해당 기능은 길드 마스터만 이용이 가능합니다.				
 UI_20191024_003973	{@st42}{s18}Kilométrage de guilde : %s{/}{/}	{@st42}{s18}길드 마일리지 : %s{/}{/}				
 UI_20191024_003974	{@st42}{s18}Ma contribution : %s{/}{/}	{@st42}{s18}내 기여도 : %s{/}{/}				
 UI_20191024_003975	{@st42}{s18}Échanger des Points de Contribution Contre du Kilométrage de Guilde{/}{/}	{@st42}{s18}내 기여도를 길드 마일리지로 전환하기{/}{/}				
@@ -4038,7 +4038,7 @@ UI_20191024_004037	{@st66b}Onglet 1	{@st66b}텝1
 UI_20191024_004038	{@st66b}Onglet 2	{@st66b}텝2				
 UI_20191024_004039	{@st43b}{s16}Objectifs de Mission Uniquement	{@st43b}{s16}미션 목표만 보기				
 UI_20191024_004040	* Les attributs déjà investis{nl}seront remboursés en points d'attribut après le changement d'arbre de classe.{nl}(Les arts appris seront aussi réinitialisés.{nl}Les points d'attribut seront remboursés mais pas les tomes mystiques.)	* 계열 변경 전 올린 특성의 레벨은{nl}계열 변경 후 특성 포인트를 돌려드립니다.{nl}(아츠도 초기화 되며, 특성 포인트는 복구되지만,{nl}신비한 서는 복구되지 않습니다.)				
-UI_20191024_004041	* Les classes retirées suite à ce changement{nl}verront leurs attributs et Skills rendus sous forme de points.{nl}{#FF1122}Les arts ne sont pas réinitialisés avec le changement de classe.{nl}Pensez à utiliser une potion de réinitialisation des arts avant de changer de classe.{/}	* 변경으로 인해 삭제 되는 클래스는 스킬과{nl}특성을 초기화 후 포인트로 반환됩니다.{nl}{#FF1122}클래스 변경으로는 아츠가 초기화 되지 않습니다.{nl}변경 전에 해당 클래스의 아츠 초기화 포션을 먼저{nl}사용하신 후 클래스를 변경하시기 바랍니다.{/}	UI_20190104_003728	* Les Skills et attributs des classes supprimées{nl}seront rendus sous forme de points.	* 변경으로 인해 삭제 되는 클래스는 스킬과{nl}특성을 초기화 후 포인트로 반환됩니다.	
+UI_20191024_004041	* Les classes retirées suite à ce changement{nl}verront leurs attributs et Skills rendus sous forme de points.{nl}{#FF1122}Les arts ne sont pas réinitialisés avec le changement de classe.{nl}Pensez à utiliser une potion de réinitialisation des arts avant de changer de classe.{/}	* 변경으로 인해 삭제 되는 클래스는 스킬과{nl}특성을 초기화 후 포인트로 반환됩니다.{nl}{#FF1122}클래스 변경으로는 아츠가 초기화 되지 않습니다.{nl}변경 전에 해당 클래스의 아츠 초기화 포션을 먼저{nl}사용하신 후 클래스를 변경하시기 바랍니다.{/}	UI_20190104_003728	* Les Skills et attributs des{nl}classes supprimées{nl}seront rendus sous forme de{nl}points.	* 변경으로 인해 삭제 되는 클래스는 스킬과{nl}특성을 초기화 후 포인트로 반환됩니다.	
 UI_20191024_004042	{@st66b}Conserver l'Interface de Skill Ciblé{/}	{@st66b}대상 지정 스킬 UI 유지{/}				
 UI_20191024_004043	{@st66b}Appliquer l'Effet d'Arrière-plan	{@st66b}환경 이펙트 적용				
 UI_20191024_004044	{@st66b}Appliquer les Silhouettes de Personnages	{@st66b}캐릭터 실루엣 적용				
@@ -4156,7 +4156,7 @@ UI_20200129_004155	{@st59}Raccourci{/}	{@st59}바로가기{/}
 UI_20200129_004156	{@st59}Terminer{/}	{@st59}완료{/}				
 UI_20200129_004157	{@42b}{s20}Page %s{/}{/}	{@42b}{s20}%s번 페이지{/}{/}				
 UI_20200129_004158	{@st59}Entrez un titre{/}	{@st59}타이틀을 입력해주세요{/}				
-UI_20200129_004159	{@st59}Aperçu{nl}Réinitialisé en quittant le mode édition ou en appuyant sur le bouton Aperçu.	{@st59}미리보기{nl}미리보기 버튼을 한번 더 누르거나{nl}편집 모드를 종료하시면 원래 상태로 돌아갑니다.				
+UI_20200129_004159	{@st59}Aperçu{nl}Réinitialisé en quittant le mode édition ou en appuyant{nl}sur le bouton Aperçu.	{@st59}미리보기{nl}미리보기 버튼을 한번 더 누르거나{nl}편집 모드를 종료하시면 원래 상태로 돌아갑니다.				
 UI_20200129_004160	{@st59}Supprimer	{@st59}삭제				
 UI_20200129_004161	{@st42b}Enregistrer{/}	{@st42b}저장하기{/}				
 UI_20200129_004162	{@st42b}Charger{/}	{@st42b}불러오기{/}				
@@ -4271,7 +4271,7 @@ UI_20200514_004270	{@st43b}{s20}Liste des Compagnons 	{@st43b}{s20}컴패니언 
 UI_20200514_004271	- Par connexion : organise selon l'ordre de connexion le plus récent.{nl}- Par récent : organise selon l'ordre d'ami ajouté ou modifié le plus récemment.{nl}- Par nom d'équipe : organise les noms d'équipe par ordre alphabétique.	- 접속순 : 가장 최근 접속한 순서로 정렬합니다.{nl}- 최신순 : 가장 최근에 추가, 수정한 친구 순서로 정렬합니다.{nl}- 팀명순 : 팀명을 가나다순으로 정렬합니다.				
 UI_20200514_004272	{@st43b}{s22}Roulette de la Déesse	{@st43b}{s22}여신의 룰렛				
 UI_20200514_004273	{@st42b}{s24}Vous avez obtenu le montant du jour.{nl}Le montant quotidien sera réinitialisé le lendemain à 6h00 EST	{@st42b}{s24}일일 획득량을 모두 획득하셨습니다.{nl}다음날 오전 06시에 초기화 됩니다.				
-UI_20200514_004274	[Conversion de la contribution en kilométrage de guilde]{nl}- Ratio de conversion de 1 (contribution de guilde) : 1 (kilométrage de guilde).{nl} {nl}[Conversion du kilométrage de guilde en contribution]{nl}- Ratio de conversion de 10 (kilométrage de guilde) : 1 (contribution de guilde){nl}- Cette fonction ne peut être utilisée que par le maître de guilde.{nl} {nl}[Répartition de la contribution aux membres]{nl}- Ratio de répartition de 1 (ma contribution) : 1 (contribution du membre){nl}- Cette fonction ne peut être utilisée que par le maître de guilde.	[내 기여도를 길드 마일리지로 전환]{nl}- 1(길드 기여도) : 1(길드 마일리지)의 비율로 기여도가 길드 마일리지로 전환됩니다.{nl} {nl}[길드 마일리지를 기여도로 전환]{nl}- 10(길드 마일리지) : 1(길드 기여도)의 비율로 길드 마일리지가 기여도로 전환됩니다.{nl}- 해당 기능은 길드 마스터만 이용이 가능합니다.{nl} {nl}[길드원에게 기여도 분배]{nl}- 1(내 기여도) : 1(길드원 기여도)의 비율로 기여도를 길드원에게 분배할 수 있습니다.{nl}- 해당 기능은 길드 마스터만 이용이 가능합니다.{nl} {nl}[길드 기여도 획득 방법 및 점수]{nl}- 길드 콜로니전 참여 : 200{nl}- 길드 퀘스트 참여 : 30{nl}- 길드 성장 : 탈트, 길드 퀘스트 보상 주화 등을 통해 성장에 기여한 수치에 따라 다름{nl}- 길드 자금 입금 : 5,000 실버당 기여도 1 획득{nl}- 길드 아지트 레이드 참여 : 길드 레벨과 공헌 등급에 따라 다르며 최대 120까지 획득 가능	UI_20191024_003972	[Conversion de la contribution en kilométrage de guilde]{nl}- Ratio de conversion de 1 (contribution de guilde) : 1 (kilométrage de guilde).{nl} {nl}[Conversion du kilométrage de guilde en contribution]{nl}- Ratio de conversion de 10 (kilométrage de guilde) : 1 (contribution de guilde){nl}- Cette fonction ne peut être utilisée que par le maître de guilde.{nl} {nl}[Répartition de la contribution aux membres]{nl}- Ratio de répartition de 1 (ma contribution) : 1 (contribution du membre){nl}- Cette fonction ne peut être utilisée que par le maître de guilde.	[내 기여도를 길드 마일리지로 전환]{nl}- 1(길드 기여도) : 1(길드 마일리지)의 비율로 기여도가 길드 마일리지로 전환됩니다.{nl} {nl}[길드 마일리지를 기여도로 전환]{nl}- 10(길드 마일리지) : 1(길드 기여도)의 비율로 길드 마일리지가 기여도로 전환됩니다.{nl}- 해당 기능은 길드 마스터만 이용이 가능합니다.{nl} {nl}[길드원에게 기여도 분배]{nl}- 1(내 기여도) : 1(길드원 기여도)의 비율로 기여도를 길드원에게 분배할 수 있습니다.{nl}- 해당 기능은 길드 마스터만 이용이 가능합니다.	
+UI_20200514_004274	[Conversion de la contribution en kilométrage de guilde]{nl}- Ratio de conversion de 1 (contribution de guilde) : 1 (kilométrage{nl}de guilde).{nl} {nl}[Conversion du kilométrage de guilde en contribution]{nl}- Ratio de conversion de 10 (kilométrage de guilde) : 1{nl}(contribution de guilde){nl}- Cette fonction ne peut être utilisée que par le maître de guilde.{nl} {nl}[Répartition de la contribution aux membres]{nl}- Ratio de répartition de 1 (ma contribution) : 1 (contribution du{nl}membre){nl}- Cette fonction ne peut être utilisée que par le maître de guilde.	[내 기여도를 길드 마일리지로 전환]{nl}- 1(길드 기여도) : 1(길드 마일리지)의 비율로 기여도가 길드 마일리지로 전환됩니다.{nl} {nl}[길드 마일리지를 기여도로 전환]{nl}- 10(길드 마일리지) : 1(길드 기여도)의 비율로 길드 마일리지가 기여도로 전환됩니다.{nl}- 해당 기능은 길드 마스터만 이용이 가능합니다.{nl} {nl}[길드원에게 기여도 분배]{nl}- 1(내 기여도) : 1(길드원 기여도)의 비율로 기여도를 길드원에게 분배할 수 있습니다.{nl}- 해당 기능은 길드 마스터만 이용이 가능합니다.{nl} {nl}[길드 기여도 획득 방법 및 점수]{nl}- 길드 콜로니전 참여 : 200{nl}- 길드 퀘스트 참여 : 30{nl}- 길드 성장 : 탈트, 길드 퀘스트 보상 주화 등을 통해 성장에 기여한 수치에 따라 다름{nl}- 길드 자금 입금 : 5,000 실버당 기여도 1 획득{nl}- 길드 아지트 레이드 참여 : 길드 레벨과 공헌 등급에 따라 다르며 최대 120까지 획득 가능	UI_20191024_003972	[Conversion de la contribution en kilométrage de guilde]{nl}- Ratio de conversion de 1 (contribution de guilde) : 1 (kilométrage{nl}de guilde).{nl} {nl}[Conversion du kilométrage de guilde en contribution]{nl}- Ratio de conversion de 10 (kilométrage de guilde) : 1{nl}(contribution de guilde){nl}- Cette fonction ne peut être utilisée que par le maître de guilde.{nl} {nl}[Répartition de la contribution aux membres]{nl}- Ratio de répartition de 1 (ma contribution) : 1 (contribution du{nl}membre){nl}- Cette fonction ne peut être utilisée que par le maître de guilde.	[내 기여도를 길드 마일리지로 전환]{nl}- 1(길드 기여도) : 1(길드 마일리지)의 비율로 기여도가 길드 마일리지로 전환됩니다.{nl} {nl}[길드 마일리지를 기여도로 전환]{nl}- 10(길드 마일리지) : 1(길드 기여도)의 비율로 길드 마일리지가 기여도로 전환됩니다.{nl}- 해당 기능은 길드 마스터만 이용이 가능합니다.{nl} {nl}[길드원에게 기여도 분배]{nl}- 1(내 기여도) : 1(길드원 기여도)의 비율로 기여도를 길드원에게 분배할 수 있습니다.{nl}- 해당 기능은 길드 마스터만 이용이 가능합니다.	
 UI_20200514_004275	{@st42b}Vide{/}	{@st42b}비우기{/}				
 UI_20200514_004276	{@st42b}Boutique de Mobilier	{@st42b}가구 상점				
 UI_20200514_004277	{@st42b}Changer de Page{/}	{@st42b}페이지 변경{/}				
@@ -4322,7 +4322,7 @@ UI_20200514_004321	{@st43}Convertir les Ingrédients Légendaires	{@st43}레전�
 UI_20200514_004322	Convertir	전환				
 UI_20200514_004323	{@st59b}Entrer une image{nl}{@st59s}- Parcourez pour trouver une image et enregistrez-la{nl}- Actualisez pour mettre à jour la liste, puis sélectionnez l'image{nl}-10 images maximum peuvent être affichées.	{@st59b}이미지 등록{nl}{@st59s}-폴더 열기 버튼을 통해 폴더에 이미지를 등록{nl}-새로고침을 통해 리스트를 갱신, 선택 후 확인{nl}-최대 10개의 이미지만 표시됩니다.	UI_20170912_002801	{@st59b}Entrer une image{nl}{@st59s}- Parcourez pour trouver une image et enregistrez-la{nl}- Actualisez pour mettre à jour la liste, puis sélectionnez l'image	{@st59b}이미지 등록{nl}{@st59s}-폴더 열기 버튼을 통해 폴더에 이미지를 등록{nl}-새로고침을 통해 리스트를 갱신, 선택 후 확인	
 UI_20200514_004324	{@st66d_y}{s16}Roulette de la Déesse	{@st66d_y}{s16}여신의 룰렛				
-UI_20200514_004325	{@st59b}Infos sur le compagnon{nl}{@st59s} - Vous pouvez activer votre compagnon ou le mettre en mode repos avec le bouton ci-dessous. {nl} - Les attributs et objets équipés de votre compagnon peuvent être personnalisés.{nl} - Les compagnons en caserne peuvent être invoqués et renvoyés via le bouton Liste des compagnons{nl} - Ne s'applique pas aux compagnons volants dans la liste des compagnons{nl} - En entrant dans la caserne après avoir invoqué des compagnons depuis une autre caserne, vous n'êtes plus accompagné du compagnon{nl} - Quand l'icône du compagnon est dans l'emplacement rapide, seule l'invocation du compagnon est possible (renvoi dans l'interface Infos sur le compagnon){nl} - Renvoyez les compagnons terrestres avec Maj+R (ne s'applique pas aux compagnons volants){/} 	{@st59b}컴패니언 정보{nl}{@st59s} - 휴면/활동 버튼으로 컴패니언 넣고 빼기 가능{nl} - 컴패니언의 특성, 아이템 장착으로 커스터마이즈 가능{nl} - 컴패니언 목록 버튼으로 숙소에있는 컴패니언 소환, 소환해제 가능{nl} - 컴패니언 목록 리스트에 공중형 컴패니언은 적용되지 않음{nl} - 게임 내에서 다른 번호 숙소에 있는 컴패니언을 소환했을 때, 숙소에 입장하면 컴패니언과 동행 상태가 아니게 됨{nl} - 컴패니언 아이콘이 퀵 슬롯에 등록된 상태에서는 컴패니언 소환만 가능 (소환 해제는 컴패니언 정보 UI에서 가능){nl} - Shift+R 단축키로 지상형 컴패니언을 소환 해제할 수 있음 (공중형 컴패니언은 제외){/}	UI_20150317_000477	{@st59b}Infos sur le compagnon{nl}{@st59s} - Vous pouvez activer votre compagnon ou le mettre en mode repos avec le bouton ci-dessous. {nl} - Les attributs et les objets équipés de votre compagnon peuvent être personnalisés. {/}	{@st59b}컴패니언 정보{nl}{@st59s} - 휴면/활동 버튼으로 컴패니언 넣고 빼기 가능{nl} - 컴패니언의 특성, 아이템 장착으로 커스터마이즈 가능{/}	
+UI_20200514_004325	{@st59b}Infos sur le compagnon{nl}{@st59s} - Vous pouvez activer votre compagnon ou le mettre en mode repos avec le bouton ci-dessous. {nl} - Les attributs et objets équipés de votre compagnon peuvent être personnalisés.{nl} - Les compagnons en caserne peuvent être invoqués et renvoyés via le bouton Liste des compagnons{nl} - Ne s'applique pas aux compagnons volants dans la liste des compagnons{nl} - En entrant dans la caserne après avoir invoqué des compagnons depuis une autre caserne, vous n'êtes plus accompagné du compagnon{nl} - Quand l'icône du compagnon est dans l'emplacement rapide, seule l'invocation du compagnon est possible (renvoi dans l'interface Infos sur le compagnon){nl} - Renvoyez les compagnons terrestres avec Maj+R (ne s'applique pas aux compagnons volants){/} 	{@st59b}컴패니언 정보{nl}{@st59s} - 휴면/활동 버튼으로 컴패니언 넣고 빼기 가능{nl} - 컴패니언의 특성, 아이템 장착으로 커스터마이즈 가능{nl} - 컴패니언 목록 버튼으로 숙소에있는 컴패니언 소환, 소환해제 가능{nl} - 컴패니언 목록 리스트에 공중형 컴패니언은 적용되지 않음{nl} - 게임 내에서 다른 번호 숙소에 있는 컴패니언을 소환했을 때, 숙소에 입장하면 컴패니언과 동행 상태가 아니게 됨{nl} - 컴패니언 아이콘이 퀵 슬롯에 등록된 상태에서는 컴패니언 소환만 가능 (소환 해제는 컴패니언 정보 UI에서 가능){nl} - Shift+R 단축키로 지상형 컴패니언을 소환 해제할 수 있음 (공중형 컴패니언은 제외){/}	UI_20150317_000477	{@st59b}Infos sur le compagnon{nl}{@st59s} - Vous pouvez activer votre compagnon ou le mettre en mode repos avec le{nl}bouton ci-dessous. {nl} - Les attributs et les objets équipés de votre compagnon peuvent être{nl}personnalisés. {/}	{@st59b}컴패니언 정보{nl}{@st59s} - 휴면/활동 버튼으로 컴패니언 넣고 빼기 가능{nl} - 컴패니언의 특성, 아이템 장착으로 커스터마이즈 가능{/}	
 UI_20200514_004326	{@st59b}Liste des Compagnons{/}	{@st59b}컴패니언 목록{/}				
 UI_20200514_004327	{@st41b}{s16}Annuler	{@st41b}{s16}취소				
 UI_20200514_004328	{@st41b}{s16}Capture d'écran	{@st41b}{s16}캡처				
@@ -4385,7 +4385,7 @@ UI_20200710_004384	Déplacement vers l'entrée.	입장 위치로 이동합니다
 UI_20200710_004385	{s16}{ol}{#FFFFFF}Recevoir les récompenses	{s16}{ol}{#FFFFFF}보상 수령				
 UI_20200710_004386	Utilisable uniquement par le maître de guilde.{nl}Les récompenses seront envoyées automatiquement au coffre de guilde.	길드 마스터만 이용 가능합니다.{nl}수령한 보상은 길드 보관함으로 지급됩니다.				
 UI_20200710_004387	{@st47}{s18}Quantité d'équipement démantelé : %s/%s	{@st47}{s18}분해 장비 수: %s/%s				
-UI_20200710_004388	* Les attributs communs seront aussi réinitialisés,{nl}un total de {#FF0000}%s{/} points d'attribut sera rendu.{nl}Points d'attribut après remboursement : {#FF0000}%s{/}+{#FF0000}%s{/}	* 변경 시 공용 특성도 초기화 되며,{nl}총 {#FF0000}%s{/}의 특성 포인트가 환급됩니다.{nl}환급 후 특성 포인트: {#FF0000}%s{/}+{#FF0000}%s{/}				
+UI_20200710_004388	* Les attributs communs seront aussi{nl}réinitialisés,{nl}un total de {#FF0000}%s{/} points d'attribut sera rendu.{nl}Points d'attribut après remboursement :{nl}{#FF0000}%s{/}+{#FF0000}%s{/}	* 변경 시 공용 특성도 초기화 되며,{nl}총 {#FF0000}%s{/}의 특성 포인트가 환급됩니다.{nl}환급 후 특성 포인트: {#FF0000}%s{/}+{#FF0000}%s{/}				
 UI_20200710_004389	{@st66b}{s18}Système{/}	{@st66b}{s18}시스템{/}				
 UI_20200710_004390	{@st66b}{s18}Graphismes{/}	{@st66b}{s18}그래픽{/}				
 UI_20200710_004391	{@st66b}Cibler à l'Avance les Objets Neutres à Proximité{/}	{@st66b}근처의 중립 오브젝트 우선 타겟{/}				
@@ -4416,7 +4416,7 @@ UI_20200710_004415	{@st43b}{s16}Statistiques d'Ichor	{@st43b}{s16}아이커 옵�
 UI_20200710_004416	Peut équiper/déséquiper l'ichor	아이커 일괄 장착/해제 가능				
 UI_20200727_004417	{@st66b18}Nom utilisable.{nl}Voulez-vous créer ?{/}	{@st66b18}사용 가능한 이름입니다.{nl}생성하시겠습니까?{/}				
 UI_20200727_004418	Coût d'emplacement supplémentaire %s : {@st66d_y}%s{/} {nl}Coût d'extraction de gemme %s : {@st66d_y}%s{/}	소켓 추가 비용 %s : {@st66d_y}%s{/} {nl}젬 추출 비용 %s : {@st66d_y}%s{/}	UI_20190104_003717	Coût d'emplacement supplémentaire %s : {#000000}%s{/} {nl}Coût d'extraction de gemme %s : {#000000}%s{/}	소켓 추가 비용 %s : {#000000}%s{/} {nl}젬 추출 비용 %s : {#000000}%s{/}	
-UI_20200805_004419	{@st66b}{s20} %s{nl} peut être utilisé pour recevoir diverses récompenses.	{@st66b}{s20} %s를{nl}사용해 다양한 보상을 획득하세요.				
+UI_20200805_004419	{@st66b}{s20} %s{nl} peut être utilisé pour recevoir{nl}diverses récompenses.	{@st66b}{s20} %s를{nl}사용해 다양한 보상을 획득하세요.				
 UI_20200805_004420	{@st66b}{s20}Grade Obtenable Actuel	{@st66b}{s20}현재 획득 가능 등급				
 UI_20200805_004421	{@st41}Ouvrir %s	{@st41}%s 개봉				
 UI_20200805_004422	{@st66b}{s16}Nombre total ouvert : %s%s	{@st66b}{s16}누적 개봉 횟 수 : %s%s				
@@ -4554,8 +4554,8 @@ UI_20201103_004553	Bataille de Blocus	봉쇄전
 UI_20201228_004554	%s jour(s) ou plus depuis la création de l'équipe    	팀생성 %s일 이상	UI_20181017_003581	Équipe âgée de %s+ jours	팀 생성 %s일 이상	
 UI_20201228_004555	Terminer l'Épisode 12-1    	에피소드 12-1 클리어				
 UI_20201228_004556	%s jour(s) ou plus depuis le premier achat de TP premium      	최초 유료 TP 구매 이력으로 %s일 이상				
-UI_20210104_004557	{@st66b}{s20} %s{nl} peut être utilisé pour recevoir diverses récompenses.	{@st66b}{s20} %s을(를){nl}사용해 다양한 보상을 획득하세요.				
-UI_20210104_004558	{@st66b}{s16}{#ff0000}Seuls les personnages de Niv. 400 ou plus{nl}peuvent ouvrir.	{@st66b}{s16}{#ff0000}Lv.400 이상의 캐릭터만{nl}이용할 수 있습니다.				
+UI_20210104_004557	{@st66b}{s20} %s{nl} peut être utilisé pour recevoir{nl}diverses récompenses.	{@st66b}{s20} %s을(를){nl}사용해 다양한 보상을 획득하세요.				
+UI_20210104_004558	{@st66b}{s16}{#ff0000}Seuls les personnages de Niv. 400{nl}ou plus{nl}peuvent ouvrir.	{@st66b}{s16}{#ff0000}Lv.400 이상의 캐릭터만{nl}이용할 수 있습니다.				
 UI_20210115_004559	{@st66b}Consommé :{/}	{@st66b}소비 재화 :{/}				
 UI_20210115_004560	{@st43}Points de Contenu{/}	{@st43}콘텐츠 포인트{/}				
 UI_20210115_004561	Le montant maximum de points pouvant être gagnés est réinitialisé chaque lundi à 6h00, heure serveur.{nl}Les points peuvent être gagnés comme suit :{nl} {nl}- Connexion : 10 points (5 points supplémentaires pour les joueurs en guilde et les joueurs sous effet Token){nl}- Pêche réussie : 1 point gagné par prise.{nl}- Raid légendaire : 35 points{nl}* Nid de Velcoffer : 100 points{nl}* Tour de terre : 25 points tous les 5 niveaux){nl}- Mission de défense en montée : 10 points{nl}- Raid unique : 20 points{nl}- Donjon de niveau : 10 points{nl}(Les points peuvent être omis en sortant juste après avoir terminé le donjon de niveau.){nl} - Quête quotidienne : 10 points{nl}- Ligue de combat d'équipe : 50 points (donnés quel que soit le résultat){nl}- Donjon Res Sacrae : Correspondance auto : 20 points{nl}- Donjon Res Sacrae : Correspondance auto (Difficile) : 30 points{nl}- Donjon Res Sacrae : Défi : 50 points	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드 레이드 : 35 포인트{nl}*벨코퍼의 둥지 : 100 포인트{nl}*대지의 탑 : 5층 단위로 25 포인트{nl}- 업힐 디펜스 미션 : 10 포인트{nl}- 유니크 레이드 : 20 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급){nl}- 성물 던전: 자동 매칭 : 20 포인트{nl}- 성물 던전: 자동 매칭(Hard) : 30 포인트{nl}- 성물 던전: 도전 모드 : 50 포인트	UI_20200826_004439	Le montant maximum de points pouvant être gagnés est réinitialisé chaque lundi à 6h00, heure serveur.{nl}Les points peuvent être gagnés comme suit :{nl} {nl}- Connexion : 10 points (5 points supplémentaires pour les joueurs en guilde et les joueurs sous effet Token){nl}- Pêche réussie : 1 point gagné par prise.{nl}- Raid légendaire : 35 points{nl}* Nid de Velcoffer : 100 points{nl}* Tour de terre : 25 points tous les 5 niveaux){nl}- Mission de défense en montée : 10 points{nl}- Raid unique : 20 points{nl}- Donjon de niveau : 10 points{nl}(Les points peuvent être omis en sortant juste après avoir terminé le donjon de niveau.){nl} -  Quête quotidienne : 10 points{nl}- Ligue de combat d'équipe : 50 points (donnés quel que soit le résultat)	획득 가능한 포인트량은 매주 월요일 6시에 초기화됩니다.{nl}포인트는 아래의 방법으로 획득할 수 있습니다.{nl} {nl}- 접속 : 10 포인트 (PC방 접속 중, 길드 가입 중, 토큰 적용 중일 시 각 5 포인트 추가 획득){nl}- 낚시 성공 : 1회 당 1 포인트{nl}- 레전드 레이드 : 35 포인트{nl}*벨코퍼의 둥지 : 100 포인트{nl}*대지의 탑 : 5층 단위로 25 포인트{nl}- 업힐 디펜스 미션 : 10 포인트{nl}- 유니크 레이드 : 20 포인트{nl}- 레벨 던전 : 10 포인트{nl}(레벨 던전을 클리어하여 빠르게 퇴장했을 경우, 포인트 지급이 누락될 수 있습니다.){nl}- 일일 퀘스트 : 10 포인트{nl}- 팀 배틀리그 : 50 포인트 (종료 후 승패에 관계없이 지급)	
@@ -4883,7 +4883,7 @@ UI_20210809_004882	Amélioration sauvegardé : %s	저장된 강화 수치: %s
 UI_20210809_004883	Potentiel sauvegardé : %s	저장된 포텐셜 수치: %s				
 UI_20210809_004884	{@st66}Utiliser pour appliquer %s TRA %s REN %s Potentiel.{/}	{@st66}사용 시 %s초월 %s강 %s포텐셜로 변경됩니다.{/}				
 UI_20210809_004885	{s20} Transcendance : %s, Amélioration : %s, Potentiel : %s{/}	{s20} 초월:%s, 강화:%s, 포텐셜:%s{/}				
-UI_20210809_004886	{@st66b}{s18}* La tentation du dieu démon est un contenu à probabilité utilisant de l'argent.{nl}* 50 000 argent est consommé par essai et vous pouvez obtenir un nouveau costume mensuel{nl}    ou des points de tentation du dieu démon par chance.	{@st66b}{s18}* 마신의 유혹은 실버로 이용하는 확률형 콘텐츠입니다.{nl}* 회당 5만 실버가 소모되며, 확률에 따라 월별 신규 코스튬이나{nl}    마신의 유혹 포인트를 획득할 수 있습니다.				
+UI_20210809_004886	{@st66b}{s18}* La tentation du dieu démon est un contenu à probabilité utilisant de{nl}l'argent.{nl}* 50 000 argent est consommé par essai et vous pouvez obtenir un nouveau{nl}costume mensuel{nl}    ou des points de tentation du dieu démon par chance.	{@st66b}{s18}* 마신의 유혹은 실버로 이용하는 확률형 콘텐츠입니다.{nl}* 회당 5만 실버가 소모되며, 확률에 따라 월별 신규 코스튬이나{nl}    마신의 유혹 포인트를 획득할 수 있습니다.				
 UI_20210809_004887	{@st66b}[Récompense de complétion]{nl}Améliorez la {#003997}« Gemme d'éther »{/} via le PNJ Kupole qui apparaît lors de la complétion.{nl}Le taux d'amélioration augmente plus le palier est élevé.{nl} {nl}[Récompense de saison]{nl}{@st66b}Les 3 meilleurs joueurs de chaque arbre de classe reçoivent un{nl}{#003997} « Brûleur d'encens dimensionnel »{/} pour le classement de la semaine précédente. Tous les joueurs ayant participé pendant la semaine reçoivent un ensemble de{nl}{#003997} « Badge mercenaire »{/}{nl}selon leur score.{nl} {nl}{s13}La semaine commence chaque lundi à 06:00 (heure serveur).{nl}{nl}{s13}{#003997}L'entrée est limitée de 5h00 à 6h00 chaque lundi{/}{nl} {nl}{s13}{#8e0000}Les joueurs qui atteignent le top 3 de plusieurs arbres de classe ne reçoivent que les récompenses correspondant à leur meilleur classement.{nl} {nl}Quand un joueur est exclu d'un classement d'arbre de classe en raison d'entrées multiples, le joueur suivant prend sa place dans ce classement.	{@st66b}[클리어 보상]{nl}클리어 시 생성되는 큐폴 NPC를 통해 {#003997}"에테르 젬"{/}을 강화할 수 있습니다.{nl}스테이지가 높을 수록 강화 확률이 증가합니다.{nl} {nl}[시즌 보상]{nl}직업군별 랭킹 TOP 3 구원자분들에게는{nl}{#003997} "차원의 향로"{/}아이템을 전 시즌 랭킹 보상으로 지급하며 시즌에 참여한 구원자 분들께는 자신의 기록에 비례한 수량의{nl}{#003997} "용병단 증표"{/}{nl}를 보상으로 지급합니다.{nl} {nl}{s13}시즌은 매주 월요일 06시에 초기화 됩니다{nl}{nl}{s13}{#003997}매주 월요일 05시~06시 입장이 제한됩니다{/}{nl} {nl}{s13}{#8e0000}각 직업군 TOP3 순위에 오른 구원자분이 다른 직업군 TOP3 순위에도 오른 경우 가장 높은 순위의 보상 1회만 받게 됩니다.{nl} {nl}위와 같은 상황에서 제외된 구원자분을 대신하여 해당 직업군의 다음 순위의 구원자분이 랭킹 보상을 지급받게 됩니다.				
 UI_20210809_004888	Temps de Complétion	클리어 타임				
 UI_20210809_004889	Meilleur temps de complétion : %s	최고 기록 클리어 타임 : %s	UI_20180629_003314	Monstres tués (record) : %s	최고 기록 처치 몬스터 수 : %s 마리	
@@ -4915,7 +4915,7 @@ UI_20210809_004914	{@sti1c}{s18}Liste des Buffs{/}	{@sti1c}{s18}버프 목록{/}
 UI_20210809_004915	{@st44}{s24}Combinaison de Buffs{/}	{@st44}{s24}버프 조합{/}				
 UI_20210809_004916	Consultez la formule de combinaison du buff.{nl}Passez la souris dessus pour consulter les informations du buff.	버프 조합식을 확인 할 수 있습니다.{nl}마우스 오버 시 해당 버프의 정보를 확인할 수 있습니다.				
 UI_20210809_004917	{@sti1c}{s18}Coupon de Points{/}	{@sti1c}{s18}포인트 쿠폰{/}				
-UI_20210809_004918	Vous pouvez utiliser certains points pour obtenir le double des points utilisés avec 50 % de chance.{nl}{#FF0000}Le bouton TOUT MISER ne peut être utilisé qu'une fois.{/}{nl}{#FFFF00}※ Les coupons de points ne peuvent être utilisés que pendant l'étape de préparation.{/}	일정 포인트를 사용해 50% 확률로 사용한 포인트의 2배를 획득 할 수 있습니다.{nl}{#FF0000}ALL IN 버튼은 한 번만 사용할 수 있습니다.{/}{nl}{#FFFF00}※ 포인트 쿠폰은 준비 단계에서만 사용 가능합니다.{/}				
+UI_20210809_004918	Vous pouvez utiliser certains points pour obtenir le double des points{nl}utilisés avec 50 % de chance.{nl}{#FF0000}Le bouton TOUT MISER ne peut être utilisé qu'une fois.{/}{nl}{#FFFF00}※ Les coupons de points ne peuvent être utilisés que pendant l'étape de{nl}préparation.{/}	일정 포인트를 사용해 50% 확률로 사용한 포인트의 2배를 획득 할 수 있습니다.{nl}{#FF0000}ALL IN 버튼은 한 번만 사용할 수 있습니다.{/}{nl}{#FFFF00}※ 포인트 쿠폰은 준비 단계에서만 사용 가능합니다.{/}				
 UI_20210809_004919	{@st202}{s16}Taux de réussite : 50 %{/}	{@st202}{s16}성공확률:50%{/}				
 UI_20210809_004920	{@st43b}{s20}Monstre Principal	{@st43b}{s20}대표 등장 몬스터				
 UI_20210809_004921	{@st59}Fermer{/}	{@st59}대표 등장 몬스터 창을 닫습니다{/}				
@@ -4987,7 +4987,7 @@ UI_20211021_004986	{@st43}Enregistrer le Personnage à Changer{/}	{@st43}교체 
 UI_20211021_004987	{@st61}{s18}Comment enregistrer un personnage à changer{/}{nl} - La liste des personnages que vous pouvez enregistrer apparaît en cliquant sur l'emplacement vide{nl} - Cliquez sur le personnage souhaité dans la liste pour l'enregistrer{nl}{nl} {nl}{@st61}{s18}Comment retirer le personnage{/}{nl} - Retirez-le en cliquant sur le bouton 	{@st61}{s18}교체 캐릭터 등록 방법{/}{nl} - 빈 슬롯을 클릭하면 등록 가능한 캐릭터 목록이 등장{nl} - 캐릭터 목록 중, 원하는 캐릭터를 선택하여 등록{nl}{nl} {nl}{@st61}{s18}교체 캐릭터 해제 방법{/}{nl} - 등록된 캐릭터의 슬롯 우측 상단의 				
 UI_20211021_004988	en haut à droite de l'emplacement du personnage enregistré.{nl}{nl} {nl}{@st61}{s18}Liste des personnages apparaissant dans la liste d'échange de personnage{/}{nl} - Personnage de Niv.460 ou plus{nl}{#ff0000}*Quand le personnage enregistré ne remplit pas la condition de participation à la ligue de combat d'équipe, {nl}le changement de personnage pendant la ligue de combat d'équipe est indisponible.{/}{nl}{#ff0000}* Si le personnage enregistré est de classe Guérisseur, vous ne pouvez pas changer de personnage pendant la ligue de combat d'équipe.{/}	버튼을 선택 후 해제{nl}{nl} {nl}{@st61}{s18}교체 캐릭터에 목록에 나타는 캐릭터 목록{/}{nl} - 캐릭터 Lv 460 이상인 캐릭터{nl}{#ff0000}*등록된 캐릭터가 팀 배틀 리그 참여 조건을 충족하지 못 한 경우,{nl}팀 배틀 리그 진행 중 캐릭터 교체가 불가합니다{/}{nl}{#ff0000}*등록된 캐릭터가 힐러 클래스이면 팀 배틀리그 진행 중 캐릭터 교체가 불가합니다{/}				
 UI_20211021_004989	{@st43}Sélection du Personnage{/}	{@st43}캐릭터 선택{/}				
-UI_20211021_004990	{@st61}{s18}Sélection du personnage{/}{nl}- Après avoir enregistré le personnage à changer, connectez-vous avec le personnage correspondant{nl}Veuillez vérifier que l'équipement et les paramètres remplissent les conditions de changement de personnage.{nl}{#ff0000}*Quand le personnage enregistré ne remplit pas la condition de participation à la ligue de combat d'équipe, {nl}le changement de personnage pendant la ligue de combat d'équipe est indisponible.{/}{nl}- L'enregistrement du personnage de changement est sauvegardé par personnage.	{@st61}{s18}캐릭터 선택{/}{nl}- 교체 캐릭터 등록 후 해당 캐릭터로 접속하여 {nl}장비 및 관련 세팅이 교체 캐릭터의 조건을 충족하는지 1회 이상 확인이 필요합니다.{nl}{#ff0000}*등록된 캐릭터가 팀 배틀 리그 참여 조건을 충족하지 못 한 경우,{nl}팀 배틀 리그 진행 중 캐릭터 교체가 불가합니다{/}{nl}- 교체 캐릭터 등록은 캐릭터 단위로 저장됩니다.				
+UI_20211021_004990	{@st61}{s18}Sélection du personnage{/}{nl}- Après avoir enregistré le personnage à changer, connectez-vous avec le personnage{nl}correspondant{nl}Veuillez vérifier que l'équipement et les paramètres remplissent les conditions de{nl}changement de personnage.{nl}{#ff0000}*Quand le personnage enregistré ne remplit pas la condition de participation à la ligue de{nl}combat d'équipe, {nl}le changement de personnage pendant la ligue de combat d'équipe est indisponible.{/}{nl}- L'enregistrement du personnage de changement est sauvegardé par personnage.	{@st61}{s18}캐릭터 선택{/}{nl}- 교체 캐릭터 등록 후 해당 캐릭터로 접속하여 {nl}장비 및 관련 세팅이 교체 캐릭터의 조건을 충족하는지 1회 이상 확인이 필요합니다.{nl}{#ff0000}*등록된 캐릭터가 팀 배틀 리그 참여 조건을 충족하지 못 한 경우,{nl}팀 배틀 리그 진행 중 캐릭터 교체가 불가합니다{/}{nl}- 교체 캐릭터 등록은 캐릭터 단위로 저장됩니다.				
 UI_20211021_004991	{s6} {nl}{/}{@st41d}{img colony_point_pic 24 24}Infos sur le champ de bataille{nl}{/}	{s6} {nl}{/}{@st41d}{img colony_point_pic 24 24}전장 정보{nl}{/}				
 UI_20211021_004992	※ A Quitté le Territoire de Guilde	※ 콜로니 지역에서 벗어남				
 UI_20211021_004993	Infos sur le territoire de guilde	콜로니 지역 정보				
@@ -5090,7 +5090,7 @@ UI_20211217_005089	Récompense de Niveau de Haut Fait	업적 레벨 달성 보�
 UI_20211217_005090	Rechercher	검색				
 UI_20211217_005091	Catégorie Principale	메인 카테고리				
 UI_20211217_005092	Sous-catégorie	서브 카테고리				
-UI_20211217_005093	Recherchez le haut fait par récompense{nl}ou par nom de haut fait.	보상 또는 업적 명칭으로{nl}업적을 검색할 수 있습니다.				
+UI_20211217_005093	Recherchez le haut fait par{nl}récompense{nl}ou par nom de haut fait.	보상 또는 업적 명칭으로{nl}업적을 검색할 수 있습니다.				
 UI_20211217_005094	Haut Fait Majeur	주요 업적				
 UI_20211217_005095	Masquer les Hauts Faits Terminés	완료된 업적 표시하지 않기				
 UI_20211217_005096	{@st66b}{s16}Tout Recevoir en une Fois	{@st66b}{s16}보상 일괄 수령				
@@ -5161,7 +5161,7 @@ UI_20220204_005160	{@st59}Changer le Nom du Préréglage Actuel{/}	{@st59}현재
 UI_20220204_005161	{@st66b}Importer	{@st66b}가져오기				
 UI_20220204_005162	{@st59}Importer les informations de la carte actuellement équipée vers le préréglage actuel{/}	{@st59}현재 장착한 카드 정보를 현재 프리셋에 가져옵니다{/}				
 UI_20220204_005163	{@st66b}Appliquer	{@st66b}적용				
-UI_20220204_005164	{@st59}Changer la carte équipée avec les informations du préréglage actuel{nl}{#FFFF00}※ Ne s'applique pas à une carte absente de l'inventaire{/}{/}	{@st59}현재 프리셋 정보로 장착 카드를 변경합니다{nl}{#FFFF00}※ 인벤토리에 없는 카드는 적용되지 않습니다{/}{/}				
+UI_20220204_005164	{@st59}Changer la carte équipée avec les informations du{nl}préréglage actuel{nl}{#FFFF00}※ Ne s'applique pas à une carte absente de{nl}l'inventaire{/}{/}	{@st59}현재 프리셋 정보로 장착 카드를 변경합니다{nl}{#FFFF00}※ 인벤토리에 없는 카드는 적용되지 않습니다{/}{/}				
 UI_20220204_005165	{@st43}Préréglage d'Album de Cartes Couleur{/}	{@st43}컬러 카드첩 프리셋{/}				
 UI_20220204_005166	{@st59}Fermer le Préréglage d'Album de Cartes Couleur{/}	{@st59}컬러 카드첩 프리셋을 종료합니다{/}				
 UI_20220204_005167	{@st66b}Préréglage	{@st66b}프리셋				
@@ -5230,7 +5230,7 @@ UI_20220204_005229	Fermer la fenêtre de carte d'archéologie.	고고학 맵 정
 UI_20220204_005230	Consulter les infos d'archéologie.	고고학 정보를 확인합니다.				
 UI_20220204_005231	{@st101lightbrown_16}Archéologie	{@st101lightbrown_16}고고학				
 UI_20220204_005232	{s24}{b}Créer un nouveau personnage{/}{/}	{s24}{b}신규 캐릭터를 생성합니다{/}{/}				
-UI_20220204_005233	{/}{s20}{b}[%s]{/}{nl}peut être sélectionné une fois les conditions suivantes remplies.{/}	{/}{s20}{b}[%s]{/}은{nl}다음 조건을 충족해야 선택할 수 있습니다.{/}				
+UI_20220204_005233	{/}{s20}{b}[%s]{/}{nl}peut être sélectionné une fois les conditions{nl}suivantes remplies.{/}	{/}{s20}{b}[%s]{/}은{nl}다음 조건을 충족해야 선택할 수 있습니다.{/}				
 UI_20220204_005234	Gain +%s	획득 +%s				
 UI_20220204_005235	{@sti1c}{s14}Objet réservé au chef de groupe	{@sti1c}{s14}파티장 전용 아이템				
 UI_20220204_005236	Nombre	사용 횟수				
@@ -5313,7 +5313,7 @@ UI_20220614_005312	{@st41}{s18}Tout : {@st45ty}{s20}%s{@st41}{s18}/%s{/}	{@st41}
 UI_20220614_005313	Réinitialiser la Statistique de l'Objet	아이템 옵션 재설정				
 UI_20220614_005314	{@st43b}{s18}Statistique Disponible	{@st43b}{s18}선택 가능 옵션				
 UI_20220614_005315	Réinitialiser	재설정				
-UI_20220614_005316	{@st66b}* Le groupe de statistique (couleur) ne change pas lors de la réinitialisation,{nl} seuls le type et la valeur de la statistique changent.{/}	{@st66b}* 재설정시 옵션 그룹(색상)은 유지되며, {nl}세부 옵션과 옵션 수치만 변경 가능합니다.{/}				
+UI_20220614_005316	{@st66b}* Le groupe de statistique (couleur) ne change{nl}pas lors de la réinitialisation,{nl} seuls le type et la valeur de la statistique{nl}changent.{/}	{@st66b}* 재설정시 옵션 그룹(색상)은 유지되며, {nl}세부 옵션과 옵션 수치만 변경 가능합니다.{/}				
 UI_20220614_005317	Statistique Réinitialisable	재설정 가능 옵션				
 UI_20220614_005318	Affiche une liste des statistiques réinitialisables.	재설정 가능한 옵션 목록을 보여줍니다.				
 UI_20220614_005319	Parchemin de Retrait de Liaison de la Ceinture de Perspicacité	통찰의 허리띠 귀속 해제 스크롤				
@@ -5387,11 +5387,11 @@ UI_20220823_005386	{@st41}{s22}Ne Pas Utiliser	{@st41}{s22}사용하지 않음
 UI_20220823_005387	Parchemin de Retrait de Liaison d'Équipement Réservoir/Falouros 	변질자, 팔로우로스 장비 귀속 해제 스크롤				
 UI_20220823_005388	{@st41b}{s18}  Statistique Aléatoire	{@st41b}{s18}  랜덤 옵션	UI_20210318_004714	{@st41b}{s18}  Ichor Aléatoire	{@st41b}{s18}  랜덤 아이커	
 UI_20220823_005389	{@st42}{s16}Actuel :{/}{/}	{@st42}{s16}현재 보유량{/}{/}				
-UI_20220823_005390	Mésange à longue queue{nl}qui utilise son bec comme principal outil d'attaque	부리를 주력으로{nl}사용하는 오목눈이				
+UI_20220823_005390	Mésange à longue queue{nl}qui utilise son bec comme principal outil{nl}d'attaque	부리를 주력으로{nl}사용하는 오목눈이				
 UI_20220823_005391	Essayer le Costume de Classe	직업 코스튬 입어보기				
 UI_20220823_005392	Terminez toutes les quêtes de l'épisode 12-1	에피소드 12 - 1 퀘스트를 모두 완료하기				
 UI_20220930_005393	Enregistrer le Costume	코스튬 등록				
-UI_20220930_005394	{@st66b}{s14}※{#ff0100}L'objet enregistré sera détruit{/},{nl}et en faisant un clic droit sur l'objet dans la collection,{nl}vous pouvez créer ce costume{nl}avec un statut {#0001ff}lié à l'équipe{/}.	{@st66b}{s14}※{#ff0100}등록에 사용된 아이템은 소멸{/}되며,{nl}코스튬 컬렉션에서 우클릭 시{nl}해당 코스튬 아이템을{nl}{#0001ff}팀 귀속 상태로 생성{/}할 수 있습니다.				
+UI_20220930_005394	{@st66b}{s14}※{#ff0100}L'objet enregistré sera détruit{/},{nl}et en faisant un clic droit sur l'objet dans la{nl}collection,{nl}vous pouvez créer ce costume{nl}avec un statut {#0001ff}lié à l'équipe{/}.	{@st66b}{s14}※{#ff0100}등록에 사용된 아이템은 소멸{/}되며,{nl}코스튬 컬렉션에서 우클릭 시{nl}해당 코스튬 아이템을{nl}{#0001ff}팀 귀속 상태로 생성{/}할 수 있습니다.				
 UI_20220930_005395	{@st59}Apparence de l'Arme{/}	{@st59}무기 외형{/}				
 UI_20220930_005396	{@st59}Ouvrir l'enregistrement de costume.{/}	{@st59}코스튬 등록 창을 엽니다.{/}				
 UI_20221125_005397	{@st43}Changement de Classe	{@st43}클래스 변경				
@@ -5439,7 +5439,7 @@ UI_20221125_005438	{@st66b}{s18}Ensemble %s{/}{/}	 {@st66b}{s18}프리셋.%s{/}{
 UI_20221125_005439	Sélectionner la classe à changer	변경 할 직업선택				
 UI_20221125_005440	Skill/Attribut	스킬/특성 명				
 UI_20230130_005441	Avant d'atteindre le {@st42b}{#ffd800}{s18}niveau maximum (%s),{nl}vous pouvez utiliser ceci sans aucun coût.{/}	{@st42b}{#ffd800}{s18}최고 레벨(%s)을 달성하기 전까지{nl} 자유롭게 이용 가능합니다.{/}				
-UI_20230130_005442	Les accessoires liés au personnage créés depuis le coffre d'équipement{nl} peuvent avoir leur type changé depuis la {#FF0000}[fenêtre de gestion de l'équipement de la Déesse]{/}.	장비 보관함에서 생성된 장신구(캐릭터 귀속)는{nl} {#FF0000}[가디스 장비 관리창]{/}에서 계열 변경이 가능합니다.				
+UI_20230130_005442	Les accessoires liés au personnage créés depuis le coffre d'équipement{nl} peuvent avoir leur type changé depuis la {#FF0000}[fenêtre de gestion de{nl}l'équipement de la Déesse]{/}.	장비 보관함에서 생성된 장신구(캐릭터 귀속)는{nl} {#FF0000}[가디스 장비 관리창]{/}에서 계열 변경이 가능합니다.				
 UI_20230130_005443	{@st43}{s24}Transférer le Niveau de Carte Légendaire	{@st43}{s24}레전드 카드 레벨 이전				
 UI_20230130_005444	{@st59}Fermer{/}	{@st59}레전드 카드 레벨 이전 창을 닫습니다{/}				
 UI_20230130_005445	{#ff0000}※ Lors du transfert du niveau de la carte légendaire, son niveau sera réinitialisé à 1.	{#ff0000}※ 레전드 카드 레벨 이전 시 원본 카드의 레벨은 초기화됩니다.				
@@ -5784,7 +5784,7 @@ UI_20251209_005783	Augmentation du Niveau d'Attribut	특성 레벨 증가
 UI_20251209_005784	Nom de la Quête de Guilde	길드 퀘스트 이름				
 UI_20251209_005785	Nom de l'Installation	시설 이름				
 UI_20251209_005786	Effet de l'Installation	시설 효과				
-UI_20251217_005787	{#ff0000}Les objets achetés dans la boutique glaciale sont non échangeables et{nl} réservés au coffre d'équipe.	{#ff0000}빙하 주화 상점에서 획득하는 아이템은 팀 창고{nl} 이동만 가능합니다.				
+UI_20251217_005787	{#ff0000}Les objets achetés dans la boutique glaciale sont non{nl}échangeables et{nl} réservés au coffre d'équipe.	{#ff0000}빙하 주화 상점에서 획득하는 아이템은 팀 창고{nl} 이동만 가능합니다.				
 UI_20251218_005788	{#ff0000}Les objets de la boutique glaciale sont non échangeables et réservés au coffre d'équipe.	{#ff0000}빙하 주화 상점에서 획득하는 아이템은 팀 창고 이동만 가능합니다.
 UI_20251222_005789	{@st42}Physique	{@st42}물
 UI_20251222_005790	{@st42}Magique	{@st42}마
@@ -5850,11 +5850,11 @@ UI_20260206_005849	{@st59}Sélectionner une pose pour le personnage en aperçu.{
 UI_20260206_005850	{@st59}Tourner le personnage en aperçu vers la gauche.{/}	{@st59}미리보기 캐릭터를 왼쪽으로 회전시킵니다.{/}
 UI_20260206_005851	{@st59}Tourner le personnage en aperçu vers la droite.{/}	{@st59}미리보기 상태의 캐릭터를 오른쪽으로 회전시킵니다.{/}
 UI_20260206_005852	{@st43}Effet de Dignité de Guilde{/}	{@st43}길드의 위험 효과{/}
-UI_20260206_005853	{@st59b}Effet de Dignité de guilde{nl}{@st59s} Vous pouvez voir toutes les statistiques appliquées de l'effet de Dignité de guilde.	{@st59b}길드 위엄 효과{nl}{@st59s}길드 위엄 효과의 총합을 볼 수 있습니다.
+UI_20260206_005853	{@st59b}Effet de Dignité de guilde{nl}{@st59s} Vous pouvez voir toutes les statistiques appliquées de{nl}l'effet de Dignité de guilde.	{@st59b}길드 위엄 효과{nl}{@st59s}길드 위엄 효과의 총합을 볼 수 있습니다.
 UI_20260206_005854	{@st59}Fermer la Fenêtre de l'Effet de Dignité de Guilde{/}	{@st59}길드의 위엄 효과 창을 닫습니다{/}
 UI_20260206_005855	{@st68b}{s24}Complet(%s){/}	{@st68b}{s24}완성(%s){/}
 UI_20260206_005856	{@st43}Sélectionner un Geste{/}	{@st43}제스처 선택{/}
-UI_20260206_005857	{@st59b}Sélectionner un geste{nl}{@st59s}Sélectionnez un geste pour le personnage en aperçu. 	{@st59b}제스처 선택{nl}{@st59s}미리보기 캐릭터의 제스처를 선택할 수 있습니다.
+UI_20260206_005857	{@st59b}Sélectionner un geste{nl}{@st59s}Sélectionnez un geste pour le personnage{nl}en aperçu. 	{@st59b}제스처 선택{nl}{@st59s}미리보기 캐릭터의 제스처를 선택할 수 있습니다.
 UI_20260206_005858	{@st59}Fermer la Fenêtre de Sélection de Geste{/}	{@st59}제스처 선택 창을 닫습니다{/}
 UI_20260206_005859	{@st59}Guilde{/}	{@st59}길드{/}
 UI_20260206_005860	%s 	%s명
