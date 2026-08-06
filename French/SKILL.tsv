@@ -26312,3 +26312,72 @@ SKILL_20260707_026311	* Après que [Wedge] → [Perce-ignition] a{nl}touché ave
 SKILL_20260707_026312	* Accorde le buff [Pression extrême] qui{nl}augmente les dégâts des Skills Sagitta de 30{nl}% pendant 5 secondes après l'utilisation de{nl}Fléchette{nl}* Augmente la consommation de PM de 50 %{nl}* Modifiable uniquement en ville.	* 플레셰트 사용 후 5초간 사지타 스킬의 대미지가 30% 증가하는 [극압] 버프 부여{nl}* SP소모 50% 증가{nl}* 마을에서만 변경 가능합니다.	SKILL_20260703_026291	* Accorde le buff [Pression extrême] qui{nl}augmente les dégâts des Skills Sagitta de 30{nl}% pendant 3 secondes après l'utilisation de{nl}Fléchette{nl}* Augmente la consommation de PM de 50 %{nl}* Modifiable uniquement en ville.	* 플레셰트 사용 후 3초간 사지타 스킬의 대미지가 30% 증가하는 [극압] 버프 부여{nl}* SP소모 50% 증가{nl}* 마을에서만 변경 가능합니다.	
 SKILL_20260709_026313	Sol Caustique	부식 지대				
 SKILL_20260709_026314	Vous êtes dans une zone empoisonnée.{nl}L'esquive diminue.	맹독 웅덩이 위에 있음. 회피율이 감소합니다.				
+SKILL_20260730_026315	Entaille de Ruine	루인 클리브				
+SKILL_20260730_026316	Taillade impitoyablement vers l'avant avec{nl}un espadon. Gagne 1 cumul{nl}d'[Insoumission].	대검으로 전방을 무자비하게 가로지릅니다. [역천] 스택이 1 증가합니다.				
+SKILL_20260730_026317	Temps d'incantation 0,3 secondes{nl}Facteur de Skill #{SkillFactor}#% x 3{nl}Cibles #{CaptionRatio}#{nl}Gagne 1 cumul d'[Insoumission]	캐스팅 시간 0.3초{nl}스킬 계수 #{SkillFactor}#% x 3회{nl}대상 수 #{CaptionRatio}#{nl}시전 시 [역천] 스택 1 증가				
+SKILL_20260730_026318	Charge Fantôme	팬텀 차지				
+SKILL_20260730_026319	Charge vers l'avant à une vitesse féroce,{nl}espadon en avant, transperçant les ennemis{nl}sur son passage. Gagne 1 cumul{nl}d'[Insoumission].	대검을 앞세워 맹렬한 속도로 돌진하여 경로상의 적을 꿰뚫습니다. [역천] 스택이 1 증가합니다.				
+SKILL_20260730_026320	Incantation instantanée{nl}Facteur de Skill #{SkillFactor}#% x 8{nl}Cibles #{CaptionRatio}#{nl}Gagne 1 cumul d'[Insoumission]	즉시 시전{nl}스킬 계수 #{SkillFactor}#% x 8회{nl}대상 수 #{CaptionRatio}#{nl}시전 시 [역천] 스택 1 증가				
+SKILL_20260730_026321	Entrave Funeste	그림 섀클				
+SKILL_20260730_026322	Plante l'espadon dans le sol et libère une{nl}onde d'ombre. Des épines acérées jaillissent{nl}dans la zone, infligeant des dégâts et{nl}réduisant la vitesse de déplacement. Gagne 1{nl}cumul d'[Insoumission].	지면에 대검을 강하게 꽂아 넣어 그림자 파동을 방출합니다. 범위 내 날카로운 가시가 솟구쳐 피해를 주며 이동속도를 감소시킵니다. [역천] 스택이 1 증가합니다.				
+SKILL_20260730_026323	Temps d'incantation 0,3 secondes{nl}Facteur de Skill #{SkillFactor}#% x 12{nl}Durée 3 secondes{nl}Vitesse de déplacement : -20 %{nl}Cibles #{CaptionRatio}#{nl}Gagne 1 cumul d'[Insoumission]	캐스팅 시간 0.3초{nl}스킬 계수 #{SkillFactor}#% x 12회{nl}지속시간 3초{nl}이동속도 20% 감소{nl}대상 수 #{CaptionRatio}#{nl}시전 시 [역천] 스택 1 증가				
+SKILL_20260730_026324	Sentence de Mort	데스 센텐스				
+SKILL_20260730_026325	Lève l'espadon très haut et l'abat à la{nl}verticale, infligeant des dégâts mortels aux{nl}ennemis devant soi. Gagne 1 cumul{nl}d'[Insoumission].	대검을 머리 위로 높이 치켜들어 수직으로 강하게 내리찍습니다. 전방 범위 내 적들에게 치명적인 피해를 입힙니다. [역천] 스택이 1 증가합니다.				
+SKILL_20260730_026326	Temps d'incantation 0,5 secondes{nl}Facteur de Skill #{SkillFactor}#% x 9{nl}Cibles #{CaptionRatio}#{nl}Gagne 1 cumul d'[Insoumission]	캐스팅 시간 0.5초{nl}스킬 계수 #{SkillFactor}#% x 9회{nl}대상 수 #{CaptionRatio}#{nl}시전 시 [역천] 스택 1 증가				
+SKILL_20260730_026327	Déluge Abyssal	어비셜 플러리				
+SKILL_20260730_026328	Déchaîne vers l'avant une salve féroce de{nl}taillades qui inflige des dégâts. Gagne 1{nl}cumul d'[Insoumission].	전방을 향해 맹렬한 기세로 연속 참격을 가해 피해를 줍니다. [역천] 스택이 1 증가합니다.				
+SKILL_20260730_026329	Temps d'incantation 0,5 secondes{nl}Facteur de Skill #{SkillFactor}#% x 8{nl}Cibles #{CaptionRatio}#{nl}Gagne 1 cumul d'[Insoumission]	캐스팅 시간 0.5초{nl}스킬 계수 #{SkillFactor}#% x 8회{nl}대상 수 #{CaptionRatio}#{nl}시전 시 [역천] 스택 1 증가				
+SKILL_20260730_026330	Oculus Abyssal	어비셜 오큘러스				
+SKILL_20260730_026331	Un Soleil Noir se lève, dévoilant en son cœur{nl}un Œil Abyssal grotesque. Tandis que l'œil{nl}contemple le champ de bataille, il inflige des{nl}dégâts sur une vaste zone.	검은 태양이 떠오르고 그 중심에서 기괴한 심연의 눈동자가 개안합니다. 눈동자가 전장을 굽어보는 순간 광범위한 영역에 대미지를 줍니다.				
+SKILL_20260730_026332	Temps d'incantation 1 seconde{nl}Facteur de Skill #{SkillFactor}#% x 18{nl}Cibles #{CaptionRatio}#{nl}Utilisable dans l'état [Exécuteur Abyssal]	캐스팅 시간 1초{nl}스킬 계수 #{SkillFactor}#% x 18회{nl}대상 수 #{CaptionRatio}#{nl}지속시간 5초{nl}[심연의 집행자] 상태 시 사용 가능				
+SKILL_20260730_026333	Défi	역천				
+SKILL_20260730_026334	Gagne des cumuls d'Insoumission en{nl}touchant avec les Skills d'Exécuteur.{nl}Atteindre le maximum de 15 cumuls{nl}déclenche l'état Exécuteur Abyssal.	엑시큐터 스킬 타격 시 스택 증가. 최대 15중첩 시 심연의 집행자 상태가 됩니다.				
+SKILL_20260730_026335	Exécuteur Abyssal	심연의 집행자				
+SKILL_20260730_026336	Cumul maximum d'Insoumission atteint.{nl}Vous pouvez désormais utiliser Oculus{nl}Abyssal.	역천 최대 중첩 달성. 어비셜 오큘러스를 사용할 수 있습니다.				
+SKILL_20260730_026337	Exécuteur - Espadon	엑시큐터 - 대검				
+SKILL_20260730_026338	Équiper l'Espadon d'Exécuteur	엑시큐터 대검 착용				
+SKILL_20260730_026339	Mélange de Couleurs d'Exécuteur	엑시큐터 컬러 블렌드				
+SKILL_20260730_026340	Exécution	사형 집행				
+SKILL_20260730_026341	Augmente les dégâts infligés à l'ennemi de{nl}50 %	적에게 주는 대미지 50% 증가.				
+SKILL_20260730_026342	Écho Abyssal	심연의 반향				
+SKILL_20260730_026343	Submergé par l'aura d'Oculus Abyssal.	어비셜 오큘러스의 기운에 잠식됩니다.				
+SKILL_20260730_026344	Hallucination Abyssale	심연의 환각				
+SKILL_20260730_026345	La distinction entre alliés et ennemis{nl}s'inverse : la cible attaque ses alliés au{nl}hasard.	피아식별이 반전되어 자신의 아군을 무작위로 공격합니다.				
+SKILL_20260730_026346	Temps de recharge interne d'Insoumission	역천 내부쿨				
+SKILL_20260730_026347	Temps de recharge interne du buff{nl}Insoumission	역천 버프 내부 재사용 대기시간				
+SKILL_20260730_026348	Temps de recharge d'Hallucination Abyssale	심연의 환각 재사용				
+SKILL_20260730_026349	Temps de recharge JcJ d'Hallucination{nl}Abyssale	심연의 환각 PvP 재사용 대기시간				
+SKILL_20260730_026350	Aura d'Insoumission	역천의 기운				
+SKILL_20260730_026351	* Toucher des ennemis avec les Skills{nl}d'Exécuteur accorde des cumuls du buff{nl}[Insoumission] (1 cumul par seconde au{nl}maximum){nl}* Le buff [Insoumission] accorde le buff{nl}[Exécuteur Abyssal] une fois 15 cumuls{nl}atteints{nl}* Insoumission{nl}- Augmente les dégâts critiques des Skills{nl}d'Exécuteur de 2 % par cumul{nl}- Durée : 1 min{nl}* Exécuteur Abyssal{nl}- S'applique après le retrait du buff{nl}[Insoumission]{nl}- Permet d'utiliser Oculus Abyssal{nl}- Augmente la chance critique minimale des{nl}Skills d'Exécuteur de 15 %{nl}- Durée : 15 s	* 엑시큐터 스킬로 적을 타격하면 [역천] 버프 스택이 증가 (1초에 최대 1씩 부여됨){nl}* [역천] 버프가 15스택에 도달하면 [심연의 집행자] 버프가 부여됨{nl}* 역천{nl}- 스택당 엑시큐터 스킬의 치명타 대미지 2% 증가{nl}- 버프 지속시간 : 1분{nl}* 심연의 집행자{nl}- 역천 버프 제거 후 부여{nl}- 어비셜 오큘러스 스킬 사용 가능{nl}- 엑시큐터 스킬 최소 치명타 확률 15% 추가 증가{nl}- 버프 지속시간 : 15초				
+SKILL_20260730_026352	Entaille de Ruine : Amélioration	루인 클리브: 강화				
+SKILL_20260730_026353	Charge Fantôme : Amélioration	팬텀 차지: 강화				
+SKILL_20260730_026354	Entrave Funeste : Amélioration	그림 섀클: 강화				
+SKILL_20260730_026355	Sentence de mort : Amélioration	데스 센텐스: 강화				
+SKILL_20260730_026356	Déluge Abyssal : Amélioration	어비셜 플러리: 강화				
+SKILL_20260730_026357	Oculus Abyssal : Amélioration	어비셜 오큘러스: 강화				
+SKILL_20260730_026358	[Arts] Entaille de Ruine : Amélioration{nl}renforcée	[아츠] 루인 클리브: 상급 강화				
+SKILL_20260730_026359	[Arts] Charge Fantôme : Amélioration{nl}renforcée	[아츠] 팬텀 차지: 상급 강화				
+SKILL_20260730_026360	[Arts] Entrave Funeste : Amélioration{nl}renforcée	[아츠] 그림 섀클: 상급 강화				
+SKILL_20260730_026361	[Arts] Sentence de Mort : Amélioration{nl}renforcée	[아츠] 데스 센텐스: 상급 강화				
+SKILL_20260730_026362	[Arts] Déluge Abyssal : Amélioration{nl}renforcée	[아츠] 어비셜 플러리: 상급 강화				
+SKILL_20260730_026363	[Arts] Oculus Abyssal : Amélioration{nl}renforcée	[아츠] 어비셜 오큘러스: 상급 강화				
+SKILL_20260730_026364	Entrave Funeste : Hallucination Abyssale	그림 섀클: 심연의 환각				
+SKILL_20260730_026365	* Inflige [Hallucination Abyssale] à 1 cible{nl}touchée au hasard, monstres de boss{nl}exceptés (10 % de chance en JcJ, temps de{nl}recharge de 10 minutes){nl}* Les ennemis frappés d'[Hallucination{nl}Abyssale] perdent la faculté de distinguer{nl}allié et ennemi pendant 4 secondes et{nl}attaquent leurs alliés au hasard{nl}* Augmente la consommation de PM de 30 %{nl}* Ne peut être modifié qu'en ville.	* 피격된 적 중 보스 몬스터를 제외한 무작위 1인에게 [심연의 환각] 디버프 부여 (PvP 시 10% 확률, 재사용 대기시간 10분){nl}* [심연의 환각]에 걸린 적은 4초 동안 피아식별이 반전되어 자신의 아군을 무작위로 공격함{nl}* SP소모 30% 증가{nl}* 마을에서만 변경 가능합니다.				
+SKILL_20260730_026366	[Arts] Sentence de Mort : Exécution	[아츠] 데스 센텐스: 사형 집행				
+SKILL_20260730_026367	* Lorsque le buff [Exécuteur Abyssal] est{nl}accordé, réinitialise le temps de recharge de{nl}Sentence de Mort{nl}* Les dégâts de Sentence de Mort infligés à{nl}l'ennemi augmentent de 50 % pendant{nl}5 secondes{nl}* Augmente la consommation de PM de 100{nl}%{nl}* Ne peut être modifié qu'en ville.	* [심연의 집행자] 버프 부여 시 데스 센텐스의 재사용 대기시간 초기화{nl}* 5초간 데스 센텐스 스킬이 적에게 주는 대미지 50% 증가{nl}* SP소모 100% 증가{nl}* 마을에서만 변경 가능합니다.				
+SKILL_20260730_026368	[Arts] Déluge Abyssal : Sans Merci	[아츠] 어비셜 플러리: 무자비				
+SKILL_20260730_026369	* Si les PV de la cible attaquée sont inférieurs{nl}à 50 %, les dégâts infligés à l'ennemi{nl}augmentent de 50 %{nl}* Augmente la consommation de PM de 100{nl}%{nl}* Ne peut être modifié qu'en ville.	* 피격되는 대상의 체력이 50% 미만일 경우, 적에게 주는 대미지가 50% 증가함{nl}* SP소모 100% 증가{nl}* 마을에서만 변경 가능합니다.				
+SKILL_20260730_026370	Oculus Abyssal : Peur de l'Inconnu	어비셜 오큘러스: 미지의 공포				
+SKILL_20260730_026371	* Inflige le debuff [Peur] à la cible attaquée{nl}* Augmente la consommation de PM de 30 %{nl}* Ne peut être modifié qu'en ville.	* 피격되는 대상에게 [공포] 디버프 부여{nl}* SP소모 30% 증가{nl}* 마을에서만 변경 가능합니다.				
+SKILL_20260730_026372	Entaille de Ruine Niv 1 et plus	루인 클리브 1레벨 이상				
+SKILL_20260730_026373	Charge Fantôme Niv 1 et plus	팬텀 차지 1레벨 이상				
+SKILL_20260730_026374	Entrave Funeste Niv 1 et plus	그림 섀클 1레벨 이상				
+SKILL_20260730_026375	Sentence de mort Niv 1 et plus	데스 센텐스 1레벨 이상				
+SKILL_20260730_026376	Déluge Abyssal Niv 1 et plus	어비셜 플러리 1레벨 이상				
+SKILL_20260730_026377	Oculus Abyssal Niv 1 et plus	어비셜 오큘러스 1레벨 이상				
+SKILL_20260730_026378	[Entaille de Ruine : Amélioration] Attribut{nl}Niv. 65	[루인 클리브: 강화] 특성 65 레벨 달성				
+SKILL_20260730_026379	[Charge Fantôme : Amélioration] Attribut{nl}Niv. 65	[팬텀 차지: 강화] 특성 65 레벨 달성				
+SKILL_20260730_026380	[Entrave Funeste : Amélioration] Attribut{nl}Niv.65	[그림 섀클: 강화] 특성 65 레벨 달성				
+SKILL_20260730_026381	[Sentence de Mort : Amélioration] Attribut{nl}Niv. 65	[데스 센텐스: 강화] 특성 65 레벨 달성				
+SKILL_20260730_026382	[Déluge Abyssal : Amélioration] Attribut Niv.{nl}65	[어비셜 플러리: 강화] 특성 65 레벨 달성				
+SKILL_20260730_026383	[Oculus Abyssal : Amélioration] Attribut Niv.{nl}65	[어비셜 오큘러스: 강화] 특성 65 레벨 달성				

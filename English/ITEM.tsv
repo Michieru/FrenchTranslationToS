@@ -29238,3 +29238,4 @@ ITEM_20260331_029237	HP + 20,000, MSPD+5, EXP +200%, Stamina Recovery Rate 2x In
 ITEM_20260413_029238	Commodore Musketeer	코모도어 머스킷티어				
 ITEM_20260413_029239	Gesture: Bunny Bunny	제스처 : 바니바니				
 ITEM_20260413_029240	You can add Bunny Bunny gesture to quick slots. Right-click to use.{nl}{#ff0000}Gestures cannot be used when mounting a companion.{/}	바니바니 제스처를 등록할 수 있습니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}{#ff0000}컴패니언 탑승 시 해당 제스처를 사용할 수 없습니다.{/}				
+ITEM_20260730_029241	Executor Great Sword	엑시큐터 대검				

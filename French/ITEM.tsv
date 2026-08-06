@@ -29238,3 +29238,4 @@ ITEM_20260331_029237	PV + 20 000, vitesse de déplacement +5, XP +200 %, buff d'
 ITEM_20260413_029238	Mousquetaire Commodore	코모도어 머스킷티어				
 ITEM_20260413_029239	Geste : Lapin lapin	제스처 : 바니바니				
 ITEM_20260413_029240	Vous pouvez ajouter le geste Lapin Lapin à un emplacement rapide. Clic droit pour utiliser.{nl}{#ff0000}Les gestes ne peuvent pas être utilisés en chevauchant un compagnon.{/}	바니바니 제스처를 등록할 수 있습니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}{#ff0000}컴패니언 탑승 시 해당 제스처를 사용할 수 없습니다.{/}				
+ITEM_20260730_029241	Espadon d'Exécuteur	엑시큐터 대검				

@@ -26312,3 +26312,72 @@ SKILL_20260707_026311	* After [Wedge] → [Ignition Pierce] successfully hits, [
 SKILL_20260707_026312	* Grants [Extreme Pressure] buff that increases Sagitta skill damage by 30% for 5 seconds after using Flechette{nl}* Increases SP consumption by 50%{nl}* Can only be changed in town.	* 플레셰트 사용 후 5초간 사지타 스킬의 대미지가 30% 증가하는 [극압] 버프 부여{nl}* SP소모 50% 증가{nl}* 마을에서만 변경 가능합니다.	SKILL_20260703_026291	* Grants [Extreme Pressure] buff that increases Sagitta skill damage by 30% for 3 seconds after using Flechette{nl}* Increases SP consumption by 50%{nl}* Can only be changed in town.	* 플레셰트 사용 후 3초간 사지타 스킬의 대미지가 30% 증가하는 [극압] 버프 부여{nl}* SP소모 50% 증가{nl}* 마을에서만 변경 가능합니다.	
 SKILL_20260709_026313	Caustic Ground	부식 지대				
 SKILL_20260709_026314	You are in a poisonous zone. Evasion decreases.	맹독 웅덩이 위에 있음. 회피율이 감소합니다.				
+SKILL_20260730_026315	Ruin Cleave	루인 클리브				
+SKILL_20260730_026316	Ruthlessly slashes forward with a great sword. Gains 1 stack of [Defiance].	대검으로 전방을 무자비하게 가로지릅니다. [역천] 스택이 1 증가합니다.				
+SKILL_20260730_026317	Casting Time 0.3 seconds{nl}Skill Factor #{SkillFactor}#% x 3{nl}Targets #{CaptionRatio}#{nl}Gains 1 stack of [Defiance]	캐스팅 시간 0.3초{nl}스킬 계수 #{SkillFactor}#% x 3회{nl}대상 수 #{CaptionRatio}#{nl}시전 시 [역천] 스택 1 증가				
+SKILL_20260730_026318	Phantom Charge	팬텀 차지				
+SKILL_20260730_026319	Charges forward at fierce speed with the greatsword, piercing enemies in its path. Gains 1 stack of [Defiance].	대검을 앞세워 맹렬한 속도로 돌진하여 경로상의 적을 꿰뚫습니다. [역천] 스택이 1 증가합니다.				
+SKILL_20260730_026320	Instant Cast{nl}Skill Factor #{SkillFactor}#% x 8{nl}Targets #{CaptionRatio}#{nl}Gains 1 stack of [Defiance]	즉시 시전{nl}스킬 계수 #{SkillFactor}#% x 8회{nl}대상 수 #{CaptionRatio}#{nl}시전 시 [역천] 스택 1 증가				
+SKILL_20260730_026321	Grim Shackle	그림 섀클				
+SKILL_20260730_026322	Slam the great sword into the ground, releasing a shadow wave. Sharp thorns erupt within the area to deal damage and reduce movement speed. Gains 1 stack of [Defiance].	지면에 대검을 강하게 꽂아 넣어 그림자 파동을 방출합니다. 범위 내 날카로운 가시가 솟구쳐 피해를 주며 이동속도를 감소시킵니다. [역천] 스택이 1 증가합니다.				
+SKILL_20260730_026323	Casting Time 0.3 seconds{nl}Skill Factor #{SkillFactor}#% x 12{nl}Duration 3 seconds{nl}Movement Speed: -20%{nl}Targets #{CaptionRatio}#{nl}Gains 1 stack of [Defiance]	캐스팅 시간 0.3초{nl}스킬 계수 #{SkillFactor}#% x 12회{nl}지속시간 3초{nl}이동속도 20% 감소{nl}대상 수 #{CaptionRatio}#{nl}시전 시 [역천] 스택 1 증가				
+SKILL_20260730_026324	Death Sentence	데스 센텐스				
+SKILL_20260730_026325	Raises the great sword high overhead and slams it down vertically, dealing lethal damage to enemies in front. Gains 1 stack of [Defiance].	대검을 머리 위로 높이 치켜들어 수직으로 강하게 내리찍습니다. 전방 범위 내 적들에게 치명적인 피해를 입힙니다. [역천] 스택이 1 증가합니다.				
+SKILL_20260730_026326	Casting Time 0.5 seconds{nl}Skill Factor #{SkillFactor}#% x 9{nl}Targets #{CaptionRatio}#{nl}Gains 1 stack of [Defiance]	캐스팅 시간 0.5초{nl}스킬 계수 #{SkillFactor}#% x 9회{nl}대상 수 #{CaptionRatio}#{nl}시전 시 [역천] 스택 1 증가				
+SKILL_20260730_026327	Abyssal Flurry	어비셜 플러리				
+SKILL_20260730_026328	Unleashes a fierce barrage of slashes forward, dealing damage. Gains 1 stack of [Defiance].	전방을 향해 맹렬한 기세로 연속 참격을 가해 피해를 줍니다. [역천] 스택이 1 증가합니다.				
+SKILL_20260730_026329	Casting Time 0.5 seconds{nl}Skill Factor #{SkillFactor}#% x 8{nl}Targets #{CaptionRatio}#{nl}Gains 1 stack of [Defiance]	캐스팅 시간 0.5초{nl}스킬 계수 #{SkillFactor}#% x 8회{nl}대상 수 #{CaptionRatio}#{nl}시전 시 [역천] 스택 1 증가				
+SKILL_20260730_026330	Abyssal Oculus	어비셜 오큘러스				
+SKILL_20260730_026331	A Black Sun rises, unveiling a grotesque Abyssal Eye at its core. As the eye gazes down upon the battlefield, it deals damage to a vast area.	검은 태양이 떠오르고 그 중심에서 기괴한 심연의 눈동자가 개안합니다. 눈동자가 전장을 굽어보는 순간 광범위한 영역에 대미지를 줍니다.				
+SKILL_20260730_026332	Casting Time 1 seconds{nl}Skill Factor #{SkillFactor}#% x 18{nl}Targets #{CaptionRatio}#{nl}Can be used in [Abyssal Executor] state	캐스팅 시간 1초{nl}스킬 계수 #{SkillFactor}#% x 18회{nl}대상 수 #{CaptionRatio}#{nl}지속시간 5초{nl}[심연의 집행자] 상태 시 사용 가능				
+SKILL_20260730_026333	Defiance	역천				
+SKILL_20260730_026334	Gains Defiance stacks upon hit with Executor skills. Reaching the maximum of 15 stacks triggers the Abyssal Executor state.	엑시큐터 스킬 타격 시 스택 증가. 최대 15중첩 시 심연의 집행자 상태가 됩니다.				
+SKILL_20260730_026335	Abyssal Executor	심연의 집행자				
+SKILL_20260730_026336	Defiance Max Stack Reached. You can now use Abyssal Oculus.	역천 최대 중첩 달성. 어비셜 오큘러스를 사용할 수 있습니다.				
+SKILL_20260730_026337	Executor - Great Sword	엑시큐터 - 대검				
+SKILL_20260730_026338	Equip Executor Great Sword	엑시큐터 대검 착용				
+SKILL_20260730_026339	Executor Color Blend	엑시큐터 컬러 블렌드				
+SKILL_20260730_026340	Execution	사형 집행				
+SKILL_20260730_026341	Increase damage by 50% to the enemy	적에게 주는 대미지 50% 증가.				
+SKILL_20260730_026342	Abyssal Echo	심연의 반향				
+SKILL_20260730_026343	Overwhelmed by the aura of Abyssal Oculus.	어비셜 오큘러스의 기운에 잠식됩니다.				
+SKILL_20260730_026344	Abyssal Hallucination	심연의 환각				
+SKILL_20260730_026345	Friend-of-foe recognition is inverted, randomly attacking their allies.	피아식별이 반전되어 자신의 아군을 무작위로 공격합니다.				
+SKILL_20260730_026346	Defiance Internal Cooldown	역천 내부쿨				
+SKILL_20260730_026347	Defiance buff Internal Cooldown	역천 버프 내부 재사용 대기시간				
+SKILL_20260730_026348	Abyssal Hallucination Cooldown	심연의 환각 재사용				
+SKILL_20260730_026349	Abyssal Hallucination PvP Cooldown	심연의 환각 PvP 재사용 대기시간				
+SKILL_20260730_026350	Aura of Defiance	역천의 기운				
+SKILL_20260730_026351	* Hitting enemies with Executor skills grants [Defiance] buff stacks (max 1 stack per second){nl}* [Defiance] buff grants [Abyssal Executor] buff upon reaching 15 stacks{nl}* Defiance{nl}- Increase Executor skill Critical Damage +2% per stack{nl}- Duration : 1 min{nl}* Abyssal Executor{nl}- Applied after removing [Defiance] buff{nl}- Enables use of Abyssal Oculus{nl}- Increase Executor skill Minimum Critical Chance +15%{nl}- Duration : 15 sec	* 엑시큐터 스킬로 적을 타격하면 [역천] 버프 스택이 증가 (1초에 최대 1씩 부여됨){nl}* [역천] 버프가 15스택에 도달하면 [심연의 집행자] 버프가 부여됨{nl}* 역천{nl}- 스택당 엑시큐터 스킬의 치명타 대미지 2% 증가{nl}- 버프 지속시간 : 1분{nl}* 심연의 집행자{nl}- 역천 버프 제거 후 부여{nl}- 어비셜 오큘러스 스킬 사용 가능{nl}- 엑시큐터 스킬 최소 치명타 확률 15% 추가 증가{nl}- 버프 지속시간 : 15초				
+SKILL_20260730_026352	Ruin Cleave: Enhance	루인 클리브: 강화				
+SKILL_20260730_026353	Phantom Charge: Enhance	팬텀 차지: 강화				
+SKILL_20260730_026354	Grim Shackle: Enhance	그림 섀클: 강화				
+SKILL_20260730_026355	Death Sentence: Enhance	데스 센텐스: 강화				
+SKILL_20260730_026356	Abyssal Flurry: Enhance	어비셜 플러리: 강화				
+SKILL_20260730_026357	Abyssal Oculus: Enhance	어비셜 오큘러스: 강화				
+SKILL_20260730_026358	[Arts] Ruin Cleave: Enhanced Upgrade	[아츠] 루인 클리브: 상급 강화				
+SKILL_20260730_026359	[Arts] Phantom Charge: Enhanced Upgrade	[아츠] 팬텀 차지: 상급 강화				
+SKILL_20260730_026360	[Arts] Grim Shackle: Enhanced Upgrade	[아츠] 그림 섀클: 상급 강화				
+SKILL_20260730_026361	[Arts] Death Sentence: Enhanced Upgrade	[아츠] 데스 센텐스: 상급 강화				
+SKILL_20260730_026362	[Arts] Abyssal Flurry: Enhanced Upgrade	[아츠] 어비셜 플러리: 상급 강화				
+SKILL_20260730_026363	[Arts] Abyssal Oculus: Enhanced Upgrade	[아츠] 어비셜 오큘러스: 상급 강화				
+SKILL_20260730_026364	Grim Shackle: Abyssal Hallucination	그림 섀클: 심연의 환각				
+SKILL_20260730_026365	* Inflicts [Abyssal Hallucination] on 1 random target hit, except boss monsters (10% chance in PvP, Cooldown of 10 minutes){nl}* Enemies inflicted with [Abyssal Hallucination] lose the ability to distinguish friend from foe for 4 seconds, randomly attacking their allies{nl}* Increase SP consumption by 30%{nl}* Can only be changed in towns.	* 피격된 적 중 보스 몬스터를 제외한 무작위 1인에게 [심연의 환각] 디버프 부여 (PvP 시 10% 확률, 재사용 대기시간 10분){nl}* [심연의 환각]에 걸린 적은 4초 동안 피아식별이 반전되어 자신의 아군을 무작위로 공격함{nl}* SP소모 30% 증가{nl}* 마을에서만 변경 가능합니다.				
+SKILL_20260730_026366	[Arts] Death Sentence: Execution	[아츠] 데스 센텐스: 사형 집행				
+SKILL_20260730_026367	* When [Abyssal Executor] buff is granted, resets the cooldown of Death Sentence{nl}* Death Sentence's damage to enemy increased by 50% for 5 seconds{nl}* Increase SP consumption by 100%{nl}* Can only be changed in towns.	* [심연의 집행자] 버프 부여 시 데스 센텐스의 재사용 대기시간 초기화{nl}* 5초간 데스 센텐스 스킬이 적에게 주는 대미지 50% 증가{nl}* SP소모 100% 증가{nl}* 마을에서만 변경 가능합니다.				
+SKILL_20260730_026368	[Arts] Abyssal Flurry: Mercilessness	[아츠] 어비셜 플러리: 무자비				
+SKILL_20260730_026369	* If attacked target's HP is below 50%, damage to enemy increased by 50%{nl}* Increase SP consumption by 100%{nl}* Can only be changed in towns.	* 피격되는 대상의 체력이 50% 미만일 경우, 적에게 주는 대미지가 50% 증가함{nl}* SP소모 100% 증가{nl}* 마을에서만 변경 가능합니다.				
+SKILL_20260730_026370	Abyssal Oculus: Fear of the Unknown	어비셜 오큘러스: 미지의 공포				
+SKILL_20260730_026371	* Inflicts [Fear] debuff to attacked target{nl}* Increases SP consumption by 30%{nl}* Can only be changed in towns.	* 피격되는 대상에게 [공포] 디버프 부여{nl}* SP소모 30% 증가{nl}* 마을에서만 변경 가능합니다.				
+SKILL_20260730_026372	Ruin Cleave Lv 1 and above	루인 클리브 1레벨 이상				
+SKILL_20260730_026373	Phantom Charge Lv 1 and above	팬텀 차지 1레벨 이상				
+SKILL_20260730_026374	Grim Shackle Lv 1 and above	그림 섀클 1레벨 이상				
+SKILL_20260730_026375	Death Sentence Lv 1 and above	데스 센텐스 1레벨 이상				
+SKILL_20260730_026376	Abyssal Flurry Lv 1 and above	어비셜 플러리 1레벨 이상				
+SKILL_20260730_026377	Abyssal Oculus Lv 1 and above	어비셜 오큘러스 1레벨 이상				
+SKILL_20260730_026378	[Ruin Cleave: Enhance] Attribute Lv. 65	[루인 클리브: 강화] 특성 65 레벨 달성				
+SKILL_20260730_026379	[Phantom Charge: Enhance] Attribute Lv. 65	[팬텀 차지: 강화] 특성 65 레벨 달성				
+SKILL_20260730_026380	[Grim Shackle: Enhance] Attribute Lv.65	[그림 섀클: 강화] 특성 65 레벨 달성				
+SKILL_20260730_026381	[Death Sentence: Enhance] Attribute Lv. 65	[데스 센텐스: 강화] 특성 65 레벨 달성				
+SKILL_20260730_026382	[Abyssal Flurry: Enhance] Attribute Lv. 65	[어비셜 플러리: 강화] 특성 65 레벨 달성				
+SKILL_20260730_026383	[Abyssal Oculus: Enhance] Attribute Lv. 65	[어비셜 오큘러스: 강화] 특성 65 레벨 달성				
