@@ -90,7 +90,7 @@ INTL_20180214_000089	L'Hiver Dernier	마지막 겨울 이벤트
 INTL_20180214_000090	Recevoir le Buff de l'Hiver Dernier	마지막 겨울 버프 받기				
 INTL_20180214_000091	Recevoir le Cadeau L'Hiver Dernier	마지막 겨울 선물 받기				
 INTL_20180214_000092	Assistant d'EXP du Week-end	주말 경험치 지원				
-INTL_20180219_000093	Guilde de la prison des démons (Niv. recommandé :{nl}115){nl}Seuls vous et les membres de votre groupe pouvez{nl}entrer ensemble.{nl}Voulez-vous vraiment entrer ?	염원의 비석로 (권장 레벨:180)에 입장하시겠습니까?{nl}당신과 파티를 맺은 플레이어만이 함께 입장할 수 있습니다.				
+INTL_20180219_000093	Guilde de la prison des démons (Niv. recommandé :{nl}180){nl}Seuls vous et les membres de votre groupe pouvez{nl}entrer ensemble.{nl}Voulez-vous vraiment entrer ?	염원의 비석로 (권장 레벨:180)에 입장하시겠습니까?{nl}당신과 파티를 맺은 플레이어만이 함께 입장할 수 있습니다.				
 INTL_20180219_000094	Famille Legwyn déchue (Niv. recommandé : 230){nl}Seuls vous et les membres de votre groupe pouvez{nl}entrer ensemble.{nl}Voulez-vous vraiment entrer ?	쇠락한 르귄가문의 저택 (권장 레벨:230)에 입장하시겠습니까?{nl}당신과 파티를 맺은 플레이어만이 함께 입장할 수 있습니다.				
 INTL_20180219_000095	Souterrain du château (Niv. recommandé : 300){nl}Seuls vous et les membres de votre groupe pouvez{nl}entrer ensemble.{nl}Voulez-vous vraiment entrer ?	캐슬 지하 (권장 레벨:300)에 입장하시겠습니까?{nl}당신과 파티를 맺은 플레이어만이 함께 입장할 수 있습니다.				
 INTL_20180219_000096	Assistant d'EXP	성장 지원 도우미				
@@ -339,7 +339,7 @@ INTL_20190820_000338	L'événement Summer 2019 est en cours !{nl}{#003399}Nous �
 INTL_20190820_000339	Échange de récompenses {#003399}[Festa d'été] Vacances d'été à Klaipeda{/}	2. {#003399}[Summer Festa] 클라페다에서 여름 나기 이벤트{/}의 보상 교환				이벤트 도우미
 INTL_20190820_000340	 Terminé : 5{nl}- Raids uniques 	 클리어 : 5개{nl}- 유니크 레이드 				대장장이 테리아베리스
 INTL_20190820_000341	 Terminé : 5{nl}- Mode Défi palier 5 : 2{nl}- Mission Saalus : 1{nl}- Donjon de niveau : 1	 클리어 : 5개{nl}- 챌린지 5단계 이상 클리어 : 2개{nl}- 수녀원 미션 클리어 : 1개{nl}- 레벨던전 클리어 : 1개				대장장이 테리아베리스
-INTL_20190820_000342	NA	8/15일 하루동안 라떼 캣 헤어 악세사리를 1회 획득할 수 있습니다.				내 마음도 받아줄래 이벤트 도우미
+INTL_20190820_000342	L'accessoire capillaire Chat Latte peut être obtenu une fois, uniquement le 15 août.	8/15일 하루동안 라떼 캣 헤어 악세사리를 1회 획득할 수 있습니다.				내 마음도 받아줄래 이벤트 도우미
 INTL_20190820_000343	NA	추가로 이벤트 기간 아래의 보상을 받을 수 있습니다.{nl}8/14일:화이트 데이 목걸이 (물리/14일) 1개{nl}8/15일:화이트 데이 목걸이 (마법/14일) 1개{nl}8/16일:화이트 데이 팔찌 (마법/14일) 2개{nl}8/17일:화이트 데이 팔찌 (물리/14일) 2개{nl}8/18일:화이트 데이 목걸이 (물리/14일) 1개{nl}8/19일:화이트 데이 팔찌 (물리/14일) 2개				내 마음도 받아줄래 이벤트 도우미
 INTL_20190828_000344	Cet objet ne peut être utilisé que pour changer l'apparence d'un autre.{nl}Ne consomme pas d'argent lorsqu'il est utilisé comme matériau d'apparence.{nl}Échangeable contre des médailles à la Boutique d'échange.{nl}(Ce costume a été conçu par Shiseptiana de [SEA] Telsiai.)	외형 변경 전용 아이템입니다.{nl}해당 아이템으로 외형 변경 시 소재와 실버를 소모하지 않습니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.{nl}(This costume is designed by Shiseptiana from [SEA] Telsiai.)				
 INTL_20190903_000345	Ajoute un emplacement de personnage à votre Lodge.	사용시 캐릭터 슬롯이 추가됩니다.				

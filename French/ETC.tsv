@@ -2251,10 +2251,10 @@ ETC_20150317_002250	Je veux faire un don de 1000 argent.	1000 실버를 헌금�
 ETC_20150317_002251	Je veux faire un don de 40 argent.	40 실버를 헌금하려고 한다				
 ETC_20150317_002252	Je veux faire un don de 50 argent.	50 실버를 헌금하려고 한다				
 ETC_20150317_002253	Je veux faire un don de 100 argent.	예정대로 100실버를 헌금했습니다				
-ETC_20150317_002254	Comme promis, j'ai donné 100 argent.	예정대로 500실버를 헌금했습니다				
-ETC_20150317_002255	Comme promis, j'ai donné 500 argent.	예정대로 1000실버를 헌금했습니다				
-ETC_20150317_002256	Comme promis, j'ai donné 1000 argent.	예정대로 40실버를 헌금했습니다				
-ETC_20150317_002257	Comme promis, j'ai donné 40 argent.	예정대로 50실버를 헌금했습니다				
+ETC_20150317_002254	Comme promis, j'ai donné 500 argent.	예정대로 500실버를 헌금했습니다				
+ETC_20150317_002255	Comme promis, j'ai donné 1 000 argent.	예정대로 1000실버를 헌금했습니다				
+ETC_20150317_002256	Comme promis, j'ai donné 40 argent.	예정대로 40실버를 헌금했습니다				
+ETC_20150317_002257	Comme promis, j'ai donné 50 argent.	예정대로 50실버를 헌금했습니다				
 ETC_20150317_002258	Comme promis, j'ai donné 50 argent.	성소의 축복을 받아, 공격력이 강해 집니다!				
 ETC_20150317_002259	Récolte de Gouttes de Rosée	이슬 채취 중				
 ETC_20150317_002260	Vous avez collecté des gouttes de rosée avec succès !	이슬을 구하는 데 성공했습니다!				
@@ -2905,7 +2905,7 @@ ETC_20150317_002904	Entrez le nom d'équipe que vous voulez bloquer.	차단할 �
 ETC_20150317_002905	Le nom de votre groupe est trop long.	그룹 이름이 너무 깁니다.				
 ETC_20150317_002906	Le contenu de votre mémo est trop long.	메모 내용이 너무 깁니다.				
 ETC_20150317_002907	Paramètres des Notes	메모 설정				
-ETC_20150317_002908	Paramètres du groupe ??	그룹 설정 ▶				
+ETC_20150317_002908	Paramètres du groupe ▶	그룹 설정 ▶				
 ETC_20150317_002909	Saisir le Mémo	메모 입력				
 ETC_20150317_002910	Paramètres du Groupe	그룹 설정				
 ETC_20150317_002911	Demande d'Ami	친구 신청				
@@ -3398,7 +3398,7 @@ ETC_20150317_003397	Actionnement	작동 중
 ETC_20150317_003398	Vous devez entrer un nombre !	숫자를 입력하셔야 합니다!				
 ETC_20150317_003399	Le mot de passe ne correspond pas	암호와 맞지 않습니다				
 ETC_20150317_003400	Activer le dispositif	장치 작동시키기				
-ETC_20150317_003401	NA	여신께서 미리 일러주신 바 어차피 약화될 왕국의 운명이여, 심지어 그것이 개조인 짐이 이 나라의 주춧돌을 놓은 순간부터 정해진 운명이라 할지라도 그것이 끝은 아니다. 				
+ETC_20150317_003401	Ainsi que la Déesse nous l'avait annoncé, le destin du royaume est de s'affaiblir ; et quand bien même ce sort serait scellé depuis l'instant où Nous, son fondateur, avons posé la première pierre de ce pays, ce n'est pas là une fin. 	여신께서 미리 일러주신 바 어차피 약화될 왕국의 운명이여, 심지어 그것이 개조인 짐이 이 나라의 주춧돌을 놓은 순간부터 정해진 운명이라 할지라도 그것이 끝은 아니다. 				
 ETC_20150317_003402	Débarrassez-vous des monstres autour de l'appareil	장치 주변 몬스터 처치 필요!				
 ETC_20150317_003403	Souvenez-vous des efforts de la déesse pour maintenir l'ordre du monde. Et souvenez-vous des souffrances et épreuves qu'elle a traversées parmi les humains pour ce but lointain. Hormis moi, personne dans le passé ni le futur ne connaîtra le récit complet des efforts et du travail accompli pour le monde.	세상의 섭리를 유지하기 위한 여신의 노력을 기억하라. 또한, 그러한 목적 아래 인간 사이에서 방랑하며 기약이 멀리 남은 방황을 자처하시는 그 고초를 기억하라. 그 노고는 짐을 제외하면 이전 시대에나 짐의 이후 시대인 그대의 시대에는 제대로 전모를 아는 자가 없을 체휼일지니				
 ETC_20150317_003404	Vous avez récolté du bois de chauffage	장작을 획득했습니다				
@@ -3522,7 +3522,7 @@ ETC_20150317_003521	Vous devez commencer [L'alchimiste de la Mine] pour pouvoir 
 ETC_20150317_003522	[Révélation de la Déesse] doit être accompli pour pouvoir passer	[여신의 계시]를 완료해야 통과 가능				
 ETC_20150317_003523	Golem de Pierre	돌 골렘				
 ETC_20150317_003524	Afficher	감시병				
-ETC_20150317_003525	Appuyez sur les touches ?? ?? ensemble pour vous déplacer en diagonale vers le haut	키보드 →,↑ 방향키를 동시에 눌러 대각선 위쪽으로 이동				
+ETC_20150317_003525	Appuyez sur les touches → ↑ ensemble pour vous déplacer en diagonale vers le haut	키보드 →,↑ 방향키를 동시에 눌러 대각선 위쪽으로 이동				
 ETC_20150317_003526	Déplacez-vous vers le point cible suivant avec le clic gauche de la souris	마우스 왼쪽 클릭으로 다음 목표지점으로 이동				
 ETC_20150317_003527	Alchimiste Lâche	겁쟁이 연금술사				
 ETC_20150317_003528	Le Rêve de la Révélation	계시의 꿈				
@@ -3591,7 +3591,7 @@ ETC_20150317_003590	Augmente l'Attaque de +20	공력 +20 증가
 ETC_20150317_003591	Augmente DEX de +5	민첩 +5 증가				
 ETC_20150317_003592	Augmente DEX de +10	민첩 +10 증가				
 ETC_20150317_003593	Augmente DEX de +20	민첩 +20 증가				
-ETC_20150317_003594	Augmente CON de +5. Se déplace comme un zombie	체력 +200증가, 좀비처럼 걸어 다닌다.				
+ETC_20150317_003594	Augmente CON de +200. Se déplace comme un zombie	체력 +200증가, 좀비처럼 걸어 다닌다.				
 ETC_20150317_003595	Augmente SPR de +2	기력 +2 증가				
 ETC_20150317_003596	Augmente SPR de +5	기력 +5 증가				
 ETC_20150317_003597	Augmente SPR de +10	기력 +10 증가				
@@ -3814,7 +3814,7 @@ ETC_20150317_003813	 Utilisez ceci pour vous téléporter n'importe où !	 사�
 ETC_20150317_003814	Vous n'avez activé aucune autre statue de la Déesse, vous ne pouvez donc pas encore vous téléporter.	활성화된 캠프 여신상이 없어 지금은 이동하실 수 없습니다				
 ETC_20150317_003815	Le reste de la zone	나머지 지역				
 ETC_20150317_003816	Reste du camp	나머지 캠프				
-ETC_20150317_003817	2. Sélectionnez Siauliai ??Sélectionnez Bois de Siauliai ouest	2. 샤울레이 선택 → 샤울레이 서쪽 숲 선택				
+ETC_20150317_003817	2. Sélectionnez Siauliai →Sélectionnez Bois de Siauliai ouest	2. 샤울레이 선택 → 샤울레이 서쪽 숲 선택				
 ETC_20150317_003818	Informations de Base sur la Quête	퀘스트 기본정보				
 ETC_20150317_003819	Accueil	 메인 				
 ETC_20150317_003820	Secondaire	 서브 				
@@ -4241,8 +4241,8 @@ ETC_20150317_004240	{Auto_1} : Niveau {Auto_2} {Auto_3}	{Auto_1} : 레벨 {Auto_
 ETC_20150317_004241	{@st49} Enregistrer	{@st49}저장				
 ETC_20150317_004242	{@st49} Sélectionner	{@st49}선택				
 ETC_20150317_004243	} Bonjour	}안녕하세요				
-ETC_20150317_004244	{@st41b} Replier ??	{@st41b}접기 ▲				
-ETC_20150317_004245	{@st41b} Voir les détails ??	{@st41b}상세 보기 ▼				
+ETC_20150317_004244	{@st41b} Replier ▲	{@st41b}접기 ▲				
+ETC_20150317_004245	{@st41b} Voir les détails ▼	{@st41b}상세 보기 ▼				
 ETC_20150317_004246	{s22} Voulez-vous jeter ?	{s22}정말로 버리시겠습니까?				
 ETC_20150317_004247	Voulez-vous vraiment jeter{nl}[	정말 [				
 ETC_20150317_004248	] ?	] 을 버리시겠습니까?				
@@ -6062,7 +6062,7 @@ ETC_20150317_006062	 pour renforcer l'objet.	아이템에 {img mouseclick_right 
 ETC_20150317_006063	 peut être acheté auprès du{nl}PNJ marchand ou en chassant des monstres.	아이템은 상인NPC에게 구입하거나 몬스터를 사냥해서 얻을 수 있습니다.				
 ETC_20150317_006064	Après avoir utilisé l'enclume, sélectionnez{nl}l'objet pour faire apparaître la fenêtre{nl}d'amélioration d'objet.	모루를 사용한 뒤 장착 중이거나 소지중인 장비를 선택하면 강화창이 등장합니다.				
 ETC_20150317_006065	Depuis la fenêtre d'amélioration d'objet, quand{nl}vous cliquez sur le bouton 	장비 강화창에서 				
-ETC_20150317_006066	 , un 	 버튼을 클릭하면 캐릭터 근처에 				
+ETC_20150317_006066	, un 	 버튼을 클릭하면 캐릭터 근처에 				
 ETC_20150317_006067	 apparaîtra. Frappez le 	가 생성 됩니다. 이때 				
 ETC_20150317_006068	 trois fois pour renforcer votre équipement.	를 세 번 타격하면 강화가 완료됩니다.				
 ETC_20150317_006069	Un renforcement réussi augmentera les statistiques principales d'un équipement.	장비 강화에 성공하면 해당 장비의 주요 포인트가 상승하며 				
@@ -7160,7 +7160,7 @@ ETC_20150317_007160	Plateau de Galley	겔리고원 길막
 ETC_20150317_007161	PNJ vide 2 fois	빈 NPC 2번				
 ETC_20150317_007162	Giltine	길티네				
 ETC_20150317_007163	Porte de Mission	미션 게이트				
-ETC_20150317_007164	Déesse Saule 2	사울레 여신도1				
+ETC_20150317_007164	Déesse Saule 1	사울레 여신도1				
 ETC_20150317_007165	Statue de Pierre de la Vallée des Sept 1	칠채곡 석상1				
 ETC_20150317_007166	Statue de Pierre de la Vallée des Sept 2	칠채곡 석상2				
 ETC_20150317_007167	Dieu Saule1	사울레 남신도1				
@@ -7553,7 +7553,7 @@ ETC_20150317_007553	Chargez la barrière du Poste de garde de l'arbre avec des �
 ETC_20150317_007554	Livrer l'Ustensile Divin au Paladin (3)	성구를 팔라딘에게(3)				
 ETC_20150317_007555	Livrer l'Ustensile Divin au Paladin (8)	성구를 팔라딘에게(8)				
 ETC_20150317_007556	L'identité du grand mal	거대한 악의 정체				
-ETC_20150317_007557	Livrer l'Ustensile Divin au Paladin (8)	성구를 팔라딘에게(4)				
+ETC_20150317_007557	Livrer l'Ustensile Divin au Paladin (4)	성구를 팔라딘에게(4)				
 ETC_20150317_007558	Livrer l'Ustensile Divin au Paladin (5)	성구를 팔라딘에게(5)				
 ETC_20150317_007559	Livrer l'Ustensile Divin au Paladin (6)	성구를 팔라딘에게(6)				
 ETC_20150317_007560	Manipulez les Cercles d'Invocation Démoniaque	소환 마법진 조작				
@@ -7983,10 +7983,10 @@ ETC_20150317_007983	Smart Mongen	스마트 몬젠
 ETC_20150317_007984	N/D	스마트젠 소환 은신 몬스터용				
 ETC_20150317_007985	N/D	스마트젠 소환 몬스터용				
 ETC_20150317_007986	Ensemble Gairas	가이라스 세트				
-ETC_20150317_007987	Ratio d'attaque de zone ??	광역 공격 비율 ▲2 증가				
-ETC_20150317_007988	Dégâts de propriété Foudre ??0	전기 속성 공격력 ▲30 증가				
+ETC_20150317_007987	Ratio d'attaque de zone ▲	광역 공격 비율 ▲2 증가				
+ETC_20150317_007988	Dégâts de propriété Foudre ▲30	전기 속성 공격력 ▲30 증가				
 ETC_20150317_007989	Ensemble Zega	제가 세트				
-ETC_20150317_007990	Défense ??	방어력 ▲6 증가				
+ETC_20150317_007990	Défense ▲	방어력 ▲6 증가				
 ETC_20150317_007991	Ensemble Magi	마기 세트				
 ETC_20150317_007992	Dégâts de Propriété Ténèbres Supplémentaires +30	암흑 속성 공격력 ▲30 증가				
 ETC_20150317_007993	Ensemble Jude	주드 세트				
@@ -8829,7 +8829,7 @@ ETC_20150317_008829	Appuyez sur F1 pour voir les informations de votre personnag
 ETC_20150317_008830	Astuce de l'Inventaire	인벤토리 tip				
 ETC_20150317_008831	Appuyez sur F2 pour ouvrir votre inventaire et voir les objets et l'argent que vous possédez.	F2 키를 이용하여 인벤토리를 열어 소지하고 있는 아이템 및 실버를 확인할 수 있습니다.				
 ETC_20150317_008832	Astuce Classes, Skills et Attributs	클래스와 스킬, 특성 tip				
-ETC_20150317_008833	Appuyez sur F1 pour voir les informations sur votre classe, vos Skills et vos attributs.	F3 키를 이용하여 클래스와 스킬, 특성 정보를 확인할 수 있습니다.				
+ETC_20150317_008833	Appuyez sur F3 pour voir les informations sur votre classe, vos Skills et vos attributs.	F3 키를 이용하여 클래스와 스킬, 특성 정보를 확인할 수 있습니다.				
 ETC_20150317_008834	Astuce du Journal d'Aventure	모험일지 tip				
 ETC_20150317_008835	Appuyez sur F4 pour voir votre historique cumulé et votre progression de jeu.	F4 키를 이용하여 현재까지 플레이하며 누적된 기록을 확인 할 수 있습니다.				
 ETC_20150317_008836	Astuce des Quêtes	퀘스트 tip				
@@ -12081,7 +12081,7 @@ ETC_20150714_012082	Une quête aléatoire sera sélectionnée pour tous les memb
 ETC_20150714_012083	NPCDead/Sleep:500/Notice:NOTICE_Dm_!:Rien n'a été trouvé !:5	NPCDead/Sleep:500/Notice:NOTICE_Dm_!:아무 것도 찾을 수 없었습니다!:5	ETC_20150401_010527	NPCDead/Sleep:500/Notice:NOTICE_Dm_!:Impossible de trouver quoi que ce soit.:5	NPCDead/Sleep:500/Notice:NOTICE_Dm_!:아무 것도 찾을 수 없었습니다.:5	
 ETC_20150714_012084	PCSelfDown:10/Notice:NOTICE_Dm_!:Les racines de Niole se sont détachées !!:5/Func:SCR_FARM47_HERB_ROOT_EVENT/NPCDead	PCSelfDown:10/Notice:NOTICE_Dm_!:니올레 뿌리가 끊어졌습니다!!:5/Func:SCR_FARM47_HERB_ROOT_EVENT/NPCDead	ETC_20150401_010530	PCSelfDown:10/Notice:NOTICE_Dm_!:La racine de Niole est coupée !!:5/NPCDead/Func:SCR_FARM47_HERB_ROOT_EVENT	PCSelfDown:10/Notice:NOTICE_Dm_!:니올레 뿌리가 끊어졌습니다!!:5/NPCDead/Func:SCR_FARM47_HERB_ROOT_EVENT	
 ETC_20150714_012085	DoTimeAction:Récolte:2:SITGROPE:SSN_HATE_AROUND	DoTimeAction:채취 중:2:SITGROPE:SSN_HATE_AROUND				
-ETC_20150714_012086	Notice:NOTICE_Dm_!:Trop sec : le jus ne sort pas !:5/EffectNPC:Local:F_burstup019_smoke:1:BOT/NPCDead	Notice:NOTICE_Dm_!:너무 메말라 즙이 나오지 않습니다!:5/EffectNPC:Local:F_burstup019_smoke:1:BOT/NPCDead				
+ETC_20150714_012086	Notice:NOTICE_Dm_!:Trop sec, le jus ne sort pas !:5/EffectNPC:Local:F_burstup019_smoke:1:BOT/NPCDead	Notice:NOTICE_Dm_!:너무 메말라 즙이 나오지 않습니다!:5/EffectNPC:Local:F_burstup019_smoke:1:BOT/NPCDead				
 ETC_20150714_012087	DoTimeAction:Récolte des buissons:3:#SITGROPESET:None	DoTimeAction:덤불을 긁어 모으는 중:3:#SITGROPESET:None				
 ETC_20150714_012088	Property:1/PropertyAdd:1/NPCDead/EffectNPC:Local:F_pc_making_finish_white:1:TOP/GiveItem:REMAINS37_2_SQ_050_ITEM_1:1/Notice:NOTICE_Dm_Clear:Buissons bien séchés obtenus !:5	Property:1/PropertyAdd:1/NPCDead/EffectNPC:Local:F_pc_making_finish_white:1:TOP/GiveItem:REMAINS37_2_SQ_050_ITEM_1:1/Notice:NOTICE_Dm_Clear:잘 마른 덤불을 구했습니다!:5				
 ETC_20150714_012089	DamagePC:5/NPCDead/Notice:NOTICE_Dm_!:Vous vous êtes piqué aux épines des buissons !:5	DamagePC:5/NPCDead/Notice:NOTICE_Dm_!:덤불 가시에 찔렸습니다!:5				
@@ -13349,7 +13349,7 @@ ETC_20150717_013350	 et 	을 선택하면 캐릭터 근처에
 ETC_20150717_013351	 apparaîtra. Frappez le 	가 생성됩니다. 이때 				
 ETC_20150717_013352	 trois fois pour renforcer{nl}l'objet.	를 세번 타격하는 것으로 강화가 완료됩니다.				
 ETC_20150717_013353	En renforçant une arme au-delà de +5, le{nl}potentiel sera consommé en cas d'échec et ses{nl}effets seront réinitialisés. L'objet sera détruit{nl}quand le potentiel atteint zéro.	 +5 이상의 무기 아이템 강화 실패 시 포텐셜이 소모되며 강화효과가 초기화 됩니다. 포텐셜이 0일 때는 아이템이 소멸됩니다.				
-ETC_20150717_013354	Des pénalités d'amélioration s'appliquent{nl}au-delà de +2 pour les armures, bracelets et{nl}colliers.	방어구, 팔찌, 목걸이는 +3 이상 부터 강화 실패 패널티가 주어집니다.				
+ETC_20150717_013354	Des pénalités d'amélioration s'appliquent{nl}au-delà de +3 pour les armures, bracelets et{nl}colliers.	방어구, 팔찌, 목걸이는 +3 이상 부터 강화 실패 패널티가 주어집니다.				
 ETC_20150717_013355	Vous ne pouvez pas utiliser un objet à 0{nl}durabilité.	내구도가 0이된 장비는 더 이상 사용할 수 없습니다.				
 ETC_20150717_013356	Réparez les objets dans la fenêtre de réparation.{nl}Sélectionnez un objet, puis cliquez sur Réparer{nl}pour restaurer la durabilité à 100 %.	수리창을 통해 내구도가 감소한 아이템들을 수리할 수 있습니다.{nl}수리하려는 아이템을 선택한 후 장비 수리를 클릭하면 수리 비용을 지불하고 선택한 아이템들의 내구도가 최대치로 회복됩니다.				
 ETC_20150717_013357	Des frais de réparation seront facturés. Les{nl}objets de rang supérieur coûtent généralement{nl}plus cher à réparer.	장비마다 정해진 수리비용이 청구되며, 높은 랭크의 아이템일 수록 더 많은 수리비용이 청구됩니다.				
@@ -14182,9 +14182,9 @@ ETC_20150804_014183	Balise Lumineuse de la Chapelle	예배당 조명장치
 ETC_20150804_014184	TypeFManager	TypeF관리자				
 ETC_20150804_014185	Endroit où poser la pierre	돌을 놓아 둘 곳				
 ETC_20150804_014186	Épitaphe de Zachariel	자카리엘의 비문				
-ETC_20150807_014187	Ratio d'Attaque de Zone {img red_up_arrow 16 16} 2	광역 공격 비율 {img red_up_arrow 16 16}2 증가	ETC_20150317_007987	Ratio d'attaque de zone ??	광역 공격 비율 ▲2 증가	
-ETC_20150807_014188	Attaque de Propriété Foudre {img red_up_arrow 16 16} 30	전기 속성 공격력 {img red_up_arrow 16 16}30 증가	ETC_20150317_007988	Dégâts de propriété Foudre ??0	전기 속성 공격력 ▲30 증가	
-ETC_20150807_014189	Défense {img red_up_arrow 16 16} 6	방어력 {img red_up_arrow 16 16}6 증가	ETC_20150317_007990	Défense ??	방어력 ▲6 증가	
+ETC_20150807_014187	Ratio d'Attaque de Zone {img red_up_arrow 16 16} 2	광역 공격 비율 {img red_up_arrow 16 16}2 증가	ETC_20150317_007987	Ratio d'attaque de zone ▲	광역 공격 비율 ▲2 증가	
+ETC_20150807_014188	Attaque de Propriété Foudre {img red_up_arrow 16 16} 30	전기 속성 공격력 {img red_up_arrow 16 16}30 증가	ETC_20150317_007988	Dégâts de propriété Foudre ▲30	전기 속성 공격력 ▲30 증가	
+ETC_20150807_014189	Défense {img red_up_arrow 16 16} 6	방어력 {img red_up_arrow 16 16}6 증가	ETC_20150317_007990	Défense ▲	방어력 ▲6 증가	
 ETC_20150807_014190	Attaque de Propriété Ténèbres {img red_up_arrow 16 16} 30	암흑 속성 공격력 {img red_up_arrow 16 16}30 증가	ETC_20150317_007992	Dégâts de Propriété Ténèbres Supplémentaires +30	암흑 속성 공격력 ▲30 증가	
 ETC_20150807_014191	Vitesse de Déplacement {img red_up_arrow 16 16} 5	이동속도 {img red_up_arrow 16 16}5 증가	ETC_20150317_007994	Vitesse de Déplacement +5	이동속도 ▲5 증가	
 ETC_20150807_014192	Résistance de Propriété Feu {img red_up_arrow 16 16} 15	불 속성 저항력 {img red_up_arrow 16 16}15 증가	ETC_20150317_007996	Résistance de Propriété Feu +15	불 속성 저항력 ▲15 증가	
@@ -15487,7 +15487,7 @@ ETC_20151001_015482	Déplacez-vous vers la zone suivante via la Porte de la tour
 ETC_20151001_015483	Yonazolem et Minotaure attaquent !	요나졸렘과 미노타우로스가 공격해 옵니다!				
 ETC_20151001_015484	Salamandre et Magburk attaquent !	샐러맨더와 매그버크가 공격해 옵니다!				
 ETC_20151001_015485	Un monstre Boss attaque !	보스 몬스터들이 공격해 옵니다!				
-ETC_20151001_015486	De la part de Pirakon, pendant 5 min	6분동안 피라콘으로부터 				
+ETC_20151001_015486	De la part de Pirakon, pendant 6 min	6분동안 피라콘으로부터 				
 ETC_20151001_015487	Protéger	를 지켜내세요				
 ETC_20151001_015488	Détruisez le drapeau des Vubbe en 10 minutes !	를 파괴하세요				
 ETC_20151001_015489	Chaque fin	양끝의 				
@@ -17747,7 +17747,7 @@ ETC_20151224_017742	Les Chupacabra se déplacent de façon assez furtive. Cela d
 ETC_20151224_017743	Beeterinas	비테리나스				
 ETC_20151224_017744	Beeteroxia	비테록시아				
 ETC_20151224_017745	Beeto	비토				
-ETC_20151224_017746	Gérant de la Prison Prison Cutter	감옥 관리자 프리즌커터				
+ETC_20151224_017746	Gardien de la geôle Prison Cutter	감옥 관리자 프리즌커터				
 ETC_20151224_017747	Flammidus	플람미두스				
 ETC_20151224_017748	G'bb	급				
 ETC_20151224_017749	Giltine estimait que la Reine démone Gesti ne travaillait pas comme prévu, ayant récemment dépêché de nombreux Seigneurs démons. Marnox est un Seigneur démon type parmi ces récentes nominations.	마왕 제스티가 제대로 역할을 못한다고 생각한 길티네는 최근 다수의 마군주들을 추가로 파견하여 성과를 바라고 있습니다. 마르녹스는 그렇게 최근 투입된 대표적인 마군주입니다.				
@@ -18114,7 +18114,7 @@ ETC_20151224_018109	{nl} {nl}Une fois les conditions déterminées, la victoire{
 ETC_20151224_018110	Avec les cartes ainsi obtenues, vous pouvez les{nl}utiliser comme matériaux pour améliorer{nl}d'autres cartes et augmenter leur nombre{nl}d'étoiles.	이렇게 얻은 카드를 재료로 카드를 강화해 다른 카드의 별 개수를 늘릴 수 있습니다.	ETC_20150729_013864	Vous pouvez utiliser la carte obtenue comme{nl}matériau pour renforcer l'autre carte que vous{nl}possédez, ce qui augmentera son nombre{nl}d'étoiles.	이렇게 얻은 카드를 재료로 카드를 강화해 다른 카드의 별 갯수를 늘릴 수 있습니다.	
 ETC_20151224_018111	Vous pouvez modifier les paramètres de votre{nl}équipe dans le Lodge.	숙소에서 캐릭터가 속한 팀에 대한 여러가지 설정을 할 수 있습니다.	ETC_20150803_014089	Vous pouvez définir divers paramètres pour l'équipe à laquelle appartient votre personnage au Lodge.	배럭에서 캐릭터가 속한 팀에 대한 여러가지 설정을 할 수 있습니다.	
 ETC_20151224_018112	En sélectionnant Changer de Lodge, une liste de{nl}Pavillons apparaît. Vous pouvez les{nl}prévisualiser en cliquant dessus.	숙소 변경을 선택하면 TP를 소모해 변경할 수 있는 숙소 목록이 나타납니다. 미리보기 버튼을  눌러 해당 숙소가 적용된 모습을 살펴볼 수 있습니다.	ETC_20150803_014091	Quand vous sélectionnez Changer de Lodge, la liste des Lodge apparaîtra. En cliquant sur un Lodge, vous pouvez le prévisualiser.	숙소 변경을 선택하면 변경할 수 있는 숙소 목록이 나타납니다. 숙소 이름을 클릭하면 미리보기가 가능합니다.	
-ETC_20151224_018113	Vous pouvez créer jusqu'à 5 personnages avec le{nl}Lodge de base, mais si vous dépassez le nombre{nl}maximum de personnages, vous pouvez acheter{nl}un emplacement de personnage avec des{nl}TP.	숙소는 기본적으로 4명의 캐릭터를 생성할 수 있으며, 캐릭터 최대 생성 수를 넘으면 TP를 소모하여 캐릭터 슬롯을 구매할 수 있습니다.	ETC_20150803_014092	Vous pouvez créer jusqu'à 5 personnages avec le Lodge de base. Le nombre de personnages que vous pouvez créer dépend du Lodge que vous possédez.	기본 숙소는 5명의 캐릭터를 생성할 수 있으며 숙소에 따라 생성할 수 있는 캐릭터 수가 다릅니다.	
+ETC_20151224_018113	Vous pouvez créer jusqu'à 4 personnages avec le{nl}Lodge de base, mais si vous dépassez le nombre{nl}maximum de personnages, vous pouvez acheter{nl}un emplacement de personnage avec des{nl}TP.	숙소는 기본적으로 4명의 캐릭터를 생성할 수 있으며, 캐릭터 최대 생성 수를 넘으면 TP를 소모하여 캐릭터 슬롯을 구매할 수 있습니다.	ETC_20150803_014092	Vous pouvez créer jusqu'à 5 personnages avec le Lodge de base. Le nombre de personnages que vous pouvez créer dépend du Lodge que vous possédez.	기본 숙소는 5명의 캐릭터를 생성할 수 있으며 숙소에 따라 생성할 수 있는 캐릭터 수가 다릅니다.	
 ETC_20151224_018114	{nl} {nl}Il y a une boîte de messages en bas à droite de{nl}votre Lodge. Vous pouvez consulter les messages{nl}en la sélectionnant.	{nl} {nl}숙소 우측 하단에는 메시지 함이 있습니다. 선택 시 도착한 메시지를 확인할 수 있습니다.	ETC_20150803_014093	{nl} {nl}Il y a une boîte de messages en bas à droite de{nl}votre Lodge. Vous pouvez consulter les{nl}messages en la sélectionnant.	{nl} {nl}배럭 우측 하단에는 메시지 함이 있습니다. 선택 시 도착한 메시지를 확인할 수 있습니다.	
 ETC_20151224_018115	{nl} {nl}Avec {img mouseclick_right 40 40}, vous pouvez visiter le Lodge d'autres{nl}joueurs depuis le jeu.	{nl} {nl}게임 내에서 만난 다른 캐릭터를 {img mouseclick_right 40 40}하는 것으로 다른 플레이어의 숙소를 방문할 수도 있습니다.	ETC_20150803_014095	{nl} {nl}Avec {img mouseclick_right 40 40}, vous pouvez visiter le Lodge d'autres utilisateurs rencontrés en jeu.	{nl} {nl}게임 내에서 만난 다른 캐릭터를 {img mouseclick_right 40 40}하는 것으로 다른 유저의 숙소를 방문할 수도 있습니다.	
 ETC_20151224_018116	Un Centurion rassemble les personnages venant{nl}dans sa formation pour les contrôler.{nl} {nl}Un Centurion pourra contrôler les personnages{nl}jusqu'à ce qu'ils sortent de la formation, et les{nl}personnages peuvent toujours en sortir s'ils le{nl}souhaitent. 	센츄리온은 포메이션 범위 내에 들어오는 플레이어의 캐릭터를 부대원으로 소집해 일시적으로 해당 캐릭터의 제어권을 얻습니다.{nl} {nl}센츄리온은 소집된 캐릭터가 포메이션을 이탈하기 전까지 해당 캐릭터의 제어권을 얻게 되며, 소집된 캐릭터는 언제든지 포메이션을 이탈할 수 있습니다.	ETC_20150918_014289	Un Centurion rassemble les personnages venant{nl}dans sa formation pour les contrôler.{nl} {nl}Un Centurion pourra contrôler les personnages{nl}jusqu'à ce qu'ils sortent de la formation, et les{nl}personnages peuvent toujours en sortir s'ils le{nl}souhaitent. 	센츄리온은 포메이션 범위 내에 들어오는 유저의 캐릭터를 부대원으로 소집해 일시적으로 해당 캐릭터의 제어권을 얻습니다.{nl} {nl}센츄리온은 소집된 캐릭터가 포메이션을 이탈하기 전까지 해당 캐릭터의 제어권을 얻게 되며, 소집된 캐릭터는 언제든지 포메이션을 이탈할 수 있습니다.	
@@ -21423,7 +21423,7 @@ ETC_20160411_021418	Utiliser un Token augmente de 30 % l'EXP gagnée en tuant de
 ETC_20160411_021419	Utiliser un Token permet d'apprendre jusqu'à deux attributs différents simultanément.	토큰을 사용하면 특성을 동시에 2개 수련할 수 있습니다.				
 ETC_20160411_021420	Utiliser un Token réduit votre commission du Marché à 10 %.	토큰을 사용하면 마켓 판매 수수료가 10%만 부과됩니다.				
 ETC_20160411_021421	Utiliser un Token augmente votre vitesse de déplacement de 3.	토큰을 사용하면 이동속도가 3 증가합니다.				
-ETC_20160411_021422	Utilisez un Token pour augmenter à 10 le nombre d'objets que vous pouvez mettre en vente sur le Marché.	토큰을 사용하면 마켓에 등록할 수 있는 물품의 수가 5개로 늘어납니다.				
+ETC_20160411_021422	Utilisez un Token pour augmenter à 5 le nombre d'objets que vous pouvez mettre en vente sur le Marché.	토큰을 사용하면 마켓에 등록할 수 있는 물품의 수가 5개로 늘어납니다.				
 ETC_20160411_021423	Utilisez un Token pour augmenter le nombre de buffs que votre personnage peut recevoir.	토큰을 사용하면 캐릭터가 받을 수 있는 버프의 수가 늘어납니다.				
 ETC_20160411_021424	Utilisez un Token pour utiliser des gestes premium.	토큰을 사용하면 프리미엄 제스처를 취할 수 있게 됩니다.				
 ETC_20160411_021425	Les personnages utilisant un Token peuvent effectuer des échanges 1 contre 1 avec d'autres personnages utilisant des Token.	토큰을 사용중인 캐릭터끼리는 1:1 거래를 할 수 있습니다.				
@@ -21774,7 +21774,7 @@ ETC_20160503_021769	Échec de connexion à la base de données. Déconnexion for
 ETC_20160503_021770	Niveau de Skill [Conviction] +1	컨빅션 스킬 레벨 +1				
 ETC_20160503_021771	Le furet a commencé à attaquer.	페릿이 덤벼듭니다.	ETC_20151102_017307	La jeune fille ne semble pas être ici	여기에는 소녀가 없는 것 같습니다	
 ETC_20160509_021772	Utiliser un Token permet d'apprendre les attributs sans période d'entraînement.	토큰을 사용하면 특성을 수련시간 없이 바로 익힐 수 있습니다.	ETC_20160411_021420	Utiliser un Token réduit votre commission du Marché à 10 %.	토큰을 사용하면 마켓 판매 수수료가 10%만 부과됩니다.	
-ETC_20160509_021773	Utilisez un Token pour augmenter à 10 le nombre d'objets que vous pouvez mettre en vente sur le Marché.	토큰을 사용하면 마켓에 등록할 수 있는 물품의 수가 10개로 늘어납니다.	ETC_20160411_021422	Utilisez un Token pour augmenter à 10 le nombre d'objets que vous pouvez mettre en vente sur le Marché.	토큰을 사용하면 마켓에 등록할 수 있는 물품의 수가 5개로 늘어납니다.	
+ETC_20160509_021773	Utilisez un Token pour augmenter à 10 le nombre d'objets que vous pouvez mettre en vente sur le Marché.	토큰을 사용하면 마켓에 등록할 수 있는 물품의 수가 10개로 늘어납니다.	ETC_20160411_021422	Utilisez un Token pour augmenter à 5 le nombre d'objets que vous pouvez mettre en vente sur le Marché.	토큰을 사용하면 마켓에 등록할 수 있는 물품의 수가 5개로 늘어납니다.	
 ETC_20160512_021774	Applique les avantages du Token à tous vos personnages du serveur pendant 15 jours. Clic droit pour utiliser.{nl}[Avantages du Token]{nl} - Permet d'apprendre les attributs instantanément{nl} - Commission du Marché réduite (30 % {img white_right_arrow 16 16} 10 %){nl} - Permet de mettre en vente jusqu'à 10 objets sur le Marché{nl} - +3 à la vitesse de déplacement du personnage{nl} - +30 % d'EXP en chassant les monstres{nl} - Augmente le nombre maximum de buffs{nl} - Permet d'utiliser les Gestes Premium	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 15일간 혜택이 적용됩니다.{nl}[토큰 효과]{nl} - 특성 스킬 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 9개{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +30% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 최대 버프 적용 개수 증가{nl} - 프리미엄 제스쳐 사용 가능				
 ETC_20160512_021775	Délai avant distribution du DLC après création d'un compte (secondes)	계정 생성 후 DLC 수령까지의 Delay (초)				
 ETC_20160513_021776	Applique les avantages du Token à tous vos personnages du serveur pendant 15 jours. Clic droit pour utiliser.{nl}[Avantages du Token]{nl} - Permet d'apprendre les attributs instantanément{nl} - Commission du Marché réduite (30 % {img white_right_arrow 16 16} 10 %){nl} - Permet de mettre en vente jusqu'à 10 objets sur le Marché{nl} - +3 à la vitesse de déplacement du personnage{nl} - +30 % d'EXP en chassant les monstres{nl} - Augmente le nombre maximum de buffs{nl} - Permet d'utiliser les Gestes Premium{nl} - 1 entrée d'instance supplémentaire pour les missions et donjons	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 15일간 혜택이 적용됩니다.{nl}[토큰 효과]{nl} - 특성 스킬 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 9개{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +30% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 최대 버프 적용 개수 증가{nl} - 프리미엄 제스쳐 사용 가능{nl} - 미션,던전 1회 추가입장	ETC_20160512_021774	Applique les avantages du Token à tous vos personnages du serveur pendant 15 jours. Clic droit pour utiliser.{nl}[Avantages du Token]{nl} - Permet d'apprendre les attributs instantanément{nl} - Commission du Marché réduite (30 % {img white_right_arrow 16 16} 10 %){nl} - Permet de mettre en vente jusqu'à 10 objets sur le Marché{nl} - +3 à la vitesse de déplacement du personnage{nl} - +30 % d'EXP en chassant les monstres{nl} - Augmente le nombre maximum de buffs{nl} - Permet d'utiliser les Gestes Premium	마우스 우클릭 시 사용되며 서버 내 모든 캐릭터에 사용 시점으로부터 15일간 혜택이 적용됩니다.{nl}[토큰 효과]{nl} - 특성 스킬 즉시 수련 가능{nl} - 마켓 판매 수수료율 감소(30%{img white_right_arrow 16 16}10%){nl} - 마켓 판매 등록 아이템 개수 9개{nl} - 캐릭터 이동속도 +3 증가{nl} - 몬스터 처치 시 경험치 +30% 증가{nl}(PC방 혜택, 경험의 서 효과와 중첩 가능){nl} - 최대 버프 적용 개수 증가{nl} - 프리미엄 제스쳐 사용 가능	
@@ -22277,7 +22277,7 @@ ETC_20160718_022271	Recette - Pertuisane Sacrée	제작서-홀리 파르티잔
 ETC_20160718_022272	Recette - Rapière Double Artie	제작서-아티 듀얼 레이피어				
 ETC_20160718_022273	Recette - Mousquet Eki	제작서-에키 머스킷				
 ETC_20160718_022274	Les personnages ne pourront plus courir lorsque leur endurance atteint 0, et marcheront à la place.	STA 가 0이 되면 캐릭터가 달리지 못하고 걷게 됩니다. 				
-ETC_20160718_022275	Utiliser un Token augmentera de 30 % l'EXP gagnée en chassant les monstres.	토큰을 사용하면 몬스터에게서 얻는 경험치가 20% 증가됩니다.	ETC_20160411_021420	Utiliser un Token réduit votre commission du Marché à 10 %.	토큰을 사용하면 마켓 판매 수수료가 10%만 부과됩니다.	
+ETC_20160718_022275	Utiliser un Token augmentera de 20 % l'EXP gagnée en chassant les monstres.	토큰을 사용하면 몬스터에게서 얻는 경험치가 20% 증가됩니다.	ETC_20160411_021420	Utiliser un Token réduit votre commission du Marché à 10 %.	토큰을 사용하면 마켓 판매 수수료가 10%만 부과됩니다.	
 ETC_20160718_022276	Les objets échangés entre personnages disposant de plus d'1 échange personnel restant ne deviendront pas non échangeables.	사용 중인 토큰의 거래 가능 횟수가 1 이상 남아있는 캐릭터 간의 1:1 거래에서는 장비 아이템이 거래 불가로 변경되지 않습니다.				
 ETC_20160718_022277	Vous pouvez utiliser l'option du menu des paramètres pour faire défiler automatiquement la fenêtre de chat lorsque	채팅 입력 창 오른쪽에 있는 설정 메뉴에서 채팅 입력 시 채팅창 스크롤이 자동으로 맨 밑으로 이동하는 				
 ETC_20160718_022278	la fonction de défilement vers le bas	하단 이동 기능				
@@ -25549,7 +25549,7 @@ ETC_20161005_025543	Cercle magique1	마법진1
 ETC_20161005_025544	Cercle magique2	마법진2				
 ETC_20161005_025545	Le cercle magique s'est ouvert.	마법진이 열렸습니다.				
 ETC_20161005_025546	Fin d'Activation	End실행				
-ETC_20161005_025547	Vous retournerez à l'entrée dans 10 secondes !	60초 후 입구로 돌아갑니다.				
+ETC_20161005_025547	Vous retournerez à l'entrée dans 60 secondes !	60초 후 입구로 돌아갑니다.				
 ETC_20161005_025548	Retourner à la Zone	존으로 돌아가기				
 ETC_20161005_025549	Condition d'échec remplie	실패조건완료				
 ETC_20161005_025550	Conditions de fin	End조건				
@@ -27076,7 +27076,7 @@ ETC_20170313_027070	Effet bonus de la pousse bénie de palier {STEP} reçu !	축
 ETC_20170313_027071	Recevoir la Pousse Bénie	축복이 깃든 씨앗을 받는다				
 ETC_20170313_027072	Utilisable uniquement au niveau {LV} ou plus !	{LV}레벨 이상만 사용하실 수 있습니다!				
 ETC_20170313_027073	  Acquis !	 획득!				
-ETC_20170313_027074	N/D	넥슨캐시 상자				
+ETC_20170313_027074	Coffre de Cash Nexon	넥슨캐시 상자				
 ETC_20170313_027075	Bon d'une entrée de la Tour de terre appliqué en compensation d'erreur.	오류 보상용 대지의 탑 1회 입장권이 적용되셨습니다				
 ETC_20170313_027076	Bon d'entrée de mission de Saalus appliqué en compensation d'erreur.	오류 보상용 살러스 미션 1회 입장권이 적용되셨습니다				
 ETC_20170313_027077	Utilisable uniquement si une ou plusieurs entrées Tour de terre ont été consommées.	오늘 대지의 탑에 입장한 횟수가 1 이상일 때만 사용 가능합니다				
@@ -27656,8 +27656,8 @@ ETC_20170330_027650	Vous serez associé à un groupe d'au moins {MIN_MEMBER} jou
 ETC_20170330_027651	Association automatique de 2 à 4 annulée.{nl}Annulée pour tous les membres du groupe.	4인 이하 입장을 취소합니다.{nl}파티원 전부 취소됩니다.				
 ETC_20170330_027652	Basculer l'Onglet de Discussion	채팅 탭 전환				
 ETC_20170330_027653	Possibilité de récupérer instantanément l'argent du Marché	마켓 판매금 즉시 수령 가능				
-ETC_20170330_027654	N/D	고객님의 넥슨캐시 보호를 위해 선물하기가 제한되었습니다.				
-ETC_20170330_027655	N/D	고객님의 넥슨캐시 보호를 위해 구매하기가 제한되었습니다.				
+ETC_20170330_027654	L'envoi de cadeaux a été restreint afin de protéger votre Cash Nexon.	고객님의 넥슨캐시 보호를 위해 선물하기가 제한되었습니다.				
+ETC_20170330_027655	L'achat a été restreint afin de protéger votre Cash Nexon.	고객님의 넥슨캐시 보호를 위해 구매하기가 제한되었습니다.				
 ETC_20170330_027656	Recevoir les récompenses d'événement	이벤트 보상 받기				
 ETC_20170330_027657	Recevoir les récompenses cachées	숨겨진 보상 받기				
 ETC_20170330_027658	Appliquer la Bénédiction de la Déesse palier 1.	여신의 축복 1 단계 적용.	ETC_20170303_026443	Bénédiction des déesses appliqué	여신의 축복 적용.	
@@ -28240,12 +28240,12 @@ ETC_20170726_028234	Titre décerné aux participants de l'événement.	용병의
 ETC_20170726_028235	Vrai Croyant	명예 수행자				
 ETC_20170726_028236	Titre décerné aux participants de l'événement.	수행자의 길 이벤트 참여자에게 지급되는 칭호입니다.				
 ETC_20170726_028237	N/D	[TOS 1기 연구원]				
-ETC_20170726_028238	N/D	TOS 1기 연구원으로 참여자께 지급되는 칭호입니다.				
+ETC_20170726_028238	Titre remis aux participants de la 1re promotion de chercheurs de ToS.	TOS 1기 연구원으로 참여자께 지급되는 칭호입니다.				
 ETC_20170726_028239	Serment Honoraire de la Lame	명예 칼날서약 용병단원				
 ETC_20170726_028240	Titre décerné aux participants de l'événement.	용병의 길Ⅱ 이벤트 참여자에게 지급되는 칭호입니다.				
 ETC_20170726_028241	Récompense de Classement TBL [Réinitialisation le Lundi à 6H]	팀 배틀 리그 순위 보상   [ 매주 월요일 6시 초기화 ]				
 ETC_20170726_028242	Attaque physique +10, attaque magique +10 	물리 공격력 +10, 마법 공격력 +10 	ETC_20150317_005611	Attaque augmentée.	공격력 상승	
-ETC_20170726_028243	N/D	에서만 사용됩니다				
+ETC_20170726_028243	 uniquement	에서만 사용됩니다				
 ETC_20170726_028244	Brise Spirituelle	영혼의 미풍				
 ETC_20170726_028245	Vitesse de déplacement augmentée par l'effet des Cristaux de racine d'arbre.	나무뿌리 수정의 영향으로 이동 속도가 상승합니다.				
 ETC_20170726_028246	Les attaques de la Damoiselle de l'aube semblent extrêmement froides. Cela pourrait aider Prêtre Daram dans son étude de la malédiction de Naktis.	황혼의 시녀의 계속되는 공격에 극심한 추위를 느낍니다. 사제 다람에게 현상을 보여주면 나크티스의 저주 연구에 도움될 것 같습니다.	ETC_20170313_026511	La malédiction de la Damoiselle de l'aube est extrêmement froide. Elle pourrait aider le Prêtre Daram dans son étude de la malédiction de Naktis.	황혼의 시녀가 건 저주때문에 극심한 추위를 느낍니다. 사제 다람에게 현상을 보여주면 나크티스의 저주 연구에 도움될 것 같습니다.	
@@ -28368,7 +28368,7 @@ ETC_20170726_028362	L'inventaire du joueur propriétaire de cette boîte d'offra
 ETC_20170726_028363	Voulez-vous vraiment échanger ?	교환하시겠습니까?				
 ETC_20170726_028364	Vous ne pouvez plus équiper de cartes du même rang.	동일한 등급의 카드를 더 이상 장착할 수 없습니다.				
 ETC_20170726_028365	Aucun boss de terrain dans cette région.	해당 지역에 필드보스가 없습니다.				
-ETC_20170726_028366	N/D	넥슨 런처를 실행해주세요.				
+ETC_20170726_028366	Veuillez lancer le launcher Nexon.	넥슨 런처를 실행해주세요.				
 ETC_20170726_028367	Votre liste de vente contient des objets expirés.	구매 목록중에 기간이 만료된 아이템이 있습니다.				
 ETC_20170726_028368	Remise	할인				
 ETC_20170726_028369	[Premium] Nouveaux Objets	[프리미엄]신규 상품 할인[20% 할인]				
@@ -28529,9 +28529,9 @@ ETC_20170912_028523	Titre décerné aux invités spéciaux du mariage.	결혼을
 ETC_20170912_028524	Titre décerné aux participants de l'événement Baleine de pierre dorée.	황금 석화 고래 이벤트 참여자에게 지급되는 칭호.				
 ETC_20170912_028525	TOSmen	토스맨				
 ETC_20170912_028526	Titre décerné aux participants de l'événement TOSmen.	토스맨 이벤트 참여자에게 지급되는 칭호.				
-ETC_20170912_028527	N/D	{img Collar_Brush 20 20}제1회 일러스트 콘테스트 도전자				
-ETC_20170912_028528	N/D	제1회 일러스트 콘테스트에 응모한 계시자에게 지급되는 칭호.				
-ETC_20170912_028529	N/D	제1회 일러스트 콘테스트 도전자				
+ETC_20170912_028527	{img Collar_Brush 20 20}Participant au 1er Concours d'Illustration	{img Collar_Brush 20 20}제1회 일러스트 콘테스트 도전자				
+ETC_20170912_028528	Titre remis aux Révélateurs ayant participé au 1er Concours d'Illustration.	제1회 일러스트 콘테스트에 응모한 계시자에게 지급되는 칭호.				
+ETC_20170912_028529	Participant au 1er Concours d'Illustration	제1회 일러스트 콘테스트 도전자				
 ETC_20170912_028530	Lecteur	독서가				
 ETC_20170912_028531	A restauré les livres endommagés 5 fois.	손상된 서적을 5회 가져다준 자에게 주어지는 칭호				
 ETC_20170912_028532	Bibliothécaire	사서				
@@ -28672,7 +28672,7 @@ ETC_20170912_028666	  est à l'intérieur du site, la guilde  	 길드가 진입
 ETC_20170912_028667	  perd des points.	 길드의 점령 포인트를 감소시킬 수 있습니다.				
 ETC_20170912_028668	Le nombre de membres du  	타워의 경계선 안쪽으로 진입한 				
 ETC_20170912_028669	  à l'intérieur du site détermine le nombre de points réduits chaque seconde pour la guilde  	 길드 인원 수에 따라 				
-ETC_20170912_028670	  .	 길드의 매 초 감소하는 점령 포인트 수치가 달라집니다.				
+ETC_20170912_028670	.	 길드의 매 초 감소하는 점령 포인트 수치가 달라집니다.				
 ETC_20170912_028671	{nl} {nl}La guilde qui conquiert le site reçoit un bonus,{nl}dont les effets peuvent augmenter avec le temps{nl}selon la durée pendant laquelle le site est maintenu sous le{nl}contrôle de la guilde.	{nl} {nl}스팟 지역을 점령한 길드는 점령 버프를 받게 되며,{nl}점령 유지 시간이 길어질수록 일정 시간마다 더 높은{nl}단계의 버프 효과를 얻을 수 있습니다.				
 ETC_20170912_028672	Ce bonus ne peut toutefois pas être obtenu en dehors de la zone du site.	스팟 지역을 벗어날 경우, 해당 버프의 효과를 받을 수 없으니 유의하세요.				
 ETC_20170912_028673	{nl} {nl}De plus, de temps en temps, un puissant monstre apparaîtra dans la zone du site.{nl}La dernière guilde à attaquer le monstre reçoit un bonus temporaire mais très utile.	{nl} {nl}또한 스팟 지역에서는 일정 시간마다 강력한 몬스터가{nl}등장하며, 해당 몬스터를 마지막으로 타격한 인원의{nl}길드는 강력한 버프를 일시적으로 받을 수 있습니다.	ETC_20170912_028671	{nl} {nl}La guilde qui conquiert le site reçoit un bonus,{nl}dont les effets peuvent augmenter avec le temps{nl}selon la durée pendant laquelle le site est maintenu sous le{nl}contrôle de la guilde.	{nl} {nl}스팟 지역을 점령한 길드는 점령 버프를 받게 되며,{nl}점령 유지 시간이 길어질수록 일정 시간마다 더 높은{nl}단계의 버프 효과를 얻을 수 있습니다.	
@@ -29388,7 +29388,7 @@ ETC_20171128_029382	Un monstre issu des effets personnels d'un Mage. Sa couleur 
 ETC_20171128_029383	Des démons de bas rang du monde démoniaque, animés d'un fort désir de gravir les échelons. Ces Templeslave se sont fait un nom comme assassins après avoir quitté leur rang subalterne.	마계의 하층민인 이들은 끝없는 노역 가운데서도 신분 상승에 대한 열망만은 강렬합니다. 이런 종류의 템플슬레이브는 이미 노예신분은 벗어나 암살자로서 큰 명성을 얻은 상태입니다.				
 ETC_20171128_029384	Un Lepusbunny qui imite les Assassins Lepusbunny. L'imitation n'a aucune conséquence dans leur société.	레푸스버니 암살자를 흉내내는 레푸스버니입니다. 그렇지만 동족에게 별다른 징계를 받지는 않습니다.				
 ETC_20171128_029385	Il est certain qu'ils existaient avant la Medzio Diena. Il est toutefois étrange qu'ils n'aient jamais été découverts par les humains en 1 000 ans d'histoire du royaume. Et lorsque d'étranges phénomènes se produisirent dans le monde après la Medzio Diena, ils apparurent sous ces influences et, hélas, se dressèrent contre les humains. Ceux de cette couleur vivent plusieurs années.	이들은 신수의 날 이전부터 존재한 종이 확실합니다. 다만 왕국의 천년이 넘는 역사에서 한 번도 인간에게 모습을 들킨 적이 없다는 점이 기이한 점입니다. 이후 신수의 날로 세상에 온갖 기이한 일이 벌어지자 이들도 그 영향 아래 모습을 나타내었고, 불행히도 인간과는 적대중입니다. 이런 색상의 개체는 여러 해를 삽니다.				
-ETC_20171128_029386	Il est certain qu'ils existaient avant la Medzio Diena. Il est toutefois étrange qu'ils n'aient jamais été découverts par les humains en 1 000 ans d'histoire du royaume. Et lorsque d'étranges phénomènes se produisirent dans le monde après la Medzio Diena, ils apparurent sous ces influences et, hélas, se dressèrent contre les humains. Heureusement, ils ne vivent qu'un an. 	이들은 신수의 날 이전부터 존재한 종이 확실합니다. 다만 왕국의 천년이 넘는 역사에서 한 번도 인간에게 모습을 들킨 적이 없다는 점이 기이한 점입니다. 이후 신수의 날로 세상에 온갖 기이한 일이 벌어지자 이들도 그 영향 아래 모습을 나타내었고, 불행히도 인간과는 적대중입니다. 다행스러운 일은 1년생 풀이라는 점입니다. 	ETC_20151224_017622	Il est certain qu'ils existaient avant Medzio Diena. Il est cependant étrange qu'ils n'aient jamais été découverts par les humains durant les 1 000 ans d'histoire du royaume. Et lorsque des phénomènes étranges se sont produits dans le monde après Medzio Diena, ils sont apparus sous cette influence et se trouvent malheureusement hostiles aux humains.	이들은 신수의 날 이전부터 존재한 종이 확실합니다. 다만 왕국의 천년이 넘는 역사에서 한 번도 인간에게 모습을 들킨 적이 없다는 점이 기이한 점입니다. 이후 신수의 날로 세상에 온갖 기이한 일이 벌어지자 이들도 그 영향 아래 모습을 나타내었고, 불행히도 인간과는 적대중입니다.	
+ETC_20171128_029386	Il est certain qu'ils existaient avant la Medzio Diena. Il est toutefois étrange qu'ils n'aient jamais été découverts par les humains en 1 ans d'histoire du royaume. Et lorsque d'étranges phénomènes se produisirent dans le monde après la Medzio Diena, ils apparurent sous ces influences et, hélas, se dressèrent contre les humains. Heureusement, ils ne vivent qu'un an. 	이들은 신수의 날 이전부터 존재한 종이 확실합니다. 다만 왕국의 천년이 넘는 역사에서 한 번도 인간에게 모습을 들킨 적이 없다는 점이 기이한 점입니다. 이후 신수의 날로 세상에 온갖 기이한 일이 벌어지자 이들도 그 영향 아래 모습을 나타내었고, 불행히도 인간과는 적대중입니다. 다행스러운 일은 1년생 풀이라는 점입니다. 	ETC_20151224_017622	Il est certain qu'ils existaient avant Medzio Diena. Il est cependant étrange qu'ils n'aient jamais été découverts par les humains durant les 1 000 ans d'histoire du royaume. Et lorsque des phénomènes étranges se sont produits dans le monde après Medzio Diena, ils sont apparus sous cette influence et se trouvent malheureusement hostiles aux humains.	이들은 신수의 날 이전부터 존재한 종이 확실합니다. 다만 왕국의 천년이 넘는 역사에서 한 번도 인간에게 모습을 들킨 적이 없다는 점이 기이한 점입니다. 이후 신수의 날로 세상에 온갖 기이한 일이 벌어지자 이들도 그 영향 아래 모습을 나타내었고, 불행히도 인간과는 적대중입니다.	
 ETC_20171128_029387	Beaucoup ont tenté d'apprivoiser les Tini pour leur bouille adorable, mais tous ont échoué. Les Tini de cette couleur abondent près des sources chaudes et des geysers.	귀여운 외모 탓에 많은 사람들이 티니를 길들이려 하였으나 성공한 적이 없다고 합니다. 온천이나 간헐천 지역 출신일 경우 이런 색상의 티니가 많습니다.				
 ETC_20171128_029388	Beaucoup ont tenté d'apprivoiser les Tini pour leur bouille adorable, mais tous ont échoué. Les Tini de cette couleur vivent généralement plus longtemps que les autres.	귀여운 외모 탓에 많은 사람들이 티니를 길들이려 하였으나 성공한 적이 없다고 합니다. 이 빛깔의 티니는 평균보다 오래 산다고 합니다.				
 ETC_20171128_029389	Il a tendance à respecter les adversaires puissants. Cela ne change pas grand-chose, puisqu'il se montre plus violent envers les plus faibles et adore défier les plus forts. Ceux de cette couleur seraient plus attachés aux valeurs traditionnelles. Autrement dit, ils sont encore plus violents.	마족치고는 강자를 존경하는 특징이 있습니다. 약자에겐 잔혹하고 강자에겐 더 적극적으로 공격하니 결국 별 차이는 없습니다. 이런 색상을 한 개체는 보다 전통적인 관념을 지녔다고 합니다. 그러니까 더 잔혹하단 말입니다.				
@@ -30218,7 +30218,7 @@ ETC_20171128_030212	Aller à Klaipeda et trouver la Sentinelle Rian	클라페다
 ETC_20171128_030213	Tour de Nazaréen Événement 1 - Vérifier les Objets	나자레느 탑 이벤트1 아이템 체크				
 ETC_20171128_030214	Tour de Nazaréen Événement 2 - Vérifier la Progression du Mécanisme	나자레느 탑 이벤트2 기믹 진행 체크				
 ETC_20171128_030215	Tour de Nazaréen - Vérifier les Objets du Mécanisme	나자레느 탑 기믹 아이템 체크				
-ETC_20171128_030216	Tour de Nazaréen Événement 3 - Vérifier la Durée du Buff	나자레느 탑 이벤트4 버프 시간 체크				
+ETC_20171128_030216	Tour de Nazaréen Événement 4 - Vérifier la Durée du Buff	나자레느 탑 이벤트4 버프 시간 체크				
 ETC_20171128_030217	Attirer les lucioles-étoiles	별 반딧불이 유인하기				
 ETC_20171128_030218	Découvrir le sens des paroles et agir en conséquence	노래 가사의 의미를 알아내고 행동하기				
 ETC_20171128_030219	Mettre les pommes dans le pilier de la bonne couleur	사과들을 모두 알맞은 색상의 기둥에 넣기				
@@ -30317,7 +30317,7 @@ ETC_20171128_030311	Commodité	편의
 ETC_20171128_030312	Vous pouvez vous déplacer vers d'autres zones via la statue de la Déesse Vakarine.	바카리네 여신상을 통해 다른 지역으로 이동할 수 있습니다.	ETC_20150317_008829	Appuyez sur F1 pour voir les informations de votre personnage.	F1 키를 이용하여 캐릭터의 정보를 확인할 수 있습니다.	
 ETC_20171128_030313	Vous pouvez vous déplacer vers d'autres zones en utilisant le Parchemin de téléportation s'il n'y a pas de statue de la Déesse Vakarine à proximité.	워프 주문서를 이용하면 바카리네 여신상이 없어도 다른 지역으로 이동할 수 있습니다.	ETC_20150317_008831	Appuyez sur F2 pour ouvrir votre inventaire et voir les objets et l'argent que vous possédez.	F2 키를 이용하여 인벤토리를 열어 소지하고 있는 아이템 및 실버를 확인할 수 있습니다.	
 ETC_20171128_030314	Croissance	육성				
-ETC_20171128_030315	Certains attributs peuvent être activés/désactivés.	일부 특성은 효과를 On/Off 할 수 있습니다.	ETC_20150317_008833	Appuyez sur F1 pour voir les informations sur votre classe, vos Skills et vos attributs.	F3 키를 이용하여 클래스와 스킬, 특성 정보를 확인할 수 있습니다.	
+ETC_20171128_030315	Certains attributs peuvent être activés/désactivés.	일부 특성은 효과를 On/Off 할 수 있습니다.	ETC_20150317_008833	Appuyez sur F3 pour voir les informations sur votre classe, vos Skills et vos attributs.	F3 키를 이용하여 클래스와 스킬, 특성 정보를 확인할 수 있습니다.	
 ETC_20171128_030316	Vous pouvez adopter et entraîner des compagnons auprès du PNJ marchand de compagnons.	컴패니언 상인 NPC를 통해 컴패니언을 분양받거나 성장시킬 수 있습니다.	ETC_20150317_008835	Appuyez sur F4 pour voir votre historique cumulé et votre progression de jeu.	F4 키를 이용하여 현재까지 플레이하며 누적된 기록을 확인 할 수 있습니다.	
 ETC_20171128_030317	Vous pouvez renommer votre compagnon dans la fenêtre d'informations du compagnon (F9).	컴패니언 정보창(F9)에서 컴패니언의 이름을 변경할 수 있습니다.	ETC_20150317_008837	Appuyez sur F5 pour voir les informations sur les quêtes actuellement en cours.	F5 키를 이용하여 현재 진행중인 퀘스트 정보를 확인 할 수 있습니다.	
 ETC_20171128_030318	Si votre fenêtre d'instructions contient trop de quêtes, appuyez sur F5 et masquez celles que vous ne voulez pas voir.	퀘스트 목록이 꽉 차 불편하다면 퀘스트 정보(F5)창에서 원하는 퀘스트만 남기고 가려둘 수 있습니다.	ETC_20150317_008841	Clic droit sur un autre joueur pour envoyer une demande de groupe. Quand une demande est acceptée, vous pouvez jouer ensemble en groupe.	타 캐릭터에 마우스 오른쪽 키를 눌러 파티 초대를 할 수 있습니다. 초대 받은 유저가 수락하면 파티를 맺고 같이 플레이할 수 있습니다. 	
@@ -30377,7 +30377,7 @@ ETC_20171128_030371	D'autres personnages peuvent monter les chars de la déesse,
 ETC_20171128_030372	Contrairement aux autres classes Épéiste, les Corsaires utilisent un pistolet en arme secondaire.	커세어는 다른 전사계열 클래스들과 달리 권총을 보조 무기로 활용합니다.				
 ETC_20171128_030373	Les personnages Templier peuvent créer des guildes à part entière.	템플러는 정식 길드를 설립할 수 있습니다.				
 ETC_20171128_030374	Les Pardonneurs peuvent ouvrir une boutique pour vendre des buffs Pardonneur et Prêtre.	파드너는 프리스트와 파드너의 버프들을 상점으로 개설할 수 있습니다.				
-ETC_20171128_030375	Les buffs de boutique Pardonneur sont 30 % moins efficaces que les buffs de Skill correspondants.	파드너의 버프 상점 효과는 그가 직접 시전하는 것의 70% 위력을 발휘합니다.				
+ETC_20171128_030375	Les buffs de boutique Pardonneur sont 70 % moins efficaces que les buffs de Skill correspondants.	파드너의 버프 상점 효과는 그가 직접 시전하는 것의 70% 위력을 발휘합니다.				
 ETC_20171128_030376	Les personnages Pied-de-plume peuvent combattre en flottant au-dessus du sol.	페더풋은 공중에 뜬 비행 상태로 전투할 수 있습니다.				
 ETC_20171128_030377	Les personnages Peltaste peuvent attirer les monstres en les provoquant.	펠타스타는 도발로 몬스터들의 관심을 끌 수 있습니다.				
 ETC_20171128_030378	Les personnages Empenneur fabriquent leurs propres flèches adaptées à chacune de leurs Skills.	플레쳐의 특수 공격 스킬들은 그에 맞는 화살을 만들어 사용해야 합니다.				
@@ -30430,12 +30430,12 @@ ETC_20171128_030424	Utiliser un Token augmente de +10 le nombre d'emplacements d
 ETC_20171128_030425	Tous les objets, hors Token, apparaissent au marché 2 heures après leur mise en vente.	토큰을 제외한 모든 물품은 마켓 등록 후 2시간 후부터 거래가 시작됩니다.				
 ETC_20171128_030426	La Ligue de combat d'équipe est ouverte à certaines heures de la journée, et les récompenses sont attribuées selon un classement hebdomadaire. Le classement se réinitialise chaque lundi à 6 h (heure du serveur).	팀 배틀리그는 매일 일정 시간마다 개최되며, 주간 랭킹에 의해 보상이 지급됩니다. 랭킹은 월요일 06:00에 초기화 됩니다.				
 ETC_20171128_030427	Chaque jour où vous participez à la Ligue de combat d'équipe, vous obtenez un coffre de récompense TBL.	팀 배틀리그를 플레이하면 하루에 한 번 [팀 배틀리그 보상 상자]를 얻을 수 있습니다.				
-ETC_20171128_030428	Dans les matchs de la Ligue de combat d'équipe, tous les dégâts sont réduits de 70 % par rapport à la normale, et les effets de certains Skills sont réajustés.	팀 배틀리그에서는 피격 대미지가 30%만 적용되며, 일부 스킬들은 평상시와 다른 수치로 작동됩니다.				
+ETC_20171128_030428	Dans les matchs de la Ligue de combat d'équipe, tous les dégâts sont réduits de 30 % par rapport à la normale, et les effets de certains Skills sont réajustés.	팀 배틀리그에서는 피격 대미지가 30%만 적용되며, 일부 스킬들은 평상시와 다른 수치로 작동됩니다.				
 ETC_20171128_030429	Vous pouvez augmenter le nombre d'emplacements de votre entrepôt d'équipe en les achetant avec de l'argent ou en complétant certaines collections.	팀 창고는 실버로 구매하거나 콜렉션 및 모험일지 보상으로 증설할 수 있습니다.				
 ETC_20171128_030430	Les terrains de chasse abritent des monstres plus puissants que ceux des terrains ordinaires.	프리 던전에서는 동 레벨의 일반 필드보다 더 강한 전투력을 가진 몬스터들이 등장합니다.				
 ETC_20171128_030431	Dans les terrains de chasse, vous pouvez obtenir des Album de cartes, des Éclats bénis et d'autres objets spéciaux.	프리 던전에서는 카드첩, 황금 모루, 축복받은 조각 등의 특수 아이템을 얻을 수 있습니다.				
 ETC_20171128_030432	Vous pouvez terminer des quêtes quotidiennes jusqu'à 5 fois par jour. Le compteur se réinitialise chaque jour à 6 h (heure serveur).	하루 5회까지 일일 퀘스트를 진행할 수 있으며, 퀘스트 횟수 초기화 시간은 매일 오전 6시입니다.				
-ETC_20171128_030433	Votre lodge permet un nombre de base de 4{nl}personnages, que vous pouvez augmenter en{nl}achetant des emplacements supplémentaires{nl}avec des TP.	한 월드(서버)에 기본 3개의 캐릭터를 생성할 수 있으며, TP를 소모하여 슬롯을 증설할 수 있습니다.				
+ETC_20171128_030433	Votre lodge permet un nombre de base de 3{nl}personnages, que vous pouvez augmenter en{nl}achetant des emplacements supplémentaires{nl}avec des TP.	한 월드(서버)에 기본 3개의 캐릭터를 생성할 수 있으며, TP를 소모하여 슬롯을 증설할 수 있습니다.				
 ETC_20171128_030434	Les Kit de réparation d'urgence sont utiles en mode Défi et en raid.	긴급 수리 키트는 긴 전투를 벌이는 챌린지 모드나 레이드에서 유용합니다.				
 ETC_20171128_030435	Les maîtres de guilde peuvent définir leur guilde sur  	길드 마스터는 길드 전쟁 선포를 받지 않는 				
 ETC_20171128_030436	Lorsque vous utilisez un objet de réinitialisation de rang, vos points de stats ne sont pas réinitialisés.	랭크 초기화 아이템을 사용해도 스탯은 초기화되지 않습니다.				
@@ -30908,7 +30908,7 @@ ETC_20171128_030902	Des monstres apparaissent autour du dispositif mécanique !	
 ETC_20171128_030903	Ramassage d'une Sphère brumeuse	탁한 구슬을 줍는 중				
 ETC_20171128_030904	Essayez de placer 1 Hazy Sphere.	탁한 구슬을 1개 넣어 본다				
 ETC_20171128_030905	Essayez de placer 5 Hazy Sphere.	탁한 구슬을 5개 넣어 본다				
-ETC_20171128_030906	Essayez de placer 1o Hazy Sphere.	탁한 구슬을 10개 넣어 본다				
+ETC_20171128_030906	Essayez de placer 10o Hazy Sphere.	탁한 구슬을 10개 넣어 본다				
 ETC_20171128_030907	Insertion d'une Sphère Brumeuse	탁한 구슬을 넣는 중				
 ETC_20171128_030908	Le dispositif de purification a purifié la brume dans la sphère !	정화 장치가 구슬에 깃든 탁한 기운을 정화했습니다!				
 ETC_20171128_030909	Grâce à l'énergie sacrée, vous avez gagné le titre de Purificateur !{nl}Vous avez désormais le droit d'ouvrir un coffre au trésor quelque part dans la tour !	신성한 기운과 함께 정화자의 자격이 주어졌습니다!{nl}탑 어딘가에 마련된 보물상자를 열어볼 자격이 생겼습니다!				
@@ -31529,7 +31529,7 @@ ETC_20180208_031523	Avancement Doppelsoeldner	도펠죌트너 전직	ETC_2015031
 ETC_20180208_031524	Avancement Psychokinésiste	사이코키노 전직	ETC_20150317_008658	Avancement Lieur	링커 전직	
 ETC_20180208_031525	Avancement Aumônier	채플린 전직	ETC_20150317_008695	État de Zombie	좀비상태	
 ETC_20180208_031526	Avancement Nak Muay	낙무아이 전직				
-ETC_20180208_031527	Dans les matchs de la Ligue de combat d'équipe, tous les dégâts sont réduits de 80 % par rapport à la normale, et les effets de certains Skills sont réajustés.	팀 배틀리그에서는 피격 대미지가 20%만 적용되며, 일부 스킬들은 평상시와 다른 수치로 작동됩니다.	ETC_20171128_030439	Vainquez un monstre brillant en violet pour créer un portail vers le [mode Défi].	보라색으로 빛나는 몬스터를 처치하면 [챌린지 모드]로 입장할 수 있는 포탈이 생성됩니다.	
+ETC_20180208_031527	Dans les matchs de la Ligue de combat d'équipe, tous les dégâts sont réduits de 20 % par rapport à la normale, et les effets de certains Skills sont réajustés.	팀 배틀리그에서는 피격 대미지가 20%만 적용되며, 일부 스킬들은 평상시와 다른 수치로 작동됩니다.	ETC_20171128_030439	Vainquez un monstre brillant en violet pour créer un portail vers le [mode Défi].	보라색으로 빛나는 몬스터를 처치하면 [챌린지 모드]로 입장할 수 있는 포탈이 생성됩니다.	
 ETC_20180208_031528	Extraire des Éclats bénis d'un objet transcendé détruit l'objet.	초월된 아이템에서 축복받은 조각을 추출하면 아이템은 파괴됩니다.	ETC_20171128_030448	Extraire des Gemmes bénies d'un objet transcendé détruit l'objet.	초월된 아이템에서 축복석을 추출하면 아이템은 파괴됩니다.	
 ETC_20180208_031529	Les Gemmes bénies ne seront pas rendues même en retirant la transcendance. Voulez-vous continuer ?	초월을 제거하면 초월에 사용된 축복석을 돌려받을 수 없습니다. 계속하시겠습니까?	ETC_20160718_022297	La Pierre de transcendance ne sera pas restituée même si vous retirez l'effet de transcendance. Voulez-vous continuer ?	초월을 제거하면 초월에 사용된 초월석을 돌려받을 수 없습니다. 계속하시겠습니까?	
 ETC_20180208_031530	Objet non éligible à l'extraction d'Éclat béni.	축복받은 조각 추출 불가능한 아이템입니다.	ETC_20160811_023305	Objet non éligible à l'extraction de Gemme bénie.	축복석 추출가 불가능한 아이템입니다.	
@@ -32410,7 +32410,7 @@ ETC_20180418_032404	[Code d'erreur 26] Limite de caractères dépassée.	[Error 
 ETC_20180418_032405	[Code d'erreur 27] Cette guilde est neutre.	[Error Code 27] 해당 길드가 중립 상태입니다.				
 ETC_20180418_032406	[Code d'erreur 28] Réglé pour autoriser la participation aux guerres de territoire.	[Error Code 28] 콜로니전 참가로 설정되어 있습니다.				
 ETC_20180418_032407	[Code d'erreur 29] Inutilisable pendant la période entourant une session de guerre de territoire.	[Error Code 29] 콜리니전 시작 준비, 진행, 종료 후 정리 기간에는 사용할 수 없습니다.				
-ETC_20180418_032408	[Code d'erreur 29] Pas assez de membres de guilde en ligne.	[Error Code 30] 접속 중인 길드원 수가 부족합니다.				
+ETC_20180418_032408	[Code d'erreur 30] Pas assez de membres de guilde en ligne.	[Error Code 30] 접속 중인 길드원 수가 부족합니다.				
 ETC_20180418_032409	[Code d'erreur 31] Il y a des objets dans l'entrepôt de guilde.	[Error Code 31] 길드창고에 아이템이 존재합니다.				
 ETC_20180418_032410	[Code d'erreur 32] Code d'autorisation inexistant.	[Error Code 32] 대상 권한 코드가 존재하지 않습니다.				
 ETC_20180418_032411	[Code d'erreur 33] Ce joueur appartient déjà à une guilde.	[Error Code 33] 해당 유저는 이미 길드에 가입된 상태입니다.				
@@ -33048,7 +33048,7 @@ ETC_20180517_033042	Limite de caractères dépassée.	입력할 수 있는 글�
 ETC_20180517_033043	Cette guilde est neutre.	해당 길드가 중립 상태입니다.	ETC_20180418_032405	[Code d'erreur 27] Cette guilde est neutre.	[Error Code 27] 해당 길드가 중립 상태입니다.	
 ETC_20180517_033044	Défini pour autoriser la participation aux guerres de territoire.	콜로니전 참가로 설정되어 있습니다.	ETC_20180418_032406	[Code d'erreur 28] Réglé pour autoriser la participation aux guerres de territoire.	[Error Code 28] 콜로니전 참가로 설정되어 있습니다.	
 ETC_20180517_033045	Impossible à utiliser pendant la période entourant une session de Guerres de territoire.	콜리니전 시작 준비, 진행, 종료 후 정리 기간에는 사용할 수 없습니다.	ETC_20180418_032407	[Code d'erreur 29] Inutilisable pendant la période entourant une session de guerre de territoire.	[Error Code 29] 콜리니전 시작 준비, 진행, 종료 후 정리 기간에는 사용할 수 없습니다.	
-ETC_20180517_033046	Pas assez de membres de guilde en ligne.	접속 중인 길드원 수가 부족합니다.	ETC_20180418_032408	[Code d'erreur 29] Pas assez de membres de guilde en ligne.	[Error Code 30] 접속 중인 길드원 수가 부족합니다.	
+ETC_20180517_033046	Pas assez de membres de guilde en ligne.	접속 중인 길드원 수가 부족합니다.	ETC_20180418_032408	[Code d'erreur 30] Pas assez de membres de guilde en ligne.	[Error Code 30] 접속 중인 길드원 수가 부족합니다.	
 ETC_20180517_033047	Il y a des objets dans l'entrepôt de guilde.	길드창고에 아이템이 존재합니다.	ETC_20180418_032409	[Code d'erreur 31] Il y a des objets dans l'entrepôt de guilde.	[Error Code 31] 길드창고에 아이템이 존재합니다.	
 ETC_20180517_033048	Code d'autorisation inexistant.	대상 권한 코드가 존재하지 않습니다.	ETC_20180418_032410	[Code d'erreur 32] Code d'autorisation inexistant.	[Error Code 32] 대상 권한 코드가 존재하지 않습니다.	
 ETC_20180517_033049	Ce joueur appartient déjà à une guilde.	해당 유저는 이미 길드에 가입된 상태입니다.	ETC_20180418_032411	[Code d'erreur 33] Ce joueur appartient déjà à une guilde.	[Error Code 33] 해당 유저는 이미 길드에 가입된 상태입니다.	
@@ -35385,9 +35385,9 @@ ETC_20180827_035379	[PP] Bon de Déblocage Nak Muay	[PC방] 낙무아이 클래�
 ETC_20180827_035380	Ticket 10 000 Points d'Attribut	특성 포인트 10,000				
 ETC_20180827_035381	Augmente les points d'attribut de 10,000. Clic droit pour utiliser. 	사용시 특성 포인트가 10,000 증가합니다. 마우스 오른쪽 클릭으로 사용합니다.				
 ETC_20180827_035382	Ticket 30 000 Points d'Attribut	특성 포인트 30,000				
-ETC_20180827_035383	Augmente les points d'attribut de 10,000. Clic droit pour utiliser. 	사용시 특성 포인트가 30,000 증가합니다. 마우스 오른쪽 클릭으로 사용합니다.				
+ETC_20180827_035383	Augmente les points d'attribut de 30 000. Clic droit pour utiliser. 	사용시 특성 포인트가 30,000 증가합니다. 마우스 오른쪽 클릭으로 사용합니다.				
 ETC_20180827_035384	Ticket 100 000 Points d'Attribut	특성 포인트 100,000				
-ETC_20180827_035385	Augmente les points d'attribut de 10,000. Clic droit pour utiliser. 	사용시 특성 포인트가 100,000 증가합니다. 마우스 오른쪽 클릭으로 사용합니다.				
+ETC_20180827_035385	Augmente les points d'attribut de 100 000. Clic droit pour utiliser. 	사용시 특성 포인트가 100,000 증가합니다. 마우스 오른쪽 클릭으로 사용합니다.				
 ETC_20180827_035386	[Événement] 50 TP	50 TP[이벤트]				
 ETC_20180827_035387	Utilisez pour obtenir [Événement] 50 TP.	사용 시 이벤트 50 TP를 획득할 수 있습니다.				
 ETC_20180827_035388	[PP] Coupon -50 % teinture	[PC방] 염색 1회 50% 할인권				
@@ -40810,7 +40810,7 @@ ETC_20190223_040803	Les PV des invocations s'affichent en vert pour{nl}les disti
 ETC_20190223_040804	Seules les cartes de type Animal, Plante et{nl}Mutant peuvent être enregistrées dans le{nl}Necronomicon, à raison de quatre cartes{nl}maximum.{nl}En bas du Necronomicon, vous pouvez voir le{nl}nombre de morceaux de cadavre récoltés{nl}jusqu'ici.	네크로노미콘에는 야수형, 식물형, 변이형 카드만 등록할 수 있으며 최대 4장까지 카드를 등록할 수 있습니다.{nl}네크로노미콘 하단부에는 현재까지 모은 사체 파편의 개수를 확인할 수 있습니다.	ETC_20170313_026690	Seules les cartes de type Animal, Plante et{nl}Mutant peuvent être enregistrées sur le{nl}Necronomicon, avec un maximum de quatre{nl}cartes.{nl}En bas du Necronomicon, vous pouvez consulter{nl}le nombre de fragments collectés jusqu'à{nl}présent.	네크로노미콘에는 야수형, 식물형, 변이형 카드만 등록할 수 있으며 최대 4장까지 카드를 등록할 수 있습니다.{nl}네크로노미콘 하단부에는 현재까지 모은 파편의 개수를 확인할 수 있습니다.	
 ETC_20190223_040805	{nl} {nl}Affiche le nombre actuel d'invocations et leurs{nl}PV.{nl} {nl}Vous pouvez consulter les informations de vos{nl}invocations dans l'onglet correspondant de{nl}l'interface d'informations de groupe. Vous{nl}pouvez basculer entre infos de groupe et infos{nl}d'invocation en appuyant sur la touche ({img key~ 40 40}){nl}ou en cliquant sur le bouton {img button_view_info 40 40}.	{nl} {nl}소환 중인 소환수의 개체 수와 체력을 확인할 수{nl}있습니다.{nl} {nl}소환수 정보 보기는 파티 정보 보기의 또다른 탭에서{nl}확인할 수 있습니다.({img key~ 40 40}) 키 또는, {img button_view_info 40 40} 클릭 시, 소환수 정보와 파티 정보 표기를 변경할 수 있습니다.				
 ETC_20190223_040806	Affiche le nombre restant de squelettes{nl}Nécromancien et de zombies Bokor invoqués.	내가 소환한 네크로맨서의 해골과 보코르의 좀비가 현재 몇 마리가 생존하고 있는지 확인할 수 있습니다.				
-ETC_20190223_040807	{nl} {nl}Affiche les PV restants de l'invocation{nl}Invocation du Sorcier, de Salamion, du{nl}Shoggoth du Nécromancien et de la Tour de{nl}cadavres.	{nl} {nl}서모닝 소환수와 살라미온, 쇼고스, 콥스타워의{nl}잔여 체력을 확인할 수 있습니다.				
+ETC_20190223_040807	{nl} {nl}Affiche les PV restants de l'invocation du{nl}Sorcier, de Salamion, du Shoggoth du{nl}Nécromancien et de la Tour de cadavres.	{nl} {nl}서모닝 소환수와 살라미온, 쇼고스, 콥스타워의{nl}잔여 체력을 확인할 수 있습니다.				
 ETC_20190223_040808	Raid du Repaire de Guilde	길드 아지트 레이드				
 ETC_20190223_040809	Vous pouvez participer à un raid du repaire de{nl}guilde au niveau de guilde 5.	길드 레벨 5가 되면 길드 아지트 내에서 레이드를 진행할 수 있습니다.				
 ETC_20190223_040810	Le raid du repaire de guilde se déroule dans{nl}votre repaire de guilde.{nl}Le niveau de guilde 5 est requis pour le lancer.{nl}Interagissez avec l'Émissaire Sage de votre{nl}repaire de guilde pour démarrer le raid du{nl}repaire de guilde.	길드 아지트 레이드는 길드원들과 함께 길드 아지트에서 진행하는 레이드입니다.{nl}레이드를 진행하기 위해서는 길드 레벨이 5 이상이어야 합니다.{nl}길드 아지트 레이드는 길드 아지트 내에 있는 세이지 파견원을 통해 진행할 수 있습니다.				
@@ -43447,7 +43447,7 @@ ETC_20191024_043440	Misrus a créé un cristal psychokinétique.{nl}Détruisez-l
 ETC_20191024_043441	Temps avant l'activation de la Psychokinésie de traque du joueur	계시자 추적 염력 활성화까지				
 ETC_20191024_043442	Temps avant l'activation de la Psychokinésie de récupération de Misrus	머즈루스 회복 염력 활성화까지				
 ETC_20191024_043443	Vous avez déjà un Parchemin rouge.	이미 붉은색 보급품을 소지하고 있습니다.				
-ETC_20191024_043444	Vous avez obtenu un total de {@st66d_y}{s18}{GET}{/}{/} fragments aujourd'hui.{nl}Vous pouvez encore en obtenir {@st66d_y}{s18}{REMAIN}{/}{/} aujourd'hui.{nl}Les fragments gagnés sont comptabilisés à l'échelle de l'équipe{nl}et se réinitialisent chaque jour à 0 h EST	오늘 조각을 총 {@st66d_y}{s18}{GET}{/}{/}개 획득하였습니다.{nl}{@st66d_y}{s18}{REMAIN}{/}{/}개의 조각을더 획득할 수 있습니다.{nl}조각은 팀 단위로 획득할 수 있으며{nl}다음날 00시에 초기화 됩니다				
+ETC_20191024_043444	Vous avez obtenu un total de {@st66d_y}{s18}{GET}{/}{/} fragments aujourd'hui.{nl}Vous pouvez encore en obtenir {@st66d_y}{s18}{REMAIN}{/}{/} aujourd'hui.{nl}Les fragments gagnés sont comptabilisés à l'échelle de l'équipe{nl}et se réinitialisent chaque jour à 00 h EST	오늘 조각을 총 {@st66d_y}{s18}{GET}{/}{/}개 획득하였습니다.{nl}{@st66d_y}{s18}{REMAIN}{/}{/}개의 조각을더 획득할 수 있습니다.{nl}조각은 팀 단위로 획득할 수 있으며{nl}다음날 00시에 초기화 됩니다				
 ETC_20191024_043445	Remettre la Mini-lune	미니 보름달을 교환하여				
 ETC_20191024_043446	Boutique Clair de Lune	달맞이 상점				
 ETC_20191024_043447	Recevoir Mini-lune	미니 보름달을 수령한다				
@@ -43854,7 +43854,7 @@ ETC_20191228_043847	NA	가비야의 은총이 담긴 깃털 봉헌
 ETC_20191228_043848	Boutique de la Déesse Gabija	가비야 테마 교환 상점				
 ETC_20191228_043849	NA	가비야의 은총이 담긴 재료 교환 상점				
 ETC_20191228_043850	XP de solution Pamoka x2 est déjà actif.	이미 시약병 경험치 획득량 2배 증가 효과가 적용되어 있습니다.				
-ETC_20191228_043851	NA	{s24}축하드립니다!{nl}{PC} 님이 가비야의 은총이 담긴 깃털 장식으로{nl}{ITEMNAME} 를(을) 획득하셨습니다!				
+ETC_20191228_043851	{s24}Félicitations !{nl}{PC} a obtenu {ITEMNAME}{nl}grâce à la Parure de plumes emplie de la grâce de Gabija !	{s24}축하드립니다!{nl}{PC} 님이 가비야의 은총이 담긴 깃털 장식으로{nl}{ITEMNAME} 를(을) 획득하셨습니다!				
 ETC_20191228_043852	{#FF0000}Consulter les détails de l'événement{/}	{#FF0000}이벤트 안내를 확인한다{/}				
 ETC_20191228_043853	Obtenir un {#003399}[Événement] Pétard du Nouvel An{/}	{#003399}[이벤트] 4주년 폭죽{/}을 수령한다				
 ETC_20191228_043854	Utiliser l'[Événement] Boutique du Nouvel An	[이벤트] 4주년 기념 상점을 이용한다				
@@ -43867,7 +43867,7 @@ ETC_20191228_043860	Vous avez déjà obtenu la limite quotidienne de 5 000 {#ff6
 ETC_20191228_043861	Vous avez obtenu un total de {@st66d_y}{s18}{GET}{/}{/} pièces.{nl}Vous pouvez encore en obtenir {@st66d_y}{s18}{REMAIN}{/}{/} aujourd'hui.{nl}La limite quotidienne de pièces du Nouvel An est comptabilisée à l'échelle de l'équipe{nl}et se réinitialise chaque jour à 6 h EST.	오늘 4주년 기념 주화를 총 {@st66d_y}{s18}{GET}{/}{/}개 획득했습니다.{nl}{@st66d_y}{s18}{REMAIN}{/}{/}개의 4주년 기념 주화를 더 획득할 수 있습니다.{nl}4주년 기념 주화는 팀 단위로 획득할 수 있으며{nl}다음날 오전 06시에 초기화 됩니다				
 ETC_20191228_043862	Les {@st66d_y}{s20}[Événement] Pièces du Nouvel An{/}{/} seront octroyées sous peu. Si vous revenez avant leur remise, vous risquez de ne pas les recevoir.	곧 {@st66d_y}{s20}[이벤트] 4주년 기념 주화{/}{/}가 지급됩니다. {@st66d_y}{s20}[이벤트] 4주년 기념 주화{/}{/} 지급 전 종료시 정상적으로 아이템이 지급되지 않을 수 있습니다.				
 ETC_20191228_043863	{#003399}Détails de l'Événement du Nouvel An{/}	{#003399}신년 이벤트 안내{/}				
-ETC_20191228_043864	NA	가비야의 은총이 담긴 깃털 부족합니다.				
+ETC_20191228_043864	Vous n'avez pas assez de Plumes emplies de la grâce de Gabija.	가비야의 은총이 담긴 깃털 부족합니다.				
 ETC_20191228_043865	[Événement] Boutique Déesse Gabija	[이벤트] 가비야 테마				
 ETC_20191228_043866	NA	[유료 상품 교환 NPC]{nl}가비야의 전령				
 ETC_20191228_043867	Assistant de l'Événement du Week-end	주말 이벤트 도우미				
@@ -43926,15 +43926,15 @@ ETC_20200128_043919	Vous entrez dans Défense en montée en interagissant avec S
 ETC_20200128_043920	Les guerres de territoire de guilde ont lieu chaque dimanche à 20 h pendant une heure.	매주 일요일 오후 8시부터 1시간 동안, 길드 콜로니전이 진행됩니다.				
 ETC_20200128_043921	Terminez le Donjon Vestiges de Bernice via le PNJ Maître Oracle de Klaipeda et récupérez les récompenses de participation et de classement.	클라페다의 오라클 마스터 NPC를 통해, 베르니케의 파편 던전을 진행하면, 매주 1회 랭킹/참여 보상을 받을 수 있습니다.				
 ETC_20200128_043922	PP	PC방				
-ETC_20200128_043923	N/D	넥슨 PC방에서 플레이하면 PC방 포인트를 적립할 수 있으며, 해당 포인트는 특별한 보상과 교환할 수 있습니다.				
-ETC_20200128_043924	N/D	넥슨 PC방에서는 매일 1회, TP 아이템 랜덤 상자를 받을 수 있습니다.				
-ETC_20200128_043925	N/D	넥슨 PC방에서는 월 1회, 성장 지원 상자를 받을 수 있습니다.				
-ETC_20200128_043926	N/D	넥슨 PC방에서 플레이하면 자신의 캐릭터 레벨에 맞는 +11강 +8초월 무기와 방어구를 무료로 대여할 수 있습니다.				
-ETC_20200128_043927	N/D	넥슨 PC방에서 플레이하면 경험치 +50% 버프가 주어지며, 다른 넥슨 PC방에서 플레이하는 유저와 파티를 맺으면 +50% 경험치가 추가됩니다.				
+ETC_20200128_043923	Jouer dans un cybercafé Nexon rapporte des points de cybercafé, échangeables contre des récompenses spéciales.	넥슨 PC방에서 플레이하면 PC방 포인트를 적립할 수 있으며, 해당 포인트는 특별한 보상과 교환할 수 있습니다.				
+ETC_20200128_043924	Dans un cybercafé Nexon, vous recevez un coffre aléatoire d'objets TP une fois par jour.	넥슨 PC방에서는 매일 1회, TP 아이템 랜덤 상자를 받을 수 있습니다.				
+ETC_20200128_043925	Dans un cybercafé Nexon, vous recevez un coffre d'aide à la progression une fois par mois.	넥슨 PC방에서는 월 1회, 성장 지원 상자를 받을 수 있습니다.				
+ETC_20200128_043926	Jouer dans un cybercafé Nexon permet d'emprunter gratuitement une arme et une armure +11 et +8 en transcendance, adaptées au niveau de votre personnage.	넥슨 PC방에서 플레이하면 자신의 캐릭터 레벨에 맞는 +11강 +8초월 무기와 방어구를 무료로 대여할 수 있습니다.				
+ETC_20200128_043927	Jouer dans un cybercafé Nexon accorde un buff d'EXP +50 %, et former un groupe avec un autre joueur en cybercafé Nexon ajoute encore +50 % d'EXP.	넥슨 PC방에서 플레이하면 경험치 +50% 버프가 주어지며, 다른 넥슨 PC방에서 플레이하는 유저와 파티를 맺으면 +50% 경험치가 추가됩니다.				
 ETC_20200128_043928	N/D	넥슨 PC방에서 플레이하면 이동 속도가 +3 증가합니다. (토큰 혜택과 중복되지 않습니다.)				
 ETC_20200128_043929	.N/D	넥슨 PC방에서는 챌린지 모드 입장 가능 횟수가 1회 증가합니다.				
-ETC_20200128_043930	N/D	넥슨 PC방에서 마켓에 등록한 아이템은 판매 수수료가 10%로 할인됩니다.				
-ETC_20200128_043931	N/D	넥슨 PC방에서는 캐릭터 당 최대 10개의 아이템을 마켓에 등록할 수 있습니다.				
+ETC_20200128_043930	Les objets mis en vente au Marché depuis un cybercafé Nexon voient leur commission de vente réduite à 10 %.	넥슨 PC방에서 마켓에 등록한 아이템은 판매 수수료가 10%로 할인됩니다.				
+ETC_20200128_043931	Dans un cybercafé Nexon, chaque personnage peut mettre en vente jusqu'à 10 objets au Marché.	넥슨 PC방에서는 캐릭터 당 최대 10개의 아이템을 마켓에 등록할 수 있습니다.				
 ETC_20200128_043932	Fabrication d'Ark	아크 합성				
 ETC_20200128_043933	Transfert d'Ark	아크 이전				
 ETC_20200128_043934	[Alchimiste Professionnel]{nl}Abelu	[전문 알케미스트]{nl}아벨루	ETC_20161005_025528	[Maître Inquisiteur]{nl}Thomas Iquinostasys	[인퀴지터 마스터]{nl}토마스 이코노스타시스	
@@ -43962,7 +43962,7 @@ ETC_20200128_043955	Une meute de démons ne cesse d'arriver !	마족 무리가 �
 ETC_20200128_043956	Le chef des démons est apparu ! Vainquez les démons !	마족의 리더가 나타났습니다! 마족 무리를 모두 처치하세요!				
 ETC_20200128_043957	Quelque chose est apparu !	중앙에서 무언가 나타났습니다!				
 ETC_20200128_043958	Cela se termine dans 10 minutes.	10분 뒤 종료됩니다				
-ETC_20200128_043959	Cela se termine dans 10 minutes.	5분 뒤 종료됩니다				
+ETC_20200128_043959	Cela se termine dans 5 minutes.	5분 뒤 종료됩니다				
 ETC_20200128_043960	Échec : retour à la zone de départ dans 30 secondes.	실패 : 30초 후 원래 존으로 돌아갑니다				
 ETC_20200128_043961	Réussi !{nl}Retour dans 60 secondes	성공!{nl}60초 후에 돌아갑니다				
 ETC_20200128_043962	Réussite !!	성공!!				
@@ -44856,7 +44856,7 @@ ETC_20200129_044849	Ouvert aux joueurs sous le Niv.400.	레벨 400 이하만 참
 ETC_20200129_044850	Vous avez obtenu la quantité maximale de bonbons pour la journée.	오늘 획득 할 수 있는 사탕을 모두 획득했습니다.	ETC_20191104_043777	Vous avez obtenu la quantité maximale de bonbons pour la journée.	오늘 획득 할 수 있는 주화를 모두 획득했습니다.	
 ETC_20200129_044851	Vous avez obtenu la quantité maximale de bonbons du Mêlée de minuit d'Halloween.	할로윈 밤의 소동에서 오늘 획득 할 수 있는 사탕을 모두 획득했습니다.	ETC_20191104_043778	Vous avez obtenu la quantité maximale de bonbons pouvant provenir du Mêlée de minuit d'Halloween.	할로윈 밤의 소동에서 오늘 획득 할 수 있는 주화를 모두 획득했습니다.	
 ETC_20200129_044852	L'événement quiz est terminé.{nl}Nous reviendrons avec un quiz encore plus palpitant !	퀴즈 이벤트가 종료되었습니다.{nl}더 재밌는 퀴즈로 찾아오겠습니다!				
-ETC_20200129_044853	NA	퀴즈 오브 세이비어 이벤트 시즌1이 종료되었습니다.{nl}더 재밌는 퀴즈로 찾아오겠습니다.{nl}감사합니다.				
+ETC_20200129_044853	La saison 1 de l'événement Quiz of Savior est terminée.{nl}Nous reviendrons avec des quiz encore plus amusants.{nl}Merci à vous.	퀴즈 오브 세이비어 이벤트 시즌1이 종료되었습니다.{nl}더 재밌는 퀴즈로 찾아오겠습니다.{nl}감사합니다.				
 ETC_20200129_044854	Quiz du Sauveur !{nl}L'événement commence dans 5 minutes.	퀴즈 오브 세이비어!{nl}5분 후 퀴즈 이벤트가 시작됩니다.				
 ETC_20200129_044855	Les récompenses pour les bonnes réponses ont été envoyées.	퀴즈 이벤트의 정답을 보상이 지급되었습니다.				
 ETC_20200129_044856	Bonne réponse : {QUIZ}{nl}{NAME} a trouvé !{nl}Bravo !	정답 : {QUIZ}{nl}{NAME} 님이 정답을 맞히셨습니다.{nl}축하합니다!				
@@ -45053,7 +45053,7 @@ ETC_20200129_045046	Échanger Contre un Soutien d'Aménagement de Maison Niv 1	1
 ETC_20200129_045047	Échanger Contre un Soutien d'Aménagement de Maison Niv 2	2 단계 주거 정착 물품과 교환한다				
 ETC_20200129_045048	Échanger Contre un Soutien d'Aménagement de Maison Niv 3	3 단계 주거 정착 물품과 교환한다				
 ETC_20200129_045049	Points de Logement Insuffisants	개인 하우징 포인트가 부족 합니다				
-ETC_20200129_045050	Disponible pour les personnages de Niv.400 ou plus.	캐릭터 레벨이 440레벨 이상인 경우만 사용 가능합니다.				
+ETC_20200129_045050	Disponible pour les personnages de Niv.440 ou plus.	캐릭터 레벨이 440레벨 이상인 경우만 사용 가능합니다.				
 ETC_20200129_045051	Nécessite 3 Avancements	3번의 전직을 하셔야 가능합니다.				
 ETC_20200129_045052	La classe n'existe pas.	존재하지 않는 직업입니다.				
 ETC_20200129_045053	L'objet n'existe pas.	존재하지 않는 아이템입니다.				
@@ -46410,7 +46410,7 @@ ETC_20200320_046403	[Événement]Informations sur l'obtention de Pièce perdue{n
 ETC_20200320_046404	Donner l'[Événement] Poisson rouge au chat du spot de pêche.	낚시터 고양이에게 [이벤트]빨간 물고기를 건네준다.				
 ETC_20200320_046405	Vous n'avez pas assez d'[Événement] Poisson rouge.	[이벤트]빨간 물고기가 부족합니다.				
 ETC_20200320_046406	Boutique de Pièce Perdue	잃어버린 주화 상점				
-ETC_20200320_046407	La zone est est désormais active et a commencé à se charger.	동쪽 지역이 활성화되어 충전을 시작합니다.				
+ETC_20200320_046407	La zone de l'est est désormais active et a commencé à se charger.	동쪽 지역이 활성화되어 충전을 시작합니다.				
 ETC_20200320_046408	La zone sud est désormais active et a commencé à se charger.	남쪽 지역이 활성화되어 충전을 시작합니다.				
 ETC_20200320_046409	La zone ouest est désormais active et a commencé à se charger.	서쪽 지역이 활성화되어 충전을 시작합니다.				
 ETC_20200320_046410	La zone nord est désormais active et a commencé à se charger.	북쪽 지역이 활성화되어 충전을 시작합니다.				
@@ -47601,7 +47601,7 @@ ETC_20200514_047594	Vous ne pouvez entrer dans un donjon instancié{nl}qu'un nom
 ETC_20200514_047595	{nl} {nl}Vous pouvez entrer dans les donjons instanciés{nl}avec votre groupe ou des joueurs aléatoires via{nl}la recherche auto.	{nl} {nl}인스턴스 던전은 파티를 맺은 유저나 자동 매칭을 통해 다른 사람들과 진행할 수 있습니다.	ETC_20171128_029928	{nl} {nl}Les donjons sont accessibles à Klaipeda auprès de Sentinelle Rian.	{nl} {nl}클라페다에 던전 입장을 관리하고 있는 경비병 리엔이 위치하고 있습니다.	
 ETC_20200514_047596	Si vous voulez entrer immédiatement dans le{nl}donjon instancié, cliquez sur 	바로 입장을 원할 경우, 				
 ETC_20200514_047597	Entrer Maintenant	바로 입장				
-ETC_20200514_047598	{nl}et vous entrerez sans attendre dans le donjon{nl}instancié.{nl}Si vous souhaitez entrer dans le donjon{nl}instancié à moins de 5, cliquez sur le 	 버튼을 누르면 매칭 대기 없이 바로 인스턴스 던전에 입장할 수 있습니다.{nl}4인 이하로 입장하고 싶을 시, 				
+ETC_20200514_047598	{nl}et vous entrerez sans attendre dans le donjon{nl}instancié.{nl}Si vous souhaitez entrer dans le donjon{nl}instancié à moins de 4, cliquez sur le 	 버튼을 누르면 매칭 대기 없이 바로 인스턴스 던전에 입장할 수 있습니다.{nl}4인 이하로 입장하고 싶을 시, 				
 ETC_20200514_047599	Partie de 2 à 4 Joueurs	4인 이하 입장				
 ETC_20200514_047600	{nl}bouton pour entrer avec ceux qui attendent{nl}actuellement avec vous.	을 누르면 4인 이하로 입장할 수 있습니다.				
 ETC_20200514_047601	peut activer le mode{nl}Multiplier et vous octroyer plus de récompenses{nl}à l'achèvement du donjon instancié.	을 사용하면 인스턴스 던전 클리어 시, 더 많은 보상을 받을 수 있습니다.				
@@ -48776,7 +48776,7 @@ ETC_20200710_048769	[Logement Personnel] Table Élégante du Bureau du Manoir	[�
 ETC_20200710_048770	[Logement Personnel] Pupitre de Lecture du Bureau du Manoir	[개인 하우징]저택 서재 독서대				
 ETC_20200710_048771	[Logement Personnel] Coussin Douillet du Bureau du Manoir	[개인 하우징]저택 서재 안락한 쿠션				
 ETC_20200710_048772	[Logement Personnel] Rêveur du Bureau du Manoir	[개인 하우징]저택 서재 꿈이 담긴 보관함				
-ETC_20200710_048773	{#8e0000} 7 Points{/}{nl}Un objet d'habitation pour les maisons des Saviors.{nl}Peut être placé au sol.{nl}(Des poissons nagent dans l'aquarium.)	{#8e0000} 배치 포인트 6 점{/}{nl}개인 하우징 내에 배치할 수 있는 물품 입니다.{nl}지면 위치에 배치할 수 있습니다{nl}(배치 후 건드리면 천체가 움직입니다)				
+ETC_20200710_048773	{#8e0000} 6 Points{/}{nl}Un objet d'habitation pour les maisons des Saviors.{nl}Peut être placé au sol.{nl}(Des poissons nagent dans l'aquarium.)	{#8e0000} 배치 포인트 6 점{/}{nl}개인 하우징 내에 배치할 수 있는 물품 입니다.{nl}지면 위치에 배치할 수 있습니다{nl}(배치 후 건드리면 천체가 움직입니다)				
 ETC_20200710_048774	[Logement Personnel] Cloison en Bois du Bureau du Manoir	[개인 하우징]저택 서재 목재 칸막이				
 ETC_20200710_048775	[Logement Personnel] Cloison à Rail du Bureau du Manoir	[개인 하우징]저택 서재 난간형 칸막이				
 ETC_20200710_048776	[Logement personnel] Cloison haut de gamme du bureau du manoir	[개인 하우징]저택 서재 고급 칸막이				
@@ -48799,7 +48799,7 @@ ETC_20200710_048792	Bon de logement personnel : 1 000 000 d'argent	개인 하우
 ETC_20200710_048793	Bon utilisable à la boutique de logement personnel.{nl}À l'achat d'un meuble, 1 bon vaut 1 000 000 d'argent.	개인 하우징 상점에서 사용할 수 있는 상품권입니다.{nl}가구 구입 시, 1장 당 1,000,000 만큼 실버대신 지불할 수 있습니다.				
 ETC_20200710_048794	Bon de logement personnel : 500 000 argent	개인 하우징 상품권 : 50만실버				
 ETC_20200710_048795	Bon utilisable à la boutique de logement personnel.{nl}À l'achat d'un meuble, 1 bon vaut 500 000 argent.	개인 하우징 상점에서 사용할 수 있는 상품권입니다.{nl}가구 구입 시, 1장 당 500,000 만큼 실버대신 지불할 수 있습니다.				
-ETC_20200710_048796	{#8e0000} 11 points{/}{nl}Un objet de décoration pour la maison des{nl}Sauveurs.{nl}Récompense de classement du Raid de{nl}boss hebdomadaire. 	{#8e0000} 배치 포인트 7 점{/}{nl}개인 하우징 내에 배치할 수 있는 물품 입니다.{nl}주간 보스 레이드 콘텐츠의 랭킹 보상입니다.				
+ETC_20200710_048796	{#8e0000} 7 points{/}{nl}Un objet de décoration pour la maison des{nl}Sauveurs.{nl}Récompense de classement du Raid de{nl}boss hebdomadaire. 	{#8e0000} 배치 포인트 7 점{/}{nl}개인 하우징 내에 배치할 수 있는 물품 입니다.{nl}주간 보스 레이드 콘텐츠의 랭킹 보상입니다.				
 ETC_20200710_048797	[Trophée de Bronze] Seigneur Démon Ronce	[브론즈 트로피] 마군주 브람블				
 ETC_20200710_048798	[Trophée d'Argent] Seigneur Démon Ronce	[실버 트로피] 마군주 브람블				
 ETC_20200710_048799	[Trophée d'or] Seigneur Démon Ronce	[골드 트로피] 마군주 브람블				
@@ -49102,7 +49102,7 @@ ETC_20200710_049095	Fièvre vengeresse : la rage de Boruta vise les alliés.	복
 ETC_20200710_049096	Fièvre vengeresse : la Fièvre vengeresse est créée	복수의 미열 : 복수의 미열이 생성되었습니다				
 ETC_20200710_049097	1 minute restante.	제한 시간 1분 남았습니다				
 ETC_20200710_049098	30 secondes restantes.	제한 시간 30초 남았습니다				
-ETC_20200710_049099	Le premier objectif a commencé{nl}Protégez l'Autel de terre des monstres pendant 270 secondes	첫 번째 목표가 시작되었습니다{nl}몬스터들로부터 30초 동안 대지의 제단을 보호하세요				
+ETC_20200710_049099	Le premier objectif a commencé{nl}Protégez l'Autel de terre des monstres pendant 30 secondes	첫 번째 목표가 시작되었습니다{nl}몬스터들로부터 30초 동안 대지의 제단을 보호하세요				
 ETC_20200710_049100	Le premier objectif a commencé{nl}Protégez Kupole Lhuta pendant 30{nl}secondes	첫 번째 목표가 시작되었습니다{nl}30초 동안 큐폴 루타를 보호하세요				
 ETC_20200710_049101	Le premier objectif a commencé{nl}Protégez la Sphère céleste des monstres pendant 30 secondes	첫 번째 목표가 시작되었습니다{nl}몬스터들로부터 30초 동안 천체구를 보호하세요				
 ETC_20200710_049102	Sentinelle Croisée	크루세이더 보초병				
@@ -51103,7 +51103,7 @@ ETC_20200902_051096	Impossible à utiliser pendant l'appariement en Ligue de com
 ETC_20200902_051097	Impossible à utiliser pendant un appariement automatique.	자동매칭 중에는 사용하실 수 없습니다.				
 ETC_20200902_051098	Vous pouvez utiliser un bulletin de vote pour le maître sélectionné.{nl}Vous avez utilisé {#0000FF}{CNT}{/} bulletin(s) de vote pour ce maître cette semaine. {nl} {nl} {nl}Nombre total de bulletins de vote utilisés pour ce maître : {#0000FF}{ACC}{/} {nl} Le vote est pris en compte toutes les 10 minutes	선택한 마스터에게 보유한 투표권을 사용하실 수 있습니다.{nl}이번주 해당 마스터에게 {#0000FF}{CNT}{/}개의 투표권을 사용하였습니다. {nl} {nl} {nl}해당 마스터에게 사용한 전체 누적 투표권 : {#0000FF}{ACC}{/}개 {nl} 투표는 10분마다 반영됩니다				
 ETC_20200902_051099	[Événement] Votre maître{nl}Insigne de maître ({CNT}/{MAXCNT}){nl}Obtenez 1 bulletin de vote après 1 heure de connexion ({TIME}/{MAXTIME} minutes){nl}*La limite quotidienne se réinitialise chaque jour à 6 h EST.	[이벤트] 당신의 마스터{nl}마스터 뱃지 ({CNT}/{MAXCNT}){nl}1시간 접속 시 투표권 1장 획득({TIME}/{MAXTIME}분){nl}*일일 획득량은 매일 오전 6시 초기화됩니다.				
-ETC_20200902_051100	Impossible d'ajouter d'autres zones aux favoris.{nl}5 favoris maximum.	즐겨찾기에 지역을 더 이상 등록할 수 없습니다.{nl}즐겨찾기는 최대 8개까지 등록 가능합니다.	ETC_20200826_050992	Impossible d'ajouter d'autres cartes aux favoris.{nl}8 favoris maximum.	즐겨찾기에 맵을 더 이상 등록할 수 없습니다.{nl}즐겨찾기는 최대 8개까지 등록 가능합니다.	
+ETC_20200902_051100	Impossible d'ajouter d'autres zones aux favoris.{nl}8 favoris maximum.	즐겨찾기에 지역을 더 이상 등록할 수 없습니다.{nl}즐겨찾기는 최대 8개까지 등록 가능합니다.	ETC_20200826_050992	Impossible d'ajouter d'autres cartes aux favoris.{nl}8 favoris maximum.	즐겨찾기에 맵을 더 이상 등록할 수 없습니다.{nl}즐겨찾기는 최대 8개까지 등록 가능합니다.	
 ETC_20200902_051101	Aucune zone enregistrée	등록된 지역이 없습니다	ETC_20200826_051005	Aucune carte enregistrée	등록된 맵이 없습니다	
 ETC_20200902_051102	État du Classement	순위 현황				
 ETC_20200902_051103	Dernier Résultat de Vote	지난 투표 결과				
@@ -51609,7 +51609,7 @@ ETC_20201030_051602	pour verser 100 000 argent et recevoir l'une des récompense
 ETC_20201030_051603	{nl} {nl}À la fin de l'événement [Grâce de la Déesse], une{nl}partie de l'argent récolté sera distribuée{nl}différemment à 20 groupes au maximum, selon{nl}les conditions de classement du Raid Frappe{nl}conjointe.	{nl} {nl}[여신의 가호] 이벤트가 종료되면, 보스 협동전 순위 조건에 따른 최대 20개의 파티에게 모금된 실버의 일부가 차등 분배됩니다.				
 ETC_20201030_051604	- Plus le classement est élevé, plus la{nl}[Bénédiction de la Déesse] rapporte d'argent.{nl} {nl}- Le [Cube de raid Frappe conjointe] est remis à{nl}10 groupes au maximum, selon le classement.{nl} {nl}- Les membres du groupe classé 1er à la fin de la{nl}[Bénédi	- 순위가 높을 수록 [여신의 가호]로 모금된 실버를 더 많이 지급받게 됩니다.{nl} {nl}- 집계된 순위에 따라 [보스 협동전 큐브]가 지급되며, 최대 10개의 파티까지 획득 가능합니다.{nl} {nl}- [여신의 가호] 종료 후 1위를 차지한 파티 구성원들을 메시지를 통해 안내합니다.{nl} {nl}이 도움말은 시스템 메뉴의 {img help_button_normal 25 25}버튼을 클릭해{nl}다시 볼 수 있습니다.				
 ETC_20201030_051605	Journal relatif au mode Protection	보호모드 관련 로그				
-ETC_20201030_051606	Données MongoDriver en Excès (Plus de 999)	몽고드라이버 입력량이 많음(1000이상)				
+ETC_20201030_051606	Données MongoDriver en Excès (Plus de 1 000)	몽고드라이버 입력량이 많음(1000이상)				
 ETC_20201030_051607	Journal des Erreurs du Gacha Argent	Silver Gacha 에러 로그				
 ETC_20201030_051608	Ancienne Bibliothèque fantastique : unique	과거 환상도서관: 유니크				
 ETC_20201030_051609	Premier refuge : unique	첫 번째 피난처: 유니크				
@@ -52715,7 +52715,7 @@ ETC_20210104_052708	[2021] 1 000 Points d'Attribut	[신년맞이] 특성 포인�
 ETC_20210104_052709	Objet d'événement.{nl}Octroie 1 000 points d'attribut. Clic droit pour utiliser.{nl}{#ff0000}L'objet sera supprimé à la date annoncée.{/}	이벤트로 지급되는 아이템입니다.{nl}사용시 특성 포인트가 1,000 증가합니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}{#ff0000}2월 25일 오전 06시00분에 삭제됩니다.{/}				
 ETC_20210104_052710	[2021] 10 000 Points d'Attribut	[신년맞이] 특성 포인트 10,000				
 ETC_20210104_052711	Objet d'événement.{nl}Octroie 10 000 points d'attribut. Clic droit pour utiliser.{nl}{#ff0000}L'objet sera supprimé à la date annoncée.{/}	이벤트로 지급되는 아이템입니다.{nl}사용시 특성 포인트가 10,000 증가합니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}{#ff0000}2월 25일 오전 06시00분에 삭제됩니다.{/}				
-ETC_20210104_052712	[2021] Bon d'une Entrée du Mode Défi	[신년맞이] 챌린지 모드 1회 입장권				
+ETC_20210104_052712	[1] Bon d'une Entrée du Mode Défi	[신년맞이] 챌린지 모드 1회 입장권				
 ETC_20210104_052713	À utiliser pour obtenir une entrée supplémentaire en mode Défi.{nl}{#ff0000}L'objet sera supprimé à la date annoncée.{/}	챌린지 모드 입장 횟수를 1 차감합니다.{nl}{#ff0000}2월 25일 오전 06시00분에 삭제됩니다.{/}				
 ETC_20210104_052714	[2021] Parchemin de Portail de Défi	[신년맞이] 챌린지 포탈 생성 스크롤				
 ETC_20210104_052715	À utiliser pour créer un portail de défi.{nl}{#ff0000}L'objet sera supprimé à la date annoncée.{/}	사용 시 챌린지 포탈이 생성 됩니다.{nl}{#ff0000} 2월 25일 오전 06시00분에 삭제됩니다.{/}				
@@ -55617,7 +55617,7 @@ ETC_20210115_055605	Sécurisez le chemin vers le Sanctuaire de Deive !{nl}Vite !
 ETC_20210115_055606	Ces dispositifs lumineux{nl}doivent être les 6 sources d'alimentation auxiliaires dont{nl}parlait Mulia.	저 빛나는 장치들이{nl}뮬리아가 말한 6개의 보조 장치 같습니다.				
 ETC_20210115_055607	Des points d'attribut sont donnés.	특성포인트가 지급되었습니다.				
 ETC_20210115_055608	Vous avez déjà reçu des points d'attribut aujourd'hui.{nl}※Réinitialisation chaque jour à 6 h heure serveur.	오늘은 이미 특성 포인트를 받으셨습니다.{nl}※매일 오전 06시에 초기화 됩니다				
-ETC_20210115_055609	Ouvert aux joueurs sous le Niv.400.	레벨 420 이하만 참여 할 수 있습니다.				
+ETC_20210115_055609	Ouvert aux joueurs sous le Niv.420.	레벨 420 이하만 참여 할 수 있습니다.				
 ETC_20210115_055610	Recevoir un soutien de croissance. [ Disponible pour l'équipe : {#FF0000}{COUNT}{/} ] fois	성장 지원을 받는다. [ 팀 기준 남은 횟수 : {#FF0000}{COUNT}{/} ] 회				
 ETC_20210115_055611	Le personnage a déjà reçu le soutien de croissance.	이미 성장지원을 받은 캐릭터 입니다.				
 ETC_20210115_055612	Vous ne pouvez plus recevoir le soutien de croissance.	더 이상 성장지원을 받을 수 없습니다.				
@@ -56074,7 +56074,7 @@ ETC_20210222_056062	Augmente de 1 le nombre d'entrées pour Raid Res Sacrae : Co
 ETC_20210222_056063	Purificateur de Souffle de Puissance	권능의 숨결 정화제				
 ETC_20210222_056064	Sert à purifier le Souffle de puissance.	권능의 숨결 정화에 사용됩니다.				
 ETC_20210222_056065	Bon d'une entrée Croisement des lépidoptères : Légende (recherche auto)	나비목 접선지: 레전드(자동 매칭) 1회 입장권				
-ETC_20210222_056066	Bon d'une entrée Forêt de la sorcière blanche : Légende (recherche auto) (7 jours)	하얀 마녀의 숲: 레전드(자동 매칭) 1회 입장권				
+ETC_20210222_056066	Bon d'une entrée Forêt de la sorcière blanche : Légende (recherche auto) (1 jours)	하얀 마녀의 숲: 레전드(자동 매칭) 1회 입장권				
 ETC_20210222_056067	Carte de saut de niveau (Niv.450)	레벨 점핑 카드 (450레벨)				
 ETC_20210222_056068	{#0000ff} - Réservé aux personnages de moins de Niv. 450.{/}{nl} {nl}Le personnage passe au Niv.450 à l'utilisation.	{#0000ff} - 450 레벨 미만 일 때만 사용 가능합니다.{/}{nl} {nl}사용 시 캐릭터가 450 레벨이 됩니다.				
 ETC_20210222_056069	Pack de Croissance du Nouvel An du BœUf	신축년 새해 성장 패키지				
@@ -62894,7 +62894,7 @@ ETC_20210809_062881	Carte de Maître	마스터 카드
 ETC_20210809_062882	Ingrédient de la Déesse	가디스 재료				
 ETC_20210809_062883	Bon de Déblocage de Classe Cachée	히든 직업 해금권				
 ETC_20210809_062884	Réinitialiser	초기화				
-ETC_20210809_062885	{#FF0000}}※ Seuls les personnages de Niv 459 ou moins peuvent participer.{/}	{#FF0000}}※ 460미만 캐릭터만 참여 가능합니다.{/}				
+ETC_20210809_062885	{#FF0000}}※ Seuls les personnages de Niv 460 ou moins peuvent participer.{/}	{#FF0000}}※ 460미만 캐릭터만 참여 가능합니다.{/}				
 ETC_20210809_062886	{#0033FF}[Pêche à la Pastèque]{/} Détails de l'Événement	{#0033FF}[수박 낚시]{/} 이벤트 안내				
 ETC_20210809_062887	{#0033FF}[Pêche à la Pastèque]{/} Recevoir Appât Tentacule de Poulpe	{#0033FF}[수박 낚시]{/} 문어발 미끼 수령하기				
 ETC_20210809_062888	{#0033FF}[Pêche à la Pastèque]{/} Boutique de l'Événement	{#0033FF}[수박 낚시]{/} 이벤트 상점				
@@ -63900,7 +63900,7 @@ ETC_20211021_063887	Même le hors-la-loi légendaire connaît parfois la misère
 ETC_20211021_063888	Dernier Bastion	믿을만한 구석				
 ETC_20211021_063889	quand l'argent vient à manquer.{nl} {nl} - Utilisation : troc avec le PNJ [Marchand démon] pour un Ordre écrit supérieur	으로 사용됩니다.{nl} {nl} - 사용처 : 상급 지령서 [마족 상인] NPC 물물 교환				
 ETC_20211021_063890	Couronne de Popo Hibert Walker Schofieldu IV	포포 히버트 워커 스코필두 4세의 왕관				
-ETC_20211021_063891	Symbole de l'autorité royale du royaume Popo. Elle est remise au Popolion le plus lourd de l'année. Popo Hibert Walker Schofieldu IV en est le détenteur depuis 20 ans.{nl} {nl} - Usage : troc auprès du PNJ Ordre écrit supérieur [Marchand démon]	포포 왕국 왕권의 상징. 그 해 가장 체중이 많이 나가는 포포리온에게 주어진다고 합니다. 포포 히버트 워커 스코필두 4세는 스무 해 동안이나 왕관을 지켰습니다.{nl} {nl} - 사용처 : 상급 지령서 [마족 상인] NPC 물물 교환				
+ETC_20211021_063891	Symbole de l'autorité royale du royaume Popo. Elle est remise au Popolion le plus lourd de l'année. Popo Hibert Walker Schofieldu IV en est le détenteur depuis 4 ans.{nl} {nl} - Usage : troc auprès du PNJ Ordre écrit supérieur [Marchand démon]	포포 왕국 왕권의 상징. 그 해 가장 체중이 많이 나가는 포포리온에게 주어진다고 합니다. 포포 히버트 워커 스코필두 4세는 스무 해 동안이나 왕관을 지켰습니다.{nl} {nl} - 사용처 : 상급 지령서 [마족 상인] NPC 물물 교환				
 ETC_20211021_063892	Chaussures d'Assaillant Cauchemardesque	악몽의 습격자 신발				
 ETC_20211021_063893	Selon l'histoire, il faut un remède sacré pour chasser l'Assistant cauchemardesque, qui abandonne alors ses chaussures sur place.{nl} {nl} - Usage : troc auprès du PNJ Ordre écrit supérieur [Marchand démon]	설화에 따르면 악몽의 습격자를 쫓아내기 위해선 성스러운 약품이 필요하고, 약품에 닿은 악몽의 습격자는 그 자리에 신발을 놓고 떠난다고 합니다.{nl} {nl} - 사용처 : 상급 지령서 [마족 상인] NPC 물물 교환				
 ETC_20211021_063894	Poil de Patte du Kupole Suspect	수상한 큐폴의 다리털				
@@ -67585,7 +67585,7 @@ ETC_20220426_067572	Jeton d'épreuve : Champ de bataille de Delmore - Bon de cos
 ETC_20220426_067573	[Échange] Parchemin de Suppression de Liaison d'Accessoire Isidavie	[리사이클] 이시다비 장신구 귀속 해제 스크롤				
 ETC_20220426_067574	Permet de transférer un accessoire Isidavie lié au personnage via l'entrepôt d'équipe.{nl} {nl}{@st47}{s15}{#FF3333}* Utilisable uniquement sur un [accessoire Isidavie] lié au personnage.{/}{/}	캐릭터의 귀속된 이시다비 장신구를 팀 창고 이동이 가능하도록 만들어줍니다.{nl} {nl}{@st47}{s15}{#FF3333}* 캐릭터에 귀속된 상태인 [이시다비 장신구]에만 사용할 수 있습니다.{/}{/}				
 ETC_20220426_067575	[Échange] Parchemin de suppression de liaison d'accessoire Isidavie x3	[리사이클] 이시다비 장신구 귀속 해제 스크롤 x3				
-ETC_20220426_067576	Utilisez pour obtenir l'objet suivant.{nl} - [Échanger] Parchemin de suppression de liaison d'accessoire Isidavie x8	사용 시 아래의 구성물을 획득할 수 있습니다.{nl} - [리사이클] 이시다비 장신구 귀속 해제 스크롤 3개				
+ETC_20220426_067576	Utilisez pour obtenir l'objet suivant.{nl} - [Échanger] Parchemin de suppression de liaison d'accessoire Isidavie x3	사용 시 아래의 구성물을 획득할 수 있습니다.{nl} - [리사이클] 이시다비 장신구 귀속 해제 스크롤 3개				
 ETC_20220426_067577	Skill sera octroyée.{nl}{#0000ff}Échangeable contre 30 médailles à la Boutique d'échange.	스킬을 획득합니다. {nl}{#0000ff}리사이클샵에서 메달 30개로 교환할 수 있습니다.				
 ETC_20220426_067578	À utiliser pour changer d'apparence.{nl}{#0000ff}Échangeable contre 30 médailles à la Boutique d'échange.{nl}※ Le costume peut se superposer avec un costume dorsal.	착용하면 외형이 변경됩니다.{nl}{#0000ff}리사이클샵에서 메달 30개로 교환할 수 있습니다.{nl}※등 코스튬과 같이 착용했을 때 겹침, 뚫림 현상이 있을 수 있습니다.				
 ETC_20220426_067579	Tenue Serpent bleu de l'Autre monde au parfum de bravoure.{nl}{#0000ff}Échangeable contre 30 médailles à la Boutique d'échange.	용맹함이 느껴지는 이세계의 블루 서펜트 의복입니다.{nl}{#0000ff}리사이클샵에서 메달 30개로 교환할 수 있습니다.				
@@ -72795,7 +72795,7 @@ ETC_20230313_072781	[Niv.490] Parchemin de suppression de liaison d'accessoire	[
 ETC_20230313_072782	[Niv.490] Parchemin de suppression de liaison d'accessoire (1 jour)	[Lv.490] 장신구 귀속 해제 스크롤 (1일)				
 ETC_20230313_072783	[Niv.490] Tome de changement de type d'accessoire (1 jour)	[Lv.490] 장신구 변경의 서(1일)				
 ETC_20230313_072784	Utilisez pour obtenir tous les objets suivants.{nl} - Médaille d'honneur - Haut fait de classe Shenji x1{nl} - [Niv4] Bon d'enregistrement Vision Vaivora x1{nl} - Médaille d'honneur - Haut fait de costume Shenji x1{nl} - [Pack Shenji] Coffre d'ensemble d'armes x1{nl} - [Physique] Coffre d'ensemble d'armure de cuir x1{nl} - [Physique] Coffre de ceinture de perspicacité x1{nl} - [Physique] Coffre d'épaulière de férocité x1{nl} - Fragment de Boucle d'oreille de flamme mystique x1{nl} - Coffre de cartes d'EXP de classe x1{nl} - Carte de saut de niveau (Niv.480) x1{nl} - Bon de changement de classe niv.4 x1{nl} - Points d'attribut 10 000 x200{nl} - Bon d'emplacement de personnage x1{nl} - Token de la Déesse (Vakarine) : 10 000 x20{nl} - Insigne de mercenaire : 10 000 x20	사용 시 다음 아이템을 모두 획득합니다.{nl} - 명예 훈장 - 신극 클래스 업적 1개{nl} - [Lv4] 바이보라 비전 선택 개방권 1개{nl} - 명예 훈장 - 신극 코스튬 업적 1개{nl} - [신극 패키지] 무기 세트 상자 1개{nl} - [물리 계열] 가죽 방어구 세트 상자 1개{nl} - [물리 계열] 통찰의 허리띠 상자 1개{nl} - [물리 계열] 맹렬의 어깨보호구 상자 1개{nl} - 신비한 화염불꽃 귀걸이 파편 1개{nl} - 클래스 경험치 카드 상자 1개{nl} - 레벨 점핑 카드 (480레벨) 1개{nl} - 클래스 변경권 Lv.4 1개{nl} - 특성 포인트 10,000 200개{nl} - 캐릭터 슬롯 추가 이용권 1개{nl} - 여신의 증표(바카리네) : 10,000 20개{nl} - 용병단 증표 : 10,000 20개	ETC_20230308_072533	Utilisez pour obtenir tous les objets suivants.{nl} - Médaille d'honneur - Haut fait de classe Shenji x1{nl} - [Niv4] Bon d'enregistrement Vision Vaivora x1{nl} - Médaille d'honneur - Haut fait de costume Shenji x1{nl} - [Pack Shenji] Coffre d'ensemble d'armure de cuir x1{nl} - [Pack Shenji] Coffre d'ensemble d'armes x1{nl} - [Pack Shenji] Coffre de ceinture de perspicacité x1{nl} - [Pack Shenji] Coffre d'épaulière de férocité x1{nl} - Fragment de Boucle d'oreille de flamme mystique x1{nl} - Coffre de cartes d'EXP de classe x1{nl} - Carte de saut de niveau (Niv.480) x1{nl} - Bon de changement de classe niv.4 x1{nl} - Points d'attribut 10 000 x200{nl} - Bon d'emplacement de personnage x1{nl} - Token de la Déesse (Vakarine) : 10 000 x20{nl} - Insigne de mercenaire : 10 000 x20	사용 시 다음 아이템을 모두 획득합니다.{nl} - 명예 훈장 - 신극 클래스 업적 1개{nl} - [Lv4] 바이보라 비전 선택 개방권 1개{nl} - 명예 훈장 - 신극 코스튬 업적 1개{nl} - [신극 패키지] 가죽 방어구 세트 상자 1개{nl} - [신극 패키지] 무기 세트 상자 1개{nl} - [신극 패키지] 통찰의 허리띠 상자 1개{nl} - [신극 패키지] 맹렬의 어깨보호구 상자 1개{nl} - 신비한 화염불꽃 귀걸이 파편 1개{nl} - 클래스 경험치 카드 상자 1개{nl} - 레벨 점핑 카드 (480레벨) 1개{nl} - 클래스 변경권 Lv.4 1개{nl} - 특성 포인트 10,000 200개{nl} - 캐릭터 슬롯 추가 이용권 1개{nl} - 여신의 증표(바카리네) : 10,000 20개{nl} - 용병단 증표 : 10,000 20개	
-ETC_20230313_072785	Coffre cadeau du 7e anniversaire	[2023] 화이트 데이 선물 상자				
+ETC_20230313_072785	Coffre cadeau du 2 023e anniversaire	[2023] 화이트 데이 선물 상자				
 ETC_20230313_072786	{#ff0000}[Haut fait Requête du maître requis]{/}{nl}{/}{nl}Shenji est le maître de la lance, aussi appelé le Dieu de la lance. Ce sont des lanciers qui manient la lance à leur guise et portent des attaques tantôt rapides et vives, tantôt lourdes et puissantes{nl}{#ff0000}※ Vous pouvez accéder à cette classe sans aucune restriction du 14 mars 2022 au 28 mars 2022, avant la maintenance.{/}	{#ff0000}[마스터 의뢰 업적 클리어 필요]{/}{nl}{/}{nl}신극이란 신의 창이란 뜻으로, 창을 다루는 뛰어난 능력의 마스터들을 가리킵니다. 긴 창으로 빠르고 날렵한 공격을 하며 때로는 묵직한 공격을 하기도 하는, 창을 자유자재로 다루는 영재들입니다.{nl}{#ff0000}※ 신극은 2023년 3월 9일 업데이트 이후부터 2023년 3월 23일 업데이트 전까지 무료 전직이 가능합니다.{/}	ETC_20230308_072657	{#ff0000}[Achèvement du haut fait Requête du maître exigé]{/}{nl}{/}{nl}Le Shenji est le maître de la lance, également appelé le Dieu de la lance. C'est un lancier qui manie la lance à sa guise, portant des attaques tantôt rapides et vives, tantôt lourdes et puissantes.	{#ff0000}[마스터 의뢰 업적 클리어 필요]{/}{nl}{/}{nl}신극이란 신의 창이란 뜻으로, 창을 다루는 뛰어난 능력의 마스터들을 가리킵니다. 긴 창으로 빠르고 날렵한 공격을 하며 때로는 묵직한 공격을 하기도 하는, 창을 자유자재로 다루는 영재들입니다.	
 ETC_20230313_072787	Récompenses du Contrôle de Présence Mars 2023	23년 3월 출석 보상				
 ETC_20230313_072788	Récompenses du Contrôle de Présence Avril 2023	23년 4월 출석 보상				
@@ -72836,7 +72836,7 @@ ETC_20230320_072822	snowleopardbeholder	눈표범주시자
 ETC_20230320_072823	happybunnyrose	토끼로제				
 ETC_20230320_072824	shrewmousepiedpiper	파이드땃쥐				
 ETC_20230320_072825	Cube de Baubas (Mission de Guilde)	바우바스 큐브(길드미션)				
-ETC_20230322_072826	Coffre cadeau du 7e anniversaire.	2023 화이트 데이 기념 선물 상자입니다.	ETC_20230308_072560	Coffre cadeau pour le dernier jour de février.	2023 발렌타인데이 기념 선물 상자입니다.	
+ETC_20230322_072826	Coffre cadeau du 2 023e anniversaire.	2023 화이트 데이 기념 선물 상자입니다.	ETC_20230308_072560	Coffre cadeau pour le dernier jour de février.	2023 발렌타인데이 기념 선물 상자입니다.	
 ETC_20230322_072827	Contrôle de présence spécial du 7e anniversaire	화이트데이 기념 특별 출석부				
 ETC_20230327_072828	Titre - Shenji	칭호 - 신극				
 ETC_20230327_072829	Coffre de Sélection Set Costume Lapin de Minuit	나이트래빗 코스튬 세트 선택 상자				
@@ -73210,7 +73210,7 @@ ETC_20230424_073196	Sceptre de Pique-nique	피크닉 스태프
 ETC_20230424_073197	Canon de Pique-nique	피크닉 캐논				
 ETC_20230424_073198	Costume de Dos Réservoir de Corruption	변질의 전파자 등 장식				
 ETC_20230424_073199	Récompense de rang Pèlerin.{br}Un costume dorsal autrefois porté par le Réservoir de corruption. Le porter donne le sentiment que vous allez corrompre tout ce qui vous entoure.	순례자 랭킹 보상으로 획득한 아이템입니다.{nl}변질의 전파자가 착용하고 있던 등 장식입니다. 금방이라도 주변 모든 것들을 침식할 것만 같은 기분이 듭니다.				
-ETC_20230424_073200	Coffre cadeau pour égayer février, le mois le plus court de l'année.	2023 화이트데이 기념 선물 상자입니다.	ETC_20230322_072826	Coffre cadeau du 7e anniversaire.	2023 화이트 데이 기념 선물 상자입니다.	
+ETC_20230424_073200	Coffre cadeau pour égayer février, le mois le plus court de l'année.	2023 화이트데이 기념 선물 상자입니다.	ETC_20230322_072826	Coffre cadeau du 2 023e anniversaire.	2023 화이트 데이 기념 선물 상자입니다.	
 ETC_20230424_073201	Coffre-cadeau du 1Er Avril	만우절 기념 선물 상자				
 ETC_20230424_073202	Coffre cadeau du poisson d'avril 2023.	2023 만우절 기념 선물 상자입니다.				
 ETC_20230424_073203	Coffre de présence spécial TWN nº1	대만 출석 이벤트 상자 #1				
@@ -73442,7 +73442,7 @@ ETC_20230424_073428	Week-end Brûlant - Juillet	주말 앤 버닝 - 7월
 ETC_20230424_073429	Présence Ailes de Vaivora - Juillet	바이보라 출석 - 7월				
 ETC_20230424_073430	Musée de la mode 2021 : ALL STAR	복각- 여신의 큐브 ALL STAR				
 ETC_20230424_073431	Cube Béni de la Déesse - Juin	축복받은 여신의 큐브 - 6월				
-ETC_20230424_073432	Événement d'Été 2021	21년 여름 이벤트				
+ETC_20230424_073432	Événement d'Été 21	21년 여름 이벤트				
 ETC_20230424_073433	Rapport d'Enquête sur le Cerveau du Sauveur	뇌오세 탐구 보고서				
 ETC_20230424_073434	Cube de la Déesse - Mafia	여신의 큐브 - 마피아				
 ETC_20230424_073435	Tentation du Dieu Démon - STEM	마신의 유혹 - STEM				
@@ -73554,7 +73554,7 @@ ETC_20230424_073540	Boutique de Glaçons Magiques	더 특별한 얼음상점
 ETC_20230424_073541	[Festa d'Été] L'Été à Klaipeda	[Summer Festa] 클라페다에서 여름나기				
 ETC_20230424_073542	Événement de la Grande Germination	트린이 이벤트				
 ETC_20230424_073543	NA	무지개를 넘어서 시즌2				
-ETC_20230424_073544	NA	개복치가 나타났다				
+ETC_20230424_073544	Un poisson-lune est apparu	개복치가 나타났다				
 ETC_20230424_073545	NA	[Episode11] 새싹과 함께하는 새로운 이야기				
 ETC_20230424_073546	NA	자라나라 나무나무 주말 앤 버닝				
 ETC_20230424_073547	NA	자라나라 나무나무 특별한 선물				
@@ -75028,11 +75028,11 @@ ETC_20231113_075014	[Soin de Boost Popo]{nl}Kupole	[포포부스트 케어]{nl}�
 ETC_20231113_075015	Cimetière des lamentations OD palier 1 terminé !{nl}Retour dans 60 secondes.	통곡의 묘지 - 이공간 1단계 성공!{nl}60초 뒤, 입장한 곳으로 돌아갑니다.				
 ETC_20231113_075016	Cimetière des lamentations OD palier 2 terminé !{nl}Retour dans 60 secondes.	통곡의 묘지 - 이공간 2단계 성공!{nl}60초 뒤, 입장한 곳으로 돌아갑니다.				
 ETC_20231113_075017	Cimetière des lamentations OD terminé !{nl}Retour dans 60 secondes.	통곡의 묘지 - 이공간 성공!{nl}60초 뒤, 입장한 곳으로 돌아갑니다.				
-ETC_20231113_075018	Cimetière des lamentations OD échoué{nl}Retour dans 60 secondes.	통곡의 묘지 - 이공간 실패{nl}30초 뒤, 입장한 곳으로 돌아갑니다.				
+ETC_20231113_075018	Cimetière des lamentations OD échoué{nl}Retour dans 30 secondes.	통곡의 묘지 - 이공간 실패{nl}30초 뒤, 입장한 곳으로 돌아갑니다.				
 ETC_20231113_075019	Cimetière des gémissements zone 1 terminée !{nl}Retour dans 60 secondes.	통곡의 묘지 1구역 성공!{nl}60초 뒤, 입장한 곳으로 돌아갑니다.				
 ETC_20231113_075020	Cimetière des gémissements zone 2 terminée !{nl}Retour dans 60 secondes.	통곡의 묘지 2구역 성공!{nl}60초 뒤, 입장한 곳으로 돌아갑니다.				
 ETC_20231113_075021	Cimetière des gémissements terminé !{nl}Retour dans 60 secondes.	통곡의 묘지 성공!{nl}60초 뒤, 입장한 곳으로 돌아갑니다.				
-ETC_20231113_075022	Cimetière des gémissements échoué{nl}Retour dans 60 secondes.	통곡의 묘지 실패{nl}30초 뒤, 입장한 곳으로 돌아갑니다.				
+ETC_20231113_075022	Cimetière des gémissements échoué{nl}Retour dans 30 secondes.	통곡의 묘지 실패{nl}30초 뒤, 입장한 곳으로 돌아갑니다.				
 ETC_20231204_075023	Pontife	폰티펙스				
 ETC_20231204_075024	Titre - Feu Sacré	칭호 - Holy Fire				
 ETC_20231204_075025	Vision Vaivora - Péché Originel	바이보라 비전 - 원죄				
@@ -75313,7 +75313,7 @@ ETC_20231204_075299	Entrée au palier 4.	4단계로 진입합니다.
 ETC_20231204_075300	[8e anniversaire]{nl}[Donjon d'événement] Nombre d'entrées dans la Montagne enneigée de l'autre monde ({DG_CNT}/2){nl}Nombre de fois où le [Buff d'événement] Hourra, 8e anniversaire a été reçu ({BF_CNT}/3){nl}{#FF0000}※ Les entrées du donjon d'événement se réinitialisent chaque lundi à 6 h KST.{/}{#FF0000}※  Les décomptes du buff d'événement se réinitialisent chaque lundi à 6 h KST.{/}{#FF0000}※ Les donjons et buffs d'événement sont accessibles auprès du PNJ Petite Glacia.{/}	[8th Anniversary]{nl}[이벤트 던전] 이계의 설산 입장횟수 ({DG_CNT}/2)회{nl}[이벤트 버프] 8주년 축하해 적용횟수 ({BF_CNT}/3회){nl}{#FF0000}※ 이벤트 던전 입장횟수는 매주 월요일 오전 6시에 초기화됩니다.{/}{#FF0000}※ 이벤트 버프 입장횟수는 매일 월요일 오전 6시에 초기화됩니다.{/}{#FF0000}※ 이벤트 던전과 버프는 꼬마 글레이시어 NPC를 통해 이용하실 수 있습니다.{/}				
 ETC_20231204_075301	Titre - 8e anniversaire	칭호 - 8th Anniversary				
 ETC_20231204_075302	Titre - 8e anniversaire2	칭호 - 8th Anniversary2				
-ETC_20231204_075303	{#ff0000}Seuls les personnages de Niv9 ou moins peuvent participer.{/}	{#ff0000}Lv10미만 캐릭터만 참여할 수 있습니다.{/}	ETC_20230904_074709	{#ff0000}Seuls les personnages de Niv459 ou moins et de score d'équipement 7999 ou moins peuvent participer.{/}	{#ff0000}Lv460미만, 기어스코어 8000미만 캐릭터만 참여할 수 있습니다.{/}	
+ETC_20231204_075303	{#ff0000}Seuls les personnages de Niv10 ou moins peuvent participer.{/}	{#ff0000}Lv10미만 캐릭터만 참여할 수 있습니다.{/}	ETC_20230904_074709	{#ff0000}Seuls les personnages de Niv459 ou moins et de score d'équipement 7999 ou moins peuvent participer.{/}	{#ff0000}Lv460미만, 기어스코어 8000미만 캐릭터만 참여할 수 있습니다.{/}	
 ETC_20231204_075304	Pour affronter les puissants boss de raid de Tree of Savior, il vous faut un certain score d'équipement.{nl}Vous pouvez l'augmenter en équipant et en améliorant l'équipement qui vous est remis.{nl}Faites-le grimper en terminant les quêtes du guide Popo !{nl}Vous pouvez consulter votre score d'équipement dans la fenêtre d'informations du personnage (F1).	트리 오브 세이비어의 강력한 레이드 보스를 상대하기 위해서는 일정 수치 이상의 기어 스코어가 필요합니다.{nl} 기어 스코어는 지급된 장비를 장착하고 강화하는 방법으로 성장시킬 수 있습니다.{nl}포포 가이드 퀘스트를 클리어하며 기어 스코어를 더욱 성장시켜 보세요!{nl}달성한 기어 스코어는 캐릭터 정보(F1) 창에서 확인할 수 있습니다.				
 ETC_20231204_075305	{#ff0000}※ Accédez immédiatement au tableau d'état des quêtes guide Popo via le bouton Raccourci.{/}	{#ff0000}※ 바로가기 버튼을 통해 포포 가이드 퀘스트 현황판으로 즉시 진입합니다.{/}	ETC_20230904_074712	{#ff0000}※ Le bouton Raccourci vous montre où vous en êtes dans votre quête.{/}	{#ff0000}※ 바로가기 버튼을 통해 진행 중인 퀘스트 위치를 확인할 수 있습니다.{/}	
 ETC_20231204_075306	Entrer dans [Donjon d'Événement] Forêt de la Petite Sorcière	[이벤트 던전] 꼬마 마녀의 숲 입장	ETC_20231204_075291	Entrer dans [Donjon d'Événement] Montagne Enneigée de l'Autre Monde	[이벤트 던전] 이계의 설산 입장	
@@ -75818,7 +75818,7 @@ ETC_20240205_075803	[Maître Hussard Ailé]{nl}Jan Karolas	[윙드후사르 마�
 ETC_20240205_075804	Assistant du Nouvel An Cuvid	설날 도우미 큐비트				
 ETC_20240205_075805	Tatou du Hussard Ailé	윙드후사르의 아르마딜로				
 ETC_20240205_075806	Vitesse de Déplacement{img green_up_arrow 16 16}8{nl}{@st66d_y}{s14} - Paon	이동 속도{img green_up_arrow 16 16}8{nl}{@st66d_y}{s14} - 공작새				
-ETC_20240205_075807	Vitesse de Déplacement{img green_up_arrow 16 16}3{nl}{@st66d_y}{s14} - Dragon Bleu	이동 속도{img green_up_arrow 16 16}8{nl}{@st66d_y}{s14} - 푸른 용				
+ETC_20240205_075807	Vitesse de Déplacement{img green_up_arrow 16 16}8{nl}{@st66d_y}{s14} - Dragon Bleu	이동 속도{img green_up_arrow 16 16}8{nl}{@st66d_y}{s14} - 푸른 용				
 ETC_20240205_075808	- Précision{img green_up_arrow 16 16}350{nl} - Pénétration de blocage{img green_up_arrow 16 16}350{nl} - Vitesse de déplacement{img green_up_arrow 16 16}3	- 명중{img green_up_arrow 16 16}350{nl} - 블록 관통{img green_up_arrow 16 16}350{nl} - 이동속도{img green_up_arrow 16 16}3				
 ETC_20240205_075809	Vaincre tous les monstres qui arrivent	몰려오는 몬스터 모두 처치				
 ETC_20240205_075810	Parler à Déesse Jurate	유라테 여신과 대화 하기				
@@ -76002,7 +76002,7 @@ ETC_20240311_075987	À utiliser pour augmenter l'attaque physique et magique pen
 ETC_20240311_075988	À utiliser pour augmenter la défense physique et magique de +500 pendant 30 minutes.	사용 시 30분 동안 물리/마법 방어력이 +500 상승합니다.				
 ETC_20240311_075989	À utiliser pour récupérer +100 PV/PM toutes les 2 secondes pendant 30 minutes.	사용 시 30분 동안 2초마다 HP/SP 를 +100 회복합니다.				
 ETC_20240311_075990	À utiliser pour augmenter la vitesse de déplacement de +3 pendant 30 minutes.	사용 시 30분 동안 이동속도가 +3 증가합니다.				
-ETC_20240311_075991	{nl} {nl}{@st66d}{s15} - Dégâts d'[Flèche angélique]{img green_up_arrow 16 16}100 %	{nl} {nl}{@st66d}{s15} - 신궁의 최종 스킬 대미지{img green_up_arrow 16 16}10%	ETC_20240304_075971	{nl} {nl}{@st66d}{s15} - Dégâts finaux d'[Flèche angélique]{img green_up_arrow 16 16}100 %	{nl} {nl}{@st66d}{s15} - [신의 화살] 최종 대미지{img green_up_arrow 16 16}100%	
+ETC_20240311_075991	{nl} {nl}{@st66d}{s15} - Dégâts d'[Flèche angélique]{img green_up_arrow 16 16}10 %	{nl} {nl}{@st66d}{s15} - 신궁의 최종 스킬 대미지{img green_up_arrow 16 16}10%	ETC_20240304_075971	{nl} {nl}{@st66d}{s15} - Dégâts finaux d'[Flèche angélique]{img green_up_arrow 16 16}100 %	{nl} {nl}{@st66d}{s15} - [신의 화살] 최종 대미지{img green_up_arrow 16 16}100%	
 ETC_20240311_075992	Vous pouvez transférer le niveau d'amélioration vers la Gemme d'éther du grade supérieur. Une Gemme d'éther du grade supérieur est requise.{nl}{@st66d}{s15}Utilisez cette fonction au laboratoire du Maître Pyromancien - Abreh Melinn (PNJ){/}{/}	다음 단계의 에테르젬으로 강화레벨을 이전할 수 있습니다. 이때 다음 단계의 에테르젬이 필요합니다.{nl}{@st66d}{s15}피이로맨서 마스터의 연구실 - 아브레 멜린(NPC) 이용{/}{/}				
 ETC_20240311_075993	Gardien Royal {@st66d_y}Arme{/} {@st66d_y}{/}{/}	왕국 수호자의 {@st66d_y}무기{/} {@st66d_y}{/}{/}				
 ETC_20240401_075994	Enclume de la Déesse	가디스 모루				
@@ -76419,7 +76419,7 @@ ETC_20240401_076404	 - Niveau de tous les Skills Chasseur {img green_up_arrow 16
 ETC_20240401_076405	 - Niveau de tous les Skills Shenji {img green_up_arrow 16 16}1{nl} {nl}Le dragon et le Tigre{nl} - Améliore un Skill d'une certaine propriété selon la posture choisie par [Changement de posture]{nl} - Posture [Vitesse] : dégâts des Skills de Percée {img green_up_arrow 16 16}10 %{nl} - Posture [Portée] : dégâts des Skills de Taille {img green_up_arrow 16 16}10 %	 - 신극 모든 스킬 레벨 {img green_up_arrow 16 16}1{nl} {nl}용호상박{nl} - [태세 전환]으로 선택된 태세에 따른 지속 강화 효과 부여{nl} - [속] 태세: 찌르기 스킬 대미지 {img green_up_arrow 16 16}10%{nl} - [광] 태세: 베기 스킬 대미지 {img green_up_arrow 16 16}10%	ETC_20230308_072745	- Niveau de tous les Skills Shenji {img green_up_arrow 16 16}1{nl} {nl}Le dragon et le Tigre{nl} - Améliore un Skill d'une certaine propriété selon la posture choisie par [Changement de posture]{nl} - Posture [Vitesse] : dégâts des Skills de Percée +10 %{nl} - Posture [Portée] : dégâts des Skills de Taille +10 %	 - 신극 모든 스킬 레벨 {img green_up_arrow 16 16}1{nl} {nl}용호상박{nl} - [태세 전환]으로 선택된 태세에 따른 지속 강화 효과 부여{nl} - [속] 태세: 찌르기 스킬 대미지 10% 증가{nl} - [광] 태세: 베기 스킬 대미지 10% 증가	
 ETC_20240401_076406	 - Niveau de tous les Skills{nl}Ingénieur {img green_up_arrow 16 16}1{nl} {nl}Puissance max{nl}  *Durée de toutes les tourelles{nl}{img green_up_arrow 16 16}20 %{nl}  *Temps de recharge de Roi Mecha{nl}-10 secondes	 - 엔지니어 모든 스킬 레벨 {img green_up_arrow 16 16}1{nl} {nl}최대 출력{nl}  *모든 터렛의 지속시간 {img green_up_arrow 16 16}20%{nl}  *킹메카의 쿨타임 10초 감소	ETC_20230703_073947	 - Niveau de tous les Skills{nl}Ingénieur {img green_up_arrow 16 16}1{nl} {nl}Puissance max{nl}  *Durée de toutes les tourelles{nl}+20 %{nl}  *Temps de recharge de Roi Mecha{nl}-10 secondes	 - 엔지니어 모든 스킬 레벨 {img green_up_arrow 16 16}1{nl} {nl}최대 출력{nl}  *모든 터렛의 지속시간 20% 증가{nl}  *킹메카의 쿨타임 10초 감소	
 ETC_20240401_076407	{nl} {nl}{@st66d}{s15} - Dégâts finaux des Skills Illusionniste {img green_up_arrow 16 16}20 %	{nl} {nl}{@st66d}{s15} - 일루저니스트의 스킬 최종 대미지 {img green_up_arrow 16 16}20%	ETC_20240108_075490	{nl} {nl}{@st66d}{s15} - Dégâts finaux de Skill d'Illusionniste {img green_up_arrow 16 16}20 %	{nl} {nl}{@st66d}{s15} - 일루저니스트의 최종 스킬 대미지{img green_up_arrow 16 16}20%	
-ETC_20240401_076408	{nl} {nl}{@st66d}{s15} - Dégâts finaux des Skills Godeye {img green_up_arrow 16 16}10 %	{nl} {nl}{@st66d}{s15} - 신궁의 스킬 최종 대미지{img green_up_arrow 16 16}10%	ETC_20240311_075991	{nl} {nl}{@st66d}{s15} - Dégâts d'[Flèche angélique]{img green_up_arrow 16 16}100 %	{nl} {nl}{@st66d}{s15} - 신궁의 최종 스킬 대미지{img green_up_arrow 16 16}10%	
+ETC_20240401_076408	{nl} {nl}{@st66d}{s15} - Dégâts finaux des Skills Godeye {img green_up_arrow 16 16}10 %	{nl} {nl}{@st66d}{s15} - 신궁의 스킬 최종 대미지{img green_up_arrow 16 16}10%	ETC_20240311_075991	{nl} {nl}{@st66d}{s15} - Dégâts d'[Flèche angélique]{img green_up_arrow 16 16}10 %	{nl} {nl}{@st66d}{s15} - 신궁의 최종 스킬 대미지{img green_up_arrow 16 16}10%	
 ETC_20240401_076409	 - Niveau de tous les Skills Desperado {img green_up_arrow 16 16}1{nl} {nl}Lunatique{nl}* [Impulsion] : un LUCKY à Roulette russe réinitialise le temps de recharge d'{@st66_y}{#22B14C}[Équilibre]{/}{/} ou de {@st66_y}{#22B14C}[Vengé]{/}{/}, selon le Skill utilisé en premier,{nl} de nouveau lors du déclenchement.{nl}     Un temps de recharge de 20 secondes s'applique avant que l'aptitude ne se réactive{nl}* [Démence] : un UNLUCKY à Roulette russe réinitialise {nl}   le temps de recharge de {@st66_y}{#22B14C}[Dernier survivant]{/}{/} avec 50 % de chance	 - 데스페라도 모든 스킬 레벨 {img green_up_arrow 16 16}1{nl} {nl}루나틱{nl}* [충동] : 러시안 룰렛 럭키 발동 시 {@st66_y}{#22B14C}[이퀼리브리엄]{/}{/}과{nl}   {@st66_y}{#22B14C}[리벤지드]{/}{/}중 먼저 사용하는 해당 스킬의 쿨타임을{nl}    한 번 더 초기화합니다.{nl}     단, 해당능력의 재발동까지 대기 시간이 20초 적용{nl}* [광기] : 러시안 룰렛 언럭키 발동 시, 50% 확률로 {nl}   {@st66_y}{#22B14C}[라스트 맨 스탠딩]{/}{/} 쿨다운 초기화				
 ETC_20240401_076410	{nl} {nl}{@st66d}{s15} - Dégâts finaux des Skills Desperado {img green_up_arrow 16 16}20 %	{nl} {nl}{@st66d}{s15} - 데스페라도 최종 스킬 대미지{img green_up_arrow 16 16}20%				
 ETC_20240401_076411	Des monstres se sont introduits.	몬스터가 난입하였습니다.				
@@ -80316,7 +80316,7 @@ ETC_20250904_080296	Salamandre du Sanctuaire	성역 샐러맨더	ETC_20150317_00
 ETC_20250904_080297	Mode Défi Niv.520 : solo	Lv.520 챌린지 모드 : 1인				
 ETC_20250904_080298	Mode Défi Niv.540 : solo	Lv.540 챌린지 모드 : 1인				
 ETC_20250904_080299	Mode Défi Niv.540 : recherche auto	Lv.540 챌린지 모드 자동매칭				
-ETC_20250904_080300	Mode Défi Niv.540 : Singularité de division recherche auto	Lv.520 챌린지 모드 : 분열 특이점 자동 매칭				
+ETC_20250904_080300	Mode Défi Niv.520 : Singularité de division recherche auto	Lv.520 챌린지 모드 : 분열 특이점 자동 매칭				
 ETC_20250905_080301	Sac de Frappe Baubas	샌드백 바우바스	ETC_20240422_076520	Sac de Frappe Baubas	샌드벅 바우바스	
 ETC_20250905_080302	Bonus A	보너스 A				
 ETC_20250905_080303	Bonus B	보너스 B				

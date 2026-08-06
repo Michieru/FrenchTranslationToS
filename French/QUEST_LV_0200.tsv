@@ -988,7 +988,7 @@ QUEST_LV_0200_20150317_000987	Il a répandu des tonneaux d'huile près de la Bra
 QUEST_LV_0200_20150317_000988	Brasseur Dorjen	양조업자 도르젠				
 QUEST_LV_0200_20150317_000989	Que pourrait bien me vouloir le Révélateur.. {nl}	계시자가 나에겐 무슨 일이시오.{nl}				양조업자 도르젠
 QUEST_LV_0200_20150317_000990	Hmm ? Ne sont-ce pas mes bouchons de liège ? Venez-vous de ruiner mon plan ? {nl}	응? 이건 내 코르크 마개들 아니오?{nl}당신이 내 계획을 망쳐놓은 거요?{nl}				양조업자 도르젠
-QUEST_LV_0200_20150317_000991	N'osez pas songer à m'arrêter. Je vais les faire sauter, même si cela doit me coûter ma brasserie !{nl}..On ne peut même plus faire confiance aux Révélateurs.	날 말릴 생각은 마시오.{nl}내 작업장을 날려버리는 한이 있어도 싸그리 잡아죽이고 싶으니까.{nl}계시자니 뭐니 하는 사람들도 이젠 영 믿음이 안가.				양조업자 도르젠
+QUEST_LV_0200_20150317_000991	N'osez pas songer à m'arrêter. Je vais les faire sauter, même si cela doit me coûter ma brasserie{nl}!..On ne peut même plus faire confiance aux Révélateurs.	날 말릴 생각은 마시오.{nl}내 작업장을 날려버리는 한이 있어도 싸그리 잡아죽이고 싶으니까.{nl}계시자니 뭐니 하는 사람들도 이젠 영 믿음이 안가.				양조업자 도르젠
 QUEST_LV_0200_20150317_000992	Les monstres ont ruiné le rucher et la brasserie. {nl}Alors Joseph est allé à Klaipeda chercher un Révélateur qui pourrait nous aider. {nl}{NP}Je pensais que le problème serait résolu, mais devinez ce qui s'est passé. {nl}Ils ont commencé à disparaître un par un. Ils se sont défilés. Ces lâches.	양봉이고 술이고 간에 몬스터들때문에 다 망쳐버렸지.{nl}그래서 요제프씨가 클라페다로 가서 도와줄 계시자들을 찾았었어.{nl}{NP}그렇게 잘 되나 싶었더니만 이게 왠걸.{nl}어느샌가 하나 둘씩 사라져 버리더군. 내뺀게 분명하지. 겁쟁이들 같으니.				
 QUEST_LV_0200_20150317_000993	Me calmer ? Ai-je l'air de pouvoir me calmer ?! Bien. Je me calmerai peut-être si vous récupérez{nl}mon hydromel de marque au Entrepôt d'hydromel. Si tant est que vous puissiez l'obtenir.	진정? 지금 내가 진정하게 생겼소?{nl}그래. 벌꿀술 창고에서 내 역작의 술을 가져다 준다면 진정할 수 있을지도 모르겠군.{nl}꺼내올 수 있다면 말이지.				양조업자 도르젠
 QUEST_LV_0200_20150317_000994	Je parie que vous n'y arriverez pas. Sachez seulement que si vous échouez, je brûlerai mon{nl}atelier.	당신이 그걸 과연 꺼내올 수 있을지 모르겠군.{nl}만약 실패한다면 내 작업장을 태워버리는 것 밖엔 답이 없다는 걸 알겠지.				양조업자 도르젠
@@ -1213,7 +1213,7 @@ QUEST_LV_0200_20150317_001212	Laisse-moi faire	맡겨달라고 한다
 QUEST_LV_0200_20150317_001213	Préparation du bois de chauffage/#SITGROPESET2/3,5/TRACK_BEFORE	장작 준비중/#SITGROPESET2/3.5/TRACK_BEFORE				
 QUEST_LV_0200_20150317_001214	Attaque du Gobelin des Bois Rouge Géant	레드 우드 고블린의 습격				
 QUEST_LV_0200_20150317_001215	Vérification../MAKING/2/TRACK_BEFORE/None	살펴보는 중../MAKING/2/TRACK_BEFORE/None				
-QUEST_LV_0200_20150317_001216	Annonce/Le Woodgoblin rouge géant est furieux !#5	Notice/자이언트 레드 우드 고블린이 매우 화가 났습니다!#5				
+QUEST_LV_0200_20150317_001216	Notice/Le Woodgoblin rouge géant est furieux !#5	Notice/자이언트 레드 우드 고블린이 매우 화가 났습니다!#5				
 QUEST_LV_0200_20150317_001217	Sécuriser la Route vers le Portail du Grand Roi (1)	대왕의 관문으로 가는 길 확보(1)				
 QUEST_LV_0200_20150317_001218	Ignorer	무시한다				
 QUEST_LV_0200_20150317_001219	Sécuriser la Zone (1)	구역 안정화(1)				
@@ -1229,7 +1229,7 @@ QUEST_LV_0200_20150317_001228	En Route pour le Voyage	떠나는 길
 QUEST_LV_0200_20150317_001229	Rechercher les éclaireurs attaqués	습격받은 수색대				
 QUEST_LV_0200_20150317_001230	Je vais aller aux Terres aquatiques de Drieza	드리에자 습지로 가 보겠다고 한다				
 QUEST_LV_0200_20150317_001231	Sortons d'ici ensemble	함께 몸을 피하자고 한다				
-QUEST_LV_0200_20150317_001232	Annonce /Vaincre Ironbaum ! / 5	Notice/아이언바움 처치!/5				
+QUEST_LV_0200_20150317_001232	Notice/Vaincre Ironbaum !/5	Notice/아이언바움 처치!/5				
 QUEST_LV_0200_20150317_001233	Le Propriétaire de la Tombe	무덤의 주인				
 QUEST_LV_0200_20150317_001234	Qu'y a-t-il ?	무슨 일 때문인지 묻는다				
 QUEST_LV_0200_20150317_001235	Commandant Vacenin (1)	지휘관 바세닌(1)				
@@ -1253,7 +1253,7 @@ QUEST_LV_0200_20150317_001252	Le Feu de la Route de Patrouille	순찰로의 모�
 QUEST_LV_0200_20150317_001253	Il n'y a pas de temps pour ça	그럴 틈은 없다고 한다				
 QUEST_LV_0200_20150317_001254	Le Feu de la Route de Patrouille (2)	순찰로의 모닥불(2)				
 QUEST_LV_0200_20150317_001255	Installation/FIRE/1,5/TRACK_BEFORE/SSN_HATE_AROUND	설치 중/FIRE/1.5/TRACK_BEFORE/SSN_HATE_AROUND				
-QUEST_LV_0200_20150317_001256	Annonce/Le feu est allumé.#3	Notice/모닥불이 켜졌습니다.#3				
+QUEST_LV_0200_20150317_001256	Notice/Le feu est allumé.#3	Notice/모닥불이 켜졌습니다.#3				
 QUEST_LV_0200_20150317_001257	Le Feu de la Route de Patrouille (3)	순찰로의 모닥불(3)				
 QUEST_LV_0200_20150317_001258	Le Feu de la Route de Patrouille (4)	순찰로의 모닥불(4)				
 QUEST_LV_0200_20150317_001259	Commandant Vacenin (2)	지휘관 바세닌(2)				
@@ -1301,12 +1301,12 @@ QUEST_LV_0200_20150317_001300	Tout ira bien	아무 일 없을 거라고 한다
 QUEST_LV_0200_20150317_001301	Le Mauvais Salut (1)	잘못된 구원(1)				
 QUEST_LV_0200_20150317_001302	Je vais convaincre les âmes et les envoyer ici	영혼을 설득하여 그리로 보내겠다고 한다				
 QUEST_LV_0200_20150317_001303	À propos des âmes disparues	영혼의 실종에 대해				
-QUEST_LV_0200_20150317_001304	Annonce/!/Convainquez l'âme errante de Rivage de Nelasve et ramenez-la à la chouette !{nl}Vous devrez parler à l'âme et la convaincre quand vous la rencontrerez !#5	Notice/!/넬라스베 기슭의 떠도는 영혼을 설득하여 부엉이에게로 인도해 주세요!{nl}영혼을 만나면 대화를 통해 잘 설득해야 합니다!#5				
-QUEST_LV_0200_20150317_001305	Le Mauvais Salut (1)	잘못된 구원(2)				
+QUEST_LV_0200_20150317_001304	Notice/!/Convainquez l'âme errante de Rivage de Nelasve et ramenez-la à la chouette !{nl}Vous devrez parler à l'âme et la convaincre quand vous la rencontrerez !#5	Notice/!/넬라스베 기슭의 떠도는 영혼을 설득하여 부엉이에게로 인도해 주세요!{nl}영혼을 만나면 대화를 통해 잘 설득해야 합니다!#5				
+QUEST_LV_0200_20150317_001305	Le Mauvais Salut (2)	잘못된 구원(2)				
 QUEST_LV_0200_20150317_001306	Je vais aller à la Colline d'Amolallul	아몰라룰 언덕으로 가 보겠다고 한다				
 QUEST_LV_0200_20150317_001307	L'Attaque du Golem Gris	회색 골렘의 습격				
-QUEST_LV_0200_20150317_001308	Annonce/!/Vainquez le Golem surgi soudainement !#8	Notice/!/갑자기 나타난 골렘을 처치하세요!#8				
-QUEST_LV_0200_20150317_001309	Avis/!/Golem gris vaincu avec succès !#8	Notice/갑자기 나타난  회색 골렘 처치 성공!#8				
+QUEST_LV_0200_20150317_001308	Notice/!/Vainquez le Golem surgi soudainement !#8	Notice/!/갑자기 나타난 골렘을 처치하세요!#8				
+QUEST_LV_0200_20150317_001309	Notice/!/Golem gris vaincu avec succès !#8	Notice/갑자기 나타난  회색 골렘 처치 성공!#8				
 QUEST_LV_0200_20150317_001310	Dernière Mission (1)	마지막 임무(1)				
 QUEST_LV_0200_20150317_001311	C'est dommage. Aidons-le.	불쌍하니까 도와 주자				
 QUEST_LV_0200_20150317_001312	C'est effrayant, refuser.	왠지 무서우니 거절하자				
@@ -1356,15 +1356,15 @@ QUEST_LV_0200_20150317_001355	Je vais rejoindre la bataille	전투에 참여하�
 QUEST_LV_0200_20150317_001356	Laisse-moi un peu de temps pour me préparer	잠시 준비할 시간을 요청하자				
 QUEST_LV_0200_20150317_001357	Vaincre les Grand Griba Bleu	푸른 빅 그리바 처치				
 QUEST_LV_0200_20150317_001358	Toucher/FIRE/2/TRACK_BEFORE/SSN_HATE_AROUND	건드려 보는 중/FIRE/2/TRACK_BEFORE/SSN_HATE_AROUND				
-QUEST_LV_0200_20150317_001359	Annonce/!/Une horde de Grand Griba bleu est apparue !#5	Notice/!/갑자기 푸른 빅 그리바 무리가 나타났습니다!#5				
+QUEST_LV_0200_20150317_001359	Notice/!/Une horde de Grand Griba bleu est apparue !#5	Notice/!/갑자기 푸른 빅 그리바 무리가 나타났습니다!#5				
 QUEST_LV_0200_20150317_001360	L'obstruction du monstre qui bloque la route	길을 막고있는 몬스터의 방해				
-QUEST_LV_0200_20150317_001361	Annonce/!/Vainquez le monstre qui bloque la route !#8	Notice/!/길을 막고있는 몬스터 처치!#8				
-QUEST_LV_0200_20150317_001362	Annonce/!/Le monstre qui bloquait la route est vaincu !#8	Notice/길을 막고있는 몬스터 처치 완료!#8				
+QUEST_LV_0200_20150317_001361	Notice/!/Vainquez le monstre qui bloque la route !#8	Notice/!/길을 막고있는 몬스터 처치!#8				
+QUEST_LV_0200_20150317_001362	Notice/!/Le monstre qui bloquait la route est vaincu !#8	Notice/길을 막고있는 몬스터 처치 완료!#8				
 QUEST_LV_0200_20150317_001363	La Rancune d'un Guerrier sans Nom	어느 무명 용사의 한풀이				
 QUEST_LV_0200_20150317_001364	Essayage du collier/MAKING/2/TRACK_BEFORE/SSN_HATE_AROUND	목걸이를 걸어 보는 중/MAKING/2/TRACK_BEFORE/SSN_HATE_AROUND				
-QUEST_LV_0200_20150317_001365	Avis/!/Vainquez ce loup-garou {nl}qui semble avoir mené le propriétaire du souvenir à la mort !#5	Notice/!/유물의 주인을 죽음에 이르게 한 것 같은{nl}이 웨어 울프를 처치하세요!#5				
+QUEST_LV_0200_20150317_001365	Notice/!/Vainquez ce loup-garou {nl}qui semble avoir mené le propriétaire du souvenir à la mort !#5	Notice/!/유물의 주인을 죽음에 이르게 한 것 같은{nl}이 웨어 울프를 처치하세요!#5				
 QUEST_LV_0200_20150317_001366	Présentation des condoléances/MAKING/2/TRACK_AFTER/None	명복을 빌어 주는 중/MAKING/2/TRACK_AFTER/None				
-QUEST_LV_0200_20150317_001367	Annonce/Les souvenirs ont disparu avec le collier !	Notice/목걸이와 함께 유품이 사라졌습니다!				
+QUEST_LV_0200_20150317_001367	Notice/Les souvenirs ont disparu avec le collier !	Notice/목걸이와 함께 유품이 사라졌습니다!				
 QUEST_LV_0200_20150317_001368	Throneweaver Dangereux (3)	위험한 쓰론위버(3)				
 QUEST_LV_0200_20150317_001369	Je vais me débarrasser du Throneweaver	쓰론위버를 처치하겠다고 한다				
 QUEST_LV_0200_20150317_001370	Laisse-moi un peu de temps pour me préparer	준비할 시간을 달라고 한다				
@@ -1479,7 +1479,7 @@ QUEST_LV_0200_20150317_001478	C'Est le Miel (1)	꿀 때문이야(1)
 QUEST_LV_0200_20150317_001479	Je vais jeter un œil	살펴보고 오겠다고 한다				
 QUEST_LV_0200_20150317_001480	Je suis occupé, je passe mon tour	바쁘니까 거절하자				
 QUEST_LV_0200_20150317_001481	À propos de la ville	마을에 대해				
-QUEST_LV_0200_20150317_001482	Annonce/Heureusement, la ruche est intacte.#5	Notice/다행히 벌집은 온전한 것 같습니다.#5				
+QUEST_LV_0200_20150317_001482	Notice/Heureusement, la ruche est intacte.#5	Notice/다행히 벌집은 온전한 것 같습니다.#5				
 QUEST_LV_0200_20150317_001483	C'Est le Miel (2)	꿀 때문이야(2)				
 QUEST_LV_0200_20150317_001484	Je vais jeter un œil	한 번 찾아 보겠다고 한다				
 QUEST_LV_0200_20150317_001485	J'en ai assez fait, je passe mon chemin	이 정도면 할 일은 다 한것 같으니 그냥 간다				
@@ -1491,7 +1491,7 @@ QUEST_LV_0200_20150317_001490	Calme-toi	진정하라고 달래 본다
 QUEST_LV_0200_20150317_001491	Il ne se calmera pas. Partons.	달랠 수 없는 것 같으니 그냥 떠나자				
 QUEST_LV_0200_20150317_001492	À propos de l'autre Révélateur	다른 계시자에 대해				
 QUEST_LV_0200_20150317_001493	Vérification/LOOK/3/TRACK_BEFORE/None	확인하는 중/LOOK/3/TRACK_BEFORE/None				
-QUEST_LV_0200_20150317_001494	Annonce/L'hydromel que Dorgen demandait a été trouvé.#5	Notice/도르젠이 가져오라고 한 벌꿀술을 찾았습니다.#5				
+QUEST_LV_0200_20150317_001494	Notice/L'hydromel que Dorgen demandait a été trouvé.#5	Notice/도르젠이 가져오라고 한 벌꿀술을 찾았습니다.#5				
 QUEST_LV_0200_20150317_001495	Douce Vengeance	달콤한 복수				
 QUEST_LV_0200_20150317_001496	Je vais vaincre les monstres alentour, alors détendez-vous.	주변의 몬스터를 처치해 줄 테니 기분 풀라고 한다				
 QUEST_LV_0200_20150317_001497	J'ai assez aidé, je m'en vais	도와줄 만큼 도와줬으니 자리를 뜬다				
@@ -1558,7 +1558,7 @@ QUEST_LV_0200_20150317_001557	La Main de l'Épouvantail (2)	허수아비 손이�
 QUEST_LV_0200_20150317_001558	Je vais la redresser	세워두겠다고 한다				
 QUEST_LV_0200_20150317_001559	Annuler	취소				
 QUEST_LV_0200_20150317_001560	Installation/MAKING/3/TRACK_BEFORE/None	설치 중/MAKING/3/TRACK_BEFORE/None				
-QUEST_LV_0200_20150317_001561	Annonce/L'épouvantail est posé, mais les monstres n'y réagissent pas.#5	Notice/허수아비를 설치해 보았지만 몬스터는 별다른 반응이 없어 보입니다.#5				
+QUEST_LV_0200_20150317_001561	Notice/L'épouvantail est posé, mais les monstres n'y réagissent pas.#5	Notice/허수아비를 설치해 보았지만 몬스터는 별다른 반응이 없어 보입니다.#5				
 QUEST_LV_0200_20150317_001562	Moitié Miel, Moitié Monstre	꿀 반 몬스터 반				
 QUEST_LV_0200_20150317_001563	Le réconforter	위로해주자				
 QUEST_LV_0200_20150317_001564	Révélateurs Troublés	현혹된 계시자들				
@@ -1567,7 +1567,7 @@ QUEST_LV_0200_20150317_001566	Cela ne me concerne pas	나와는 상관 없는 �
 QUEST_LV_0200_20150317_001567	À Propos du Sceau de Bois de Lumière Printanière	봄볕나무 숲의 봉인에 대해				
 QUEST_LV_0200_20150317_001568	Symbole de la Déesse Austeja	아우스테야 여신의 상징				
 QUEST_LV_0200_20150317_001569	Restauration / PRAY / 3 / TRACK_BEFORE / None	복원 중/PRAY/3/TRACK_BEFORE/None				
-QUEST_LV_0200_20150317_001570	Annonce/Le symbole de la Déesse Austeja a été restauré !#5	Notice/아우스테야 여신의 상징이 복원되었습니다!#5				
+QUEST_LV_0200_20150317_001570	Notice/Le symbole de la Déesse Austeja a été restauré !#5	Notice/아우스테야 여신의 상징이 복원되었습니다!#5				
 QUEST_LV_0200_20150317_001571	Soigner les Révélateurs d'Abord	계시자들을 치료하는게 우선				
 QUEST_LV_0200_20150317_001572	La Tour du Sceau Détruite (1)	부서진 봉인탑(1)				
 QUEST_LV_0200_20150317_001573	Je vais restaurer le sceau	봉인을 복구하겠다고 한다				
@@ -1599,9 +1599,9 @@ QUEST_LV_0200_20150317_001598	Une Faim Insatiable (2)	채워지지 않는 허기
 QUEST_LV_0200_20150317_001599	Une Faim Insatiable (3)	채워지지 않는 허기(3)				
 QUEST_LV_0200_20150317_001600	Une Faim Insatiable (4)	채워지지 않는 허기(4)				
 QUEST_LV_0200_20150317_001601	Je le ferai la prochaine fois	다음에 만들어 주자				
-QUEST_LV_0200_20150317_001602	Annonce /! / Liliya est morte .. {nl} Creusez-lui une tombe, je vous prie # 3	Notice/!/릴리야가 숨을 거두었습니다.. {nl}그녀의 무덤을 만들어 주세요#3				
+QUEST_LV_0200_20150317_001602	Notice/!/Liliya est morte .. {nl} Creusez-lui une tombe, je vous prie#3	Notice/!/릴리야가 숨을 거두었습니다.. {nl}그녀의 무덤을 만들어 주세요#3				
 QUEST_LV_0200_20150317_001603	Creusement d'une tombe pour Liliya/ SITGROPE / 3 / TRACK_BEFORE / None	릴리야의 무덤을 만드는 중/SITGROPE/3/TRACK_BEFORE/None				
-QUEST_LV_0200_20150317_001604	Annonce /Vous avez creusé une tombe pour Liliya # 5	Notice/릴리야의 무덤을 만들어 주었습니다#5				
+QUEST_LV_0200_20150317_001604	Notice/Vous avez creusé une tombe pour Liliya#5	Notice/릴리야의 무덤을 만들어 주었습니다#5				
 QUEST_LV_0200_20150317_001605	Gloutonnerie sans Fin (1)	끝없는 식탐(1)				
 QUEST_LV_0200_20150317_001606	Je vais trouver de quoi manger	먹을 것을 구해 오겠다고 한다				
 QUEST_LV_0200_20150317_001607	L'ignorer et passer son chemin	무시하고 가던 길 간다				
@@ -1620,7 +1620,7 @@ QUEST_LV_0200_20150317_001619	On ne Peut Pas l'Emporter (1)	빼앗길 수 없어
 QUEST_LV_0200_20150317_001620	Je m'occupe des monstres	몬스터들을 정리하고 오겠다고 한다				
 QUEST_LV_0200_20150317_001621	On ne Peut Pas l'Emporter (2)	빼앗길 수 없어(2)				
 QUEST_LV_0200_20150317_001622	Fouille du tas de nourriture/ SITGROPE_LOOP / 3 / TRACK_BEFORE / SSN_HATE_AROUND	식량무지를 뒤지는 중/SITGROPE_LOOP/3/TRACK_BEFORE/SSN_HATE_AROUND				
-QUEST_LV_0200_20150317_001623	Annonce /! / Vous avez obtenu des déchets alimentaires dans le tas de nourriture ! {nl} Utilisez la touche V pour les jeter aux monstres et les tuer ! # 5	Notice/!/식량무지에서 음식 찌꺼기를 구했습니다!{nl}이것을 V키를 이용해 몬스터에게 던진 뒤 처치하세요!#5				
+QUEST_LV_0200_20150317_001623	Notice/!/Vous avez obtenu des déchets alimentaires dans le tas de nourriture ! {nl} Utilisez la touche V pour les jeter aux monstres et les tuer !#5	Notice/!/식량무지에서 음식 찌꺼기를 구했습니다!{nl}이것을 V키를 이용해 몬스터에게 던진 뒤 처치하세요!#5				
 QUEST_LV_0200_20150317_001624	Les tas de nourriture de Voie du démon affamé (1)	큰아귀 길의 식량무지(1)				
 QUEST_LV_0200_20150317_001625	Fouille/SITGROPE_LOOP/4/TRACK_BEFORE/None	파 헤치는 중/SITGROPE_LOOP/4/TRACK_BEFORE/None				
 QUEST_LV_0200_20150317_001626	Les tas de nourriture de Voie du démon affamé (2)	큰아귀 길의 식량무지(2)				
@@ -1629,12 +1629,12 @@ QUEST_LV_0200_20150317_001628	Les tas de nourriture de Voie du démon affamé (4
 QUEST_LV_0200_20150317_001629	Malédiction de la Paresse - Fainéantise	나태의 저주 - 게으름				
 QUEST_LV_0200_20150317_001630	Essayer de le frapper	한 번 때려 본다				
 QUEST_LV_0200_20150317_001631	Les choses suspectes ne sont qu'ennuis. Ignorez-les et passez votre chemin.	수상한 건 질색이니 그냥 지나간다				
-QUEST_LV_0200_20150317_001632	Annonce /Le Cristal de racine d'arbre muté a été détruit avec{nl}succès {nl}La malédiction jetée alentour va disparaître ! # 5	Notice/변형된 나무뿌리 수정을 파괴하는 데 성공하였습니다!{nl}주변에 깔려 있던 저주가 사라집니다!#5				
+QUEST_LV_0200_20150317_001632	Notice/Le Cristal de racine d'arbre muté a été détruit avec{nl}succès {nl}La malédiction jetée alentour va disparaître !#5	Notice/변형된 나무뿌리 수정을 파괴하는 데 성공하였습니다!{nl}주변에 깔려 있던 저주가 사라집니다!#5				
 QUEST_LV_0200_20150317_001633	Malédiction de la Paresse - Léthargie	나태의 저주 - 무기력				
 QUEST_LV_0200_20150317_001634	Destruction du cristal/ ATK / 1 / TRACK_BEFORE / SSN_HATE_AROUND	수정 파괴 중/ATK/1/TRACK_BEFORE/SSN_HATE_AROUND				
-QUEST_LV_0200_20150317_001635	Annonce /! /Le Tree Root Crystal a répandu de{nl}nombreux noyaux{nl} Trouvez les noyaux dispersés et démantelez-le ! # 5	Notice/!/나무뿌리 수정이 여러개의 핵을 쏟아 냈습니다!{nl}흩어진 핵을 찾아 분해하세요!#5				
+QUEST_LV_0200_20150317_001635	Notice/!/Le Tree Root Crystal a répandu de{nl}nombreux noyaux{nl} Trouvez les noyaux dispersés et démantelez-le !#5	Notice/!/나무뿌리 수정이 여러개의 핵을 쏟아 냈습니다!{nl}흩어진 핵을 찾아 분해하세요!#5				
 QUEST_LV_0200_20150317_001636	Destruction du Cristal de racine d'arbre ATK / 1 / TRACK_BEFORE / None	나무 뿌리 수정 파괴 중/ATK/1/TRACK_BEFORE/None				
-QUEST_LV_0200_20150317_001637	Annonce /Le Cristal de racine d'arbre a été démantelé avec succès ! # 5	Notice/나무뿌리 수정을 해체 하는 데 성공했습니다!#5				
+QUEST_LV_0200_20150317_001637	Notice/Le Cristal de racine d'arbre a été démantelé avec succès !#5	Notice/나무뿌리 수정을 해체 하는 데 성공했습니다!#5				
 QUEST_LV_0200_20150317_001638	Malédiction de la Paresse - Sieste	나태의 저주 - 낮잠				
 QUEST_LV_0200_20150317_001639	Observation du cristal/ LOOK / 3 / TRACK_BEFORE / SSN_HATE_AROUND	수정을 살펴 보는 중/LOOK/3/TRACK_BEFORE/SSN_HATE_AROUND				
 QUEST_LV_0200_20150317_001640	Destruction du Cristal de racine d'arbre / ATK / 1 / TRACK_AFTER / None	나무뿌리 수정을 파괴 하는 중/ATK/1/TRACK_AFTER/None				
@@ -1642,15 +1642,15 @@ QUEST_LV_0200_20150317_001641	Malédiction de la Paresse - Lenteur	나태의 저
 QUEST_LV_0200_20150317_001642	Observation du Cristal de racine d'arbre/ LOOK / 2 / TRACK_BEFORE / None	나무뿌리 수정 관찰 중/LOOK/2/TRACK_BEFORE/None				
 QUEST_LV_0200_20150317_001643	Malédiction de la Paresse - Évanouissement	나태의 저주 - 기절				
 QUEST_LV_0200_20150317_001644	Observation du Cristal de racine d'arbre muté/ LOOK / 2 / TRACK_BEFORE / None	변형된 나무뿌리 수정을 살펴 보는 중/LOOK/2/TRACK_BEFORE/None				
-QUEST_LV_0200_20150317_001645	Annonce /! /Vous devez éliminer la contamination soudaine causée par le Cristal de racine d'arbre ! {nl} Récoltez l'énergie du Cristal de racine d'arbre sur les monstres alentour ! # 5	Notice/!/나무뿌리 수정에 의한 갑작스러운 오염을 없애야 합니다!{nl}주변 몬스터로부터 나무뿌리 수정 에너지원을 모으세요!#5				
-QUEST_LV_0200_20150317_001646	Annonce /! /Vous vous évanouirez si vous marchez sur des traînées de contamination ! Prenez garde ! # 5	Notice/!/주변에 깔린 오염의 흔적을 밟으면 기절하니 조심하세요!#5				
+QUEST_LV_0200_20150317_001645	Notice/!/Vous devez éliminer la contamination soudaine causée par le Cristal de racine d'arbre ! {nl} Récoltez l'énergie du Cristal de racine d'arbre sur les monstres alentour !#5	Notice/!/나무뿌리 수정에 의한 갑작스러운 오염을 없애야 합니다!{nl}주변 몬스터로부터 나무뿌리 수정 에너지원을 모으세요!#5				
+QUEST_LV_0200_20150317_001646	Notice/!/Vous vous évanouirez si vous marchez sur des traînées de contamination ! Prenez garde !#5	Notice/!/주변에 깔린 오염의 흔적을 밟으면 기절하니 조심하세요!#5				
 QUEST_LV_0200_20150317_001647	Scellement du Cristal de racine d'arbre muté/ MAKING / 4 / TRACK_BEFORE / None	변형된 나무뿌리 수정 봉인 중/MAKING/4/TRACK_BEFORE/None				
 QUEST_LV_0200_20150317_001648	Malédiction de la Paresse - Abîme	나태의 저주 - 무저갱				
 QUEST_LV_0200_20150317_001649	Observation du Cristal de racine d'arbre / LOOK / 4 / TRACK_BEFORE / None	나무뿌리 수정 살펴 보기/LOOK/4/TRACK_BEFORE/None				
-QUEST_LV_0200_20150317_001650	Annonce /! / Le Tree Root Crystal s'est divisé en plusieurs morceaux ! Trouvez le vrai et démantelez-le ! # 3	Notice/!/나무뿌리 수정이 여러개로 나뉘어져 버렸습니다! 진짜를 찾아 해체하세요!#3				
+QUEST_LV_0200_20150317_001650	Notice/!/Le Tree Root Crystal s'est divisé en plusieurs morceaux ! Trouvez le vrai et démantelez-le !#3	Notice/!/나무뿌리 수정이 여러개로 나뉘어져 버렸습니다! 진짜를 찾아 해체하세요!#3				
 QUEST_LV_0200_20150317_001651	Malédiction de la Paresse - Misère	나태의 저주 - 도탄				
 QUEST_LV_0200_20150317_001652	Secouement du Cristal de racine d'arbre muté / STANDSHAKE / 3 / TRACK_BEFORE / SSN_HATE_AROUND	변형 나무뿌리 수정을 마구 흔드는 중/STANDSHAKE/3/TRACK_BEFORE/SSN_HATE_AROUND				
-QUEST_LV_0200_20150317_001653	Annonce/le coffre a disparu !#5	Notice/상자가 사라졌습니다!#5				
+QUEST_LV_0200_20150317_001653	Notice/le coffre a disparu !#5	Notice/상자가 사라졌습니다!#5				
 QUEST_LV_0200_20150317_001654	Incident Mystérieux	영문 모를 일				
 QUEST_LV_0200_20150317_001655	Je vais rester et ne pas déranger	방해하지 않고 가만 있겠다고 한다				
 QUEST_LV_0200_20150317_001656	Bien, comme vous voudrez. Je m'en vais	기분 나쁘니 그냥 자리를 떠난다				
@@ -1659,7 +1659,7 @@ QUEST_LV_0200_20150317_001658	Que dois-je faire ?	어떻게 하면 되느냐고 
 QUEST_LV_0200_20150317_001659	Arrêtez. C'est ennuyeux	지겨우니 그만 한다				
 QUEST_LV_0200_20150317_001660	Ce qui se passait ici	여기서 하고 있던 일				
 QUEST_LV_0200_20150317_001661	Prière à l'autel / WORSHIP / 3 / TRACK_AFTER / SSN_HATE_AROUND	제단에 기도 하는 중/WORSHIP/3/TRACK_AFTER/SSN_HATE_AROUND				
-QUEST_LV_0200_20150317_001662	Annonce/!/Les âmes entravées sont apparues autour de l'autel !{nl}Convainquez les âmes en colère et aidez-les à monter au ciel !#5	Notice/!/속박당했던 영혼들이 제단 주변에 나타났습니다!{nl}분노하고 있는 영혼들을 설득해 승천하도록 도와주세요!#5				
+QUEST_LV_0200_20150317_001662	Notice/!/Les âmes entravées sont apparues autour de l'autel !{nl}Convainquez les âmes en colère et aidez-les à monter au ciel !#5	Notice/!/속박당했던 영혼들이 제단 주변에 나타났습니다!{nl}분노하고 있는 영혼들을 설득해 승천하도록 도와주세요!#5				
 QUEST_LV_0200_20150317_001663	Test de Libération d'Âme Enragée (2)	분노의 봉인 풀기 시험(2)				
 QUEST_LV_0200_20150317_001664	C'est trop de tracas.	거절한다. 귀찮다				
 QUEST_LV_0200_20150317_001665	Test de Libération d'Âme Enragée (3)	분노의 봉인 풀기 시험(3)				
@@ -1672,18 +1672,18 @@ QUEST_LV_0200_20150317_001671	Non. C'est trop de tracas	귀찮으니 안한다�
 QUEST_LV_0200_20150317_001672	Escalier éparpillé	흩어진 계단				
 QUEST_LV_0200_20150317_001673	Des Fleurs pour l'Âme Enragée	분노한 영혼의 꽃잎				
 QUEST_LV_0200_20150317_001674	Prière/WORSHIP/2/TRACK_BEFORE/None	기도하는 중/WORSHIP/2/TRACK_BEFORE/None				
-QUEST_LV_0200_20150317_001675	Annonce /! / Récoltez des fleurs et offrez-les à l'autel pour les âmes entravées # 3	Notice/!/속박당한 영혼들을 위해 주변의 꽃을 모아 제단에 바치세요#3				
+QUEST_LV_0200_20150317_001675	Notice/!/Récoltez des fleurs et offrez-les à l'autel pour les âmes entravées#3	Notice/!/속박당한 영혼들을 위해 주변의 꽃을 모아 제단에 바치세요#3				
 QUEST_LV_0200_20150317_001676	Nettoyage de l'autel / SITGROPE / 3 / TRACK_BEFORE / None	제단을 치우는 중/SITGROPE/3/TRACK_BEFORE/None				
-QUEST_LV_0200_20150317_001677	Annonce/L'autel est nettoyé et les fleurs sont ramassées !#3	Notice/제단을 치우고 꽃을 모두 다시 주웠습니다!#3				
+QUEST_LV_0200_20150317_001677	Notice/L'autel est nettoyé et les fleurs sont ramassées !#3	Notice/제단을 치우고 꽃을 모두 다시 주웠습니다!#3				
 QUEST_LV_0200_20150317_001678	Offrande aux Âmes en Colère	분노한 영혼들에게 바침				
-QUEST_LV_0200_20150317_001679	Annonce /Apaisez les âmes !	Notice/영혼을 달래어 보냈습니다!				
+QUEST_LV_0200_20150317_001679	Notice/Apaisez les âmes !	Notice/영혼을 달래어 보냈습니다!				
 QUEST_LV_0200_20150317_001680	La Liberté pour les Âmes Enragées	분노한 자에게 자유를				
-QUEST_LV_0200_20150317_001681	Annonce /! /Obtenez des pages d'écriture sur les monstres alentour ! # 3	Notice/!/주변의 몬스터로부터 경전의 낱장을 구해 오세요!#3				
+QUEST_LV_0200_20150317_001681	Notice/!/Obtenez des pages d'écriture sur les monstres alentour !#3	Notice/!/주변의 몬스터로부터 경전의 낱장을 구해 오세요!#3				
 QUEST_LV_0200_20150317_001682	Dépôt de l'écriture / MAKING / 2 / TRACK_BEFORE / None	경전을 올려 놓는 중/MAKING/2/TRACK_BEFORE/None				
 QUEST_LV_0200_20150317_001683	Colère Condensée	응축된 분노				
-QUEST_LV_0200_20150317_001684	Annonce /! / Un Firelord se cachait dans l'autel. Débarrassez-vous-en ! # 3	Notice/!/제단에 숨어 있던 파이어로드를 처치하세요!#3				
+QUEST_LV_0200_20150317_001684	Notice/!/Un Firelord se cachait dans l'autel. Débarrassez-vous-en !#3	Notice/!/제단에 숨어 있던 파이어로드를 처치하세요!#3				
 QUEST_LV_0200_20150317_001685	Le Secret de l'Autel Détruit	파괴된 제단의 비밀				
-QUEST_LV_0200_20150317_001686	Annonce/!/L'âme du pèlerin a disparu !#3	Notice/!/순례자의 영혼이 사라졌습니다!#3				
+QUEST_LV_0200_20150317_001686	Notice/!/L'âme du pèlerin a disparu !#3	Notice/!/순례자의 영혼이 사라졌습니다!#3				
 QUEST_LV_0200_20150317_001687	Fragment d'une Âme	영혼의 파편				
 QUEST_LV_0200_20150317_001688	Vérification de l'autel/LOOK_SIT/3/TRACK_BEFORE/None	제단을 살피는 중/LOOK_SIT/3/TRACK_BEFORE/None				
 QUEST_LV_0200_20150317_001689	Pulvérisation/CAMPFIRE_ADD/2/TRACK_BEFORE/None	뿌리는 중/CAMPFIRE_ADD/2/TRACK_BEFORE/None				
@@ -1693,24 +1693,24 @@ QUEST_LV_0200_20150317_001692	Un Hommage pour la Bénédiction (1)	축복을 위
 QUEST_LV_0200_20150317_001693	Trouver des offrandes	제물을 구해 온다				
 QUEST_LV_0200_20150317_001694	Vous n'avez pas besoin de bénédictions, passez votre chemin	축복은 필요 없으니 그냥 간다				
 QUEST_LV_0200_20150317_001695	Vénération/ WORSHIP / 3 / TRACK_BEFORE / None	경배 중/WORSHIP/3/TRACK_BEFORE/None				
-QUEST_LV_0200_20150317_001696	Annonce/!/Le sanctuaire semble souillé !#3	Notice/!/성소가 오염된 것 같습니다!#3				
+QUEST_LV_0200_20150317_001696	Notice/!/Le sanctuaire semble souillé !#3	Notice/!/성소가 오염된 것 같습니다!#3				
 QUEST_LV_0200_20150317_001697	Un Hommage pour la Bénédiction (2)	축복을 위한 경배(2)				
 QUEST_LV_0200_20150317_001698	Vérification du Sanctuaire/LOOK/2/TRACK_BEFORE/None	성소를 살펴보는 중/LOOK/2/TRACK_BEFORE/None				
-QUEST_LV_0200_20150317_001699	Annonce/!/Des monstres sont apparus autour du sanctuaire !#5	Notice/!/성소 주변으로 몬스터가 등장했습니다!#5				
+QUEST_LV_0200_20150317_001699	Notice/!/Des monstres sont apparus autour du sanctuaire !#5	Notice/!/성소 주변으로 몬스터가 등장했습니다!#5				
 QUEST_LV_0200_20150317_001700	Un Hommage pour la Bénédiction (3)	축복을 위한 경배(3)				
 QUEST_LV_0200_20150317_001701	Je vais le purifier	정화하겠다고 한다				
 QUEST_LV_0200_20150317_001702	Aspersion d'eau bénite / STANDSPINKLE / 2 / TRACK_BEFORE / None	성수를 뿌리는 중/STANDSPINKLE/2/TRACK_BEFORE/None				
-QUEST_LV_0200_20150317_001703	Annonce / Le sanctuaire a été purifié ! # 3	Notice/성소를 정화 하였습니다!#3				
+QUEST_LV_0200_20150317_001703	Notice/Le sanctuaire a été purifié !#3	Notice/성소를 정화 하였습니다!#3				
 QUEST_LV_0200_20150317_001704	Sainte Statue de Déesse	성스러운 여신상				
 QUEST_LV_0200_20150317_001705	Vénération / WORSHIP / 2 / TRACK_BEFORE / SSN_HATE_AROUND	경배 중/WORSHIP/2/TRACK_BEFORE/SSN_HATE_AROUND				
 QUEST_LV_0200_20150317_001706	Véritable Statue de Déesse (1)	참된 여신상(1)				
-QUEST_LV_0200_20150317_001707	Annonce/!/Quelque chose ne va pas avec la statue de{nl}Déesse{nl}Rendez-vous auprès de Tesla à Vallon du pavage en{nl}losanges #3	Notice/!/여신상에 문제가 발생 한 듯 합니다{nl}마름포석골의 조각가 테슬라를 찾아가세요#3				
+QUEST_LV_0200_20150317_001707	Notice/!/Quelque chose ne va pas avec la statue de{nl}Déesse{nl}Rendez-vous auprès de Tesla à Vallon du pavage en{nl}losanges#3	Notice/!/여신상에 문제가 발생 한 듯 합니다{nl}마름포석골의 조각가 테슬라를 찾아가세요#3				
 QUEST_LV_0200_20150317_001708	Véritable Statue de Déesse (2)	참된 여신상(2)				
 QUEST_LV_0200_20150317_001709	Quelque chose qui vient à l'esprit	짐작 가는 일				
 QUEST_LV_0200_20150317_001710	Réparation de la statue/ MAKING / 3 / TRACK_BEFORE / SSN_HATE_AROUND	여신상 수리 중/MAKING/3/TRACK_BEFORE/SSN_HATE_AROUND				
 QUEST_LV_0200_20150317_001711	Véritable Statue de Déesse (3)	참된 여신상(3)				
 QUEST_LV_0200_20150317_001712	Vérification de la Statue de la Déesse/LOOK/2/TRACK_BEFORE/None	여신상을 살펴 보는 중/LOOK/2/TRACK_BEFORE/None				
-QUEST_LV_0200_20150317_001713	Annonce/!/Un cercle d'invocation de monstres est apparu quand la statue de Déesse a disparu !#5	Notice/!/여신상이 사라지면서 주변에 몬스터 소환진이 생겼습니다!#5				
+QUEST_LV_0200_20150317_001713	Notice/!/Un cercle d'invocation de monstres est apparu quand la statue de Déesse a disparu !#5	Notice/!/여신상이 사라지면서 주변에 몬스터 소환진이 생겼습니다!#5				
 QUEST_LV_0200_20150317_001714	Sanctuaire de vérité ou de mensonge ? (1)	거짓 또는 진실의 성소?(1)				
 QUEST_LV_0200_20150317_001715	Vénération WORSHIP / 4 / TRACK_BEFORE / SSN_HATE_AROUND	경배 중/WORSHIP/4/TRACK_BEFORE/SSN_HATE_AROUND				
 QUEST_LV_0200_20150317_001716	Sanctuaire de vérité ou de mensonge ? (2)	거짓 또는 진실의 성소?(2)				
@@ -1718,7 +1718,7 @@ QUEST_LV_0200_20150317_001717	Description du travail du Sanctuaire / TALK / 2 / 
 QUEST_LV_0200_20150317_001718	C'est agaçant. Ce sera pour une autre fois	귀찮으니 다음 기회에				
 QUEST_LV_0200_20150317_001719	Naktis ? La grande cathédrale ?	나크티스? 대성당?				
 QUEST_LV_0200_20150317_001720	Combustion / MAKING / 3 / TRACK_BEFORE / None	태우는 중/MAKING/3/TRACK_BEFORE/None				
-QUEST_LV_0200_20150317_001721	Annonce /Le sanctuaire semble avoir été restauré ! # 3	Notice/성소가 제 모습을 찾은 것 같습니다!#3				
+QUEST_LV_0200_20150317_001721	Notice/Le sanctuaire semble avoir été restauré !#3	Notice/성소가 제 모습을 찾은 것 같습니다!#3				
 QUEST_LV_0200_20150317_001722	Bénédiction Préalable	축복의 필수 조건				
 QUEST_LV_0200_20150317_001723	Récupérer de l'eau	물을 떠 온다				
 QUEST_LV_0200_20150317_001724	Ne le faites pas	하지 않는다				
@@ -1732,12 +1732,12 @@ QUEST_LV_0200_20150317_001731	Offrande de fleurs et vénération/ WORSHIP / 3 / 
 QUEST_LV_0200_20150317_001732	La bénédiction par l'argent (1)	금전으로 받는 축복(1)				
 QUEST_LV_0200_20150317_001733	Faire un don	헌금한다				
 QUEST_LV_0200_20150317_001734	Ne pas faire de don	헌금하지 않는다				
-QUEST_LV_0200_20150317_001735	Annonce /! / Le sanctuaire ne fonctionne pas ! # 3	Notice/!/성소가 제 기능을 하지 않습니다!#3				
+QUEST_LV_0200_20150317_001735	Notice/!/Le sanctuaire ne fonctionne pas !#3	Notice/!/성소가 제 기능을 하지 않습니다!#3				
 QUEST_LV_0200_20150317_001736	Combustion du purificateur/ FIRE / 3 / TRACK_BEFORE / None / None / 1 / BOT / F_pattern004_fire / 1 / BOT	정화부를 태우는 중/FIRE/3/TRACK_BEFORE/None/None/1/BOT/F_pattern004_fire/1/BOT				
-QUEST_LV_0200_20150317_001737	Annonce /Le sanctuaire a été purifié ! # 3	Notice/성소가 정화 되었습니다!#3				
+QUEST_LV_0200_20150317_001737	Notice/Le sanctuaire a été purifié !#3	Notice/성소가 정화 되었습니다!#3				
 QUEST_LV_0200_20150317_001738	La bénédiction par l'argent (2)	금전으로 받는 축복(2)				
 QUEST_LV_0200_20150317_001739	Avec dévotion	경건한 마음으로				
-QUEST_LV_0200_20150317_001740	Annonce /Vous avez vaincu l'Ironbaum qui étouffait le sanctuaire ! Recevez maintenant la bénédiction du sanctuaire ! # 3	Notice/성소를 짓누르던 아이언바움을 물리쳤습니다! 이제 성소에서 축복을 받으세요!#3				
+QUEST_LV_0200_20150317_001740	Notice/Vous avez vaincu l'Ironbaum qui étouffait le sanctuaire ! Recevez maintenant la bénédiction du sanctuaire !#3	Notice/성소를 짓누르던 아이언바움을 물리쳤습니다! 이제 성소에서 축복을 받으세요!#3				
 QUEST_LV_0200_20150317_001741	Éviter l'Engouement (1)	미혹에서 벗어나(1)				
 QUEST_LV_0200_20150317_001742	La raison de ce pèlerinage	순례를 온 이유				
 QUEST_LV_0200_20150317_001743	Éviter l'Engouement (2)	미혹에서 벗어나(2)				
@@ -1749,18 +1749,18 @@ QUEST_LV_0200_20150317_001748	J'y vais maintenant	다녀 오겠다고 한다
 QUEST_LV_0200_20150317_001749	La Route du Pont du Faux-semblant	가식의 교각로				
 QUEST_LV_0200_20150317_001750	Précieux pour Quelqu'un	누군가에겐 소중한				
 QUEST_LV_0200_20150317_001751	Observation de la pierre tombale/ MAKING / 2 / TRACK_BEFORE / None	묘비를 살펴 보는 중/MAKING/2/TRACK_BEFORE/None				
-QUEST_LV_0200_20150317_001752	Annonce/!/Trouvez sur les monstres les morceaux du tableau à insérer dans le cadre ! #5	Notice/!/주변 몬스터로부터 액자에 넣을 사진의 조각을 찾으세요!#5				
+QUEST_LV_0200_20150317_001752	Notice/!/Trouvez sur les monstres les morceaux du tableau à insérer dans le cadre !#5	Notice/!/주변 몬스터로부터 액자에 넣을 사진의 조각을 찾으세요!#5				
 QUEST_LV_0200_20150317_001753	Abandonné dans la tombe	묘지에 버려진 것				
 QUEST_LV_0200_20150317_001754	Observation / LOOK / 3 / TRACK_BEFORE / None	살펴 보는 중/LOOK/3/TRACK_BEFORE/None				
-QUEST_LV_0200_20150317_001755	Annonce/!/Une boîte est tombée de la pierre tombale !#3	Notice/!/묘비에서 상자 하나가 굴러 떨어졌습니다!#3				
+QUEST_LV_0200_20150317_001755	Notice/!/Une boîte est tombée de la pierre tombale !#3	Notice/!/묘비에서 상자 하나가 굴러 떨어졌습니다!#3				
 QUEST_LV_0200_20150317_001756	Ouverture du coffre/UNLOCK/2/TRACK_BEFORE/None	상자를 여는 중/UNLOCK/2/TRACK_BEFORE/None				
-QUEST_LV_0200_20150317_001757	Annonce /Un mouchoir a été sorti ! # 3	Notice/손수건을 하나 꺼냈습니다!#3				
+QUEST_LV_0200_20150317_001757	Notice/Un mouchoir a été sorti !#3	Notice/손수건을 하나 꺼냈습니다!#3				
 QUEST_LV_0200_20150317_001758	Purification du Ruisseau, Rétablissement de l'Arbre (1)	샘물의 정화, 나무의 회복(1)				
 QUEST_LV_0200_20150317_001759	Regarder autour	주변을 둘러 본다				
 QUEST_LV_0200_20150317_001760	Recherche de la jarre/SITGROPE/2/TRACK_BEFORE/None	항아리 찾는 중/SITGROPE/2/TRACK_BEFORE/None				
 QUEST_LV_0200_20150317_001761	Purification du Ruisseau, Rétablissement de l'Arbre (2)	샘물의 정화, 나무의 회복(2)				
 QUEST_LV_0200_20150317_001762	Aspersion de sève/STANDUP/2/TRACK_BEFORE/None/F_light061/1/BOT	수액을 뿌리는 중/STANDUP/2/TRACK_BEFORE/None/F_light061/1/BOT				
-QUEST_LV_0200_20150317_001763	Annonce /L'eau est devenue claire et l'arbre s'est mis à briller ! # 5	Notice/샘물이 맑아지면서 나무에서 빛이 나기 시작했습니다!#5				
+QUEST_LV_0200_20150317_001763	Notice/L'eau est devenue claire et l'arbre s'est mis à briller !#5	Notice/샘물이 맑아지면서 나무에서 빛이 나기 시작했습니다!#5				
 QUEST_LV_0200_20150317_001764	Purification du Ruisseau, Rétablissement de l'Arbre (3)	샘물의 정화, 나무의 회복(3)				
 QUEST_LV_0200_20150317_001765	Se Déplacer à Travers l'Espace (1)	공간의 이동을 위해(1)				
 QUEST_LV_0200_20150317_001766	Le Secret du Lieu Insolite	이공간의 비밀				
@@ -1776,69 +1776,69 @@ QUEST_LV_0200_20150317_001775	Statue Excentrique (3)	기이한 조각상(3)
 QUEST_LV_0200_20150317_001776	Je vais remettre le rapport à Frey	프레이에게 보고서를 전해 주겠다고 한다				
 QUEST_LV_0200_20150317_001777	Le Secret de l'Écorce (1)	나무껍질의 비밀(1)				
 QUEST_LV_0200_20150317_001778	Je vais rassembler l'âme de l'archer Vubbe rouge	붉은 부베 궁수의 정신체를 모으겠다고 한다				
-QUEST_LV_0200_20150317_001779	Le Secret de l'Écorce (1)	나무껍질의 비밀(2)				
+QUEST_LV_0200_20150317_001779	Le Secret de l'Écorce (2)	나무껍질의 비밀(2)				
 QUEST_LV_0200_20150317_001780	Je vais trouver les provisions	보급품을 찾아 보겠다고 한다				
-QUEST_LV_0200_20150317_001781	Annonce /Poursuivez les Vubbe qui ont détruit la caisse de ravitaillement et se sont enfuis ! # 10	Notice/보급품 상자를 파괴하고 도망간 부베를 추적하십시오!#10				
+QUEST_LV_0200_20150317_001781	Notice/Poursuivez les Vubbe qui ont détruit la caisse de ravitaillement et se sont enfuis !#10	Notice/보급품 상자를 파괴하고 도망간 부베를 추적하십시오!#10				
 QUEST_LV_0200_20150317_001782	Le Secret de l'Écorce (3)	나무껍질의 비밀(3)				
 QUEST_LV_0200_20150317_001783	Je vais essayer de chasser les monstres	몬스터를 추적해보겠다고 제안한다				
-QUEST_LV_0200_20150317_001784	Annonce / Retrouvons les Vubbe qui se sont enfuis ! # 8	Notice/도망간 부베족을 추적하자!#8				
+QUEST_LV_0200_20150317_001784	Notice/Retrouvons les Vubbe qui se sont enfuis !#8	Notice/도망간 부베족을 추적하자!#8				
 QUEST_LV_0200_20150317_001785	Le comportement anormal des Vubbe	부베들의 이상행동				
 QUEST_LV_0200_20150317_001786	Je vais suivre les Vubbe	부베들의 뒤를 쫓겠다고 한다				
 QUEST_LV_0200_20150317_001787	Disperser l'Assemblée de Fantômes (1)	유령 집결 해체(1)				
 QUEST_LV_0200_20150317_001788	Je vais détruire l'étendard des Vubbe	부베의 깃발을 파괴하겠다고 한다				
-QUEST_LV_0200_20150317_001789	Annonce /Passer à la zone suivante # 5	Notice/다음 지역으로 이동#5				
+QUEST_LV_0200_20150317_001789	Notice/Passer à la zone suivante#5	Notice/다음 지역으로 이동#5				
 QUEST_LV_0200_20150317_001790	Disperser l'Assemblée de Fantômes (2)	유령 집결 해체(2)				
 QUEST_LV_0200_20150317_001791	Disperser l'Assemblée de Fantômes (3)	유령 집결 해체(3)				
 QUEST_LV_0200_20150317_001792	Vaincre les monstres attaquants	달려드는 몬스터 처치				
 QUEST_LV_0200_20150317_001793	Observation/ SITGROPE / 3 / TRACK_BEFORE / SSN_HATE_AROUND	살펴 보는 중/SITGROPE/3/TRACK_BEFORE/SSN_HATE_AROUND				
-QUEST_LV_0200_20150317_001794	Avis / GetItem /Des monstres ont soudain flairé quelque chose et sont apparus ! # 5	Notice/GetItem/갑자기 무언가의 냄새를 맡고 몬스터들이 출현했습니다!#5				
+QUEST_LV_0200_20150317_001794	Notice/GetItem/Des monstres ont soudain flairé quelque chose et sont apparus !#5	Notice/GetItem/갑자기 무언가의 냄새를 맡고 몬스터들이 출현했습니다!#5				
 QUEST_LV_0200_20150317_001795	Nouveau creusement / SITGROPE / 5 / TRACK_AFTER / SSN_HATE_AROUND	다시 파 보는 중/SITGROPE/5/TRACK_AFTER/SSN_HATE_AROUND				
-QUEST_LV_0200_20150317_001796	Annonce / GetItem /Vous avez trouvé des truffes dans le trou ! # 5	Notice/GetItem/파인 곳에서 송로 버섯을 구했습니다!#5				
+QUEST_LV_0200_20150317_001796	Notice/GetItem/Vous avez trouvé des truffes dans le trou !#5	Notice/GetItem/파인 곳에서 송로 버섯을 구했습니다!#5				
 QUEST_LV_0200_20150317_001797	Vaincre les monstres qui bloquent la route	길을 막고있는 몬스터 처치				
 QUEST_LV_0200_20150317_001798	Ouvrir le Coffre au Trésor	보물 상자 열기				
 QUEST_LV_0200_20150317_001799	L'Histoire de la Sculpture de Chouette	부엉이 조각상의 사연				
-QUEST_LV_0200_20150317_001800	Annonce /!/Des monstres sont apparus près de la statue de chouette ! # 5	Notice/!/부서진 부엉이 조각상 주변에 몬스터가 나타났습니다!#5				
+QUEST_LV_0200_20150317_001800	Notice/!/Des monstres sont apparus près de la statue de chouette !#5	Notice/!/부서진 부엉이 조각상 주변에 몬스터가 나타났습니다!#5				
 QUEST_LV_0200_20150317_001801	Les Traces de la Sculpture de Chouette	부엉이 조각상의 흔적				
 QUEST_LV_0200_20150317_001802	Pourquoi la Sculpture de Chouette Est Tombée	조각상이 쓰러진 이유				
-QUEST_LV_0200_20150317_001803	Annonce /! /Un Mushwort est apparu ! Il a dû briser la statue de chouette ! # 5	Notice/!/부엉이 조각상을 부순 것이 틀림 없는 머쉬워트가 나타났습니다!#5				
+QUEST_LV_0200_20150317_001803	Notice/!/Un Mushwort est apparu ! Il a dû briser la statue de chouette !#5	Notice/!/부엉이 조각상을 부순 것이 틀림 없는 머쉬워트가 나타났습니다!#5				
 QUEST_LV_0200_20150317_001804	Le Sommeil Éternel des Chouettes	부엉이의 영면				
 QUEST_LV_0200_20150317_001805	Recherche d'huile/#SITGROPESET2/2/TRACK_BEFORE/None	기름 찾는 중/#SITGROPESET2/2/TRACK_BEFORE/None				
 QUEST_LV_0200_20150317_001806	Le Destructeur de la Faille	단층지의 파괴자				
 QUEST_LV_0200_20150317_001807	Redressement de la statue tombée/ MAKING / 3 / TRACK_BEFORE / SSN_HATE_AROUND	쓰러진 조각상을 세우는 중/MAKING/3/TRACK_BEFORE/SSN_HATE_AROUND				
 QUEST_LV_0200_20150317_001808	Le Repos des Sculptures de Chouette	부엉이 조각상의 안식				
 QUEST_LV_0200_20150317_001809	Allumage du feu/ FIRE / 2 / TRACK_BEFORE / SSN_HATE_AROUND	불 붙이는 중/FIRE/2/TRACK_BEFORE/SSN_HATE_AROUND				
-QUEST_LV_0200_20150317_001810	Annonce /! /Des monstres ont soudain surgi quand vous avez tenté d'allumer le feu ! {nl}Débarrassons-nous-en d'abord puis rallumons le feu ! # 5	Notice/!/불을 붙이려 하자 갑자기 몬스터들이 몰려들었습니다!{nl}일단 이들을 물리치고 다시 불을 붙여 봅시다!#5				
-QUEST_LV_0200_20150317_001811	Annonce /Vous avez bien brûlé la statue ! # 5	Notice/부엉이 조각상을 잘 태워 주었습니다!#5				
+QUEST_LV_0200_20150317_001810	Notice/!/Des monstres ont soudain surgi quand vous avez tenté d'allumer le feu ! {nl}Débarrassons-nous-en d'abord puis rallumons le feu !#5	Notice/!/불을 붙이려 하자 갑자기 몬스터들이 몰려들었습니다!{nl}일단 이들을 물리치고 다시 불을 붙여 봅시다!#5				
+QUEST_LV_0200_20150317_001811	Notice/Vous avez bien brûlé la statue !#5	Notice/부엉이 조각상을 잘 태워 주었습니다!#5				
 QUEST_LV_0200_20150317_001812	Crémation de la Sculpture de Chouette	부엉이 조각상 화장				
 QUEST_LV_0200_20150317_001813	Embrasement/ MAKING / 3 / TRACK_BEFORE / SSN_HATE_AROUND	불 불이는 중/MAKING/3/TRACK_BEFORE/SSN_HATE_AROUND				
-QUEST_LV_0200_20150317_001814	Annonce /! /Entretenez le feu et débarrassez-vous des monstres ! # 6	Notice/!/조각상 더미의 불을 지키면서 몬스터를 모두 처치하세요!#6				
+QUEST_LV_0200_20150317_001814	Notice/!/Entretenez le feu et débarrassez-vous des monstres !#6	Notice/!/조각상 더미의 불을 지키면서 몬스터를 모두 처치하세요!#6				
 QUEST_LV_0200_20150317_001815	Funérailles de la Sculpture de Chouette	부엉이 조각상 장례				
-QUEST_LV_0200_20150317_001816	Avis /! / Le feu s'éteint. {nl} Volez les flèches de l'archer Vubbe supérieur et jetez-les dans le feu !! # 5	Notice/!/불이 약합니다. {nl}하이부베 궁수에게서 화살을 빼앗아 불에 넣으세요!!#5				
+QUEST_LV_0200_20150317_001816	Notice/!/Le feu s'éteint. {nl} Volez les flèches de l'archer Vubbe supérieur et jetez-les dans le feu !!#5	Notice/!/불이 약합니다. {nl}하이부베 궁수에게서 화살을 빼앗아 불에 넣으세요!!#5				
 QUEST_LV_0200_20150317_001817	Le Raid de Saltistter	살티스터의 급습				
 QUEST_LV_0200_20150317_001818	Fuir rapidement	빠르게 도망가자				
 QUEST_LV_0200_20150317_001819	Le Feu de la Route de Patrouille (1)	순찰로의 모닥불(1)				
 QUEST_LV_0200_20150317_001820	Le Feu de la Route de Patrouille (5)	순찰로의 모닥불(5)				
 QUEST_LV_0200_20150317_001821	Allumage du feu/FIRE/2/TRACK_BEFORE/None	불 붙이는 중/FIRE/2/TRACK_BEFORE/None				
-QUEST_LV_0200_20150317_001822	Annonce /! / Vainquez le Honeypin surgi soudainement !	Notice/!/갑자기 등장한 허니핀을 처치하세요!				
+QUEST_LV_0200_20150317_001822	Notice/!/Vainquez le Honeypin surgi soudainement !	Notice/!/갑자기 등장한 허니핀을 처치하세요!				
 QUEST_LV_0200_20150317_001823	Un Réceptacle pour un Esprit (1)	영혼을 담는 그릇(1)				
 QUEST_LV_0200_20150317_001824	Lui demander comment obtenir conseil	어떻게 하면 안내를 받을 수 있는지 묻는다				
 QUEST_LV_0200_20150317_001825	Je le trouverai seul	그렇다면 혼자 찾겠다고 한다				
 QUEST_LV_0200_20150317_001826	Un Réceptacle pour un Esprit (2)	영혼을 담는 그릇(2)				
 QUEST_LV_0200_20150317_001827	Je vais trouver l'écriture	경전을 찾아 오겠다고 한다				
-QUEST_LV_0200_20150317_001828	Annonce/L'écriture pour invoquer l'esprit est achevée !	Notice/영혼 소환 성서 완성!				
+QUEST_LV_0200_20150317_001828	Notice/L'écriture pour invoquer l'esprit est achevée !	Notice/영혼 소환 성서 완성!				
 QUEST_LV_0200_20150317_001829	Un Réceptacle pour un Esprit (3)	영혼을 담는 그릇(3)				
 QUEST_LV_0200_20150317_001830	Lui demander comment l'appeler	부르는 방법을 물어 본다				
 QUEST_LV_0200_20150317_001831	Miséricorde et Salut (1)	자비와 구원(1)				
 QUEST_LV_0200_20150317_001832	Je vais récupérer les artefacts de la miséricorde	자비의 유물을 찾아 오겠다고 한다				
-QUEST_LV_0200_20150317_001833	Annonce/Le dispositif est ouvert et le joyau en forme de goutte d'eau est apparu.#3	Notice/장치가 열렸고 안에서 물방울 모양의 보석이 나왔다.#3				
+QUEST_LV_0200_20150317_001833	Notice/Le dispositif est ouvert et le joyau en forme de goutte d'eau est apparu.#3	Notice/장치가 열렸고 안에서 물방울 모양의 보석이 나왔다.#3				
 QUEST_LV_0200_20150317_001834	Miséricorde et Salut (2)	자비와 구원(2)				
 QUEST_LV_0200_20150317_001835	Lui demander quoi faire	그럼 어떻게 해야 하는지 묻는다				
 QUEST_LV_0200_20150317_001836	Lui dire qu'il n'y a rien à faire pour ceux qu'on a manqués	놓친 건 어쩔 수 없다고 한다				
-QUEST_LV_0200_20150317_001837	Annonce/Un joyau de forme ronde a été obtenu sur un serviteur de Naktis.#3	Notice/나크티스의 부하에게서 동그란 모양의 보석을 되찾았다.#3				
+QUEST_LV_0200_20150317_001837	Notice/Un joyau de forme ronde a été obtenu sur un serviteur de Naktis.#3	Notice/나크티스의 부하에게서 동그란 모양의 보석을 되찾았다.#3				
 QUEST_LV_0200_20150317_001838	Miséricorde et Salut (3)	자비와 구원(3)				
 QUEST_LV_0200_20150317_001839	Je vais me rendre au lieu saint	지성소로 가겠다고 한다				
 QUEST_LV_0200_20150317_001840	Vérification.../#SITGROPESET2/2/TRACK_BEFORE/None	확인 중../#SITGROPESET2/2/TRACK_BEFORE/None				
-QUEST_LV_0200_20150317_001841	Annonce/Clé de Maven obtenue !	Notice/메이번의 열쇠 획득!				
+QUEST_LV_0200_20150317_001841	Notice/Clé de Maven obtenue !	Notice/메이번의 열쇠 획득!				
 QUEST_LV_0200_20150317_001842	Blasphème sans Fin	끝없이 불경스러운				
 QUEST_LV_0200_20150317_001843	Je vais récupérer les reliques	성물을 찾아 주겠다고 한다				
 QUEST_LV_0200_20150317_001844	Trouver l'objet de la grande cathédrale (2)	대성당 물건 찾기(2)				
@@ -1874,7 +1874,7 @@ QUEST_LV_0200_20150317_001873	Récupération du remède.../#SITGROPESET2/2/TRACK
 QUEST_LV_0200_20150317_001874	S'Adapter aux Circonstances (4)	임기응변(4)				
 QUEST_LV_0200_20150317_001875	S'Adapter aux Circonstances (5)	임기응변(5)				
 QUEST_LV_0200_20150317_001876	Les dispositifs suspects du sanctuaire (1)	지성소의 수상한 장치들(1)				
-QUEST_LV_0200_20150317_001877	Annonce/Il n'y avait rien sur le dispositif.#5	Notice/장치엔 아무것도 없었다.#5				
+QUEST_LV_0200_20150317_001877	Notice/Il n'y avait rien sur le dispositif.#5	Notice/장치엔 아무것도 없었다.#5				
 QUEST_LV_0200_20150317_001878	L'Objet Perdu	잃어버린 물건				
 QUEST_LV_0200_20150317_001879	La porte scellée	봉인된 문				
 QUEST_LV_0200_20150317_001880	Les dispositifs suspects du sanctuaire (2)	지성소의 수상한 장치들(2)				
@@ -3833,7 +3833,7 @@ QUEST_LV_0200_20150323_003832	Vraiment ? Merci.. L'endroit est la Terres agricol
 QUEST_LV_0200_20150323_003833	Croyez-vous que cela ait le moindre sens ? Ces monstres avaient autrefois peur des humains.{nl}Maintenant ils attaquent les humains. Avec du poison !	이게 말이 된다고 생각하십니까?{nl}사람만 보면 도망가기 바쁘던 몬스터들이 사나워진것도 모자라 독이라니요.				병사 데니스
 QUEST_LV_0200_20150323_003834	Messire Uska m'aurait grondé sans vous... Merci infiniment. Quoi qu'il en soit, je me demande{nl}pourquoi les soldats ne sont pas encore revenus ?	계시자님이 아니었으면 우스카님께 무슨 불호령을 들었을지.. 정말 감사합니다.{nl}그나저나 왜 아직도 복귀 소식이 없지?				병사 데니스
 QUEST_LV_0200_20150323_003835	Ah, c'est ennuyeux. J'ai entendu dire que les monstres d'ici sont censés être inoffensifs, mais ils{nl}sont soudain devenus violents.	아, 이거 너무 걱정되는데요.{nl}원래 여기 몬스터들은 참 순했는데 갑자기 공격적으로 변했다지요?{nl}				병사 데니스
-QUEST_LV_0200_20150323_003836	Mais où va donc le monde ? ...Maintenant Alan, mon camarade, se retrouve seul à protéger la{nl}porte d'entrée de la ferme.	도대체 진짜 세상이 어떻게 되려고 그러는지.{nl}게다가 제 동료인 앨런 말입니다. 혼자 농장 출입문을 지키고 있거든요.{nl}				병사 데니스
+QUEST_LV_0200_20150323_003836	Mais où va donc le monde ?...Maintenant Alan, mon camarade, se retrouve seul à protéger la{nl}porte d'entrée de la ferme.	도대체 진짜 세상이 어떻게 되려고 그러는지.{nl}게다가 제 동료인 앨런 말입니다. 혼자 농장 출입문을 지키고 있거든요.{nl}				병사 데니스
 QUEST_LV_0200_20150323_003837	Pouvez-vous vraiment faire cela ? Bien, occupez-vous d'Alan avant que les autres soldats ne{nl}reviennent.	정말 그래주시겠습니까?{nl}그렇다면 다른 병사들이 복귀할 때까지만 앨런을 부탁드립니다.				병사 데니스
 QUEST_LV_0200_20150323_003838	Soldat Alan	병사 앨런				
 QUEST_LV_0200_20150323_003839	N'approchez pas ! Les monstres arrivent ! Zut, comment vais-je pouvoir tenir seul contre cela..	오지 마세요! 몬스터들이 몰려옵니다!{nl}이런, 혼자서 얼마나 버틸 수 있을까..				병사 앨런
@@ -4196,7 +4196,7 @@ QUEST_LV_0200_20150323_004195	Lui demander quel genre de nourriture elle veut	�
 QUEST_LV_0200_20150323_004196	Lui demander si elle souhaite quelque chose en particulier	특별히 원하는 것이 있는지 묻는다				
 QUEST_LV_0200_20150323_004197	Mieux vaut partir sans vous mêler de cette affaire	괜히 얽히지 말고 자리를 뜨는 게 좋을 것 같다				
 QUEST_LV_0200_20150323_004198	Continuer à l'écouter	계속 말을 들어 주자				
-QUEST_LV_0200_20150323_004199	Annonce/!/Liliya est morte..{nl}Creusez-lui une tombe, je vous prie#5	Notice/!/릴리야가 숨을 거두었습니다..{nl}그녀의 무덤을 만들어 주세요#5				
+QUEST_LV_0200_20150323_004199	Notice/!/Liliya est morte..{nl}Creusez-lui une tombe, je vous prie#5	Notice/!/릴리야가 숨을 거두었습니다..{nl}그녀의 무덤을 만들어 주세요#5				
 QUEST_LV_0200_20150323_004200	Je vais vous rapporter de la viande de monstre	몬스터의 고기라도 괜찮다면 구해 오겠다고 한다				
 QUEST_LV_0200_20150323_004201	Lui donner la boîte à musique	어서 오르골을 내 준다				
 QUEST_LV_0200_20150323_004202	Lui demander s'il y a quelque chose à faire	내가 도울 수 있는 일이 있는지 묻는다				
@@ -4208,90 +4208,90 @@ QUEST_LV_0200_20150323_004207	Partir, ne voulant pas s'en mêler	엮이고 싶�
 QUEST_LV_0200_20150323_004208	Je vais l'essayer	시험해 주겠다고 한다				
 QUEST_LV_0200_20150323_004209	Partir maintenant	이만 떠나자				
 QUEST_LV_0200_20150323_004210	Fouille des vivres/SITGROPE_LOOP/2.5/TRACK_BEFORE/SSN_HATE_AROUND	식량무지를 뒤지는 중/SITGROPE_LOOP/2.5/TRACK_BEFORE/SSN_HATE_AROUND				
-QUEST_LV_0200_20150323_004211	Annonce/!/Vous avez trouvé les restes de nourriture dans le tas amoncelé !{nl}Utilisez la touche V pour les jeter sur les monstres et les vaincre !#5#5	Notice/!/식량더미에서 음식 찌꺼기를 구했습니다!{nl}이것을 V키를 이용해 몬스터에게 던진 뒤 처치하세요!#5#5				
+QUEST_LV_0200_20150323_004211	Notice/!/Vous avez trouvé les restes de nourriture dans le tas amoncelé !{nl}Utilisez la touche V pour les jeter sur les monstres et les vaincre !#5#5	Notice/!/식량더미에서 음식 찌꺼기를 구했습니다!{nl}이것을 V키를 이용해 몬스터에게 던진 뒤 처치하세요!#5#5				
 QUEST_LV_0200_20150323_004212	Le tas de nourriture de Voie du démon affamé (1)	큰아귀 길의 식량더미(1)				
 QUEST_LV_0200_20150323_004213	Fouille approfondie/SITGROPE_LOOP/4/TRACK_BEFORE/None	헤쳐보는 중/SITGROPE_LOOP/4/TRACK_BEFORE/None				
 QUEST_LV_0200_20150323_004214	Le tas de nourriture de Voie du démon affamé (2)	큰아귀 길의 식량더미(2)				
 QUEST_LV_0200_20150323_004215	Le tas de nourriture de Voie du démon affamé (3)	큰아귀 길의 식량더미(3)				
 QUEST_LV_0200_20150323_004216	Le tas de nourriture de Voie du démon affamé (4)	큰아귀 길의 식량더미(4)				
 QUEST_LV_0200_20150323_004217	Examen attentif/LOOK/2/TRACK_BEFORE/None	살펴 보는 중/LOOK/2/TRACK_BEFORE/None				
-QUEST_LV_0200_20150323_004218	Annonce/Vous avez réussi à détruire le Cristal de racine d'arbre !{nl}La malédiction des environs est en train de disparaître !#5	Notice/나무뿌리 수정을 파괴하는 데 성공하였습니다!{nl}주변에 깔려 있던 저주가 사라집니다!#5				
+QUEST_LV_0200_20150323_004218	Notice/Vous avez réussi à détruire le Cristal de racine d'arbre !{nl}La malédiction des environs est en train de disparaître !#5	Notice/나무뿌리 수정을 파괴하는 데 성공하였습니다!{nl}주변에 깔려 있던 저주가 사라집니다!#5				
 QUEST_LV_0200_20150323_004219	Examen attentif/LOOK/2/TRACK_BEFORE/SSN_HATE_AROUND	살펴 보는 중/LOOK/2/TRACK_BEFORE/SSN_HATE_AROUND				
-QUEST_LV_0200_20150323_004220	Annonce/!/Les Tree Root Crystal ont absorbé toute l'endurance et jeté les noyaux !{nl}Trouvez les noyaux dispersés et détruisez-les !#5	Notice/!/나무뿌리 수정이 스태미나를 모두 흡수한 뒤 주변으로 핵을 날려 버렸습니다!{nl}먼저 흩어진 핵을 찾아 파괴하세요!#5				
-QUEST_LV_0200_20150323_004221	Annonce/Comme vous avez détruit tous les noyaux, les cristaux ont été détruits aussi.{nl}(Add ani instead of fade out)#5	Notice/핵을 모두 파괴하자 수정 또한 파괴되어 버렸습니다.{nl}(페이드아웃대신대드애니넣어주세요)#5				
+QUEST_LV_0200_20150323_004220	Notice/!/Les Tree Root Crystal ont absorbé toute l'endurance et jeté les noyaux !{nl}Trouvez les noyaux dispersés et détruisez-les !#5	Notice/!/나무뿌리 수정이 스태미나를 모두 흡수한 뒤 주변으로 핵을 날려 버렸습니다!{nl}먼저 흩어진 핵을 찾아 파괴하세요!#5				
+QUEST_LV_0200_20150323_004221	Notice/Comme vous avez détruit tous les noyaux, les cristaux ont été détruits aussi.{nl}(Add ani instead of fade out)#5	Notice/핵을 모두 파괴하자 수정 또한 파괴되어 버렸습니다.{nl}(페이드아웃대신대드애니넣어주세요)#5				
 QUEST_LV_0200_20150323_004222	Allumage du cristal/FIRE/2/TRACK_BEFORE/SSN_HATE_AROUND	수정에 불을 붙이는 중/FIRE/2/TRACK_BEFORE/SSN_HATE_AROUND				
-QUEST_LV_0200_20150323_004223	Annonce/Le Tree Root Crystal a brûlé et a disparu !#5	Notice/나무뿌리 수정이 불타 없어졌습니다!#5				
+QUEST_LV_0200_20150323_004223	Notice/Le Tree Root Crystal a brûlé et a disparu !#5	Notice/나무뿌리 수정이 불타 없어졌습니다!#5				
 QUEST_LV_0200_20150323_004224	Malédiction de la Paresse - Malédiction	나태의 저주 - 저주				
 QUEST_LV_0200_20150323_004225	Examen attentif de la racine d'arbre gâtée/LOOK/2/TRACK_BEFORE/None	변질된 나무뿌리 수정을 살펴 보는 중/LOOK/2/TRACK_BEFORE/None				
-QUEST_LV_0200_20150323_004226	Annonce/!/Le Tree Root Crystal a souillé les environs !/{nl}Prenez garde à ne pas marcher sur les zones souillées !#7	Notice/!/나무뿌리 수정이 주변을 오염시켰습니다!{nl}주변의 오염원을 밟지 않도록 주의하세요!#7				
-QUEST_LV_0200_20150323_004227	Annonce/!/Trouvez les noyaux des Cristaux de racine d'arbre sur les monstres et détruisez-les !#5	Notice/!/몬스터로부터 나무뿌리 수정의 핵을 찾아 파괴하세요!#5				
-QUEST_LV_0200_20150323_004228	Annonce/Vous avez trouvé les noyaux et les avez détruits !{nl}Les sources de la pollution sont en train de disparaître.#5	Notice/수정 핵을 찾아 파괴하였습니다!{nl}오염원이 사라집니다.#5				
-QUEST_LV_0200_20150323_004229	Annonce/!/Les Tree Root Crystal se sont divisés ! Trouvez les vrais et brisez-les !#5	Notice/!/나무뿌리 수정이 여러개로 나뉘어져 버렸습니다! 진짜를 찾아 해체하세요!#5				
+QUEST_LV_0200_20150323_004226	Notice/!/Le Tree Root Crystal a souillé les environs !/{nl}Prenez garde à ne pas marcher sur les zones souillées !#7	Notice/!/나무뿌리 수정이 주변을 오염시켰습니다!{nl}주변의 오염원을 밟지 않도록 주의하세요!#7				
+QUEST_LV_0200_20150323_004227	Notice/!/Trouvez les noyaux des Cristaux de racine d'arbre sur les monstres et détruisez-les !#5	Notice/!/몬스터로부터 나무뿌리 수정의 핵을 찾아 파괴하세요!#5				
+QUEST_LV_0200_20150323_004228	Notice/Vous avez trouvé les noyaux et les avez détruits !{nl}Les sources de la pollution sont en train de disparaître.#5	Notice/수정 핵을 찾아 파괴하였습니다!{nl}오염원이 사라집니다.#5				
+QUEST_LV_0200_20150323_004229	Notice/!/Les Tree Root Crystal se sont divisés ! Trouvez les vrais et brisez-les !#5	Notice/!/나무뿌리 수정이 여러개로 나뉘어져 버렸습니다! 진짜를 찾아 해체하세요!#5				
 QUEST_LV_0200_20150323_004230	Fouille/SITGROPE/2/TRACK_BEFORE/SSN_HATE_AROUND	살펴보는 중/SITGROPE/2/TRACK_BEFORE/SSN_HATE_AROUND				
 QUEST_LV_0200_20150323_004231	Ouverture du coffre/KICKBOX/1/TRACK_BEFORE/None	상자를 여는 중/KICKBOX/1/TRACK_BEFORE/None				
-QUEST_LV_0200_20150323_004232	Annonce/!/L'énergie féroce est sortie de la boîte et a imprégné de nombreux monstres.{nl}Vainquez les monstres près de la boîte et remettez l'énergie dans la boîte.#7	Notice/!/상자 안에서 사악한 기운이 쏟아져 나와 몬스터에게 스며들었습니다.{nl}상자 주변에서 몬스터들을 처치하여 사악한 기운을 다시 상자에 넣어주세요.#7				
+QUEST_LV_0200_20150323_004232	Notice/!/L'énergie féroce est sortie de la boîte et a imprégné de nombreux monstres.{nl}Vainquez les monstres près de la boîte et remettez l'énergie dans la boîte.#7	Notice/!/상자 안에서 사악한 기운이 쏟아져 나와 몬스터에게 스며들었습니다.{nl}상자 주변에서 몬스터들을 처치하여 사악한 기운을 다시 상자에 넣어주세요.#7				
 QUEST_LV_0200_20150323_004233	Contentons-nous de regarder sans déranger	방해하지 말고 가만히 지켜보자				
 QUEST_LV_0200_20150323_004234	Partons, puisque vous êtes occupé	바쁘니 자리를 뜨자				
 QUEST_LV_0200_20150323_004235	À propos de l'incident survenu ici	여기서 벌어진 일에 대해				
-QUEST_LV_0200_20150323_004236	Annonce/!/Les esprits entravés sont apparus près de l'autel !{nl}Convainquez les esprits en démence et aidez-les à trouver le repos éternel !#5	Notice/!/속박당한 영혼들이 제단 주변에 나타났습니다!{nl}분노하는 영혼들을 설득해 안식을 찾도록 도와주세요!#5				
+QUEST_LV_0200_20150323_004236	Notice/!/Les esprits entravés sont apparus près de l'autel !{nl}Convainquez les esprits en démence et aidez-les à trouver le repos éternel !#5	Notice/!/속박당한 영혼들이 제단 주변에 나타났습니다!{nl}분노하는 영혼들을 설득해 안식을 찾도록 도와주세요!#5				
 QUEST_LV_0200_20150323_004237	Refuser, cela semble lassant	귀찮은 일인 듯 하니 거절하자				
 QUEST_LV_0200_20150323_004238	Je vais lui trouver l'écriture	경전을 찾아 주겠다고 한다				
 QUEST_LV_0200_20150323_004239	Je m'en vais, vous l'avez beaucoup aidé	도와줄 만큼 도와줬으니 떠나겠다고 한다				
 QUEST_LV_0200_20150323_004240	Lui dire que ce serait difficile	힘들 것 같다고 한다				
 QUEST_LV_0200_20150323_004241	À propos des esprits furieux	분노한 영혼들에 대해				
 QUEST_LV_0200_20150323_004242	À propos des objectifs des démons	마족의 목적에 대해				
-QUEST_LV_0200_20150323_004243	Annonce/!/Obtenez des pages de l'écriture sur les monstres !#3	Notice/!/몬스터로부터 경전의 낱장을 구해 오세요!#3				
-QUEST_LV_0200_20150323_004244	Annonce/!/Le Seigneur du feu a déjà dévoré l'esprit.{nl}Vaincre le Seigneur du feu !#3	Notice/!/파이어 로드가 이미 영혼을 먹어치운 뒤입니다.{nl}파이어로드를 처치하세요!#3				
+QUEST_LV_0200_20150323_004243	Notice/!/Obtenez des pages de l'écriture sur les monstres !#3	Notice/!/몬스터로부터 경전의 낱장을 구해 오세요!#3				
+QUEST_LV_0200_20150323_004244	Notice/!/Le Seigneur du feu a déjà dévoré l'esprit.{nl}Vaincre le Seigneur du feu !#3	Notice/!/파이어 로드가 이미 영혼을 먹어치운 뒤입니다.{nl}파이어로드를 처치하세요!#3				
 QUEST_LV_0200_20150323_004245	Apporter sa contribution	헌금을 해 본다				
 QUEST_LV_0200_20150323_004246	Ne gaspillons pas d'argent pour ce genre de chose	이런 데에 실버를 낭비하지 말자				
 QUEST_LV_0200_20150323_004247	Offrons les monstres alentour en sacrifice	주변의 몬스터를 제물로 바쳐 보자				
-QUEST_LV_0200_20150323_004248	Annonce/!/Le sanctuaire semble avoir été souillé au lieu d'être béni.#5	Notice/!/축복은 커녕 성소가 오염된 것 같습니다.#5				
-QUEST_LV_0200_20150323_004249	Annonce/!/Les monstres approchent du sanctuaire !#5	Notice/!/성소 주변으로 몬스터가 몰려듭니다!#5				
+QUEST_LV_0200_20150323_004248	Notice/!/Le sanctuaire semble avoir été souillé au lieu d'être béni.#5	Notice/!/축복은 커녕 성소가 오염된 것 같습니다.#5				
+QUEST_LV_0200_20150323_004249	Notice/!/Les monstres approchent du sanctuaire !#5	Notice/!/성소 주변으로 몬스터가 몰려듭니다!#5				
 QUEST_LV_0200_20150323_004250	Je vais purifier le sanctuaire	성소를 정화하겠다고 한다				
 QUEST_LV_0200_20150323_004251	Renoncer à la purification, cela semble dangereux	위험할 것 같으니 정화는 포기한다				
 QUEST_LV_0200_20150323_004252	Aspersion de l'eau divine/STANDSPINKLE/3/TRACK_BEFORE/None	성수를 뿌리는 중/STANDSPINKLE/3/TRACK_BEFORE/None				
-QUEST_LV_0200_20150323_004253	Annonce/!/La statue de la Déesse ne montre aucune réaction.{nl}Allez voir Tesla à la Gorge de Vieta, qui a créé la statue#3	Notice/!/여신상은 아무런 반응도 보이지 않고 있습니다.{nl}제작자인 비에타 계곡의 조각가 테슬라를 찾아가세요#3				
+QUEST_LV_0200_20150323_004253	Notice/!/La statue de la Déesse ne montre aucune réaction.{nl}Allez voir Tesla à la Gorge de Vieta, qui a créé la statue#3	Notice/!/여신상은 아무런 반응도 보이지 않고 있습니다.{nl}제작자인 비에타 계곡의 조각가 테슬라를 찾아가세요#3				
 QUEST_LV_0200_20150323_004254	Explication sur la statue de la Forêt de la Faille de l'Arbre pourpre/TALK/3/TRACK_BEFORE/None	적갈나무 단층 숲 여신상에 대해 설명 중/TALK/3/TRACK_BEFORE/None				
 QUEST_LV_0200_20150323_004255	Aller réparer la statue de Déesse	여신상을 보수하러 간다				
 QUEST_LV_0200_20150323_004256	Arrêter, cela semble dangereux	위험할 것 같으니 손을 떼자				
-QUEST_LV_0200_20150323_004257	Annonce/!/Vous avez trouvé une grave fissure sur le socle de la statue.{nl}Obtenez d'abord les matériaux que Tesla vous a indiqués.#3	Notice/!/여신상의 받침대에 심한 균열이 보입니다.{nl}먼저 조각가 테슬라가 가르쳐 준 재료를 구하세요.#3				
+QUEST_LV_0200_20150323_004257	Notice/!/Vous avez trouvé une grave fissure sur le socle de la statue.{nl}Obtenez d'abord les matériaux que Tesla vous a indiqués.#3	Notice/!/여신상의 받침대에 심한 균열이 보입니다.{nl}먼저 조각가 테슬라가 가르쳐 준 재료를 구하세요.#3				
 QUEST_LV_0200_20150323_004258	Véritable Statue de Déesse (4)	참된 여신상(4)				
-QUEST_LV_0200_20150323_004259	Annonce/!/La statue réparée a explosé et créé le cercle magique démoniaque à côté ! {nl}Comme vous ignorez ce qui va en sortir, détruisez le cercle magique !#7	Notice/!/수리한 여신상이 폭발하면서 주변에 마족 마법진을 만들었습니다! {nl}무엇이 튀어나올지 모르니 마법진을 망가뜨리세요!#7				
+QUEST_LV_0200_20150323_004259	Notice/!/La statue réparée a explosé et créé le cercle magique démoniaque à côté ! {nl}Comme vous ignorez ce qui va en sortir, détruisez le cercle magique !#7	Notice/!/수리한 여신상이 폭발하면서 주변에 마족 마법진을 만들었습니다! {nl}무엇이 튀어나올지 모르니 마법진을 망가뜨리세요!#7				
 QUEST_LV_0200_20150323_004260	Explication de la tâche du Sanctuaire/TALK/3/TRACK_BEFORE/None	성소의 일을 설명 하는 중/TALK/3/TRACK_BEFORE/None				
 QUEST_LV_0200_20150323_004261	Lui demander comment purifier le sanctuaire	성소를 정화할 방법에 대해 묻는다				
 QUEST_LV_0200_20150323_004262	Vous feriez mieux de reculer, cela semble dangereux	위험하니까 물러서는게 좋을 것 같다				
 QUEST_LV_0200_20150323_004263	Retrait de la marque/MAKING/2/TRACK_BEFORE/None	표식을 꺼내는 중/MAKING/2/TRACK_BEFORE/None				
-QUEST_LV_0200_20150323_004264	Annonce/Vous avez trouvé la marque ! Servez-vous-en pour trouver les monstres cachés !#5	Notice/표식을 찾았습니다! 표식을 사용하여 숨어있는 몬스터를 찾아 보세요!#5				
+QUEST_LV_0200_20150323_004264	Notice/Vous avez trouvé la marque ! Servez-vous-en pour trouver les monstres cachés !#5	Notice/표식을 찾았습니다! 표식을 사용하여 숨어있는 몬스터를 찾아 보세요!#5				
 QUEST_LV_0200_20150323_004265	Brûler l'insigne/MAKING/2/TRACK_BEFORE/None	휘장을 태우는 중/MAKING/2/TRACK_BEFORE/None				
-QUEST_LV_0200_20150323_004266	Annonce/Le sanctuaire a été purifié.#3	Notice/성소가 정화되었습니다.#3				
+QUEST_LV_0200_20150323_004266	Notice/Le sanctuaire a été purifié.#3	Notice/성소가 정화되었습니다.#3				
 QUEST_LV_0200_20150323_004267	Obtenir de l'eau pure	맑은 물을 떠 온다				
 QUEST_LV_0200_20150323_004268	Quitter	그만 두자				
 QUEST_LV_0200_20150323_004269	Statue de Déesse Étouffante	질식하는 여신상				
 QUEST_LV_0200_20150323_004270	Obtenir des fleurs	풀꽃을 구해 오자				
 QUEST_LV_0200_20150323_004271	Passer son chemin	그냥 지나간다				
 QUEST_LV_0200_20150323_004272	Dépôt de la fleur devant le Sanctuaire/WORSHIP/3/TRACK_BEFORE/None	성소에 헌화하는 중/WORSHIP/3/TRACK_BEFORE/None				
-QUEST_LV_0200_20150323_004273	Annonce/!/Le sanctuaire ne donne aucun signe !#3	Notice/!/성소가 아무런 반응을 보이지 않습니다!#3				
+QUEST_LV_0200_20150323_004273	Notice/!/Le sanctuaire ne donne aucun signe !#3	Notice/!/성소가 아무런 반응을 보이지 않습니다!#3				
 QUEST_LV_0200_20150323_004274	Embrasement du lieu de purification/FIRE/2/TRACK/_BEFORE/None	정화부를 태우는 중/FIRE/2/TRACK_BEFORE/None				
-QUEST_LV_0200_20150323_004275	Annonce/Le sanctuaire a été purifié !#5	Notice/성소가 정화 되었습니다!#5				
-QUEST_LV_0200_20150323_004276	Annonce/Vous avez vaincu l'Ironbaum qui poursuivait les pèlerins ! Recevez maintenant la bénédiction du sanctuaire !#3	Notice/순례자를 노리던 아이언바움을 물리쳤습니다! 이제 성소에서 축복을 받으세요!#3				
+QUEST_LV_0200_20150323_004275	Notice/Le sanctuaire a été purifié !#5	Notice/성소가 정화 되었습니다!#5				
+QUEST_LV_0200_20150323_004276	Notice/Vous avez vaincu l'Ironbaum qui poursuivait les pèlerins ! Recevez maintenant la bénédiction du sanctuaire !#3	Notice/순례자를 노리던 아이언바움을 물리쳤습니다! 이제 성소에서 축복을 받으세요!#3				
 QUEST_LV_0200_20150323_004277	Je vais prendre le remède	약을 먹겠다고 한다				
 QUEST_LV_0200_20150323_004278	Refuser, cela semble suspect	의심되니 거절하자				
 QUEST_LV_0200_20150323_004279	Je vais chercher les matériaux	재료를 구해 오겠다고 한다				
 QUEST_LV_0200_20150323_004280	Attendre la prochaine occasion	다음을 기약한다				
 QUEST_LV_0200_20150323_004281	À propos de la cause de la blessure	다친 이유에 대해				
-QUEST_LV_0200_20150323_004282	Annonce/!/Seule une partie du dessin déchiré a été trouvée dans le cadre. {nl}Cherchez les autres parties sur les monstres alentour.#5	Notice/!/발견된 액자엔 찢어진 그림의 일부분만 남아 있습니다. {nl}주변의 몬스터에게서 나머지 그림을 찾아 보세요.#5				
+QUEST_LV_0200_20150323_004282	Notice/!/Seule une partie du dessin déchiré a été trouvée dans le cadre. {nl}Cherchez les autres parties sur les monstres alentour.#5	Notice/!/발견된 액자엔 찢어진 그림의 일부분만 남아 있습니다. {nl}주변의 몬스터에게서 나머지 그림을 찾아 보세요.#5				
 QUEST_LV_0200_20150323_004283	Le Coffre Abandonné	버려진 상자				
 QUEST_LV_0200_20150323_004284	Examen attentif/LOOK_SIT/3/TRACK_BEFORE/None	살펴 보는 중/LOOK_SIT/3/TRACK_BEFORE/None	ETC_20150317_002177	Observation	살펴 보는 중	
-QUEST_LV_0200_20150323_004285	Annonce/!/La boîte est verrouillée.{nl}Chassez les monstres alentour et obtenez la clé !#5	Notice/!/상자는 잠겨 있습니다.{nl}주변의 몬스터를 사냥해 열쇠를 구해 보세요!#5				
+QUEST_LV_0200_20150323_004285	Notice/!/La boîte est verrouillée.{nl}Chassez les monstres alentour et obtenez la clé !#5	Notice/!/상자는 잠겨 있습니다.{nl}주변의 몬스터를 사냥해 열쇠를 구해 보세요!#5				
 QUEST_LV_0200_20150323_004286	Ouverture du coffre/LOOK_SIT/2/TRACK_BEFORE/None	상자를 여는 중/LOOK_SIT/2/TRACK_BEFORE/None				
-QUEST_LV_0200_20150323_004287	Annonce/Vous avez trouvé un vieux mouchoir dans la boîte.#3	Notice/상자 안에서 낡은 손수건을 찾았습니다.#3				
+QUEST_LV_0200_20150323_004287	Notice/Vous avez trouvé un vieux mouchoir dans la boîte.#3	Notice/상자 안에서 낡은 손수건을 찾았습니다.#3				
 QUEST_LV_0200_20150323_004288	Lire l'avis expliquant comment purifier le ruisseau.	안내판을 참고하여 샘을 정화한다				
 QUEST_LV_0200_20150323_004289	Obtention du pot/SITGROPE/2/TRACK_BEFORE/None	항아리 구하는 중/SITGROPE/2/TRACK_BEFORE/None				
 QUEST_LV_0200_20150323_004290	Aspersion de la sève/STANDSPINKLE/2/TRACK_BEFORE/None	수액을 뿌리는 중/STANDSPINKLE/2/TRACK_BEFORE/None				
-QUEST_LV_0200_20150323_004291	Annonce/Comme le ruisseau du silence était purifié, l'arbre de la dévotion s'est mis à renaître !#5	Notice/고요의 샘이 정화되면서 신심의 나무가 되살아나기 시작했습니다!#5				
+QUEST_LV_0200_20150323_004291	Notice/Comme le ruisseau du silence était purifié, l'arbre de la dévotion s'est mis à renaître !#5	Notice/고요의 샘이 정화되면서 신심의 나무가 되살아나기 시작했습니다!#5				
 QUEST_LV_0200_20150323_004292	Le destructeur de la Forêt de Poslinkis	포슬린키스 숲의 파괴자				
 QUEST_LV_0200_20150323_004293	Allumage du feu/FIRE/3/TRACK_BEFORE/SSN_HATE_AROUND	불 불이는 중/FIRE/3/TRACK_BEFORE/SSN_HATE_AROUND				
-QUEST_LV_0200_20150323_004294	Annonce/L'écriture pour invoquer l'esprit est achevée !/5	Notice/영혼 소환 성서 완성!/5				
+QUEST_LV_0200_20150323_004294	Notice/L'écriture pour invoquer l'esprit est achevée !/5	Notice/영혼 소환 성서 완성!/5				
 QUEST_LV_0200_20150323_004295	Je vais chercher les artefacts divins de la miséricorde	자비의 성유물을 찾아 오겠다고 한다				
 QUEST_LV_0200_20150323_004296	Des Reliques Sacrées Bien Cachées	꼭꼭 숨은 성물				
 QUEST_LV_0200_20150323_004297	Le Secret de la Machine	기계장치의 비밀				
@@ -4370,30 +4370,30 @@ QUEST_LV_0200_20150323_004369	Votre Curiosité Devrait s'Arrêter Là	호기심�
 QUEST_LV_0200_20150323_004370	À propos de la machine derrière	뒤에 있는 기계에 대해				
 QUEST_LV_0200_20150323_004371	Dissiper l'Aura Étrange (1)	이상한 기운 정리(1)				
 QUEST_LV_0200_20150323_004372	Examen attentif du cercle magique/LOOK_SIT/2/TRACK_BEFORE/None	마법진을 살펴 보는중/LOOK_SIT/2/TRACK_BEFORE/None				
-QUEST_LV_0200_20150323_004373	Annonce/!/Comme vous examiniez de près le cercle magique, les joyaux sont apparus des quatre directions ! Brisez les joyaux !#%	Notice/!/마법진을 살펴 보는 순간 갑자기 네 방향에 보석이 나타났습니다! 보석을 해체 하세요!#5				
-QUEST_LV_0200_20150323_004374	Annonce/!/Vous devriez d'abord récolter les énergies des monstres afin de pouvoir renforcer le cercle magique#5	Notice/!/몬스터의 기운을 먼저 모아야 마법진을 강화 할 수 있습니다#5				
-QUEST_LV_0200_20150323_004375	Annonce/Les joyaux ayant disparu, le cercle magique a été renforcé avec succès !!#5	Notice/보석이 사라지자 성공적으로 마법진이 강화 되었습니다!!#5				
+QUEST_LV_0200_20150323_004373	Notice/!/Comme vous examiniez de près le cercle magique, les joyaux sont apparus des quatre directions ! Brisez les joyaux !#%	Notice/!/마법진을 살펴 보는 순간 갑자기 네 방향에 보석이 나타났습니다! 보석을 해체 하세요!#5				
+QUEST_LV_0200_20150323_004374	Notice/!/Vous devriez d'abord récolter les énergies des monstres afin de pouvoir renforcer le cercle magique#5	Notice/!/몬스터의 기운을 먼저 모아야 마법진을 강화 할 수 있습니다#5				
+QUEST_LV_0200_20150323_004375	Notice/Les joyaux ayant disparu, le cercle magique a été renforcé avec succès !!#5	Notice/보석이 사라지자 성공적으로 마법진이 강화 되었습니다!!#5				
 QUEST_LV_0200_20150323_004376	Dissiper l'Aura Étrange (2)	이상한 기운 정리(2)				
 QUEST_LV_0200_20150323_004377	Examen attentif/LOOK_SIT/2/TRACK_BEFORE/None	살펴 보는 중/LOOK_SIT/2/TRACK_BEFORE/None	ETC_20150317_002177	Observation	살펴 보는 중	
-QUEST_LV_0200_20150323_004378	Annonce/!/Recueillez les énergies féroces des monstres dans les bouteilles vides que le mage Rimas vous a données puis enfouissez-les de chaque côté du cercle magique !#5	Notice/!/수습 마법사가 준 빈 병에 몬스터의 사악한 기운을 모아 마법진 양 옆에 묻으세요!#5				
-QUEST_LV_0200_20150323_004379	Annonce/!/Recueillez l'énergie féroce dans les bouteilles et enfouissez-les de chaque côté du cercle magique !#5	Notice/!/몬스터의 사악한 기운을 병에 모아서 마법진 양 옆에 묻어야 합니다!#5				
-QUEST_LV_0200_20150323_004380	Annonce/Le cercle magique a été renforcé avec succès !#5	Notice/마법진이 성공적으로 강화 되었습니다!#5				
+QUEST_LV_0200_20150323_004378	Notice/!/Recueillez les énergies féroces des monstres dans les bouteilles vides que le mage Rimas vous a données puis enfouissez-les de chaque côté du cercle magique !#5	Notice/!/수습 마법사가 준 빈 병에 몬스터의 사악한 기운을 모아 마법진 양 옆에 묻으세요!#5				
+QUEST_LV_0200_20150323_004379	Notice/!/Recueillez l'énergie féroce dans les bouteilles et enfouissez-les de chaque côté du cercle magique !#5	Notice/!/몬스터의 사악한 기운을 병에 모아서 마법진 양 옆에 묻어야 합니다!#5				
+QUEST_LV_0200_20150323_004380	Notice/Le cercle magique a été renforcé avec succès !#5	Notice/마법진이 성공적으로 강화 되었습니다!#5				
 QUEST_LV_0200_20150323_004381	Des Ennuis à l'Entrepôt	창고 앞 골치거리				
 QUEST_LV_0200_20150323_004382	À propos du générateur et de son carburant	동력기와 그 연료에 대해				
 QUEST_LV_0200_20150323_004383	Examen attentif de la réserve/LOOK/2/TRACK_BEFORE/None	창고를 살펴 보는 중/LOOK/2/TRACK_BEFORE/None				
 QUEST_LV_0200_20150323_004384	Recharger l'Énergie (1)	에너지 보충(1)				
 QUEST_LV_0200_20150323_004385	Examen attentif du cercle magique/LOOK_SIT/2/TRACK_BEFORE/None	마법진을 살펴 보는 중/LOOK_SIT/2/TRACK_BEFORE/None				
-QUEST_LV_0200_20150323_004386	Annonce/!/Vous devriez rapporter la situation au mage Rimas#5	Notice/!/수습 마법사 리마스에게 가서 이 상황을 보고해야 합니다#5				
+QUEST_LV_0200_20150323_004386	Notice/!/Vous devriez rapporter la situation au mage Rimas#5	Notice/!/수습 마법사 리마스에게 가서 이 상황을 보고해야 합니다#5				
 QUEST_LV_0200_20150323_004387	Aspersion du poison/STANDSPINKLE/3/TRACK_BEFORE/None	독약을 뿌리는 중/STANDSPINKLE/3/TRACK_BEFORE/None				
 QUEST_LV_0200_20150323_004388	Recharger l'Énergie (2)	에너지 보충(2)				
 QUEST_LV_0200_20150323_004389	Tout ce qui Vit 	생명이라면 무엇이든				
 QUEST_LV_0200_20150323_004390	Examen attentif du cercle magique/LOOK_SIT/3/TRACK_BEFORE/None	마법진 살펴 보기/LOOK_SIT/3/TRACK_BEFORE/None				
-QUEST_LV_0200_20150323_004391	Notict/!/Amenez les monstres près du cercle magique !#5	Notice/!/마법진 근처로 살아 있는 몬스터를 끌고 오세요!#5				
+QUEST_LV_0200_20150323_004391	Notice/!/Amenez les monstres près du cercle magique !#5	Notice/!/마법진 근처로 살아 있는 몬스터를 끌고 오세요!#5				
 QUEST_LV_0200_20150323_004392	Où est la nourriture	먹이는 무엇				
 QUEST_LV_0200_20150323_004393	À propos de ce qui est arrivé à Benius	베뉴스의 일에 대해				
 QUEST_LV_0200_20150323_004394	Une Découverte Inattendue (1)	우연한 발견(1)				
 QUEST_LV_0200_20150323_004395	Examen attentif/LOOK_SIT/1/TRACK_BEFORE/None	살펴 보는 중/LOOK_SIT/1/TRACK_BEFORE/None				
-QUEST_LV_0200_20150323_004396	Annonce/!/Voici la partie qui appartient à la tête de la statue de la Déesse ! Brisez-la !#5	Notice/!/확실한 여신상의 머리 부분 입니다! 파 내 보세요!#5				
+QUEST_LV_0200_20150323_004396	Notice/!/Voici la partie qui appartient à la tête de la statue de la Déesse ! Brisez-la !#5	Notice/!/확실한 여신상의 머리 부분 입니다! 파 내 보세요!#5				
 QUEST_LV_0200_20150323_004397	Bris de la statue/SITGROPE/2/TRACK_BEFORE/None	여신상을 파 내는 중/SITGROPE/2/TRACK_BEFORE/None				
 QUEST_LV_0200_20150323_004398	Une Découverte Inattendue (2)	우연한 발견(2)				
 QUEST_LV_0200_20150323_004399	Examen attentif de l'intérieur du récipient d'alcool/LOOK/2/TRACK_BEFORE/SSN_HATE_AROUND	술통을 살펴 보는 중/LOOK/2/TRACK_BEFORE/SSN_HATE_AROUND				
@@ -4485,7 +4485,7 @@ QUEST_LV_0200_20150323_004484	Manipulation de l'autel/MAKING/2/TRACK_BEFORE/None
 QUEST_LV_0200_20150323_004485	Vieille Fierté	오래된 긍지				
 QUEST_LV_0200_20150323_004486	C'est prêt	준비되었습니다.				
 QUEST_LV_0200_20150323_004487	Veuillez patienter un instant	잠시만 기다려주세요				
-QUEST_LV_0200_20150323_004488	Annonce/Rendez-vous au 2e district de la Prison du démon et rencontrez Kupole Norgaile !	Notice/마족수감소 2구역으로 이동하여 큐폴 노르가일레를 만나세요!				
+QUEST_LV_0200_20150323_004488	Notice/Rendez-vous au 2e district de la Prison du démon et rencontrez Kupole Norgaile !	Notice/마족수감소 2구역으로 이동하여 큐폴 노르가일레를 만나세요!				
 QUEST_LV_0200_20150323_004489	Se Débarrasser du Traître (1)	배신자 정리(1)				
 QUEST_LV_0200_20150323_004490	J'ai besoin d'un peu de temps pour me préparer	준비할 시간이 필요하다고 한다				
 QUEST_LV_0200_20150323_004491	Se Débarrasser du Traître (2)	배신자 정리(2)				
@@ -4557,7 +4557,7 @@ QUEST_LV_0200_20150323_004556	Préparatifs d'une Purification à Grande Échelle
 QUEST_LV_0200_20150323_004557	Je vais en récolter pour elle	모아 주겠다고 한다				
 QUEST_LV_0200_20150323_004558	Je ne peux pas vous aider là-dessus	그것까진 도울 수 없다고 한다				
 QUEST_LV_0200_20150323_004559	Livraison de Caisse	상자 배달				
-QUEST_LV_0200_20150323_004560	Annonce/None/En fouillant la terre, vous avez trouvé une petite boîte.#3	Notice/None/흙더미를 파보니 작은 상자가 나왔습니다.#3				
+QUEST_LV_0200_20150323_004560	Notice/None/En fouillant la terre, vous avez trouvé une petite boîte.#3	Notice/None/흙더미를 파보니 작은 상자가 나왔습니다.#3				
 QUEST_LV_0200_20150323_004561	Tout Est Fini Maintenant	이젠 다 틀렸어				
 QUEST_LV_0200_20150323_004562	Lui demander ce qui ne va pas et proposer son aide	무슨 일이 있는지 묻고 도와주겠다고 한다				
 QUEST_LV_0200_20150323_004563	Ignorer et passer son chemin	무시하고 갈 길 가자				
@@ -5894,16 +5894,16 @@ QUEST_LV_0200_20150401_005897	Réveil/KICKBOX/0,5/TRACK_BEFORE/None	깨우는 �
 QUEST_LV_0200_20150401_005898	Je peux au moins faire ça	그 정도는 돕겠다고 한다				
 QUEST_LV_0200_20150401_005899	Je suis occupé, je passe mon tour	바쁘니까 그냥 가겠다고 한다				
 QUEST_LV_0200_20150401_005900	Vérification du cercle magique/LOOK_SIT/1/TRACK_BEFORE/None	마법진을 살펴 보는중/LOOK_SIT/1/TRACK_BEFORE/None				
-QUEST_LV_0200_20150401_005901	Annonce/!/Détruisez le joyau pour renforcer le cercle magique #10	Notice/!/주변에 나타난 보석을 해체해야 마법진을 강화 할 수 있습니다#10				
-QUEST_LV_0200_20150401_005902	Annonce/!/Recueillez la force maléfique des monstres dans la bouteille vide que Rimas vous a donnée puis enfouissez-la près du cercle magique !#5	Notice/!/리마스가 준 빈 병에 몬스터의 사악한 기운을 모아 마법진 양 옆에 묻으세요!#5				
+QUEST_LV_0200_20150401_005901	Notice/!/Détruisez le joyau pour renforcer le cercle magique#10	Notice/!/주변에 나타난 보석을 해체해야 마법진을 강화 할 수 있습니다#10				
+QUEST_LV_0200_20150401_005902	Notice/!/Recueillez la force maléfique des monstres dans la bouteille vide que Rimas vous a donnée puis enfouissez-la près du cercle magique !#5	Notice/!/리마스가 준 빈 병에 몬스터의 사악한 기운을 모아 마법진 양 옆에 묻으세요!#5				
 QUEST_LV_0200_20150401_005903	À propos du dispositif de Puissance des sorts et des cultures	마력 동력 장치와 곡식에 대해				
 QUEST_LV_0200_20150401_005904	Vérification de l'entrepôt/LOOK/1/TRACK_BEFORE/None	창고를 살펴 보는 중/LOOK/1/TRACK_BEFORE/None				
 QUEST_LV_0200_20150401_005905	Vérification du cercle magique/LOOK_SIT/1/TRACK_BEFORE/None	마법진을 살펴 보는 중/LOOK_SIT/1/TRACK_BEFORE/None				
 QUEST_LV_0200_20150401_005906	Pulvérisation de poison/STANDSPINKLE/1/TRACK_BEFORE/None	독약을 뿌리는 중/STANDSPINKLE/1/TRACK_BEFORE/None				
 QUEST_LV_0200_20150401_005907	Examiner le cercle magique/LOOK_SIT/1/TRACK_BEFORE/None	마법진 살펴 보기/LOOK_SIT/1/TRACK_BEFORE/None	QUEST_LV_0200_20150323_005069	Examiner de près le cercle magique	마법진 살펴 보기	
-QUEST_LV_0200_20150401_005908	Annonce/!/Amenez les monstres près du cercle magique et tuez-les !#5	Notice/!/마법진 주변으로 몬스터를 끌고 와서 처치하세요!#5				
-QUEST_LV_0200_20150401_005909	Annonce/!/Vainquez les monstres puis détruisez la boîte !#5	Notice/!/갑자기 나타난 몬스터들을 물리치고 상자를 부숴 보세요!#5				
-QUEST_LV_0200_20150401_005910	Annonce/!/Fabriquez un marteau en bois pour ouvrir le tonneau de vin !#5	Notice/!/술통을 열 나무망치를 만들어 오세요!#5				
+QUEST_LV_0200_20150401_005908	Notice/!/Amenez les monstres près du cercle magique et tuez-les !#5	Notice/!/마법진 주변으로 몬스터를 끌고 와서 처치하세요!#5				
+QUEST_LV_0200_20150401_005909	Notice/!/Vainquez les monstres puis détruisez la boîte !#5	Notice/!/갑자기 나타난 몬스터들을 물리치고 상자를 부숴 보세요!#5				
+QUEST_LV_0200_20150401_005910	Notice/!/Fabriquez un marteau en bois pour ouvrir le tonneau de vin !#5	Notice/!/술통을 열 나무망치를 만들어 오세요!#5				
 QUEST_LV_0200_20150401_005911	Puis-je vous aider en quoi que ce soit ?	도와 줄 일이 없는지 물어 본다				
 QUEST_LV_0200_20150401_005912	J'ai une longue route devant moi, je m'en vais	갈 길이 머니 그만 떠난다고 한다				
 QUEST_LV_0200_20150401_005913	À propos de ce que vous faites ici	여기서 하고 있는 일에 대해				
@@ -5911,7 +5911,7 @@ QUEST_LV_0200_20150401_005914	À propos de ce que vous préparez	준비하고 �
 QUEST_LV_0200_20150401_005915	Allumage du feu/FIRE/1/TRACK_BEFORE/None	불 붙이는 중/FIRE/1/TRACK_BEFORE/None				
 QUEST_LV_0200_20150401_005916	Preuve Formelle (3)	긍정적 증거(3)				
 QUEST_LV_0200_20150401_005917	Placement de la Statue de la Déesse sur le cercle magique/SITGROPE_LOOP/2/TRACK_BEFORE/None	마법진에 여신상을 올려 놓는 중/SITGROPE_LOOP/2/TRACK_BEFORE/None				
-QUEST_LV_0200_20150401_005918	Annonce/Allez au champ et vérifiez les cultures !#5	Notice/이제 옆 밭으로 가서 작물을 확인 해 보세요!#5				
+QUEST_LV_0200_20150401_005918	Notice/Allez au champ et vérifiez les cultures !#5	Notice/이제 옆 밭으로 가서 작물을 확인 해 보세요!#5				
 QUEST_LV_0200_20150401_005919	À propos du rôle du chef	리더가 하는 일에 대해				
 QUEST_LV_0200_20150401_005920	Je vais chercher le cuir	가죽을 구해 오겠다고 한다				
 QUEST_LV_0200_20150401_005921	Je vais obtenir la coopération des métayers	소작농들의 협조를 구한다고 한다				
@@ -5929,7 +5929,7 @@ QUEST_LV_0200_20150401_005932	À Propos de la Prison des Démons	마족 수감�
 QUEST_LV_0200_20150401_005933	À Propos du Seigneur Démon Blut	마군주 블룻에 대해				
 QUEST_LV_0200_20150401_005934	À Propos des Kupole	큐폴에 대해				
 QUEST_LV_0200_20150401_005935	Tout est prêt	준비가 되었다고 한다				
-QUEST_LV_0200_20150401_005936	Annonce/Rendez-vous à la 2e zone de la Prison des démons et rencontrez Kupole Medeina !	Notice/마족수감소 2구역으로 이동하여 큐폴 메데이나를 만나세요!				
+QUEST_LV_0200_20150401_005936	Notice/Rendez-vous à la 2e zone de la Prison des démons et rencontrez Kupole Medeina !	Notice/마족수감소 2구역으로 이동하여 큐폴 메데이나를 만나세요!				
 QUEST_LV_0200_20150401_005937	Dites-moi comment aider	도울 방법을 알려 달라고 한다				
 QUEST_LV_0200_20150401_005938	À propos de la barrière de la déesse	여신의 결계에 대해				
 QUEST_LV_0200_20150401_005939	Cela semble dangereux	그건 좀 위험할 것 같다고 한다				
@@ -6333,20 +6333,20 @@ QUEST_LV_0200_20150406_006336	Je vous aiderai si cela concerne la purification	�
 QUEST_LV_0200_20150406_006337	Lui dire de se reposer, vous le ferez à sa place	대신 해 줄테니 쉬라고 한다				
 QUEST_LV_0200_20150406_006338	Je vous aiderai si cela concerne la purification	정화에 관한 일이라면 돕겠다고 한다				
 QUEST_LV_0200_20150406_006339	À propos du générateur devant	앞에 있는 동력원에 대해				
-QUEST_LV_0200_20150406_006340	Avis/!/Une étrange essence est sortie du cercle magique. Débarrassez-vous de l'étrange essence.#5	Notice/!/마법진에서 이상한 결정이 튀어 나왔습니다. 이상한 결정을 제거하세요.#5				
-QUEST_LV_0200_20150406_006341	Annonce/!/Vous devriez recueillir le pouvoir magique des monstres dans les bouteilles et en enfouir une à chaque extrémité du cercle magique.#5	Notice/!/몬스터의 마력을 병에 모아 마법진 양 옆에 묻어야 합니다.#5				
+QUEST_LV_0200_20150406_006340	Notice/!/Une étrange essence est sortie du cercle magique. Débarrassez-vous de l'étrange essence.#5	Notice/!/마법진에서 이상한 결정이 튀어 나왔습니다. 이상한 결정을 제거하세요.#5				
+QUEST_LV_0200_20150406_006341	Notice/!/Vous devriez recueillir le pouvoir magique des monstres dans les bouteilles et en enfouir une à chaque extrémité du cercle magique.#5	Notice/!/몬스터의 마력을 병에 모아 마법진 양 옆에 묻어야 합니다.#5				
 QUEST_LV_0200_20150406_006342	Je vais protéger l'entrepôt	창고를 지켜 주겠다고 한다				
 QUEST_LV_0200_20150406_006343	À propos du rapport entre le générateur et les grains	동력원과 곡식의 관계에 대해				
 QUEST_LV_0200_20150406_006344	Le Cercle Magique Oublié (1)	잊어버린 마법진(1)				
-QUEST_LV_0200_20150406_006345	Avis/!/Retournez voir Rimas et faites-lui un rapport sur le cercle magique.#5	Notice/!/마법사 리마스에게 돌아가 이 마법진에 대해 보고하세요.#5				
+QUEST_LV_0200_20150406_006345	Notice/!/Retournez voir Rimas et faites-lui un rapport sur le cercle magique.#5	Notice/!/마법사 리마스에게 돌아가 이 마법진에 대해 보고하세요.#5				
 QUEST_LV_0200_20150406_006346	Aspersion de liquide purifiant trouble/STANDSPINKLE/1/TRACK_BEFORE/None	혼탁한 정제액을 뿌리는 중/STANDSPINKLE/1/TRACK_BEFORE/None				
-QUEST_LV_0200_20150406_006347	Annonce/!/Le cercle magique réclame ardemment les monstres !#5	Notice/!/마법진은 몬스터를 강력하게 원하고 있습니다!#5				
+QUEST_LV_0200_20150406_006347	Notice/!/Le cercle magique réclame ardemment les monstres !#5	Notice/!/마법진은 몬스터를 강력하게 원하고 있습니다!#5				
 QUEST_LV_0200_20150406_006348	À Propos de Manticen	맨티켄에 대해				
-QUEST_LV_0200_20150406_006349	Avis/!/On dirait la tête de la sculpture.{nl}Déterrez-la du sol.#5	Notice/!/조각상의 머리 부분인 것 같습니다.{nl}땅에서 파내 보세요.#5				
+QUEST_LV_0200_20150406_006349	Notice/!/On dirait la tête de la sculpture.{nl}Déterrez-la du sol.#5	Notice/!/조각상의 머리 부분인 것 같습니다.{nl}땅에서 파내 보세요.#5				
 QUEST_LV_0200_20150406_006350	Déterrement de la tête de la sculpture/SITGROPE/2/TRACK_BEFORE/None	조각상 머리를 파내는 중/SITGROPE/2/TRACK_BEFORE/None				
 QUEST_LV_0200_20150406_006351	Examen du coffre/LOOK/2/TRACK_BEFORE/SSN_HATE_AROUND	상자 조사 중/LOOK/2/TRACK_BEFORE/SSN_HATE_AROUND				
-QUEST_LV_0200_20150406_006352	Annonce/!/Les monstres affluent soudainement !{nl}Vainquez les monstres et brisez la boîte !#5	Notice/!/갑자기 몬스터들이 몰려 옵니다!{nl}몬스터들을 물리치고 상자를 부수세요!#5				
-QUEST_LV_0200_20150406_006353	Avis/!/Si vous l'ouvrez sans précaution, les objets à l'intérieur risquent de se briser.{nl}Fabriquez un maillet de bois capable d'ouvrir le récipient d'alcool !#5	Notice/!/함부로 열면 내용물이 부숴질 것 같습니다.{nl}술통을 열 나무망치를 만들어 오세요!#5				
+QUEST_LV_0200_20150406_006352	Notice/!/Les monstres affluent soudainement !{nl}Vainquez les monstres et brisez la boîte !#5	Notice/!/갑자기 몬스터들이 몰려 옵니다!{nl}몬스터들을 물리치고 상자를 부수세요!#5				
+QUEST_LV_0200_20150406_006353	Notice/!/Si vous l'ouvrez sans précaution, les objets à l'intérieur risquent de se briser.{nl}Fabriquez un maillet de bois capable d'ouvrir le récipient d'alcool !#5	Notice/!/함부로 열면 내용물이 부숴질 것 같습니다.{nl}술통을 열 나무망치를 만들어 오세요!#5				
 QUEST_LV_0200_20150406_006354	Observation du fragment en forme d'aile/LOOK/3/TRACK_BEFORE/None	날개 모양의 조각을 살펴 보는 중/LOOK/3/TRACK_BEFORE/None				
 QUEST_LV_0200_20150406_006355	À propos de ce qui se passe ici	여기서 벌어지는 일에 대해				
 QUEST_LV_0200_20150406_006356	Je vais le découvrir pour lui	알아봐 주겠다고 한다				
@@ -6507,10 +6507,10 @@ QUEST_LV_0200_20150406_006510	Obtenir les Marques de Hauberk	하우벅의 증표
 QUEST_LV_0200_20150406_006511	Parmi les subordonnés de Nuaele, certains étaient autrefois les subordonnés de Hauberk et ils ont reçu jadis les symboles imprégnés de son pouvoir. Vaincre les subordonnés de Nuaele dans la 2e zone isolée et obtenir le symbole de Hauberk.	누아엘레의 수하들 중 일부는 원래 하우벅의 부하들로 예전에 하우벅에게 힘이 깃든 증표를 받은 적이 있다고 합니다. 제 2격리구에서 누아엘레의 수하들을 처치하고 하우벅의 증표를 획득하세요.				
 QUEST_LV_0200_20150406_006512	Tous les symboles de Hauberk sont obtenus. Remettez-les à Kupole Medeina.	하우벅의 증표를 모두 되찾았습니다. 큐폴 메데이나에게 전해 주세요.				
 QUEST_LV_0200_20150406_006513	Découvrir le plan de Nuaele en vainquant les démons de la 3e zone isolée à l'aide des fragments de sceau de Hauberk.	제 3 격리구의 마족들에게 하우벅 봉인조각을 사용한 뒤 제압하여 누아엘레의 계획을 알아내세요.				
-QUEST_LV_0200_20150406_006514	Vaincre ??monstres qui sont les subordonnés de Nuaele	누아엘레의 수하 ★몬스터들 처치				
-QUEST_LV_0200_20150406_006515	Kupole Medeina vous a dit de vaincre d'abord les subordonnés les plus forts et les plus fidèles de Nuaele. Vaincre ??monstres qui sont les subordonnés de Nuaele dans la 4e zone isolée.	큐폴 메데이나는 먼저 누아엘레의 가장 강하고 충성스러운 부하를 처치하자고 합니다. 제 4 격리구에 있는 누아엘레의 수하 ★몬스터들을 처치하세요.				
-QUEST_LV_0200_20150406_006516	Vous avez vaincu ??monstres qui sont les subordonnés de Nuaele. Parlez à Kupole Medeina.	누아엘레의 수하 ★몬스터들을 처치하는데 성공하였습니다. 큐폴 메데이나와 대화해 보세요.				
-QUEST_LV_0200_20150406_006517	Vaincre ??monstres	★몬스터들 처치				
+QUEST_LV_0200_20150406_006514	Vaincre ★monstres qui sont les subordonnés de Nuaele	누아엘레의 수하 ★몬스터들 처치				
+QUEST_LV_0200_20150406_006515	Kupole Medeina vous a dit de vaincre d'abord les subordonnés les plus forts et les plus fidèles de Nuaele. Vaincre ★monstres qui sont les subordonnés de Nuaele dans la 4e zone isolée.	큐폴 메데이나는 먼저 누아엘레의 가장 강하고 충성스러운 부하를 처치하자고 합니다. 제 4 격리구에 있는 누아엘레의 수하 ★몬스터들을 처치하세요.				
+QUEST_LV_0200_20150406_006516	Vous avez vaincu ★monstres qui sont les subordonnés de Nuaele. Parlez à Kupole Medeina.	누아엘레의 수하 ★몬스터들을 처치하는데 성공하였습니다. 큐폴 메데이나와 대화해 보세요.				
+QUEST_LV_0200_20150406_006517	Vaincre ★monstres	★몬스터들 처치				
 QUEST_LV_0200_20150406_006518	Obtenir des Jetons de Scellement	봉인의 증표 획득				
 QUEST_LV_0200_20150406_006519	La Déesse Vakarine vous a demandé d'utiliser la rune de l'Étoile du soir pour vaincre les démons rassemblés dans le Quartier d'isolement de Hehmastar et récolter les jetons de scellement.	여신 바카리네는 엣메스타 격리구에 집결한 마족들에게 저녁별 룬을 사용하여 제압한 후 봉인의 증표를 가져와 달라고 부탁했습니다.				
 QUEST_LV_0200_20150406_006520	Tous les jetons de scellement sont obtenus. Remettez-les à la Déesse Vakarine.	봉인의 증표를 전부 모았습니다. 여신 바카리네에게 전해 주세요.				
@@ -6784,27 +6784,27 @@ QUEST_LV_0200_20150414_006787	Vous voilà donc venu me remettre dans votre petit
 QUEST_LV_0200_20150414_006788	Depuis le début, vous étiez tous les mêmes... J'ai été dupé.{nl}	너희 모두 처음부터 한통속이었구나..{nl}내가 어리석었다. {nl}				마군주 하우벅
 QUEST_LV_0200_20150414_006789	Mais pourrez-vous tenir face à ma forme actuelle ?!	하지만 지금의 나를 네녀석들이 감히 상대할 수 있겠느냐!				마군주 하우벅
 QUEST_LV_0200_20150414_006790	Secousse/STANDSHAKE/3/TRACK_BEFORE/SSN_HATE_AROUND	흔들어 보는 중/STANDSHAKE/3/TRACK_BEFORE/SSN_HATE_AROUND				
-QUEST_LV_0200_20150414_006791	Annonce/!/Le papier est tombé !#5	Notice/!/쪽지가 떨어졌습니다!#5				
-QUEST_LV_0200_20150414_006792	Embrasement/FIRE/2/TRACK_BEFORE/None	불을 붙이는 중/FIRE/0/TRACK_BEFORE/None				
+QUEST_LV_0200_20150414_006791	Notice/!/Le papier est tombé !#5	Notice/!/쪽지가 떨어졌습니다!#5				
+QUEST_LV_0200_20150414_006792	Embrasement/FIRE/0/TRACK_BEFORE/None	불을 붙이는 중/FIRE/0/TRACK_BEFORE/None				
 QUEST_LV_0200_20150414_006793	Observation/LOOK/2/TRACK_BEFORE/SSN_HATE_AROUND	살펴보는 중/LOOK/2/TRACK_BEFORE/SSN_HATE_AROUND	ETC_20150317_003705	Observation	살펴보는 중	
 QUEST_LV_0200_20150414_006794	Expliquer la Statue de Déesse dans la Forêt de la Prière	기원의 숲 여신상에 대해 설명 중/TALK/3/TRACK_BEFORE/None				
 QUEST_LV_0200_20150414_006795	Je vais aller à la petite salle	소회당으로 가겠다고 한다				
-QUEST_LV_0200_20150414_006796	Annonce/!/Enfouissez devant le cercle magique le pot remis par Rimas pour contenir l'esprit maléfique du monstre !#5	Notice/!/리마스가 준 항아리에 몬스터의 사악한 기운을 모아 마법진 앞에 묻으세요!#5				
+QUEST_LV_0200_20150414_006796	Notice/!/Enfouissez devant le cercle magique le pot remis par Rimas pour contenir l'esprit maléfique du monstre !#5	Notice/!/리마스가 준 항아리에 몬스터의 사악한 기운을 모아 마법진 앞에 묻으세요!#5				
 QUEST_LV_0200_20150414_006797	Attente du monstre/SITABSORB/2TRACK_BEFORE/None	몬스터를 기다리는 중/SITABSORB/2/TRACK_BEFORE/None				
-QUEST_LV_0200_20150414_006798	Annonce//!/L'attaque du monstre va commencer !#5	Notice/!/몬스터의 습격이 시작됩니다!#5				
-QUEST_LV_0200_20150414_006799	Annonce/!/Le cercle magique résonne d'étranges sons#5	Notice/!/마법진에서 이상한 진동이 울리고 있습니다#5				
-QUEST_LV_0200_20150414_006800	Annonce/Le cercle magique semble bien fonctionner à présent#5	Notice/마법진은 이제 문제 없이 잘 작동하는 것 같습니다#5				
-QUEST_LV_0200_20150414_006801	Annonce/Le cercle magique semble fonctionner ! #5	Notice/마법진이 문제 없이 작동하는 것 같습니다!#5				
-QUEST_LV_0200_20150414_006802	Avis/!/Faites-y attention, il semble détruit.{nl}Retournez fabriquer le marteau pour détruire le tonneau d'alcool	Notice/!/함부로 열면 내용물이 부숴질 것 같습니다.{nl}술통을 열 나무망치를 만들어 오세요!!#5				
+QUEST_LV_0200_20150414_006798	Notice//!/L'attaque du monstre va commencer !#5	Notice/!/몬스터의 습격이 시작됩니다!#5				
+QUEST_LV_0200_20150414_006799	Notice/!/Le cercle magique résonne d'étranges sons#5	Notice/!/마법진에서 이상한 진동이 울리고 있습니다#5				
+QUEST_LV_0200_20150414_006800	Notice/Le cercle magique semble bien fonctionner à présent#5	Notice/마법진은 이제 문제 없이 잘 작동하는 것 같습니다#5				
+QUEST_LV_0200_20150414_006801	Notice/Le cercle magique semble fonctionner !#5	Notice/마법진이 문제 없이 작동하는 것 같습니다!#5				
+QUEST_LV_0200_20150414_006802	Notice/!/Faites-y attention, il semble détruit.{nl}Retournez fabriquer le marteau pour détruire le tonneau d'alcool	Notice/!/함부로 열면 내용물이 부숴질 것 같습니다.{nl}술통을 열 나무망치를 만들어 오세요!!#5				
 QUEST_LV_0200_20150414_006803	Destruction/GROPE2/TRACK_BEFORE/None	통을 깨는 중/GROPE/2/TRACK_BEFORE/None				
-QUEST_LV_0200_20150414_006804	Avis/La moitié inférieure du corps est apparue après avoir détruit le récipient !#5	Notice/통이 깨지면서 작은 석상의 하반신이 나왔습니다!#5				
-QUEST_LV_0200_20150414_006805	Annonce/!/Le Corrupted s'est mis à attaquer quand vous avez touché les fragments d'aile !#5	Notice/!/날개 조각을 건드리자 갑자기 코럽티드가 덮쳐옵니다!#5				
+QUEST_LV_0200_20150414_006804	Notice/La moitié inférieure du corps est apparue après avoir détruit le récipient !#5	Notice/통이 깨지면서 작은 석상의 하반신이 나왔습니다!#5				
+QUEST_LV_0200_20150414_006805	Notice/!/Le Corrupted s'est mis à attaquer quand vous avez touché les fragments d'aile !#5	Notice/!/날개 조각을 건드리자 갑자기 코럽티드가 덮쳐옵니다!#5				
 QUEST_LV_0200_20150414_006806	Lire l'Indice	단서 읽기				
 QUEST_LV_0200_20150414_006807	Montrer les fragments	조각들을 보여 준다				
 QUEST_LV_0200_20150414_006808	Partir, cela semble suspect	의심스러우니 그냥 간다				
 QUEST_LV_0200_20150414_006809	Embrasement/FIRE/3/TRACK_BEFORE/None	불을 붙이는 중/FIRE/3/TRACK_BEFORE/None				
 QUEST_LV_0200_20150414_006810	Examen de l'autel/MAKING/2/TRACK_BEFORE/NONE	제단을 살펴보는 중/MAKING/2/TRACK_BEFORE/None				
-QUEST_LV_0200_20150414_006811	Annonce/Rencontrez Kupole Aurne pour passer à la Prison des démons 2 !	Notice/마족수감소 2구역으로 이동하여 큐폴 아루네를 만나세요!				
+QUEST_LV_0200_20150414_006811	Notice/Rencontrez Kupole Aurne pour passer à la Prison des démons 2 !	Notice/마족수감소 2구역으로 이동하여 큐폴 아루네를 만나세요!				
 QUEST_LV_0200_20150414_006812	Je vais vous aider à fabriquer les clés	열쇠를 만드는 것을 돕겠다고 한다				
 QUEST_LV_0200_20150414_006813	Ça ira pour moi	괜찮을 것이라 한다				
 QUEST_LV_0200_20150414_006814	Je vais récupérer les fragments	파편을 회수하겠다고 한다				
@@ -6941,20 +6941,20 @@ QUEST_LV_0200_20150428_006944	Notre seul recours pour l'instant est de trouver u
 QUEST_LV_0200_20150428_006945	Merci pour tout jusqu'à présent, mais je ne peux pas laisser ma famille mourir de faim... Je n'ai{nl}d'autre choix que de partir si l'énergie maléfique demeure dans le jardin.	그 동안 정말 감사했지만 가족들을 굶길 수가 없으니.. {nl}장원의 사악한 기운이 해결되지 않으면 떠날 수밖에.				농부 다아시
 QUEST_LV_0200_20150428_006946	C'est le vignoble de mon frère. Mon père le gère pour lui. {nl}	이 농장은 오라버니의 포도 농장이에요.{nl}아버님께서 대신 운영하고 계시지요.{nl}				바네사 샤튼
 QUEST_LV_0200_20150428_006947	Placement de l'appât/CAMPFIRE_LOOP/3/TRACK_BEFORE/None	미끼를 놓는 중/CAMPFIRE_LOOP/3/TRACK_BEFORE/None				
-QUEST_LV_0200_20150428_006948	Annonce/Le cristal a été détruit lorsque vous avez détruit tous les noyaux. #5	Notice/핵을 모두 파괴하자 수정 또한 파괴되어 버렸습니다#5				
+QUEST_LV_0200_20150428_006948	Notice/Le cristal a été détruit lorsque vous avez détruit tous les noyaux.#5	Notice/핵을 모두 파괴하자 수정 또한 파괴되어 버렸습니다#5				
 QUEST_LV_0200_20150428_006949	Allumage du feu/FIRE/2/TRACK_BEFORE/None	불을 붙이는 중/FIRE/2/TRACK_BEFORE/None				
-QUEST_LV_0200_20150428_006950	Annonce/!/Vous devez détruire les noyaux des monstres ! {nl}Vainquez les monstres !#5	Notice/!/몬스터가 가진 핵을 파괴 해야 합니다!{nl}몬스터를 사냥해 보세요!#5				
-QUEST_LV_0200_20150428_006951	Annonce/!/Obtenez des pages d'écriture sur les monstres !#7	Notice/!/몬스터로부터 경전의 낱장을 구해 오세요!#7				
-QUEST_LV_0200_20150428_006952	Annonce/!/Vous devez obtenir le fluide froid sur les monstres et en asperger l'autel !#5	Notice/!/몬스터를 처치하여 차가운 체액을 구해 와서 제단에 뿌려야 합니다!#5				
-QUEST_LV_0200_20150428_006953	Annonce/!/La statue de Déesse était fausse ! Vaincre le Sparnashorn#5	Notice/!/여신상은 가짜였습니다! 스파나스혼을 처치 하세요!#5				
-QUEST_LV_0200_20150428_006954	Annonce/!/Il ne se passe rien avec la statue de Déesse.{nl}Rendez-vous auprès du sculpteur Tesla dans les Bois de l'ouest de Siauliai #3	Notice/!/여신상은 아무런 반응도 보이지 않고 있습니다.{nl}제작자인 샤울레이 서쪽 숲의 조각가 테슬라를 찾아가세요#3				
+QUEST_LV_0200_20150428_006950	Notice/!/Vous devez détruire les noyaux des monstres ! {nl}Vainquez les monstres !#5	Notice/!/몬스터가 가진 핵을 파괴 해야 합니다!{nl}몬스터를 사냥해 보세요!#5				
+QUEST_LV_0200_20150428_006951	Notice/!/Obtenez des pages d'écriture sur les monstres !#7	Notice/!/몬스터로부터 경전의 낱장을 구해 오세요!#7				
+QUEST_LV_0200_20150428_006952	Notice/!/Vous devez obtenir le fluide froid sur les monstres et en asperger l'autel !#5	Notice/!/몬스터를 처치하여 차가운 체액을 구해 와서 제단에 뿌려야 합니다!#5				
+QUEST_LV_0200_20150428_006953	Notice/!/La statue de Déesse était fausse ! Vaincre le Sparnashorn#5	Notice/!/여신상은 가짜였습니다! 스파나스혼을 처치 하세요!#5				
+QUEST_LV_0200_20150428_006954	Notice/!/Il ne se passe rien avec la statue de Déesse.{nl}Rendez-vous auprès du sculpteur Tesla dans les Bois de l'ouest de Siauliai#3	Notice/!/여신상은 아무런 반응도 보이지 않고 있습니다.{nl}제작자인 샤울레이 서쪽 숲의 조각가 테슬라를 찾아가세요#3				
 QUEST_LV_0200_20150428_006955	Puiser de l'eau/SITWATER_LOOP/2/TRACK_BEFORE/None	물 뜨는 중/SITWATER_LOOP/2/TRACK_BEFORE/None				
-QUEST_LV_0200_20150428_006956	Annonce/!/La statue de Déesse s'est mise à être attaquée quand vous l'avez vénérée.{nl}Débarrassez-vous des lianes épineuses et protégez la statue de Déesse des attaques des monstres.#6	Notice/!/경배를 드리자 여신상이 공격받기 시작했습니다.{nl}여신상을 옥죄는 가시덩굴을 없애고 사방에서 몰려드는 몬스터로부터 여신상을 지키세요.#6				
+QUEST_LV_0200_20150428_006956	Notice/!/La statue de Déesse s'est mise à être attaquée quand vous l'avez vénérée.{nl}Débarrassez-vous des lianes épineuses et protégez la statue de Déesse des attaques des monstres.#6	Notice/!/경배를 드리자 여신상이 공격받기 시작했습니다.{nl}여신상을 옥죄는 가시덩굴을 없애고 사방에서 몰려드는 몬스터로부터 여신상을 지키세요.#6				
 QUEST_LV_0200_20150428_006957	Vérification de la pierre tombale/LOOK/2/TRACK_BEFORE/None	묘비를 살펴 보는 중/LOOK/2/TRACK_BEFORE/None				
-QUEST_LV_0200_20150428_006958	Annonce/Les morceaux du tableau ont été rassemblés et insérés dans le cadre !#5	Notice/그림 조각을 모두 모아서 액자에 끼워 넣었습니다!#5				
-QUEST_LV_0200_20150428_006959	Annonce/Un vieux mouchoir a été trouvé dans la boîte.#5	Notice/상자 안에서 낡은 손수건을 찾았습니다.#5				
-QUEST_LV_0200_20150428_006960	Annonce/Le pot est trouvé !{nl}Il est temps de placer le pot sous l'arbre des frères !#5	Notice/항아리를 구했습니다!{nl}이제 항아리를 형제의 나무 아래 설치할 차례 입니다!#5				
-QUEST_LV_0200_20150428_006961	Annonce/!/Velochard, qui gardait l'espace caché, est apparu !#5	Notice/!/숨겨진 공간을 지키고 있던 벨로차드가 나타났습니다!#5				
+QUEST_LV_0200_20150428_006958	Notice/Les morceaux du tableau ont été rassemblés et insérés dans le cadre !#5	Notice/그림 조각을 모두 모아서 액자에 끼워 넣었습니다!#5				
+QUEST_LV_0200_20150428_006959	Notice/Un vieux mouchoir a été trouvé dans la boîte.#5	Notice/상자 안에서 낡은 손수건을 찾았습니다.#5				
+QUEST_LV_0200_20150428_006960	Notice/Le pot est trouvé !{nl}Il est temps de placer le pot sous l'arbre des frères !#5	Notice/항아리를 구했습니다!{nl}이제 항아리를 형제의 나무 아래 설치할 차례 입니다!#5				
+QUEST_LV_0200_20150428_006961	Notice/!/Velochard, qui gardait l'espace caché, est apparu !#5	Notice/!/숨겨진 공간을 지키고 있던 벨로차드가 나타났습니다!#5				
 QUEST_LV_0200_20150428_006962	Ouverture du coffre/KICKBOX/1/TRACK_AFTER/None	상자를 여는 중/KICKBOX/1/TRACK_AFTER/None	ETC_20150323_010284	Ouverture de la boîte	상자를 여는 중	
 QUEST_LV_0200_20150428_006963	Vérification../LOOK_SIT/2/TRACK_BEFORE/None	확인 중../LOOK_SIT/2/TRACK_BEFORE/None	ETC_20150317_002440	Examen	확인 중	
 QUEST_LV_0200_20150428_006964	Vérification de l'autel/LOOK_SIT/2/TRACK_BEFORE/None	제단을 살펴보는 중/LOOK_SIT/2/TRACK_BEFORE/None				
@@ -7026,8 +7026,8 @@ QUEST_LV_0200_20150511_007029	Mieux vaut aller voir le prêtre	사제를 만나�
 QUEST_LV_0200_20150511_007030	Les Révélateurs d'abord	계시자들을 치료하는 게 우선				
 QUEST_LV_0200_20150511_007031	Mieux vaut reculer, c'est dangereux	위험하니까 물러서는 게 좋을 것 같다				
 QUEST_LV_0200_20150511_007032	Mieux vaut renoncer, c'est dangereux	위험하니 포기하는 게 좋겠다고 한다				
-QUEST_LV_0200_20150511_007033	Avis/Le cercle magique s'est renforcé quand vous avez retiré les 4 cristaux !!#5	Notice/4개의 결정을 없애자 성공적으로 마법진이 강화 되었습니다!!#5				
-QUEST_LV_0200_20150511_007034	Avis/!/Vous devez rassembler le sort des monstres dans le pot et l'enterrer devant le cercle magique.#5	Notice/!/몬스터의 마력을 항아리에 모아 마법진 앞에 묻어야 합니다.#5				
+QUEST_LV_0200_20150511_007033	Notice/Le cercle magique s'est renforcé quand vous avez retiré les 4 cristaux !!#5	Notice/4개의 결정을 없애자 성공적으로 마법진이 강화 되었습니다!!#5				
+QUEST_LV_0200_20150511_007034	Notice/!/Vous devez rassembler le sort des monstres dans le pot et l'enterrer devant le cercle magique.#5	Notice/!/몬스터의 마력을 항아리에 모아 마법진 앞에 묻어야 합니다.#5				
 QUEST_LV_0200_20150511_007035	Bris du conteneur/HAMMERING/2/TRACK_BEFORE/None	통을 깨는 중/HAMMERING/2/TRACK_BEFORE/None				
 QUEST_LV_0200_20150511_007036	Mieux vaut le faire vous-même	직접 나서는 게 더 좋을 것 같다고 한다				
 QUEST_LV_0200_20150511_007037	Le brasseur Dorjen est en colère car on l'a empêché de brûler la forêt. {nl}Essayez de calmer Dorjen.	양조업자 도르젠은 숲을 불태워버리려는 게 저지됨을 알자 화가 났습니다. 양조업자 도르젠을 달래 봅시다.				
@@ -7881,9 +7881,9 @@ QUEST_LV_0200_20150714_007884	Quand pourrons-nous rassembler de nouveau tous ces
 QUEST_LV_0200_20150714_007885	Ne vous donnez pas tant de mal. Je peux les récolter.	굳이 무리하지 않으셔도 돼요.{nl}제가 모으면 되니까요. 이 많은 경전들을요..				수도사 모하임
 QUEST_LV_0200_20150714_007886	Merci. Nous devrions pouvoir tous les rassembler de nouveau, n'est-ce pas ?	감사합니다.{nl}언젠가는 정리를 다 끝낼 수 있겠죠?				수도사 모하임
 QUEST_LV_0200_20150714_007887	Sécuriser la Zone	구역 안정화				
-QUEST_LV_0200_20150714_007888	Annonce/Vaincre Ironbaum !/5	Notice/아이언바움을 처치하세요!/5	QUEST_LV_0200_20150317_001232	Annonce /Vaincre Ironbaum ! / 5	Notice/아이언바움 처치!/5	
+QUEST_LV_0200_20150714_007888	Notice/Vaincre Ironbaum !/5	Notice/아이언바움을 처치하세요!/5	QUEST_LV_0200_20150317_001232	Notice/Vaincre Ironbaum !/5	Notice/아이언바움 처치!/5	
 QUEST_LV_0200_20150714_007889	Empiler le bois de chauffage	장작 쌓는 중				
-QUEST_LV_0200_20150714_007890	Annonce/Vaincre Unlucky Gaigalas !/5	Notice/불길한 가이갈라스를 처치하세요!/5	QUEST_LV_0100_20150317_002555	Avis/aide au malchanceux Gallas !/5	Notice/불길한 가이갈라스 처치!/5	
+QUEST_LV_0200_20150714_007890	Notice/Vaincre Unlucky Gaigalas !/5	Notice/불길한 가이갈라스를 처치하세요!/5	QUEST_LV_0100_20150317_002555	Notice/aide au malchanceux Gallas !/5	Notice/불길한 가이갈라스 처치!/5	
 QUEST_LV_0200_20150714_007891	À propos de cette ville	이 도시에 대해				
 QUEST_LV_0200_20150714_007892	Lui dire que vous n'avez aucune raison d'aider	도울 이유는 없다고 한다	QUEST_LV_0200_20150317_001380	Je me tiendrai prêt	대기하겠다고 한다	
 QUEST_LV_0200_20150714_007893	À propos de la malédiction du gel pétrifiant	석화서리 저주에 대해				
@@ -7942,41 +7942,41 @@ QUEST_LV_0200_20150714_007945	Refuser	왠지 꺼림칙하니 거절하자	QUEST_
 QUEST_LV_0200_20150714_007946	Je reviendrai après avoir allumé le feu	불을 피우고 오겠다고 한다	QUEST_LV_0200_20150317_001465	Je vais le récolter	수집하겠다고 한다	
 QUEST_LV_0200_20150714_007947	À propos de la malédiction de pétrification	석화의 저주에 대해				
 QUEST_LV_0200_20150714_007948	Lui dire que vous l'apporterez	가져 오겠다고 한다				
-QUEST_LV_0200_20150714_007949	Annonce/Heureusement, la ruche semble intacte#5	Notice/다행히 벌집은 온전한 것 같습니다#5	QUEST_LV_0200_20150317_001482	Annonce/Heureusement, la ruche est intacte.#5	Notice/다행히 벌집은 온전한 것 같습니다.#5	
-QUEST_LV_0200_20150714_007950	Annonce/L'hydromel que Dorgen voulait a été trouvé#5	Notice/도르젠이 가져오라고 한 벌꿀술을 찾았습니다#5	QUEST_LV_0200_20150317_001494	Annonce/L'hydromel que Dorgen demandait a été trouvé.#5	Notice/도르젠이 가져오라고 한 벌꿀술을 찾았습니다.#5	
+QUEST_LV_0200_20150714_007949	Notice/Heureusement, la ruche semble intacte#5	Notice/다행히 벌집은 온전한 것 같습니다#5	QUEST_LV_0200_20150317_001482	Notice/Heureusement, la ruche est intacte.#5	Notice/다행히 벌집은 온전한 것 같습니다.#5	
+QUEST_LV_0200_20150714_007950	Notice/L'hydromel que Dorgen voulait a été trouvé#5	Notice/도르젠이 가져오라고 한 벌꿀술을 찾았습니다#5	QUEST_LV_0200_20150317_001494	Notice/L'hydromel que Dorgen demandait a été trouvé.#5	Notice/도르젠이 가져오라고 한 벌꿀술을 찾았습니다.#5	
 QUEST_LV_0200_20150714_007951	Examiner l'autel	제단을 살펴보는 중				
 QUEST_LV_0200_20150714_007952	Activation en cours	가동시키는 중				
 QUEST_LV_0200_20150714_007953	Purifier la Tour Scellée	봉인탑 정화 중				
-QUEST_LV_0200_20150714_007954	Annonce/Les monstres ne semblent porter aucun intérêt à l'épouvantail#5	Notice/허수아비를 설치해 보았지만 몬스터는 별다른 반응이 없어 보입니다#5	QUEST_LV_0200_20150317_001561	Annonce/L'épouvantail est posé, mais les monstres n'y réagissent pas.#5	Notice/허수아비를 설치해 보았지만 몬스터는 별다른 반응이 없어 보입니다.#5	
+QUEST_LV_0200_20150714_007954	Notice/Les monstres ne semblent porter aucun intérêt à l'épouvantail#5	Notice/허수아비를 설치해 보았지만 몬스터는 별다른 반응이 없어 보입니다#5	QUEST_LV_0200_20150317_001561	Notice/L'épouvantail est posé, mais les monstres n'y réagissent pas.#5	Notice/허수아비를 설치해 보았지만 몬스터는 별다른 반응이 없어 보입니다.#5	
 QUEST_LV_0200_20150714_007955	Conférer le pouvoir des déesses	여신의 힘을 부여하는 중				
-QUEST_LV_0200_20150714_007956	Annonce/!/Liliya a péri{nl}Creusez-lui une tombe#5	Notice/!/릴리야가 숨을 거두었습니다{nl}그녀의 무덤을 만들어 주세요#5	QUEST_LV_0200_20150323_004199	Annonce/!/Liliya est morte..{nl}Creusez-lui une tombe, je vous prie#5	Notice/!/릴리야가 숨을 거두었습니다..{nl}그녀의 무덤을 만들어 주세요#5	
+QUEST_LV_0200_20150714_007956	Notice/!/Liliya a péri{nl}Creusez-lui une tombe#5	Notice/!/릴리야가 숨을 거두었습니다{nl}그녀의 무덤을 만들어 주세요#5	QUEST_LV_0200_20150323_004199	Notice/!/Liliya est morte..{nl}Creusez-lui une tombe, je vous prie#5	Notice/!/릴리야가 숨을 거두었습니다..{nl}그녀의 무덤을 만들어 주세요#5	
 QUEST_LV_0200_20150714_007957	Fouiller le tas de nourriture	식량무지를 뒤지는 중				
-QUEST_LV_0200_20150714_007958	Annonce/!/Des restes ont été trouvés dans le tas de nourriture !{nl}Jetez-les aux monstres en appuyant sur la touche V avant de vous en occuper !#5	Notice/!/식량더미에서 음식 찌꺼기를 구했습니다!{nl}이것을 V키를 이용해 몬스터에게 던진 뒤 처치하세요!#5	QUEST_LV_0200_20150323_004211	Annonce/!/Vous avez trouvé les restes de nourriture dans le tas amoncelé !{nl}Utilisez la touche V pour les jeter sur les monstres et les vaincre !#5#5	Notice/!/식량더미에서 음식 찌꺼기를 구했습니다!{nl}이것을 V키를 이용해 몬스터에게 던진 뒤 처치하세요!#5#5	
+QUEST_LV_0200_20150714_007958	Notice/!/Des restes ont été trouvés dans le tas de nourriture !{nl}Jetez-les aux monstres en appuyant sur la touche V avant de vous en occuper !#5	Notice/!/식량더미에서 음식 찌꺼기를 구했습니다!{nl}이것을 V키를 이용해 몬스터에게 던진 뒤 처치하세요!#5	QUEST_LV_0200_20150323_004211	Notice/!/Vous avez trouvé les restes de nourriture dans le tas amoncelé !{nl}Utilisez la touche V pour les jeter sur les monstres et les vaincre !#5#5	Notice/!/식량더미에서 음식 찌꺼기를 구했습니다!{nl}이것을 V키를 이용해 몬스터에게 던진 뒤 처치하세요!#5#5	
 QUEST_LV_0200_20150714_007959	Allumer le feu	불을 붙이는 중				
-QUEST_LV_0200_20150714_007960	Annonce/Vous avez trouvé et détruit le noyau du cristal !{nl}Le polluant est en train de disparaître !#5	Notice/수정 핵을 찾아 파괴하였습니다!{nl}오염원이 사라집니다!#5	QUEST_LV_0200_20150323_004228	Annonce/Vous avez trouvé les noyaux et les avez détruits !{nl}Les sources de la pollution sont en train de disparaître.#5	Notice/수정 핵을 찾아 파괴하였습니다!{nl}오염원이 사라집니다.#5	
-QUEST_LV_0200_20150714_007961	Annonce/!/L'énergie maléfique du coffre a infiltré les monstres alentour{nl}Occupez-vous des monstres alentour et rendez l'énergie maléfique au coffre#7	Notice/!/상자 안에서 사악한 기운이 쏟아져 나와 몬스터에게 스며들었습니다{nl}상자 주변에서 몬스터들을 처치하여 사악한 기운을 다시 상자에 넣어주세요#7	QUEST_LV_0200_20150323_004232	Annonce/!/L'énergie féroce est sortie de la boîte et a imprégné de nombreux monstres.{nl}Vainquez les monstres près de la boîte et remettez l'énergie dans la boîte.#7	Notice/!/상자 안에서 사악한 기운이 쏟아져 나와 몬스터에게 스며들었습니다.{nl}상자 주변에서 몬스터들을 처치하여 사악한 기운을 다시 상자에 넣어주세요.#7	
+QUEST_LV_0200_20150714_007960	Notice/Vous avez trouvé et détruit le noyau du cristal !{nl}Le polluant est en train de disparaître !#5	Notice/수정 핵을 찾아 파괴하였습니다!{nl}오염원이 사라집니다!#5	QUEST_LV_0200_20150323_004228	Notice/Vous avez trouvé les noyaux et les avez détruits !{nl}Les sources de la pollution sont en train de disparaître.#5	Notice/수정 핵을 찾아 파괴하였습니다!{nl}오염원이 사라집니다.#5	
+QUEST_LV_0200_20150714_007961	Notice/!/L'énergie maléfique du coffre a infiltré les monstres alentour{nl}Occupez-vous des monstres alentour et rendez l'énergie maléfique au coffre#7	Notice/!/상자 안에서 사악한 기운이 쏟아져 나와 몬스터에게 스며들었습니다{nl}상자 주변에서 몬스터들을 처치하여 사악한 기운을 다시 상자에 넣어주세요#7	QUEST_LV_0200_20150323_004232	Notice/!/L'énergie féroce est sortie de la boîte et a imprégné de nombreux monstres.{nl}Vainquez les monstres près de la boîte et remettez l'énergie dans la boîte.#7	Notice/!/상자 안에서 사악한 기운이 쏟아져 나와 몬스터에게 스며들었습니다.{nl}상자 주변에서 몬스터들을 처치하여 사악한 기운을 다시 상자에 넣어주세요.#7	
 QUEST_LV_0200_20150714_007962	Prier devant l'autel	제단에 기도 하는 중				
-QUEST_LV_0200_20150714_007963	Annonce/!/Le Tetraox a déjà dévoré l'âme{nl}Vaincre le Tetraox !#3	Notice/!/테트라옥스가 이미 영혼을 먹어치운 뒤입니다{nl}테트라옥스를 처치하세요!#3	QUEST_LV_0200_20150323_004244	Annonce/!/Le Seigneur du feu a déjà dévoré l'esprit.{nl}Vaincre le Seigneur du feu !#3	Notice/!/파이어 로드가 이미 영혼을 먹어치운 뒤입니다.{nl}파이어로드를 처치하세요!#3	
-QUEST_LV_0200_20150714_007964	Annonce/!/Vous devez obtenir le fluide froid de monstre sur les monstres alentour et en asperger l'autel !#5	Notice/!/몬스터를 처치하여 차가운 체액을 구해 제단에 뿌려야 합니다!#5	QUEST_LV_0200_20150428_006952	Annonce/!/Vous devez obtenir le fluide froid sur les monstres et en asperger l'autel !#5	Notice/!/몬스터를 처치하여 차가운 체액을 구해 와서 제단에 뿌려야 합니다!#5	
-QUEST_LV_0200_20150714_007965	Annonce/!/Le sanctuaire semble avoir été souillé, loin de pouvoir accorder des bénédictions#5	Notice/!/축복은 커녕 성소가 오염된 것 같습니다#5	QUEST_LV_0200_20150323_004248	Annonce/!/Le sanctuaire semble avoir été souillé au lieu d'être béni.#5	Notice/!/축복은 커녕 성소가 오염된 것 같습니다.#5	
-QUEST_LV_0200_20150714_007966	Annonce/!/La statue de Déesse était fausse ! Vaincre Sparnashorn !#5	Notice/!/여신상은 가짜였습니다! 스파나스혼을 처치하세요!#5	QUEST_LV_0200_20150428_006953	Annonce/!/La statue de Déesse était fausse ! Vaincre le Sparnashorn#5	Notice/!/여신상은 가짜였습니다! 스파나스혼을 처치 하세요!#5	
-QUEST_LV_0200_20150714_007967	Annonce/!/La statue de Déesse ne réagit pas{nl}Trouvez son créateur, le sculpteur Tesla, dans les Bois de{nl}Siauliai ouest#3	Notice/!/여신상은 아무런 반응도 보이지 않고 있습니다{nl}제작자인 샤울레이 서쪽 숲의 조각가 테슬라를 찾아가세요#3	QUEST_LV_0200_20150428_006954	Annonce/!/Il ne se passe rien avec la statue de Déesse.{nl}Rendez-vous auprès du sculpteur Tesla dans les Bois de l'ouest de Siauliai #3	Notice/!/여신상은 아무런 반응도 보이지 않고 있습니다.{nl}제작자인 샤울레이 서쪽 숲의 조각가 테슬라를 찾아가세요#3	
-QUEST_LV_0200_20150714_007968	Annonce/!/Il semble y avoir une énorme fissure à la base de la statue{nl}Trouvez d'abord les matériaux demandés par le sculpteur Tesla#3	Notice/!/여신상의 받침대에 심한 균열이 보입니다{nl}먼저 조각가 테슬라가 가르쳐 준 재료를 구하세요#3	QUEST_LV_0200_20150323_004257	Annonce/!/Vous avez trouvé une grave fissure sur le socle de la statue.{nl}Obtenez d'abord les matériaux que Tesla vous a indiqués.#3	Notice/!/여신상의 받침대에 심한 균열이 보입니다.{nl}먼저 조각가 테슬라가 가르쳐 준 재료를 구하세요.#3	
-QUEST_LV_0200_20150714_007969	Annonce/Le sanctuaire a été purifié#3	Notice/성소가 정화되었습니다#3	QUEST_LV_0200_20150323_004266	Annonce/Le sanctuaire a été purifié.#3	Notice/성소가 정화되었습니다.#3	
+QUEST_LV_0200_20150714_007963	Notice/!/Le Tetraox a déjà dévoré l'âme{nl}Vaincre le Tetraox !#3	Notice/!/테트라옥스가 이미 영혼을 먹어치운 뒤입니다{nl}테트라옥스를 처치하세요!#3	QUEST_LV_0200_20150323_004244	Notice/!/Le Seigneur du feu a déjà dévoré l'esprit.{nl}Vaincre le Seigneur du feu !#3	Notice/!/파이어 로드가 이미 영혼을 먹어치운 뒤입니다.{nl}파이어로드를 처치하세요!#3	
+QUEST_LV_0200_20150714_007964	Notice/!/Vous devez obtenir le fluide froid de monstre sur les monstres alentour et en asperger l'autel !#5	Notice/!/몬스터를 처치하여 차가운 체액을 구해 제단에 뿌려야 합니다!#5	QUEST_LV_0200_20150428_006952	Notice/!/Vous devez obtenir le fluide froid sur les monstres et en asperger l'autel !#5	Notice/!/몬스터를 처치하여 차가운 체액을 구해 와서 제단에 뿌려야 합니다!#5	
+QUEST_LV_0200_20150714_007965	Notice/!/Le sanctuaire semble avoir été souillé, loin de pouvoir accorder des bénédictions#5	Notice/!/축복은 커녕 성소가 오염된 것 같습니다#5	QUEST_LV_0200_20150323_004248	Notice/!/Le sanctuaire semble avoir été souillé au lieu d'être béni.#5	Notice/!/축복은 커녕 성소가 오염된 것 같습니다.#5	
+QUEST_LV_0200_20150714_007966	Notice/!/La statue de Déesse était fausse ! Vaincre Sparnashorn !#5	Notice/!/여신상은 가짜였습니다! 스파나스혼을 처치하세요!#5	QUEST_LV_0200_20150428_006953	Notice/!/La statue de Déesse était fausse ! Vaincre le Sparnashorn#5	Notice/!/여신상은 가짜였습니다! 스파나스혼을 처치 하세요!#5	
+QUEST_LV_0200_20150714_007967	Notice/!/La statue de Déesse ne réagit pas{nl}Trouvez son créateur, le sculpteur Tesla, dans les Bois de{nl}Siauliai ouest#3	Notice/!/여신상은 아무런 반응도 보이지 않고 있습니다{nl}제작자인 샤울레이 서쪽 숲의 조각가 테슬라를 찾아가세요#3	QUEST_LV_0200_20150428_006954	Notice/!/Il ne se passe rien avec la statue de Déesse.{nl}Rendez-vous auprès du sculpteur Tesla dans les Bois de l'ouest de Siauliai#3	Notice/!/여신상은 아무런 반응도 보이지 않고 있습니다.{nl}제작자인 샤울레이 서쪽 숲의 조각가 테슬라를 찾아가세요#3	
+QUEST_LV_0200_20150714_007968	Notice/!/Il semble y avoir une énorme fissure à la base de la statue{nl}Trouvez d'abord les matériaux demandés par le sculpteur Tesla#3	Notice/!/여신상의 받침대에 심한 균열이 보입니다{nl}먼저 조각가 테슬라가 가르쳐 준 재료를 구하세요#3	QUEST_LV_0200_20150323_004257	Notice/!/Vous avez trouvé une grave fissure sur le socle de la statue.{nl}Obtenez d'abord les matériaux que Tesla vous a indiqués.#3	Notice/!/여신상의 받침대에 심한 균열이 보입니다.{nl}먼저 조각가 테슬라가 가르쳐 준 재료를 구하세요.#3	
+QUEST_LV_0200_20150714_007969	Notice/Le sanctuaire a été purifié#3	Notice/성소가 정화되었습니다#3	QUEST_LV_0200_20150323_004266	Notice/Le sanctuaire a été purifié.#3	Notice/성소가 정화되었습니다.#3	
 QUEST_LV_0200_20150714_007970	Puiser l'eau	물 뜨는 중				
-QUEST_LV_0200_20150714_007971	Annonce/!/La statue de Déesse s'est mise à être attaquée aussitôt après avoir été vénérée !{nl}Retirez les lianes qui couvrent la statue de Déesse et protégez-la des monstres qui arrivent !#6	Notice/!/경배를 드리자 여신상이 공격받기 시작했습니다!{nl}여신상을 옥죄는 가시덩굴을 없애고 사방에서 몰려드는 몬스터로부터 여신상을 지키세요!#6	QUEST_LV_0200_20150428_006956	Annonce/!/La statue de Déesse s'est mise à être attaquée quand vous l'avez vénérée.{nl}Débarrassez-vous des lianes épineuses et protégez la statue de Déesse des attaques des monstres.#6	Notice/!/경배를 드리자 여신상이 공격받기 시작했습니다.{nl}여신상을 옥죄는 가시덩굴을 없애고 사방에서 몰려드는 몬스터로부터 여신상을 지키세요.#6	
+QUEST_LV_0200_20150714_007971	Notice/!/La statue de Déesse s'est mise à être attaquée aussitôt après avoir été vénérée !{nl}Retirez les lianes qui couvrent la statue de Déesse et protégez-la des monstres qui arrivent !#6	Notice/!/경배를 드리자 여신상이 공격받기 시작했습니다!{nl}여신상을 옥죄는 가시덩굴을 없애고 사방에서 몰려드는 몬스터로부터 여신상을 지키세요!#6	QUEST_LV_0200_20150428_006956	Notice/!/La statue de Déesse s'est mise à être attaquée quand vous l'avez vénérée.{nl}Débarrassez-vous des lianes épineuses et protégez la statue de Déesse des attaques des monstres.#6	Notice/!/경배를 드리자 여신상이 공격받기 시작했습니다.{nl}여신상을 옥죄는 가시덩굴을 없애고 사방에서 몰려드는 몬스터로부터 여신상을 지키세요.#6	
 QUEST_LV_0200_20150714_007972	Expliquer le sanctuaire	성소의 일을 설명 하는 중				
-QUEST_LV_0200_20150714_007973	Annonce/L'Ironbaum qui attaquait les pèlerins est vaincu ! Vous pouvez maintenant être béni au sanctuaire#3	Notice/순례자를 노리던 아이언바움을 물리쳤습니다! 이제 성소에서 축복을 받을 수 있습니다#3	QUEST_LV_0200_20150323_004276	Annonce/Vous avez vaincu l'Ironbaum qui poursuivait les pèlerins ! Recevez maintenant la bénédiction du sanctuaire !#3	Notice/순례자를 노리던 아이언바움을 물리쳤습니다! 이제 성소에서 축복을 받으세요!#3	
-QUEST_LV_0200_20150714_007974	Annonce/Witas a péri{nl}Creusez une tombe pour Witas et{nl}enterrez-le#5	Notice/위타스가 숨을 거두었습니다{nl}그의 무덤을 만들어 주세요#5	QUEST_LV_0100_20150323_006486	Avis/Witas est mort??{nl}Creusez-lui une tombe#5	Notice/위타스가 숨을 거두었습니다.{nl}그의 무덤을 만들어 주세요#5	
-QUEST_LV_0200_20150714_007975	Annonce/!/Il n'y a qu'une partie d'un tableau dans le cadre que vous{nl}avez découvert{nl}Essayez d'obtenir le reste de la peinture sur les monstres alentour#5	Notice/!/발견된 액자엔 찢어진 그림의 일부분만 남아 있습니다{nl}주변의 몬스터에게서 나머지 그림을 찾아 보세요#5	QUEST_LV_0200_20150323_004282	Annonce/!/Seule une partie du dessin déchiré a été trouvée dans le cadre. {nl}Cherchez les autres parties sur les monstres alentour.#5	Notice/!/발견된 액자엔 찢어진 그림의 일부분만 남아 있습니다. {nl}주변의 몬스터에게서 나머지 그림을 찾아 보세요.#5	
-QUEST_LV_0200_20150714_007976	Annonce/!/Le coffre est verrouillé{nl}Essayez d'obtenir la clé en vainquant les monstres{nl}alentour !#5	Notice/!/상자는 잠겨 있습니다{nl}주변의 몬스터를 사냥해 열쇠를 구해 보세요!#5	QUEST_LV_0200_20150323_004285	Annonce/!/La boîte est verrouillée.{nl}Chassez les monstres alentour et obtenez la clé !#5	Notice/!/상자는 잠겨 있습니다.{nl}주변의 몬스터를 사냥해 열쇠를 구해 보세요!#5	
-QUEST_LV_0200_20150714_007977	Annonce/Un vieux mouchoir a été trouvé dans le coffre#5	Notice/상자 안에서 낡은 손수건을 찾았습니다#5	QUEST_LV_0200_20150428_006959	Annonce/Un vieux mouchoir a été trouvé dans la boîte.#5	Notice/상자 안에서 낡은 손수건을 찾았습니다.#5	
+QUEST_LV_0200_20150714_007973	Notice/L'Ironbaum qui attaquait les pèlerins est vaincu ! Vous pouvez maintenant être béni au sanctuaire#3	Notice/순례자를 노리던 아이언바움을 물리쳤습니다! 이제 성소에서 축복을 받을 수 있습니다#3	QUEST_LV_0200_20150323_004276	Notice/Vous avez vaincu l'Ironbaum qui poursuivait les pèlerins ! Recevez maintenant la bénédiction du sanctuaire !#3	Notice/순례자를 노리던 아이언바움을 물리쳤습니다! 이제 성소에서 축복을 받으세요!#3	
+QUEST_LV_0200_20150714_007974	Notice/Witas a péri{nl}Creusez une tombe pour Witas et{nl}enterrez-le#5	Notice/위타스가 숨을 거두었습니다{nl}그의 무덤을 만들어 주세요#5	QUEST_LV_0100_20150323_006486	Notice/Witas est mort??{nl}Creusez-lui une tombe#5	Notice/위타스가 숨을 거두었습니다.{nl}그의 무덤을 만들어 주세요#5	
+QUEST_LV_0200_20150714_007975	Notice/!/Il n'y a qu'une partie d'un tableau dans le cadre que vous{nl}avez découvert{nl}Essayez d'obtenir le reste de la peinture sur les monstres alentour#5	Notice/!/발견된 액자엔 찢어진 그림의 일부분만 남아 있습니다{nl}주변의 몬스터에게서 나머지 그림을 찾아 보세요#5	QUEST_LV_0200_20150323_004282	Notice/!/Seule une partie du dessin déchiré a été trouvée dans le cadre. {nl}Cherchez les autres parties sur les monstres alentour.#5	Notice/!/발견된 액자엔 찢어진 그림의 일부분만 남아 있습니다. {nl}주변의 몬스터에게서 나머지 그림을 찾아 보세요.#5	
+QUEST_LV_0200_20150714_007976	Notice/!/Le coffre est verrouillé{nl}Essayez d'obtenir la clé en vainquant les monstres{nl}alentour !#5	Notice/!/상자는 잠겨 있습니다{nl}주변의 몬스터를 사냥해 열쇠를 구해 보세요!#5	QUEST_LV_0200_20150323_004285	Notice/!/La boîte est verrouillée.{nl}Chassez les monstres alentour et obtenez la clé !#5	Notice/!/상자는 잠겨 있습니다.{nl}주변의 몬스터를 사냥해 열쇠를 구해 보세요!#5	
+QUEST_LV_0200_20150714_007977	Notice/Un vieux mouchoir a été trouvé dans le coffre#5	Notice/상자 안에서 낡은 손수건을 찾았습니다#5	QUEST_LV_0200_20150428_006959	Notice/Un vieux mouchoir a été trouvé dans la boîte.#5	Notice/상자 안에서 낡은 손수건을 찾았습니다.#5	
 QUEST_LV_0200_20150714_007978	Obtenir le Pot	항아리 구하는 중				
-QUEST_LV_0200_20150714_007979	Annonce/Le livre d'invocation des âmes est achevé/5	Notice/영혼 소환 성서가 완성되었습니다/5	QUEST_LV_0200_20150323_004294	Annonce/L'écriture pour invoquer l'esprit est achevée !/5	Notice/영혼 소환 성서 완성!/5	
-QUEST_LV_0200_20150714_007980	Annonce/Un joyau en forme de larme a été trouvé dans le dispositif#3	Notice/장치 안에서 물방울 모양의 보석이 나왔습니다#3	QUEST_LV_0200_20150317_001833	Annonce/Le dispositif est ouvert et le joyau en forme de goutte d'eau est apparu.#3	Notice/장치가 열렸고 안에서 물방울 모양의 보석이 나왔다.#3	
-QUEST_LV_0200_20150714_007981	Annonce/Le joyau rond a été repris à un sbire de Naktis#3	Notice/나크티스의 부하에게서 동그란 모양의 보석을 되찾았습니다#3	QUEST_LV_0200_20150317_001837	Annonce/Un joyau de forme ronde a été obtenu sur un serviteur de Naktis.#3	Notice/나크티스의 부하에게서 동그란 모양의 보석을 되찾았다.#3	
+QUEST_LV_0200_20150714_007979	Notice/Le livre d'invocation des âmes est achevé/5	Notice/영혼 소환 성서가 완성되었습니다/5	QUEST_LV_0200_20150323_004294	Notice/L'écriture pour invoquer l'esprit est achevée !/5	Notice/영혼 소환 성서 완성!/5	
+QUEST_LV_0200_20150714_007980	Notice/Un joyau en forme de larme a été trouvé dans le dispositif#3	Notice/장치 안에서 물방울 모양의 보석이 나왔습니다#3	QUEST_LV_0200_20150317_001833	Notice/Le dispositif est ouvert et le joyau en forme de goutte d'eau est apparu.#3	Notice/장치가 열렸고 안에서 물방울 모양의 보석이 나왔다.#3	
+QUEST_LV_0200_20150714_007981	Notice/Le joyau rond a été repris à un sbire de Naktis#3	Notice/나크티스의 부하에게서 동그란 모양의 보석을 되찾았습니다#3	QUEST_LV_0200_20150317_001837	Notice/Un joyau de forme ronde a été obtenu sur un serviteur de Naktis.#3	Notice/나크티스의 부하에게서 동그란 모양의 보석을 되찾았다.#3	
 QUEST_LV_0200_20150714_007982	Vérification/#SITGROPESET2/2/TRACK_BEFORE/None	확인 중/#SITGROPESET2/2/TRACK_BEFORE/None	ETC_20150317_002440	Examen	확인 중	
-QUEST_LV_0200_20150714_007983	Annonce/Clé de Maven obtenue !	Notice/메이번의 열쇠를 획득했습니다!				
+QUEST_LV_0200_20150714_007983	Notice/Clé de Maven obtenue !	Notice/메이번의 열쇠를 획득했습니다!				
 QUEST_LV_0200_20150714_007984	Vérification/LOOK_SIT/2/TRACK_BEFORE/NONE	확인 중/LOOK_SIT/2/TRACK_BEFORE/None	QUEST_LV_0200_20150428_006963	Vérification../LOOK_SIT/2/TRACK_BEFORE/None	확인 중../LOOK_SIT/2/TRACK_BEFORE/None	
 QUEST_LV_0200_20150714_007985	Insertion du nouveau ticket/#SITGROPESET2/2/TRACK_BEFORE/None	신표를 끼워넣는 중/#SITGROPESET2/2/TRACK_BEFORE/None	QUEST_LV_0200_20150323_004304	Insertion de la marque divine../#SITGROPESET2/2/TRACK_BEFORE/None	신표를 끼워넣는 중../#SITGROPESET2/2/TRACK_BEFORE/None	
 QUEST_LV_0200_20150714_007986	Récupération de la potion/#SITGROPESET2/2/TRACK_BEFORE/None	약 회수 중/#SITGROPESET2/2/TRACK_BEFORE/None	QUEST_LV_0200_20150317_001873	Récupération du remède.../#SITGROPESET2/2/TRACK_BEFORE/None	약 회수 중../#SITGROPESET2/2/TRACK_BEFORE/None	
@@ -7984,7 +7984,7 @@ QUEST_LV_0200_20150714_007987	Examiner le dispositif mécanique	기계 장치 �
 QUEST_LV_0200_20150714_007988	La Situation du Disciple Laius	제자 라이어스의 사정				
 QUEST_LV_0200_20150714_007989	Je vais aider à la recherche si cela vous convient	나라도 괜찮다면 연구를 돕겠다고 한다				
 QUEST_LV_0200_20150714_007990	Le réconforter et partir	위로하고 자리를 떠난다				
-QUEST_LV_0200_20150714_007991	Combinaison/MAKING/1/TRACK_BEFORE/None	조합하는 중/MAKING/2/TRACK_BEFORE/None				
+QUEST_LV_0200_20150714_007991	Combinaison/MAKING/2/TRACK_BEFORE/None	조합하는 중/MAKING/2/TRACK_BEFORE/None				
 QUEST_LV_0200_20150714_007992	L'Héritage du Maître	스승이 남긴 것				
 QUEST_LV_0200_20150714_007993	Lui dire que vous allez rassembler de la vigueur	영기를 모아오겠다고 한다				
 QUEST_LV_0200_20150714_007994	Lui dire de le faire lui-même désormais	이제부터는 알아서 하라고 한다				
@@ -8022,7 +8022,7 @@ QUEST_LV_0200_20150714_008025	Paroles Échangées (1)	전하고 싶은 말(1)
 QUEST_LV_0200_20150714_008026	Paroles Échangées (2)	전하고 싶은 말(2)				
 QUEST_LV_0200_20150714_008027	J'ai parlé avec l'esprit errant	헤메는 영혼과 대화한 것을 말해준다				
 QUEST_LV_0200_20150714_008028	Partir maintenant	이만 자리를 떠난다				
-QUEST_LV_0200_20150714_008029	Annonce/!/Énergie funeste détectée !{nl}Retournez voir Kupole Vita et faites un rapport sur la situation#5	Notice/!/위험한 기운이 느껴집니다!{nl}큐폴 비타에게 돌아가서 상황을 전해주세요#5				
+QUEST_LV_0200_20150714_008029	Notice/!/Énergie funeste détectée !{nl}Retournez voir Kupole Vita et faites un rapport sur la situation#5	Notice/!/위험한 기운이 느껴집니다!{nl}큐폴 비타에게 돌아가서 상황을 전해주세요#5				
 QUEST_LV_0200_20150714_008030	Paroles Échangées (3)	전하고 싶은 말(3)				
 QUEST_LV_0200_20150714_008031	Allons détruire le pot	침묵의 항아리를 파괴하러 간다				
 QUEST_LV_0200_20150714_008032	Lui dire que vous renoncez, cela semble dangereux	위험해보이니 그만두겠다고 한다				
@@ -8040,13 +8040,13 @@ QUEST_LV_0200_20150714_008043	Lui dire de ne pas s'inquiéter	걱정말고 맡�
 QUEST_LV_0200_20150714_008044	Le Fil du Destin et l'Errance (1)	운명의 실타래, 그리고 방황(1)				
 QUEST_LV_0200_20150714_008045	Observation/LOOK/1/TRACK_BEFORE/None	관찰 중/LOOK/1/TRACK_BEFORE/None				
 QUEST_LV_0200_20150714_008046	Rassemblons les matériaux pour les estampages par ici	탁본 재료를 주위에서 구해 보자				
-QUEST_LV_0200_20150714_008047	Annonce/Des matériaux propres à un estampage ont été trouvés dans le sac de butin#5	Notice/전리품 주머니 안에서 탁본을 뜰 만한 적당한 재료들을 찾았습니다#5				
+QUEST_LV_0200_20150714_008047	Notice/Des matériaux propres à un estampage ont été trouvés dans le sac de butin#5	Notice/전리품 주머니 안에서 탁본을 뜰 만한 적당한 재료들을 찾았습니다#5				
 QUEST_LV_0200_20150714_008048	Le Fil du Destin et l'Errance (2)	운명의 실타래, 그리고 방황(2)				
 QUEST_LV_0200_20150714_008049	Réalisation d'un frottis/GROPE/2/TRACK_BEFORE/None	탁본 중/GROPE/2/TRACK_BEFORE/None	QUEST_LV_0100_20150714_007248	Faire un frottis	탁본 중	
 QUEST_LV_0200_20150714_008050	Les Remparts Plus Durables que le Royaume (1)	왕도보다 오래 가는 성벽(1)				
 QUEST_LV_0200_20150714_008051	Examen de pierre tombale/LOOK/2/TRACK_BEFORE/None	비석 살펴 보는 중/LOOK/2/TRACK_BEFORE/None				
-QUEST_LV_0200_20150714_008052	Annonce/!/C'est une attaque de monstres !{nl}Vainquez les monstres avant d'achever l'estampage !#5	Notice/!/몬스터들의 습격입니다!{nl}일단 몬스터를 물리쳐야 탁본이 가능할 것 같습니다!#5				
-QUEST_LV_0200_20150714_008053	Les Remparts Plus Durables que le Royaume (1)	왕도보다 오래 가는 성벽(2)				
+QUEST_LV_0200_20150714_008052	Notice/!/C'est une attaque de monstres !{nl}Vainquez les monstres avant d'achever l'estampage !#5	Notice/!/몬스터들의 습격입니다!{nl}일단 몬스터를 물리쳐야 탁본이 가능할 것 같습니다!#5				
+QUEST_LV_0200_20150714_008053	Les Remparts Plus Durables que le Royaume (2)	왕도보다 오래 가는 성벽(2)				
 QUEST_LV_0200_20150714_008054	Réalisation d'un frottis/GROPE/2/TRACK_BEFORE/None	탁본 뜨는 중/GROPE/2/TRACK_BEFORE/None	ETC_20150317_004846	Estampage	탁본 뜨는 중	
 QUEST_LV_0200_20150714_008055	Quelqu'un peut-il aider ?	도와 줄 사람?				
 QUEST_LV_0200_20150714_008056	Accepter la proposition	제안을 받아들인다				
@@ -8054,47 +8054,47 @@ QUEST_LV_0200_20150714_008057	Comment Manger un Kepa (1)	케파를 먹는 법(1)
 QUEST_LV_0200_20150714_008058	À propos du travail que vous faites ici	여기에서 하는 일에 대해				
 QUEST_LV_0200_20150714_008059	Comment Manger un Kepa (2)	케파를 먹는 법(2)				
 QUEST_LV_0200_20150714_008060	La Première Épitaphe (1)	첫 번째 비문(1)				
-QUEST_LV_0200_20150714_008061	Annonce/!/Quelque chose s'est solidifié dans le tas{nl}de terre{nl}Fabriquez un marteau avec les matériaux alentour !#7	Notice/!/흙더미 안에 무언가 들어있는 채로 단단하게 굳어있습니다{nl}주변 재료들을 활용하여 망치를 만드세요!#7				
-QUEST_LV_0200_20150714_008062	Annonce/!/Un marteau est requis pour briser le tas de terre !#5	Notice/!/흙더미를 깨려면 망치가 필요합니다!#5				
-QUEST_LV_0200_20150714_008063	Annonce/Une pierre tombale renversée apparaît sous le tas de terre !#5	Notice/흙더미를 파헤치자 뒤집어진 비석이 나타났습니다!#5				
+QUEST_LV_0200_20150714_008061	Notice/!/Quelque chose s'est solidifié dans le tas{nl}de terre{nl}Fabriquez un marteau avec les matériaux alentour !#7	Notice/!/흙더미 안에 무언가 들어있는 채로 단단하게 굳어있습니다{nl}주변 재료들을 활용하여 망치를 만드세요!#7				
+QUEST_LV_0200_20150714_008062	Notice/!/Un marteau est requis pour briser le tas de terre !#5	Notice/!/흙더미를 깨려면 망치가 필요합니다!#5				
+QUEST_LV_0200_20150714_008063	Notice/Une pierre tombale renversée apparaît sous le tas de terre !#5	Notice/흙더미를 파헤치자 뒤집어진 비석이 나타났습니다!#5				
 QUEST_LV_0200_20150714_008064	La Première Épitaphe (2)	첫 번째 비문(2)				
 QUEST_LV_0200_20150714_008065	Examen de la pierre tombale/LOOK/2/TRACK_BEFORE/None	비석을 살펴 보는 중/LOOK/2/TRACK_BEFORE/None				
-QUEST_LV_0200_20150714_008066	Annonce/!/L'épitaphe est face au sol{nl}Retournez la pierre tombale pour pouvoir{nl}la lire#5	Notice/!/비문이 적힌 부분이 땅을 향해 있습니다{nl}비석을 읽을 수 있도록 뒤집으세요#5				
+QUEST_LV_0200_20150714_008066	Notice/!/L'épitaphe est face au sol{nl}Retournez la pierre tombale pour pouvoir{nl}la lire#5	Notice/!/비문이 적힌 부분이 땅을 향해 있습니다{nl}비석을 읽을 수 있도록 뒤집으세요#5				
 QUEST_LV_0200_20150714_008067	Lecture de l'Épitaphe/SITREAD/3/TRACK_BEFORE/None	비문 읽기/SITREAD/3/TRACK_BEFORE/None				
 QUEST_LV_0200_20150714_008068	La Deuxième Épitaphe (1)	두 번째 비문(1)				
-QUEST_LV_0200_20150714_008069	Annonce/!/Tout sauf la base de la pierre tombale a été détruit{nl}Peut-être pouvez-vous trouver des fragments de pierre tombale sur{nl}les Minos alentour ?#5	Notice/!/비석은 밑둥만 남은 채 부숴져 있습니다{nl}주변의 미노스에게서 비석 조각을 찾을 수 있지 않을까요?#5				
-QUEST_LV_0200_20150714_008070	Annonce/!/Récupérez les fragments de la pierre tombale !#5	Notice/!/비석 조각을 찾아와야 합니다!#5				
-QUEST_LV_0200_20150714_008071	Annonce/!/La restauration semble difficile sans adhésifs{nl}Interrogez le forgeron de Klaipeda sur les adhésifs !#5	Notice/!/접착제 없이는 복원이 힘들 것 같습니다{nl}접착제에 대하여는 클라페다 대장장이에게 문의해 보세요!#5				
+QUEST_LV_0200_20150714_008069	Notice/!/Tout sauf la base de la pierre tombale a été détruit{nl}Peut-être pouvez-vous trouver des fragments de pierre tombale sur{nl}les Minos alentour ?#5	Notice/!/비석은 밑둥만 남은 채 부숴져 있습니다{nl}주변의 미노스에게서 비석 조각을 찾을 수 있지 않을까요?#5				
+QUEST_LV_0200_20150714_008070	Notice/!/Récupérez les fragments de la pierre tombale !#5	Notice/!/비석 조각을 찾아와야 합니다!#5				
+QUEST_LV_0200_20150714_008071	Notice/!/La restauration semble difficile sans adhésifs{nl}Interrogez le forgeron de Klaipeda sur les adhésifs !#5	Notice/!/접착제 없이는 복원이 힘들 것 같습니다{nl}접착제에 대하여는 클라페다 대장장이에게 문의해 보세요!#5				
 QUEST_LV_0200_20150714_008072	La Deuxième Épitaphe (2)	두 번째 비문(2)				
 QUEST_LV_0200_20150714_008073	La Deuxième Épitaphe (3)	두 번째 비문(3)				
 QUEST_LV_0200_20150714_008074	Lui dire que vous comprenez	이해했다고 한다				
 QUEST_LV_0200_20150714_008075	Lui dire que vous chercherez d'autres moyens	다른 방법을 찾겠다고 한다				
-QUEST_LV_0200_20150714_008076	Annonce/!/Fabriquez les adhésifs comme le conseille le forgeron#5	Notice/!/대장장이의 조언대로 접착제를 만드세요#5				
+QUEST_LV_0200_20150714_008076	Notice/!/Fabriquez les adhésifs comme le conseille le forgeron#5	Notice/!/대장장이의 조언대로 접착제를 만드세요#5				
 QUEST_LV_0200_20150714_008077	La Deuxième Épitaphe (4)	두 번째 비문(4)				
 QUEST_LV_0200_20150714_008078	Assemblage des fragments de pierre tombale/CAMPFIRE_LOOP/2/TRACK_BEFORE/None	비석을 붙이는 중/CAMPFIRE_LOOP/2/TRACK_BEFORE/None				
-QUEST_LV_0200_20150714_008079	Annonce/La pierre tombale a été restaurée avec succès !#5	Notice/비석을 성공적으로 복원하였습니다!#5				
+QUEST_LV_0200_20150714_008079	Notice/La pierre tombale a été restaurée avec succès !#5	Notice/비석을 성공적으로 복원하였습니다!#5				
 QUEST_LV_0200_20150714_008080	La Deuxième Épitaphe (5)	두 번째 비문(5)				
 QUEST_LV_0200_20150714_008081	Lecture de l'Épitaphe/READ/3/TRACK_BEFORE/None	비문을 읽는 중/READ/3/TRACK_BEFORE/None				
 QUEST_LV_0200_20150714_008082	La Troisième Épitaphe (1)	세 번째 비문(1)				
 QUEST_LV_0200_20150714_008083	Taillage des Lianes/GROPE/2/TRACK_BEFORE/None	덩굴을 헤쳐보는 중/GROPE/2/TRACK_BEFORE/None				
-QUEST_LV_0200_20150714_008084	Annonce/!/Vous vous êtes blessé les mains sur les{nl}lianes coriaces{nl}Cherchez plutôt un moyen de brûler les lianes#5	Notice/!/덩굴이 너무 억세 되려 손만 다쳤습니다{nl}차라리 덩굴을 태워버릴 방법을 찾아 보세요#5				
-QUEST_LV_0200_20150714_008085	Annonce/!/Évitez de manipuler les lianes à la légère avant de les brûler !#5	Notice/!/태우기 전에 함부로 만지지 마세요!#5				
+QUEST_LV_0200_20150714_008084	Notice/!/Vous vous êtes blessé les mains sur les{nl}lianes coriaces{nl}Cherchez plutôt un moyen de brûler les lianes#5	Notice/!/덩굴이 너무 억세 되려 손만 다쳤습니다{nl}차라리 덩굴을 태워버릴 방법을 찾아 보세요#5				
+QUEST_LV_0200_20150714_008085	Notice/!/Évitez de manipuler les lianes à la légère avant de les brûler !#5	Notice/!/태우기 전에 함부로 만지지 마세요!#5				
 QUEST_LV_0200_20150714_008086	La Troisième Épitaphe (2)	세 번째 비문(2)				
 QUEST_LV_0200_20150714_008087	Mettre le feu aux lianes/FIRE/3/TRACK_BEFORE/None	덩굴에 불 붙이는 중/FIRE/3/TRACK_BEFORE/None				
 QUEST_LV_0200_20150714_008088	Lecture de l'Épitaphe/READ/3/TRACK_AFTER/None	비문 읽는 중/READ/3/TRACK_AFTER/None				
 QUEST_LV_0200_20150714_008089	Interpréter l'Histoire de la Pierre Tombale	비석의 이야기를 알 만한 사람..?				
-QUEST_LV_0200_20150714_008090	Annonce/Il semble nécessaire de rassembler tout le contenu de{nl}l'épitaphe{nl}Interrogez les Ailes de Vaivora à Klaipeda#5	Notice/비석의 내용을 모아 둘 필요가 있어 보입니다{nl}클라페다의 바이보라의 날개를 찾아가서 물어 보세요#5				
+QUEST_LV_0200_20150714_008090	Notice/Il semble nécessaire de rassembler tout le contenu de{nl}l'épitaphe{nl}Interrogez les Ailes de Vaivora à Klaipeda#5	Notice/비석의 내용을 모아 둘 필요가 있어 보입니다{nl}클라페다의 바이보라의 날개를 찾아가서 물어 보세요#5				
 QUEST_LV_0200_20150714_008091	Une Autre Pierre Tombale (1)	또 다른 비석(1)				
 QUEST_LV_0200_20150714_008092	Aller à droite et tirer le levier	우측으로 가서 당겨 본다				
-QUEST_LV_0200_20150714_008093	Annonce/!/Allez à droite et tirez les leviers dans l'ordre#5	Notice/!/우측으로 가서 레버를 순서대로 당겨야 합니다#5				
-QUEST_LV_0200_20150714_008094	Annonce/!/Tirer le levier#5	Notice/!/레버를 당기세요#5				
+QUEST_LV_0200_20150714_008093	Notice/!/Allez à droite et tirez les leviers dans l'ordre#5	Notice/!/우측으로 가서 레버를 순서대로 당겨야 합니다#5				
+QUEST_LV_0200_20150714_008094	Notice/!/Tirer le levier#5	Notice/!/레버를 당기세요#5				
 QUEST_LV_0200_20150714_008095	Une Autre Pierre Tombale (2)	또 다른 비석(2)				
 QUEST_LV_0200_20150714_008096	L'Odeur de l'Huile	기름 냄새				
 QUEST_LV_0200_20150714_008097	La Seule Méthode	방법은 이것 뿐				
 QUEST_LV_0200_20150714_008098	À propos des recherches	연구하고 있는 것에 대해				
 QUEST_LV_0200_20150714_008099	Sceller la Tour de Pierre	돌탑 봉인				
 QUEST_LV_0200_20150714_008100	Déplacer	이동해 본다				
-QUEST_LV_0200_20150714_008101	Annonce/!/Il semble que vous ayez dérangé quelque chose qu'il fallait laisser tranquille !{nl}Vaincre l'Archon scellé !#10	Notice/!/건드려선 안될 것을 건드린 것 같습니다!{nl}봉인되어 있던 아콘을 처치하세요!#10				
+QUEST_LV_0200_20150714_008101	Notice/!/Il semble que vous ayez dérangé quelque chose qu'il fallait laisser tranquille !{nl}Vaincre l'Archon scellé !#10	Notice/!/건드려선 안될 것을 건드린 것 같습니다!{nl}봉인되어 있던 아콘을 처치하세요!#10				
 QUEST_LV_0200_20150714_008102	Demander s'il y a quelque chose à rechercher	탐색되는게 있냐고 묻는다.				
 QUEST_LV_0200_20150714_008103	Lui reparler plus tard	조금있다가 다시 말을 건다.	QUEST_LV_0200_20150317_001218	Ignorer	무시한다	
 QUEST_LV_0200_20150714_008104	Attirer l'Attention (1)	시선 끌기(1)				
@@ -8777,7 +8777,7 @@ QUEST_LV_0200_20150717_008780	Je vais chercher le noyau d'activation	구동핵�
 QUEST_LV_0200_20150717_008781	Je vais aller voir la déesse	여신에게 가겠다고 한다				
 QUEST_LV_0200_20150717_008782	Que ferez-vous si vous ne pouvez pas utiliser le sort ?	마력을 쓰지 못하는데 어떻게 할 건지 묻는다	QUEST_LV_0100_20150317_003116	Maintenant que vous avez perdu le sort, qu'allez-vous faire ? 	마력을 잃었는데 어떻게 할 건지 묻는다	
 QUEST_LV_0200_20150717_008783	Pourquoi le sort est inutilisable	마력을 못 쓰는 이유				
-QUEST_LV_0200_20150717_008784	Annonce/Lire la note de Hones !#5	Notice/호네스가 준 메모를 읽어보세요!#5				
+QUEST_LV_0200_20150717_008784	Notice/Lire la note de Hones !#5	Notice/호네스가 준 메모를 읽어보세요!#5				
 QUEST_LV_0200_20150717_008785	Encerclé par les Ennemis	사면초가				
 QUEST_LV_0200_20150717_008786	Reprendre le Camp (1)	주둔지 탈환(1)				
 QUEST_LV_0200_20150717_008787	Je vais l'apporter	데려오겠다고 한다				
@@ -8897,8 +8897,8 @@ QUEST_LV_0200_20150729_008900	Le sommet de la pierre tombale est détruit. Vous 
 QUEST_LV_0200_20150729_008901	Vaincre le Chaman Hallowventer qui réagit à la poudre de rouille que Justas vous a donnée et récolter le liquide bouillonnant.	유스타스가 준 녹 가루를 뿌려 반응을 보이는 할로우벤터 저주술사를 처치한 뒤 부글거리는 액체를 모으세요.	QUEST_LV_0100_20150714_007510	Vainquez Chaman Hallowventer en répandant les poudres de rouille que Justas vous a données et récoltez le liquide bouillonnant.	유스타스가 준 녹 가루를 뿌려 반응을 보이는 힐로우벤터 저주술시를 처치한 뒤 부글거리는 액체를 모으세요.	
 QUEST_LV_0200_20150729_008902	Jones dit qu'il lui faut de l'hydrophyte d'Acylado pour purifier l'eau. Obtenez de l'hydrophyte d'Acylado à la Marais de Daram ou dans la Zone inondée de Minia.	욘스는 물의 정수를 위해 아실라도 수초가 필요하다고 합니다. 다람 습지나 미니아 침수구역에서 아실라도 수초를 모으세요.	QUEST_LV_0200_20150714_008667	Jones dit qu'il lui faut de l'hydrophyte d'Acylado pour l'essence d'eau. Récoltez de l'hydrophyte d'Acylado à la Marais de la différence ou dans la Zone inondée de Minia.	욘스는 물의 정수를 위해 아실라도 수초가 필요하다고 합니다. 다름 습지나 미니아 침수구역에서 아실라도 수초를 모으세요.	
 QUEST_LV_0200_20150730_008903	Sanctuaire de vérité ou de mensonge ? (3)	거짓 또는 진실의 성소?(3)				
-QUEST_LV_0200_20150803_008904	Annonce/Assez de venin d'épine de Chafperor récolté. Récoltez maintenant le poison sur les arbres épineux.	Notice/체이퍼러의 가시독을 충분히 모았습니다. 이제 가시나무의 독을 모으세요.				
-QUEST_LV_0200_20150803_008905	Annonce/Assez de poison récolté sur les arbres épineux. Récoltez maintenant le venin de l'eau de source.	Notice/가시나무의 독을 충분히 모았습니다. 이제 샘에 고인 독을 모으세요.				
+QUEST_LV_0200_20150803_008904	Notice/Assez de venin d'épine de Chafperor récolté. Récoltez maintenant le poison sur les arbres épineux.	Notice/체이퍼러의 가시독을 충분히 모았습니다. 이제 가시나무의 독을 모으세요.				
+QUEST_LV_0200_20150803_008905	Notice/Assez de poison récolté sur les arbres épineux. Récoltez maintenant le venin de l'eau de source.	Notice/가시나무의 독을 충분히 모았습니다. 이제 샘에 고인 독을 모으세요.				
 QUEST_LV_0200_20150803_008906	Vaincre les Gobelins des Bois	공격해오는 우드고블린 처치	QUEST_LV_0200_20150317_002214	Vaincre les Keparaider qui attaquent	공격해오는 케파레이더 처치	
 QUEST_LV_0200_20150803_008907	Obtenir %s dans la boîte	상자에서 %s 구하기	QUEST_LV_0200_20150317_002897	Obtenir %s sur la pierre tombale	묘비에서 %s 구하기	
 QUEST_LV_0200_20150908_008908	Le Gobelin des bois rouge géant est furieux !	자이언트 레드 우드 고블린이 매우 화가 났습니다!				
@@ -9010,7 +9010,7 @@ QUEST_LV_0200_20150908_009013	Insérer la Relique Sacrée	신표를 끼워넣는
 QUEST_LV_0200_20150908_009014	Récupérer le remède	약 회수 중	QUEST_LV_0200_20150714_007986	Récupération de la potion/#SITGROPESET2/2/TRACK_BEFORE/None	약 회수 중/#SITGROPESET2/2/TRACK_BEFORE/None	
 QUEST_LV_0200_20150908_009015	Ouvrir la porte	문 여는 중	QUEST_LV_0200_20150323_004335	Ouverture de la porte//2/TRACK_BEFORE/None	문 여는 중//2/TRACK_BEFORE/None	
 QUEST_LV_0200_20150908_009016	Rassembler les corps des prêtres	사제의 시신 수습 중	QUEST_LV_0200_20150323_004343	Récupération des corps des disciples/SITGROPE/3/TRACK_BEFORE/None	사제의 시신 수습 중/SITGROPE/3/TRACK_BEFORE/None	
-QUEST_LV_0200_20150908_009017	Combinaison	조합하는 중	QUEST_LV_0200_20150714_007991	Combinaison/MAKING/1/TRACK_BEFORE/None	조합하는 중/MAKING/2/TRACK_BEFORE/None	
+QUEST_LV_0200_20150908_009017	Combinaison	조합하는 중	QUEST_LV_0200_20150714_007991	Combinaison/MAKING/2/TRACK_BEFORE/None	조합하는 중/MAKING/2/TRACK_BEFORE/None	
 QUEST_LV_0200_20150908_009018	Transmettre les mots de Laius	라이어스의 이야기를 전하는 중	QUEST_LV_0200_20150714_007999	Raconter l'histoire du disciple Laius/TALK/3/TRACK_BEFORE/None	라이어스의 이야기를 전하는 중/TALK/3/TRACK_BEFORE/None	
 QUEST_LV_0200_20150908_009019	Lui raconter ce qui s'est passé dernièrement	그 간의 일을 이야기하는 중	QUEST_LV_0200_20150714_008009	Récit des événements survenus entre-temps/TALK/3/TRACK_BEFORE/None	그 간의 일을 이야기하는 중/TALK/3/TRACK_BEFORE/None	
 QUEST_LV_0200_20150908_009020	Lire la note de Hones !	호네스가 준 메모를 읽어보세요!				

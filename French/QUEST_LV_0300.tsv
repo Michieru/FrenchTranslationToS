@@ -20,13 +20,13 @@ QUEST_LV_0300_20150717_000019	Réparer le Détecteur de Pétrification	탐지기
 QUEST_LV_0300_20150717_000020	Réparation/MAKING/3/TRACK_AFTER/None	수리 중/MAKING/3/TRACK_AFTER/None				
 QUEST_LV_0300_20150717_000021	Vérifier le Fonctionnement du Détecteur (5)	탐지기 작동 점검(5)				
 QUEST_LV_0300_20150717_000022	Réparation/MAKING/3/TRACK_BEFORE	수리 중/MAKING/3/TRACK_BEFORE/None				
-QUEST_LV_0300_20150717_000023	Annonce/!/L'une des pièces n'est pas bien fixée{nl}Il vous faudra quelque chose comme une ficelle pour{nl}l'attacher en place !#5	Notice/!/부품이 잘 고정되지 않습니다{nl}끈 같은 것이 필요할 것 같습니다!#5				
-QUEST_LV_0300_20150717_000024	Annonce/!/Vous devez trouver une ficelle.#5	Notice/!/끈을 구해와야 합니다#5				
+QUEST_LV_0300_20150717_000023	Notice/!/L'une des pièces n'est pas bien fixée{nl}Il vous faudra quelque chose comme une ficelle pour{nl}l'attacher en place !#5	Notice/!/부품이 잘 고정되지 않습니다{nl}끈 같은 것이 필요할 것 같습니다!#5				
+QUEST_LV_0300_20150717_000024	Notice/!/Vous devez trouver une ficelle.#5	Notice/!/끈을 구해와야 합니다#5				
 QUEST_LV_0300_20150717_000025	Pour Guider les Âmes	영혼의 인도를 위해				
 QUEST_LV_0300_20150717_000026	Vous pouvez souffler à présent	이제 안심해도 된다고 한다				
 QUEST_LV_0300_20150717_000027	Examen du Dispositif/LOOK/2/TRACK_BEFORE/None	장치를 살펴 보는 중/LOOK/2/TRACK_BEFORE/None				
-QUEST_LV_0300_20150717_000028	Annonce/!/Quand vous touchez le dispositif, vous avez l'impression que votre âme est aspirée !{nl}Vous vous sentez de plus en plus faible !	Notice/!/장치를 만지자 영혼이 빠져 나가는 기분입니다!{nl}점점 기운이 없어지고 있습니다!				
-QUEST_LV_0300_20150717_000029	Annonce/!/Vous vous sentez revigoré.#5	Notice/이제 기운을 차릴 수 있을 것 같습니다#5				
+QUEST_LV_0300_20150717_000028	Notice/!/Quand vous touchez le dispositif, vous avez l'impression que votre âme est aspirée !{nl}Vous vous sentez de plus en plus faible !	Notice/!/장치를 만지자 영혼이 빠져 나가는 기분입니다!{nl}점점 기운이 없어지고 있습니다!				
+QUEST_LV_0300_20150717_000029	Notice/!/Vous vous sentez revigoré.#5	Notice/이제 기운을 차릴 수 있을 것 같습니다#5				
 QUEST_LV_0300_20150717_000030	Son Unique Désir (1)	바라는 것은 오직(1)				
 QUEST_LV_0300_20150717_000031	À Propos de la Raison de Son Désir de Mort	죽음을 바라는 이유에 대해				
 QUEST_LV_0300_20150717_000032	Son Unique Désir (3)	바라는 것은 오직(3)				
@@ -35,10 +35,10 @@ QUEST_LV_0300_20150717_000034	Se Rendre Auprès du Maître Clerc	클레릭 마�
 QUEST_LV_0300_20150717_000035	Vous ne Pouvez Plus Travailler Ensemble	이제 협조할 수 없다				
 QUEST_LV_0300_20150717_000036	Détruire le Terminal (1)	단말기 파괴(1)				
 QUEST_LV_0300_20150717_000037	À Propos de l'Unité Centrale et du Terminal	본체와 단말기에 대해				
-QUEST_LV_0300_20150717_000038	Évitez les attaques des monstres et détruisez le terminal !#5	Notice/!/몬스터의 공격을 피해 단말기를 파괴하세요!#5				
+QUEST_LV_0300_20150717_000038	Notice/Évitez les attaques des monstres et détruisez le terminal !#5	Notice/!/몬스터의 공격을 피해 단말기를 파괴하세요!#5				
 QUEST_LV_0300_20150717_000039	Détruire le Terminal (2)	단말기 파괴(2)				
 QUEST_LV_0300_20150717_000040	Embrasement de la poudre explosive/FIRE/2/TRACK_BEFORE/None	폭약가루를 놓고 점화하는 중/FIRE/2/TRACK_BEFORE/None				
-QUEST_LV_0300_20150717_000041	Annonce/Le terminal a été détruit dans l'explosion !#5	Notice/단말기가 폭발하면서 사라졌습니다!#5				
+QUEST_LV_0300_20150717_000041	Notice/Le terminal a été détruit dans l'explosion !#5	Notice/단말기가 폭발하면서 사라졌습니다!#5				
 QUEST_LV_0300_20150717_000042	Détruire le Terminal (3)	단말기 파괴(3)				
 QUEST_LV_0300_20150717_000043	Et le Repos Éternel (1)	그리고 영원한 안식(1)				
 QUEST_LV_0300_20150717_000044	Si Vous Avez des Dernières Paroles	마지막으로 할 말이 있다면				
@@ -46,7 +46,7 @@ QUEST_LV_0300_20150717_000045	Et le Repos Éternel (2)	그리고 영원한 안�
 QUEST_LV_0300_20150717_000046	Placement de l'Orbe/MAKING/3/TRACK_BEFORE/None	오브를 설치 하는 중/MAKING/3/TRACK_BEFORE/None				
 QUEST_LV_0300_20150717_000047	Et le Repos Éternel (3)	그리고 영원한 안식(3)				
 QUEST_LV_0300_20150717_000048	Salutations	인사한다				
-QUEST_LV_0300_20150717_000049	Annonce/Il semble que le vœu de Svitrigaila ait été exaucé#5	Notice/쉬트리가일라가 원하는 것이 이루어 진 것 같습니다#5				
+QUEST_LV_0300_20150717_000049	Notice/Il semble que le vœu de Svitrigaila ait été exaucé#5	Notice/쉬트리가일라가 원하는 것이 이루어 진 것 같습니다#5				
 QUEST_LV_0300_20150717_000050	Examiner le Détecteur	탐지기 작동 점검				
 QUEST_LV_0300_20150717_000051	Parler à Kupole Meile	큐폴 메일레와 대화				
 QUEST_LV_0300_20150717_000052	Parler à la Kupole que vous avez sauvée du gel pétrifiant.	석화서리로부터 구해 준 큐폴과 대화해 보세요.				
@@ -146,7 +146,7 @@ QUEST_LV_0300_20150729_000145	Voyons si nous avons tous les détonateurs.	뇌관
 QUEST_LV_0300_20150729_000146	Vous êtes venu... mais il est déjà temps pour moi de partir.	와 주었군.. 이제 안녕일세.				쉬트리가일라
 QUEST_LV_0300_20150729_000147	Je me sens vidé.	기운이 빠진다. 기분은 좋군.				쉬트리가일라
 QUEST_LV_0300_20150729_000148	Oui. C'est cela. Donnez-le-moi.	그래. 그거야. 이리 줘.				쉬트리가일라
-QUEST_LV_0300_20150729_000149	Annonce/!/Quand vous touchez le dispositif, vous avez l'impression que votre âme se vide !{nl}Vous devez trouver quelqu'un capable de remédier à cette situation !	Notice/!/장치를 만지자 영혼이 빠져 나가는 기분입니다!{nl}이 상태를 풀어 줄 누군가를 찾아야 합니다!	QUEST_LV_0300_20150717_000028	Annonce/!/Quand vous touchez le dispositif, vous avez l'impression que votre âme est aspirée !{nl}Vous vous sentez de plus en plus faible !	Notice/!/장치를 만지자 영혼이 빠져 나가는 기분입니다!{nl}점점 기운이 없어지고 있습니다!	
+QUEST_LV_0300_20150729_000149	Notice/!/Quand vous touchez le dispositif, vous avez l'impression que votre âme se vide !{nl}Vous devez trouver quelqu'un capable de remédier à cette situation !	Notice/!/장치를 만지자 영혼이 빠져 나가는 기분입니다!{nl}이 상태를 풀어 줄 누군가를 찾아야 합니다!	QUEST_LV_0300_20150717_000028	Notice/!/Quand vous touchez le dispositif, vous avez l'impression que votre âme est aspirée !{nl}Vous vous sentez de plus en plus faible !	Notice/!/장치를 만지자 영혼이 빠져 나가는 기분입니다!{nl}점점 기운이 없어지고 있습니다!	
 QUEST_LV_0300_20150729_000150	Je coopérerai	협조 하겠다고 한다	QUEST_LV_0100_20150317_003015	Je vais le chercher. 	구해 오겠다고 한다	
 QUEST_LV_0300_20150729_000151	Le rapport entre le dispositif d'intégration des esprits et Svitrigaila	영혼 집약기와 쉬트리가일라의 관계	QUEST_LV_0300_20150717_000037	À Propos de l'Unité Centrale et du Terminal	본체와 단말기에 대해	
 QUEST_LV_0300_20150729_000152	Votre âme se vide peut-être, vous perdez progressivement énergie et endurance !! Hâtez-vous de chercher quelqu'un capable de remédier à cette situation !!	영혼이 빠져 나가고 있는 것인지, 점점 기운이 없어지면서 스태미나가 빠져 나가고 있습니다!! 어서 움직여서 이 상황을 풀어 줄 누군가를 찾아 보세요!!				
@@ -162,7 +162,7 @@ QUEST_LV_0300_20150803_000161	Ils ont peut-être été tués puisqu'ils ne donne
 QUEST_LV_0300_20150803_000162	Des troupes entières ont été tuées. Merci de votre aide. Il devrait y avoir une pièce dans les{nl}souvenirs.	지원 병력이 모두 당했군요. 수습해 주셔서 감사합니다.{nl}건네 주신 유품 중에.. 부품이 있을 겁니다.	QUEST_UNUSED_20150729_000308	Les forces de renfort ont toutes disparu... Quel dommage... Leurs esprits devront aussi être{nl}guidés...	지원 병력이 모두 당했군요.. 안타깝네요.. {nl}나중에 그들의 영혼도 인도해 주어야겠어요.	왕국군 레티아
 QUEST_LV_0300_20150803_000163	Vous devez passer à la réparation. Prenez garde au gel pétrifiant.	이제 수리하러 가셔야겠네요.{nl}석화 서리를 조심하세요.	QUEST_UNUSED_20150729_000310	Voilà les pièces. Vous devriez maintenant aller réparer les détecteurs. Prenez garde au gel{nl}pétrifiant.	그것이 그 부품들이군요.{nl}이제 수리하러 가셔야겠네요.{nl}석화 서리를 조심하세요.	큐폴 메일레
 QUEST_LV_0300_20150803_000164	De l'eau bénite ? Pour quoi faire ?	성수 말입니까?{nl}어디에 쓰시게요?	QUEST_LV_0300_20150729_000128	... ? Le gardien des âmes du Quartier de Dingofasil ? N'est-ce pas un démon ?	..?{nl}딩고파실 지구의 영혼 관리자?{nl}그 자는 마족 아닙니까?	클레릭 마스터
-QUEST_LV_0300_20150803_000165	Il y a un démon qui a besoin d'eau bénite au Quartier de Dingofasil ? ...	딩고파실 지구에서 성수를 필요로 하는 마족이 있다구요?{nl}..	QUEST_LV_0300_20150729_000129	Vous aidez un démon ? Je ne me mêlerai pas de vos affaires personnelles, mais en tant que{nl}maître au service de la déesse, je ne peux pas m'impliquer là-dedans. Quittez ce lieu, je vous{nl}prie.	계시자님이 마족의 일을 돕고 있다구요?{nl}개인적인 일들이야 관여하지 않겠습니다만, 여신을 섬기는 마스터로서 그 일에 협조할 수는 없습니다. 돌아가 주십시오.	클레릭 마스터
+QUEST_LV_0300_20150803_000165	Il y a un démon qui a besoin d'eau bénite au Quartier de Dingofasil ?...	딩고파실 지구에서 성수를 필요로 하는 마족이 있다구요?{nl}..	QUEST_LV_0300_20150729_000129	Vous aidez un démon ? Je ne me mêlerai pas de vos affaires personnelles, mais en tant que{nl}maître au service de la déesse, je ne peux pas m'impliquer là-dedans. Quittez ce lieu, je vous{nl}prie.	계시자님이 마족의 일을 돕고 있다구요?{nl}개인적인 일들이야 관여하지 않겠습니다만, 여신을 섬기는 마스터로서 그 일에 협조할 수는 없습니다. 돌아가 주십시오.	클레릭 마스터
 QUEST_LV_0300_20150803_000166	Je ne me mêlerai pas de vos affaires personnelles, mais je ne peux pas aider des démons en tant{nl}que clerc.	{nl}계시자님의 개인적인 일에는 관여하지 않겠습니다만, 성직자로서 마족의 일에 도움을 드릴 수는 없습니다.				클레릭 마스터
 QUEST_LV_0300_20150803_000167	C'est peut-être la seule solution... Détruire le dispositif d'intégration des esprits... Ceux qui m'ont{nl}envoyé ici m'ont dit que le dispositif d'intégration des esprits et moi ne faisons qu'un. {nl}{nl}Comment ai-je pu l'oublier ?	이제는 이 방법 뿐인가..{nl}이 곳에 있는 영혼 집약기를 파괴 해 보는 것..{nl}나를 여기 보낸 이들이 말했지.{nl}나와 영혼 집약기는 하나라고. 왜 그 말을 지금껏 잊고 있었을까.	QUEST_LV_0300_20150729_000132	Si on en arrive là, je suppose que je vais devoir essayer cette méthode maintenant. Détruire le{nl}Compacteur d'âmes qui est ici... Les êtres qui m'ont envoyé ici me l'ont dit. Le Compacteur{nl}d'âmes et moi ne faisons qu'un. Pourquoi ne m'en suis-je pas souvenu jusqu'à maintenant ?	이렇게 되면 이제는 그 방법을 시도 해 봐야겠는걸.{nl}이 곳에 있는 영혼 집약기를 파괴 하는 것..{nl}나를 여기 보낸 이들이 말했지.{nl}나와 영혼 집약기는 하나라고. 왜 그 말을 지금껏 잊고 있었을까.	쉬트리가일라
 QUEST_LV_0300_20150803_000168	Le dispositif d'intégration des esprits absorbe les âmes de 3 terminaux. La malédiction de tout à{nl}l'heure était le processus d'absorption des âmes. Détruisons les terminaux un par un.	영혼 집약기는 3개의 단말기로부터도 영혼을 흡수하지.{nl}조금 전의 그 저주도 단말기가 영혼을 흡수하는 과정이었어.{nl}일단 그 단말기들을 차례로 파괴해 보도록 하세.	QUEST_LV_0300_20150729_000135	Le Compacteur d'âmes a 3 terminaux dont il absorbe les âmes. Ce mauvais pressentiment que{nl}vous avez eu tout à l'heure était aussi un terminal qui tentait d'absorber votre âme. Pour{nl}l'instant, essayez d'anéantir ces terminaux.	영혼 집약기는 3개의 단말기로부터도 영혼을 흡수하지.{nl}조금 전의 네가 느꼈던 그 나쁜 기운도 단말기가 영혼을 흡수하는 과정이었어.{nl}일단 그 단말기들을 차례로 없애 보도록 하세.	쉬트리가일라
@@ -177,7 +177,7 @@ QUEST_LV_0300_20150803_000176	Les démons et les déesses, et à propos de la ci
 QUEST_LV_0300_20150803_000177	La raison pour laquelle les déesses n'ont pas pu sauver la cité pétrifiée	여신들이 석화도시를 구하지 못한 이유	QUEST_LV_0300_20150717_000015	Démons, Déesses et la Cité Pétrifiée (2)	마족과 여신들, 그리고 석화된 도시(2)	
 QUEST_LV_0300_20150803_000178	Transmettre les mots de gratitude	감사의 말을 전한다				
 QUEST_LV_0300_20150803_000179	Vérifier le Fonctionnement du Détecteur (6)	탐지기 작동 점검(6)				
-QUEST_LV_0300_20150803_000180	Annonce/La malédiction a été levée#5	Notice/저주가 풀렸습니다#5	QUEST_LV_0300_20150717_000029	Annonce/!/Vous vous sentez revigoré.#5	Notice/이제 기운을 차릴 수 있을 것 같습니다#5	
+QUEST_LV_0300_20150803_000180	Notice/La malédiction a été levée#5	Notice/저주가 풀렸습니다#5	QUEST_LV_0300_20150717_000029	Notice/!/Vous vous sentez revigoré.#5	Notice/이제 기운을 차릴 수 있을 것 같습니다#5	
 QUEST_LV_0300_20150803_000181	Récolter les cadavres des gardes	병사들의 시신 수습하기	QUEST_LV_0300_20150717_000061	Trouver une pièce pour le détecteur de pétrification	석화 탐지기 부품 구하기	
 QUEST_LV_0300_20150803_000182	Selon les paroles de Retia, garde de l'armée royale, cherchons les autres gardes qui avaient été {nl}dépêchés à la Forteresse côtière. S'il leur est arrivé malheur, récupérez leurs souvenirs, je vous prie. {nl}Les monstres les ont peut-être pris, ce serait donc une bonne idée de chasser les monstres{nl}de la Forteresse côtière.	왕국군 레티아의 말에 따라, 연안요새로 파견 나간 병사들을 찾아 봅시다. 혹시라도 그들이 사고를 당했다면 시신의 유품을 수습해 오세요. 몬스터들이 약탈해 갔을 지도 모르니 연안 요새의 몬스터들을 사냥 해 보는 것도 좋습니다.	QUEST_LV_0300_20150717_000062	Écoutez Retia, garde de l'armée royale, et cherchez les soldats qui ont été dépêchés à la Forteresse côtière. S'il leur est arrivé quelque chose, vous devrez récupérer la pièce du détecteur sur leurs corps. Essayez aussi de chasser les monstres de la zone.	왕국군 레티아의 말에 따라, 연안요새로 파견 나간 병사들을 찾아 봅시다. 혹시라도 그들이 사고를 당했다면 시신에서라도 부품을 얻어야 할 것입니다. 또는 그 주변의 몬스터들도 사냥 해 봅시다.	
 QUEST_LV_0300_20150803_000183	Retourner Voir le Garde de l'Armée Royale Retia	왕국군 레티아에게 돌아가기	QUEST_LV_0300_20150717_000063	Rencontrer Kupole Meile	큐폴 메일레 만나기	
@@ -247,7 +247,7 @@ QUEST_LV_0300_20151001_000246	Ainsi rien ne se passe comme prévu. Si c'est le c
 QUEST_LV_0300_20151001_000247	Apportez l'eau bénite de celui qui suit l'appel des déesses, je vous prie. Ce pouvoir sacré me{nl}mènera à la mort.	여신의 부름을 따르는 이에게 성수를 얻어 다오.{nl}그 신성한 힘이라면 좋든 나쁘든 날 죽음으로 이끌어 줄 수 있을 것이다.	QUEST_LV_0300_20150729_000126	Le Maître Clerc ! Allez le voir et procurez-vous de l'eau bénite.	클레릭 마스터!{nl}그에게로 가서 성수를 얻어와 주게.	마족 쉬트리가일라
 QUEST_LV_0300_20151001_000248	J'ai entendu dire que le Maître Clerc s'occupe de l'eau bénite. Je ne sais pas s'il m'en donnera.	클레릭 마스터라는 자가 그 성수를 다룬다고 들었다.{nl}마족인 날 위해 쉬이 내줄 수 있을지.	QUEST_LV_0300_20150729_000127	Faites bon voyage jusqu'à Klaipeda.	클라페다까지 무사하길.	마족 쉬트리가일라
 QUEST_LV_0300_20151001_000249	Parlez-vous d'eau bénite ? Je suis désolé, mais puis-je vous demander où vous comptez l'utiliser.	성수 말입니까?{nl}죄송하지만, 어디에 쓰실 것인지 여쭈어 봐도 되겠습니까.	QUEST_LV_0300_20150803_000164	De l'eau bénite ? Pour quoi faire ?	성수 말입니까?{nl}어디에 쓰시게요?	클레릭 마스터
-QUEST_LV_0300_20151001_000250	Il y a des démons qui ont besoin de l'eau bénite ? Je suis désolé, mais je ne peux pas vous aider.{nl}	성수를 필요로 하는 마족이 있다고요?{nl}죄송하지만, 도와드릴 수 없습니다.{nl}	QUEST_LV_0300_20150803_000165	Il y a un démon qui a besoin d'eau bénite au Quartier de Dingofasil ? ...	딩고파실 지구에서 성수를 필요로 하는 마족이 있다구요?{nl}..	클레릭 마스터
+QUEST_LV_0300_20151001_000250	Il y a des démons qui ont besoin de l'eau bénite ? Je suis désolé, mais je ne peux pas vous aider.{nl}	성수를 필요로 하는 마족이 있다고요?{nl}죄송하지만, 도와드릴 수 없습니다.{nl}	QUEST_LV_0300_20150803_000165	Il y a un démon qui a besoin d'eau bénite au Quartier de Dingofasil ?...	딩고파실 지구에서 성수를 필요로 하는 마족이 있다구요?{nl}..	클레릭 마스터
 QUEST_LV_0300_20151001_000251	Je ne me mêlerai pas de votre affaire personnelle. Quelles qu'en soient les raisons, je ne peux pas{nl}servir les affaires des démons en tant que prêtre.	계시자님의 개인적인 일애는 관여하지 않겠습니다만.{nl}어떤 이유이건, 성직자로서 마족의 일에 도움을 드릴 순 없습니다.	QUEST_LV_0300_20150803_000166	Je ne me mêlerai pas de vos affaires personnelles, mais je ne peux pas aider des démons en tant{nl}que clerc.	{nl}계시자님의 개인적인 일에는 관여하지 않겠습니다만, 성직자로서 마족의 일에 도움을 드릴 수는 없습니다.	클레릭 마스터
 QUEST_LV_0300_20151001_000252	En tant que prêtre, je ne peux pas coopérer aux tâches des démons. J'espère que vous le{nl}comprenez aussi.	성직자로서 마족의 일에는 앞으로도 절대 협조할 수 없습니다.{nl}계시자께서도 부디 이해해 주시길 바라겠습니다.	QUEST_LV_0300_20150729_000130	Je ne me mêlerai jamais de l'œuvre d'un démon.	마족의 일에는 앞으로도 협조하지 않을 것입니다.	클레릭 마스터
 QUEST_LV_0300_20151001_000253	Alors... c'est cela. Peut-être en sommes-nous venus à attendre ce qu'il ne fallait pas attendre.	과연.. 그렇군.{nl}괜한 기대를 한 것인가.	QUEST_LV_0300_20150729_000131	Je vois... J'aurais dû m'y attendre... J'étais fou d'espérer autre chose.	과연.. 그러했군..{nl}괜한 기대를 한 것인가.	마족 쉬트리가일라
@@ -3593,7 +3593,7 @@ QUEST_LV_0300_20160811_003592	Merci. Je dois maintenant trouver un moyen de supp
 QUEST_LV_0300_20160811_003593	Ne vacillez pas devant les fausses croyances. Dans notre monde si déroutant, nous devons suivre{nl}la volonté de l'Arbre divin.	잘못된 믿음에 흔들리지 마십시오.{nl}이 혼란한 세상을 되돌리기 위해, 우리와 함께 신수의 의지를 따릅시다.				신도 브루투스
 QUEST_LV_0300_20160811_003594	Le monde ne sait pas comment vénérer les divines déesses. L'Arbre de Vérité peut vous montrer{nl}la voie.	여신들은 신성한 존재이지만 세상에 퍼져 있는 신앙은 잘못되어 있습니다.{nl}진리의 나무 교단과 함께하세요.				신도 브루투스
 QUEST_LV_0300_20160811_003595	Salutations. Nous sommes l'Ordre de l'Arbre de Vérité.{nl}	안녕하십니까.{nl}저희는 진리의 나무 교단입니다.{nl}				신도 브루투스
-QUEST_LV_0300_20160811_003596	Nous chassons les faux croyants... ... et propageons la vraie foi dans ce monastère.{nl}	잘못된 믿음을 가진 이들을 몰아내고.. {nl}메이번 대수도원에서 참된 신앙을 전파중이지요.{nl}				신도 브루투스
+QUEST_LV_0300_20160811_003596	Nous chassons les faux croyants...... et propageons la vraie foi dans ce monastère.{nl}	잘못된 믿음을 가진 이들을 몰아내고.. {nl}메이번 대수도원에서 참된 신앙을 전파중이지요.{nl}				신도 브루투스
 QUEST_LV_0300_20160811_003597	Nous sommes venus protéger des monstres les pèlerins qui arrivent. Mais il semble qu'une{nl}maladie contagieuse ait touché les environs.{nl}	순례자들을 몬스터로부터 안전하게 수도원까지 모셔오려고 나왔습니다만.{nl}여기엔 돌림병이 도는 것 같군요.{nl}				신도 브루투스
 QUEST_LV_0300_20160811_003598	Si la vraie foi vous intéresse vous aussi... Ne voudriez-vous pas nous aider à soigner les pèlerins{nl}qui souffrent de cette maladie ?	여행자님께서도 참된 신앙에 관심이 있으시다면..{nl}부디 저희들과 함께 병에 시달리는 순례자들을 돕지 않겠습니까.				신도 브루투스
 QUEST_LV_0300_20160811_003599	Oh, vraiment ? Je vais préparer un remède dans ce cas. Vous pouvez accompagner le fidèle Clark{nl}et aider les pèlerins dans le besoin.{nl}	아, 그렇습니까?{nl}그렇다면 저는 약을 더 준비해 놓을 테니 클라크 신도님과 함께 병에 걸린 순례자에게 가 주세요.{nl}				신도 브루투스
@@ -4955,7 +4955,7 @@ QUEST_LV_0300_20161005_004954	Maintenant cessez de traîner et allez alimenter l
 QUEST_LV_0300_20161005_004955	Je n'ai aucun souvenir de l'endroit où sont tous les joyaux ni de l'emplacement de la révélation..{nl}Peut-être que mon autre fragment d'âme aurait cette information.{nl}	그런데 다른 보석들의 위치나 계시가 숨겨진 곳은 기억이 안나..{nl}아마 다른 영혼이 알고 있을 거야.{nl}	QUEST_LV_0300_20160811_003258	Je n'ai aucun souvenir de l'endroit où sont tous les joyaux ni de l'emplacement de la révélation..{nl}Peut-être que mon autre fragment d'âme aurait cette information.{nl}	그런데 다른 보석들의 위치라던가 계시가 숨겨진 곳은 기억이 안나..{nl}아마 다른 영혼이 알고 있을 거야.{nl}	자나스의 영혼
 QUEST_LV_0300_20161005_004956	Soit activer des dispositifs secrets pour attaquer les démons... Soit détruire les dispositifs ou{nl}cercles magiques démoniaques. Faites comme bon vous semble.{nl}	비밀 장치들을 작동해서 마족을 공격하든지.. {nl}마족의 장치나 마법진 같은 것을 전부 파괴하던지 네가 할 수 있는 일을 해줘.{nl}	QUEST_LV_0300_20160811_003390	Soit activer des dispositifs secrets pour attaquer les démons... Soit détruire les dispositifs ou{nl}cercles magiques démoniaques. Faites comme bon vous semble.{nl}	비밀 장치들을 작동해서 마족을 공격하던지.. {nl}마족의 장치나 마법진 같은 것을 전부 파괴하던지 네가 할 수 있는 일을 해줘.{nl}	자나스의 영혼
 QUEST_LV_0300_20161005_004957	Hein ? Un humain... ici ?{nl}	어? {nl}이런 곳에 사람이..{nl}				큐폴 요레
-QUEST_LV_0300_20161005_004958	Êtes-vous... ...le Révélateur ?	혹시.. {nl}계시자?				큐폴 요레
+QUEST_LV_0300_20161005_004958	Êtes-vous......le Révélateur ?	혹시.. {nl}계시자?				큐폴 요레
 QUEST_LV_0300_20161005_004959	{nl}C'est vous ! Les autres Kupole et moi avons toutes entendu parler de vous.	{nl}맞군요! {nl}당신의 이야기는 저희 큐폴들도 많이 듣고 있답니다.				큐폴 요레
 QUEST_LV_0300_20161005_004960	J'enquête sur le rempart à triple couche avec les autres Kupole.{nl}	저는 다른 큐폴들과 함께 삼중성벽을 조사하고 있어요.{nl}				큐폴 요레
 QUEST_LV_0300_20161005_004961	Le mur a été bâti il y a un millénaire après la prédiction de la Déesse Laima. Nous ne savions pas{nl}alors ce que cela signifiait...{nl}	이 삼중성벽은 천년 쯤 전에 라이마 여신의 예언에 따라 지어졌어요.{nl}그때는 그 의미를 몰랐지만..{nl}				큐폴 요레
@@ -5290,7 +5290,7 @@ QUEST_LV_0300_20161005_005289	{nl}Je ne peux pas être malade... J'ai été si p
 QUEST_LV_0300_20161005_005290	{nl}Non !	{nl}아니야!				오스카라스
 QUEST_LV_0300_20161005_005291	Soupir... Je dois me calmer...	후.. {nl}일단 진정하고..				오스카라스
 QUEST_LV_0300_20161005_005292	{nl}Un instant... Soupir...	{nl}잠시만요..후..				오스카라스
-QUEST_LV_0300_20161005_005293	{nl}Avez-vous... ... fait sentir la fougère Phamer au Bunkeybo ?	{nl}그..{nl}다롱이에게 파마르 고사리 냄새를 맡게 하셨죠?				오스카라스
+QUEST_LV_0300_20161005_005293	{nl}Avez-vous...... fait sentir la fougère Phamer au Bunkeybo ?	{nl}그..{nl}다롱이에게 파마르 고사리 냄새를 맡게 하셨죠?				오스카라스
 QUEST_LV_0300_20161005_005294	{nl}La dernière fois que j'ai fait le test il n'y a eu aucune réaction, mais cette fois la maladie s'est{nl}manifestée. Il semble que les substances qui provoquent la maladie se trouvent dans une partie{nl}de la braken de Phamer.	{nl}예전엔 아무런 반응이 없었는데 이번에 먹였을 때는 병이 발병했습니다.{nl}아무래도 파마르 고사리 중에 병의 원인 물질을 가지고 있는 고사리가 있는 것 같습니다.				오스카라스
 QUEST_LV_0300_20161005_005295	{nl}Je voudrais que vous m'apportiez toutes les fougères Phamer que vous pourrez, à tous les stades{nl}de développement.	{nl}다 자란 것이든 덜 자란 것이든 파마르 고사리는 전부 가져와 주십시오.				오스카라스
 QUEST_LV_0300_20161005_005296	Je compte séparer la braken en spécimens plus jeunes et en spécimens plus développés pour les{nl}tester. Je suis vraiment content d'avoir quelqu'un ici pour m'aider.	다 자란 파마르 고사리와 덜 자란 파마르 고사리를 분류해서 조사를 할 거에요.{nl}그래도 이렇게 도와주는 분이 계셔서 다행입니다.				오스카라스
@@ -6732,7 +6732,7 @@ QUEST_LV_0300_20161005_006731	Course à la Trace (7)	흔적 쟁탈전(7)
 QUEST_LV_0300_20161005_006732	La Vraie Nature de la Trace (1)	흔적의 정체(1)				
 QUEST_LV_0300_20161005_006733	Je reviendrai vers vous dès que j'aurai trouvé quelque chose.	조사하고 오겠다고 한다				
 QUEST_LV_0300_20161005_006734	Assez ! J'en ai assez.	이젠 알아서 하라고 한다				
-QUEST_LV_0300_20161005_006735	La Vraie Nature de la Trace (1)	흔적의 정체(2)				
+QUEST_LV_0300_20161005_006735	La Vraie Nature de la Trace (2)	흔적의 정체(2)				
 QUEST_LV_0300_20161005_006736	Quelle est la corrélation entre l'autel et la trace ?	제단과 흔적의 연관성에 대해 묻는다				
 QUEST_LV_0300_20161005_006737	Installation de l'Alarme (1)	경보기 설치(1)				
 QUEST_LV_0300_20161005_006738	C'est ici que nos chemins se séparent.	그만 안녕을 고한다				
@@ -6813,7 +6813,7 @@ QUEST_LV_0300_20161005_006812	Le Danger qui Rôde dans la Forêt (7)	숲 속에 
 QUEST_LV_0300_20161005_006813	Le Danger qui Rôde dans la Forêt (8)	숲 속에 숨어있는 위험(8)				
 QUEST_LV_0300_20161005_006814	Comment prépare-t-on le remède ?	약 제조법에 대해 묻는다				
 QUEST_LV_0300_20161005_006815	Eh bien, vous êtes seul.	알아서 만들라고 한다				
-QUEST_LV_0300_20161005_006816	Le Danger qui Rôde dans la Forêt (1)	숲 속에 숨어있는 위험(9)				
+QUEST_LV_0300_20161005_006816	Le Danger qui Rôde dans la Forêt (9)	숲 속에 숨어있는 위험(9)				
 QUEST_LV_0300_20161005_006817	Livrer le remède à Oscaras.	치료제를 오스카라스에게 전달한다				
 QUEST_LV_0300_20161005_006818	Le remède n'est pas encore prêt.	치료제가 아직 준비가 안됐다고 한다				
 QUEST_LV_0300_20161005_006819	Ah, un Échantillon Frais [Avancement Nécromancien]	새로운 연구에 필요한 재료[네크로맨서 전직]				

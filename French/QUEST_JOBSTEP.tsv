@@ -837,8 +837,8 @@ QUEST_JOBSTEP_20150317_000836	Je n'en suis pas si sûr	자신 없다고 한다
 QUEST_JOBSTEP_20150317_000837	Conscience Coupable [Avancement Sapeur] (1)	도둑이 제 발 저린다[새퍼 전직](1)				
 QUEST_JOBSTEP_20150317_000838	Je remettrai l'objet en son nom	대신 물건을 돌려 주겠다고 한다				
 QUEST_JOBSTEP_20150317_000839	Conscience Coupable [Avancement Sapeur] (2)	도둑이 제 발 저린다[새퍼 전직](2)				
-QUEST_JOBSTEP_20150317_000840	Annonce/Livrez les affaires du Maître Sapeur aux habitants de Klaipeda ! #10	Notice/클라페다 사람들에게 새퍼 마스터의 물건을 전하세요!#10				
-QUEST_JOBSTEP_20150317_000841	Annonce/Rassemblez des dons et remettez-les au Maître Clerc !#7	Notice/성금을 모아 클레릭 마스터에게 전달!#7				
+QUEST_JOBSTEP_20150317_000840	Notice/Livrez les affaires du Maître Sapeur aux habitants de Klaipeda !#10	Notice/클라페다 사람들에게 새퍼 마스터의 물건을 전하세요!#10				
+QUEST_JOBSTEP_20150317_000841	Notice/Rassemblez des dons et remettez-les au Maître Clerc !#7	Notice/성금을 모아 클레릭 마스터에게 전달!#7				
 QUEST_JOBSTEP_20150317_000842	Conscience Coupable [Avancement Sapeur] (3)	도둑이 제 발 저린다[새퍼 전직](3)				
 QUEST_JOBSTEP_20150317_000843	Conscience Coupable [Avancement Sapeur] (4)	도둑이 제 발 저린다[새퍼 전직](4)				
 QUEST_JOBSTEP_20150317_000844	Le Livre de Rêve d'un Archer [Avancement Chasseur] (1)	활이 꿈꾸는 책1[헌터 전직](1)				
@@ -881,7 +881,7 @@ QUEST_JOBSTEP_20150317_000880	Je vais aller rencontrer Uska, le chef des chevali
 QUEST_JOBSTEP_20150317_000881	Devoir du Serment [Avancement Peltaste] (2)	맹약에 대한 도리[펠타스타 전직](2)				
 QUEST_JOBSTEP_20150317_000882	Je vais rechercher l'escouade de reconnaissance	정찰부대를 찾아보겠다 한다				
 QUEST_JOBSTEP_20150317_000883	Devoir du Serment [Avancement Peltaste] (3)	맹약에 대한 도리[펠타스타 전직](3)				
-QUEST_JOBSTEP_20150317_000884	Annonce/Recherchons l'escouade de reconnaissance en suivant les traces !#5	Notice/흔적을 따라 정찰부대를 찾자!#5				
+QUEST_JOBSTEP_20150317_000884	Notice/Recherchons l'escouade de reconnaissance en suivant les traces !#5	Notice/흔적을 따라 정찰부대를 찾자!#5				
 QUEST_JOBSTEP_20150317_000885	Devoir du Serment [Avancement Peltaste] (4)	맹약에 대한 도리[펠타스타 전직](4)				
 QUEST_JOBSTEP_20150317_000886	Essence du Feu [Avancement Pyromancien]	불의 정수[파이로맨서 전직]				
 QUEST_JOBSTEP_20150317_000887	Je vais récolter les énergies du feu pour toi	불의 기운을 모아 오겠다고 한다				
@@ -903,7 +903,7 @@ QUEST_JOBSTEP_20150317_000902	Je vais utiliser le parchemin pour collecter des d
 QUEST_JOBSTEP_20150317_000903	Eau bénite parfaite [Avancement Clerc] (1)	완벽한 성수[클레릭 전직](1)				
 QUEST_JOBSTEP_20150317_000904	Je vais soigner les patients	환자를 치료하겠다고 한다				
 QUEST_JOBSTEP_20150317_000905	Eau bénite parfaite [Avancement Clerc] (2)	완벽한 성수[클레릭 전직](2)				
-QUEST_JOBSTEP_20150317_000906	Annonce/Soignons les patients du Village des mineurs de Siauliai !#5	Notice/샤울레이 광산 마을의 환자를 치료하자!#5				
+QUEST_JOBSTEP_20150317_000906	Notice/Soignons les patients du Village des mineurs de Siauliai !#5	Notice/샤울레이 광산 마을의 환자를 치료하자!#5				
 QUEST_JOBSTEP_20150317_000907	La Chance des Fers de Lance [Avancement Hoplite]	창날 위에 선 행운[하플라이트 전직]				
 QUEST_JOBSTEP_20150317_000908	Je suis d'accord	동의한다고 한다				
 QUEST_JOBSTEP_20150317_000909	Je ne suis pas d'accord	동의하지 않는다고 한다				
@@ -939,11 +939,11 @@ QUEST_JOBSTEP_20150317_000938	Trouver le Modèl'[Avancement Dievdirbys] (3)	모�
 QUEST_JOBSTEP_20150317_000939	Allons attraper un chat	고양이를 잡으러 가자				
 QUEST_JOBSTEP_20150317_000940	Reposons-nous avant d'attraper le chat.	조금 쉬었다가 잡으러 가자				
 QUEST_JOBSTEP_20150317_000941	Appâtage/#SITGROPESET2/2/TRACK_BEFORE/None	유인 중/#SITGROPESET2/2/TRACK_BEFORE/None				
-QUEST_JOBSTEP_20150317_000942	Annonce/Le chat manifeste de l'intérêt !	Notice/고양이가 관심을 보입니다!				
+QUEST_JOBSTEP_20150317_000942	Notice/Le chat manifeste de l'intérêt !	Notice/고양이가 관심을 보입니다!				
 QUEST_JOBSTEP_20150317_000943	Là Où Brille le Soleil [Avancement Pyromancien] (1)	태양이 비출 자리[파이로맨서 전직](1)				
 QUEST_JOBSTEP_20150317_000944	Je vais le faire	하겠다고 한다				
 QUEST_JOBSTEP_20150317_000945	Là Où Brille le Soleil [Avancement Pyromancien] (2)	태양이 비출 자리[파이로맨서 전직](2)				
-QUEST_JOBSTEP_20150317_000946	Annonce/Placez le Pot du Soleil au centre de la salle de lecture !#8	Notice/열람실 중앙에 태양의 항아리를 잘 놓아두세요!#8				
+QUEST_JOBSTEP_20150317_000946	Notice/Placez le Pot du Soleil au centre de la salle de lecture !#8	Notice/열람실 중앙에 태양의 항아리를 잘 놓아두세요!#8				
 QUEST_JOBSTEP_20150317_000947	Le Mystère du Fer Froid [Avancement Cryomancien]	한철의 신비[크리오맨서 전직]				
 QUEST_JOBSTEP_20150317_000948	J'accepte les conditions	조건을 수락한다				
 QUEST_JOBSTEP_20150317_000949	Gardien de Fedimian [Avancement Mage] (1)	페디미안의 수호자[위저드 전직](1)				
@@ -1107,7 +1107,7 @@ QUEST_JOBSTEP_20150317_001106	Je reviendrai plus tard	나중에 다시 찾아오
 QUEST_JOBSTEP_20150317_001107	Question Académique [Avancement Pyromancien]	학구적 질문 [파이로맨서 전직]				
 QUEST_JOBSTEP_20150317_001108	Je reviendrai la prochaine fois	다음에 다시 찾아오겠다고 한다				
 QUEST_JOBSTEP_20150317_001109	Vol Historique [Avancement Cryomancien]	사적 절취 [크리오맨서 전직]				
-QUEST_JOBSTEP_20150317_001110	Avis/Coffre Vide	Notice/빈 상자				
+QUEST_JOBSTEP_20150317_001110	Notice/Coffre Vide	Notice/빈 상자				
 QUEST_JOBSTEP_20150317_001111	La Voie du Guérisseur [Avancement Clerc] (1)	치유사의 길[클레릭 전직](1)				
 QUEST_JOBSTEP_20150317_001112	Je vais aller voir le Maître Centurion	센츄리온 마스터에게 가 보겠다고 한다				
 QUEST_JOBSTEP_20150317_001113	C'est trop loin	너무 멀다고 한다				
@@ -1149,10 +1149,10 @@ QUEST_JOBSTEP_20150317_001148	Pour l'Église [Avancement Paladin]	성전을 위�
 QUEST_JOBSTEP_20150317_001149	Accepter le duel contre le maître	마스터와의 대련에 응한다				
 QUEST_JOBSTEP_20150317_001150	Entraîner le Corps et l'Esprit [Avancement Moine]	심신 단련[몽크 전직]				
 QUEST_JOBSTEP_20150317_001151	La Grâce de la Richesse [Avancement Pardonneur] (1)	재물에도 은혜를[파드너 전직](1)				
-QUEST_JOBSTEP_20150317_001152	La Grâce de la Richesse [Avancement Pardonneur] (2)	재물에도 은혜를[파드너 전직](3)				
+QUEST_JOBSTEP_20150317_001152	La Grâce de la Richesse [Avancement Pardonneur] (3)	재물에도 은혜를[파드너 전직](3)				
 QUEST_JOBSTEP_20150317_001153	Je vais vaincre Mothstem	모스템을 처치하러 가겠다고 한다				
 QUEST_JOBSTEP_20150317_001154	J'abandonne	포기하겠다고 한다				
-QUEST_JOBSTEP_20150317_001155	La Grâce de la Richesse [Avancement Pardonneur] (3)	재물에도 은혜를[파드너 전직](2)				
+QUEST_JOBSTEP_20150317_001155	La Grâce de la Richesse [Avancement Pardonneur] (2)	재물에도 은혜를[파드너 전직](2)				
 QUEST_JOBSTEP_20150317_001156	Les Activités d'un Mage [Avancement Mage]	위저드들의 활동[위저드 전직]				
 QUEST_JOBSTEP_20150317_001157	Je vais passer l'épreuve	시험에 응하겠다고 한다				
 QUEST_JOBSTEP_20150317_001158	Transpercer de Part en Part [Avancement Cataphractaire]	꿰뚫고 나아가는[캐터프랙트 전직]				
@@ -2318,7 +2318,7 @@ QUEST_JOBSTEP_20150323_002317	Demander ce que tu dois faire	무엇을 하면 되
 QUEST_JOBSTEP_20150323_002318	Ce n'est pas ma responsabilité	그럴 의무는 없다고 한다				
 QUEST_JOBSTEP_20150323_002319	L'Enquêteur Silencieux [Avancement Rôdeur] (1)	조용한 탐문자[레인저 전직](1)	QUEST_JOBSTEP_20150317_000923	L'Enquêteur de Fedimian [Avancement Rôdeur] (1)	페디미안의 탐문자[레인저 전직](1)	
 QUEST_JOBSTEP_20150323_002320	L'Enquêteur Silencieux [Avancement Rôdeur] (2)	조용한 탐문자[레인저 전직](2)				
-QUEST_JOBSTEP_20150323_002321	Avis/Dépose le Pot du Soleil à l'endroit où se trouvait le Chapparition !#8	Notice/채퍼리션이 지키던 자리에 태양의 항아리를 잘 놓아두세요!#8				
+QUEST_JOBSTEP_20150323_002321	Notice/Dépose le Pot du Soleil à l'endroit où se trouvait le Chapparition !#8	Notice/채퍼리션이 지키던 자리에 태양의 항아리를 잘 놓아두세요!#8				
 QUEST_JOBSTEP_20150323_002322	La Voie pour Devenir Mage [Élémentaliste]	마법사가 되는 방법[엘리멘탈리스트 전직]				
 QUEST_JOBSTEP_20150323_002323	Lui dire que tu vas tenter le défi	도전하겠다고 한다				
 QUEST_JOBSTEP_20150323_002324	Lui dire que c'est trop dangereux	너무 위험하다고 한다				
@@ -2799,14 +2799,14 @@ QUEST_JOBSTEP_20150714_002798	Tu veux progresser ? Alors il y a quelque chose à
 QUEST_JOBSTEP_20150714_002799	Au moment où je ne savais que faire, les déesses t'ont envoyé. Quoi qu'il en soit, félicitations{nl}pour ton avancement.	참으로 난감한 차에 여신께서 자넬 보내주신 거지. 암. {nl}어쨌든 승급을 축하하네.	QUEST_JOBSTEP_20150317_000705	Au moment où je ne savais plus quoi faire, la déesse t'a envoyé. Quoi qu'il en soit, je te félicite de{nl}devenir Pardonneur.	참으로 난감한 차에 여신께서 자넬 보내주신 거지. 암. {nl}어쨌든 파드너로 입문을 축하하네.	파드너 마스터
 QUEST_JOBSTEP_20150714_002800	Durant le duel, j'ai découvert que ce sont les déesses qui t'ont mené sur la voie de l'Oracle. C'est à{nl}toi de faire les interprétations, mais je t'aiderai à les rendre justes.	이 대련으로 당신을 오라클로 인도한 것이 여신의 뜻임을 알았습니다.{nl}해석은 그대의 몫.. 하지만 최대한 올바른 해석을 할 수 있도록 제가 돕겠습니다.	QUEST_JOBSTEP_20150317_000708	J'ai suffisamment évalué ta compétence. En tant qu'Maître Oracle, je t'aiderai à bien interpréter{nl}l'oracle.	당신의 역량은 잘 확인했습니다.{nl}오라클 마스터로써 그대가 옳바르게 신탁을 해석할 수 있도록 도와드리겠습니다.	오라클 마스터
 QUEST_JOBSTEP_20150714_002801	En réalité, il est assez difficile d'obtenir son premier faucon. Mais tu es désormais un Fauconnier{nl}toi aussi, alors je vais t'y aider.	참, 처음엔 매를 분양받기 힘들 거다.{nl}이제부터 같은 응사인데 이 정돈 내가 도와 줘야지.	QUEST_JOBSTEP_20150428_002589	Et il sera difficile d'obtenir un faucon au début. Je vais t'y aider, puisque nous sommes tous deux{nl}des Pardonneurs.	참, 처음엔 매를 분양받기 힘들 거야.{nl}이제부터 같은 응사인데 이 정돈 내가 도와 줘야지.	응사 마스터
-QUEST_JOBSTEP_20150714_002802	Avis/Rassemble les offrandes et remets-les au Maître Clerc !#10	Notice/성금을 모아 클레릭 마스터에게 전달하세요!#10	QUEST_JOBSTEP_20150317_000841	Annonce/Rassemblez des dons et remettez-les au Maître Clerc !#7	Notice/성금을 모아 클레릭 마스터에게 전달!#7	
-QUEST_JOBSTEP_20150714_002803	Avis/Soigne les patients du Village des mineurs de Siauliai !#5	Notice/샤울레이 광산 마을의 환자를 치료하세요!#5	QUEST_JOBSTEP_20150317_000906	Annonce/Soignons les patients du Village des mineurs de Siauliai !#5	Notice/샤울레이 광산 마을의 환자를 치료하자!#5	
+QUEST_JOBSTEP_20150714_002802	Notice/Rassemble les offrandes et remets-les au Maître Clerc !#10	Notice/성금을 모아 클레릭 마스터에게 전달하세요!#10	QUEST_JOBSTEP_20150317_000841	Notice/Rassemblez des dons et remettez-les au Maître Clerc !#7	Notice/성금을 모아 클레릭 마스터에게 전달!#7	
+QUEST_JOBSTEP_20150714_002803	Notice/Soigne les patients du Village des mineurs de Siauliai !#5	Notice/샤울레이 광산 마을의 환자를 치료하세요!#5	QUEST_JOBSTEP_20150317_000906	Notice/Soignons les patients du Village des mineurs de Siauliai !#5	Notice/샤울레이 광산 마을의 환자를 치료하자!#5	
 QUEST_JOBSTEP_20150714_002804	En quoi puis-je t'aider ?	도와줄 일이 무엇인지 묻는다	QUEST_JOBSTEP_20150317_000911	Je vais récupérer l'essence du démon.	마족의 정수를 구해 오겠다고 한다	
 QUEST_JOBSTEP_20150714_002805	Parle-m'en	말해보라고 한다				
 QUEST_JOBSTEP_20150714_002806	Attirer	유인 중				
-QUEST_JOBSTEP_20150714_002807	Avis/Le chat montre de l'intérêt !#5	Notice/고양이가 관심을 보입니다!#5	QUEST_JOBSTEP_20150317_000942	Annonce/Le chat manifeste de l'intérêt !	Notice/고양이가 관심을 보입니다!	
+QUEST_JOBSTEP_20150714_002807	Notice/Le chat montre de l'intérêt !#5	Notice/고양이가 관심을 보입니다!#5	QUEST_JOBSTEP_20150317_000942	Notice/Le chat manifeste de l'intérêt !	Notice/고양이가 관심을 보입니다!	
 QUEST_JOBSTEP_20150714_002808	Extraction d'alcool de fleurs sauvages	야생화 꽃술 채집 중				
-QUEST_JOBSTEP_20150714_002809	Avis/Coffre Vide	Notice/빈 상자입니다	QUEST_JOBSTEP_20150317_001110	Avis/Coffre Vide	Notice/빈 상자	
+QUEST_JOBSTEP_20150714_002809	Notice/Coffre Vide	Notice/빈 상자입니다	QUEST_JOBSTEP_20150317_001110	Notice/Coffre Vide	Notice/빈 상자	
 QUEST_JOBSTEP_20150714_002810	Oui	그렇다고 한다				
 QUEST_JOBSTEP_20150714_002811	Récolter les graines des Carcashus à Vallon de Septyni	셉티니 골에서 카르카슈의 씨앗 수집	QUEST_JOBSTEP_20150323_002335	Récolter l'alcool de fleur des Doyor au Ravin de Veja	베야 골짜기에서 도요르의 꽃술 수집	
 QUEST_JOBSTEP_20150714_002812	Le Maître Psychokinésiste t'a proposé de devenir son assistant si ce domaine t'intéresse. Obtiens les graines de Carcashus dont le Maître Psychokinésiste a besoin à Vallon de Septyni.	사이코키노 마스터는 이 분야에 관심이 있다면 잠시 자신의 조수가 되어 보는 것을 권했습니다. 사이코키노 마스터가 필요로 하는 셉티니 골에서 카르카슈의 씨앗을 구해 오세요.	QUEST_JOBSTEP_20150323_002336	Le Psychokinésiste t'a proposé de devenir son assistant si ce domaine t'intéresse. Obtiens l'alcool de fleur des Doyor au Ravin de Veja, qui intéresse le Maître Psychokinésiste.	사이코키노 마스터는 이 분야에 관심이 있다면 잠시 자신의 조수가 되어 보는 것을 권했습니다. 사이코키노 마스터가 필요로 하는 베야 골짜기에서 도요르의 꽃술을 구해 오세요.	
