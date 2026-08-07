@@ -105,7 +105,7 @@ INTL_20180312_000104	Échange d'Objets	아이템 교환
 INTL_20180312_000105	Défi d'Équipe de Vaivora	마을 축제				
 INTL_20180312_000106	Buff d'Événement	이벤트 버프				
 INTL_20180316_000107	Le pouvoir du pétard s'est propagé à tous les membres du groupe.	기념을 축하하는 폭죽의 힘이 공유되고 있습니다.				
-INTL_20180316_000108	ŒUf d'Oiseau de Guerre Brillant	빛나는 전투 뱁새 알				
+INTL_20180316_000108	Œuf d'Oiseau de Guerre Brillant	빛나는 전투 뱁새 알				
 INTL_20180316_000109	Pétard du 2e anniversaire	2주년 폭죽				
 INTL_20180316_000110	Objet de l'événement du 2e anniversaire.{nl}Augmente la vitesse de déplacement de +4, le ratio d'attaque de zone de +1 et les gains d'EXP de +25 % pour tous les membres du groupe pendant 30 minutes.	2주년 이벤트 아이템입니다.{nl} 30분간 파티원 전체의 이동속도 +4, 광역 공격 비율 +1 경험치 25% 증가의 효과를 줍니다.				
 INTL_20180316_000111	Démarrer l'événement du 2e anniversaire	이벤트 워프 주문서 - 2주년 이벤트 시작				
@@ -118,9 +118,9 @@ INTL_20180316_000117	Café à la Sardine	정어리 커피
 INTL_20180316_000118	La tasse à café de GM Papaya. Bien qu'elle contienne du café (et une sardine), le contenu de la tasse ne se renverse jamais, au grand amusement des spectateurs.	GM 파파야의 커피. 살아있는 정어리가 들어있다. 마법적인 힘으로 인해 어떤 각도에서든 머리에서 떨어지지 않는다.				
 INTL_20180316_000119	Lunettes en Spirale	뱅글 안경				
 INTL_20180316_000120	Les célèbres lunettes en spirale du Dr No. Portez-les avec une canette de Bœuf rouge à la main pour un meilleur résultat. Effets secondaires : peut provoquer des vertiges.	Dr. No의 안경. 일을 할 때 Red Ox과 같이 사용하면 효율이 높아진다고 한다. 주의: 같이있을 경우 어지러울 수 있다.				
-INTL_20180316_000121	Pack d'œUfs d'Oiseau de Guerre Brillants	빛나는 전투 뱁새 패키지				
+INTL_20180316_000121	Pack d'œufs d'Oiseau de Guerre Brillants	빛나는 전투 뱁새 패키지				
 INTL_20180316_000122	Clic droit pour utiliser et obtenir les objets.{nl} - Œuf d'Oiseau de guerre brillant x1{nl} - Nourriture pour Oiseau de guerre x50	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 빛나는 전투 뱁새 알{nl} - 뱁새용 모이 50개				
-INTL_20180316_000123	Pack d'œUfs de Manchot Brillants	빛나는 펭귄 패키지				
+INTL_20180316_000123	Pack d'œufs de Manchot Brillants	빛나는 펭귄 패키지				
 INTL_20180316_000124	Clic droit pour utiliser et obtenir les objets.{nl} - Œuf de manchot brillant x1{nl} - Sardine x50	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 빛나는 펭귄 알{nl} - 정어리 50개				
 INTL_20180316_000125	Clic droit pour utiliser et obtenir les objets.{nl} - Brassard du 2e anniversaire Steam x1d{nl} - Œuf de manchot feuille x1{nl} - Coupon d'amélioration : 100 000 Argent x10{nl}- Points d'attribut : 1 000 x1{nl}- Parchemin de téléportation de l'événement - Start 2e anniversaire Event x1{nl}- Potion de PV hautement condensée x20{nl}- Potion de PM hautement condensée x20{nl}- Niv2 Potion de soutien de colonie x10{nl}- 2e anniversaire Firecracker x5{nl}- Statue de la Déesse x5{nl}- Potion de vitesse de déplacement hautement condensée x5{nl}- Token : 15 jours [Événement]	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 스팀 2주년 암밴드{nl} - 펭그린 알{nl} - 강화 실버 할인 쿠폰 : 10만 실버 10개{nl}- 특성 포인트 1,000{nl}- 이벤트 워프 주문서 - 2주년 이벤트 시작{nl}- 고농축 HP포션 20개{nl}- 고농축 SP포션 20개{nl}- 정착 지원 포션 Lv2 10개{nl}- 2주년 폭죽 5개{nl}- 여신의 조각상 5개{nl}- 고농축 이동속도 증가 포션 5개{nl}- 토큰:15일[증정용]				
 INTL_20180326_000126	Liste des Maîtres Invités	마스터 명단 리스트				
@@ -154,7 +154,7 @@ INTL_20180514_000153	Recette Secrète d'Artisan - Abdochar	장인의 비밀 제�
 INTL_20180514_000154	Recette Secrète d'Artisan - Sarkmis	장인의 비밀 제작서-사크미스				
 INTL_20180514_000155	Recette Secrète d'Artisan - Fracasse-crâne	장인의 비밀 제작서-스컬 스매셔				
 INTL_20180514_000156	Sceptre Recette Secrète d'Artisan - Corne de Regard	장인의 비밀 제작서-리가드 혼 스태프				
-INTL_20180514_000157	Recette Secrète d'Artisan - CœUr de Gloire	장인의 비밀 제작서-하트 오브 글로리				
+INTL_20180514_000157	Recette Secrète d'Artisan - Cœur de Gloire	장인의 비밀 제작서-하트 오브 글로리				
 INTL_20180514_000158	Recette Secrète d'Artisan - Brise-crâne	장인의 비밀 제작서-스컬 브레이커				
 INTL_20180514_000159	Dague Recette Secrète d'Artisan - Emengard	장인의 비밀 제작서-에멘가드 대거				
 INTL_20180514_000160	Recette Secrète d'Artisan - Lance Wingshard	장인의 비밀 제작서-윙샤드 스피어				
@@ -228,7 +228,7 @@ INTL_20180817_000227	[Retour] Abdochar (30 Jours)	[복귀] 아브도챠 (30일)
 INTL_20180817_000228	[Retour] Sarkmis (30 Jours)	[복귀] 사크미스 (30일)				
 INTL_20180817_000229	[Retour] Fracasse-crâne (30 Jours)	[복귀] 스컬 스매셔 (30일)				
 INTL_20180817_000230	[Retour] Sceptre Corne de Regard (30 Jours)	[복귀] 리가드 혼 스태프 (30일)				
-INTL_20180817_000231	[Retour] CœUr de Gloire (30 Jours)	[복귀] 하트 오브 글로리 (30일)				
+INTL_20180817_000231	[Retour] Cœur de Gloire (30 Jours)	[복귀] 하트 오브 글로리 (30일)				
 INTL_20180817_000232	[Retour] Brise-crâne (30 Jours)	[복귀] 스컬 브레이커 (30일)				
 INTL_20180817_000233	[Retour] Dague Emengard (30 Jours)	[복귀] 에멘가드 대거 (30일)				
 INTL_20180817_000234	[Retour] Lance Wingshard (30 Jours)	[복귀] 윙샤드 스피어 (30일)				
@@ -334,7 +334,7 @@ INTL_20190723_000333	Un type d'appât spécial utilisé pour la pêche. L'utilis
 INTL_20190820_000334	[Week-end Brûlant] EXP	[주말 버닝] 경험치 증가				
 INTL_20190820_000335	XP +100 %	경험치 증가 + 100%				
 INTL_20190820_000336	[Week-end Brûlant] Vitesse de Déplacement	[주말 버닝] 이동 속도 증가				
-INTL_20190820_000337	Un matériau demandé par le forgeron Teliavelis de Fedimian, utilisé pour produire un équipement spécial.{nl}Peut être obtenu en terminant Nid de Velcoffer, Tombe de la Légende du Corbeau blanc et les raids uniques, le palier 5 du mode Défi, les missions Saalus et les donjons de niveau.{nl}Sera supprimé à la fin de la période de l'événement.	페디미안의 대장장이 테리아베리스가 요청한 특별한 장비를 만들기 위한 특별한 재료입니다.{nl}벨코퍼의 둥지, 흰 까마귀의 영면지: 레전드, 흰 까마귀의 영면지: 유니크, 챌린지 5단계, 수녀원 미션, 레벨 던전 클리어 시 획득할 수 있습니다.{nl}4월 11일 점검 시, 일괄 삭제 됩니다				
+INTL_20190820_000337	Un matériau demandé par le forgeron Teliavelis de Fedimian, utilisé pour produire un équipement spécial.{nl}Peut être obtenu en terminant Nid de Velcoffer, Tombe de la Légende du Corbeau blanc et les raids uniques, le palier 5 du mode Défi, les missions Saalus et les donjons de niveau.{nl} Cet objet sera supprimé lors de la maintenance du 11 avril.	페디미안의 대장장이 테리아베리스가 요청한 특별한 장비를 만들기 위한 특별한 재료입니다.{nl}벨코퍼의 둥지, 흰 까마귀의 영면지: 레전드, 흰 까마귀의 영면지: 유니크, 챌린지 5단계, 수녀원 미션, 레벨 던전 클리어 시 획득할 수 있습니다.{nl}4월 11일 점검 시, 일괄 삭제 됩니다				
 INTL_20190820_000338	L'événement Summer 2019 est en cours !{nl}{#003399}Nous échangeons actuellement des [Événement]Pièce Vasalos{/} et soutenons les adhésions de guilde.	2019년 여름을 기념하는 이벤트가 진행 중입니다.{nl}{#003399}[이벤트] 바살로스 주화{/}  교환과 길드 활동 보상을 지원해드립니다.				이벤트 도우미
 INTL_20190820_000339	Échange de récompenses {#003399}[Festa d'été] Vacances d'été à Klaipeda{/}	2. {#003399}[Summer Festa] 클라페다에서 여름 나기 이벤트{/}의 보상 교환				이벤트 도우미
 INTL_20190820_000340	 Terminé : 5{nl}- Raids uniques 	 클리어 : 5개{nl}- 유니크 레이드 				대장장이 테리아베리스
@@ -342,7 +342,7 @@ INTL_20190820_000341	 Terminé : 5{nl}- Mode Défi palier 5 : 2{nl}- Mission Saa
 INTL_20190820_000342	L'accessoire capillaire Chat Latte peut être obtenu une fois, uniquement le 15 août.	8/15일 하루동안 라떼 캣 헤어 악세사리를 1회 획득할 수 있습니다.				내 마음도 받아줄래 이벤트 도우미
 INTL_20190820_000343	NA	추가로 이벤트 기간 아래의 보상을 받을 수 있습니다.{nl}8/14일:화이트 데이 목걸이 (물리/14일) 1개{nl}8/15일:화이트 데이 목걸이 (마법/14일) 1개{nl}8/16일:화이트 데이 팔찌 (마법/14일) 2개{nl}8/17일:화이트 데이 팔찌 (물리/14일) 2개{nl}8/18일:화이트 데이 목걸이 (물리/14일) 1개{nl}8/19일:화이트 데이 팔찌 (물리/14일) 2개				내 마음도 받아줄래 이벤트 도우미
 INTL_20190828_000344	Cet objet ne peut être utilisé que pour changer l'apparence d'un autre.{nl}Ne consomme pas d'argent lorsqu'il est utilisé comme matériau d'apparence.{nl}Échangeable contre des médailles à la Boutique d'échange.{nl}(Ce costume a été conçu par Shiseptiana de [SEA] Telsiai.)	외형 변경 전용 아이템입니다.{nl}해당 아이템으로 외형 변경 시 소재와 실버를 소모하지 않습니다.{nl}리사이클샵에서 메달로 교환할 수 있습니다.{nl}(This costume is designed by Shiseptiana from [SEA] Telsiai.)				
-INTL_20190903_000345	Ajoute un emplacement de personnage à votre Lodge.	사용시 캐릭터 슬롯이 추가됩니다.				
+INTL_20190903_000345	Ajoute un emplacement de personnage à votre Logement.	사용시 캐릭터 슬롯이 추가됩니다.				
 INTL_20191024_000346	Un titre décerné aux gagnants de l'événement 2018 Vœux de bonne année.	2018 Happy New Year Wishes Greetings 수상자에게 지급되는 칭호입니다.				
 INTL_20191024_000347	Un titre décerné aux joueurs ayant collecté les [Événement] Révélation.	[이벤트] 계시를 찾은 구원자에게 지급되는 칭호입니다.				
 INTL_20191024_000348	Un titre décerné aux gagnants de l'événement Fan Art Steam.	스팀 팬아트 수상자에게 지급되는 칭호입니다.				
@@ -373,7 +373,7 @@ INTL_20191203_000372	+120 % d'EXP gagnée en chassant des monstres{nl}+4 vitesse
 INTL_20191203_000373	+150 % d'EXP gagnée en chassant des monstres{nl}+5 vitesse de déplacement{nl}+2000 PV max.	몬스터 처치 시 획득 경험치 +150%{nl}이동 속도 +5{nl}최대 체력 + 2000	SKILL_20161226_007310	+150 % d'EXP en chassant des monstres{nl}+5 vitesse de déplacement	몬스터 처치 시 획득 경험치 +150%{nl}이동 속도 +5	
 INTL_20191203_000374	Utiliser la {#FF0000}[Événement] Clé de Noël royale{/} pour ouvrir le coffre ?	{#FF0000}[이벤트] 로열 크리스마스 열쇠{/}를 사용하여 상자를 여시겠습니까?				크리스마스 로열 상자
 INTL_20191203_000375	Accessible uniquement le week-end.	주말에만 대화하실 수 있습니다.				
-INTL_20191205_000376	Utilisez pour ouvrir le Coffre royal de Noël à Klaipeda et obtenir aléatoirement un objet de récompense parmi la liste suivante.{nl}[Événement] Points d'attribut 10 000 x1{nl}, [Événement] Points d'attribut 1 000 x1{nl}- [Événement] Points d'attribut 500 x1, Pierre de portail de raid x3{nl}- Sculpture de la Déesse (14 jours) x5, Graine miraculeuse (14 jours) x5{nl}- [Événement] Pièce de récompense de quête de guilde: Argent x1{nl}Sera automatiquement supprimé à la fin de la période de l'événement.	클라페다에 위치한 크리스마스 로열 상자를 열어 아래 아이템 중 각기 다른 확률로 한 개의 아이템을 획득할 수 있습니다.{nl}[이벤트]특성 포인트 10,000 x1{nl}[이벤트]특성 포인트 1,000 x1{nl}[이벤트]특성 포인트 500 x1{nl}축복이 깃든 씨앗(14일) x1{nl}여신의 조각상(14일) x1{nl}[이벤트] 길드 퀘스트 보상 주화 : 은 x1{nl}레이드 포탈 스톤 x1{nl}19년 12월 26일 점검시, 일괄 삭제됩니다.				
+INTL_20191205_000376	Utilisez pour ouvrir le Coffre royal de Noël à Klaipeda et obtenir aléatoirement un objet de récompense parmi la liste suivante.{nl}[Événement] Points d'attribut 10 000 x1{nl}, [Événement] Points d'attribut 1 000 x1{nl}- [Événement] Points d'attribut 500 x1, Pierre de portail de raid x3{nl}- Sculpture de la Déesse (14 jours) x5, Graine miraculeuse (14 jours) x5{nl}- [Événement] Pièce de récompense de quête de guilde: Argent x1{nl} Cet objet sera supprimé lors de la maintenance du 26 décembre 2019.	클라페다에 위치한 크리스마스 로열 상자를 열어 아래 아이템 중 각기 다른 확률로 한 개의 아이템을 획득할 수 있습니다.{nl}[이벤트]특성 포인트 10,000 x1{nl}[이벤트]특성 포인트 1,000 x1{nl}[이벤트]특성 포인트 500 x1{nl}축복이 깃든 씨앗(14일) x1{nl}여신의 조각상(14일) x1{nl}[이벤트] 길드 퀘스트 보상 주화 : 은 x1{nl}레이드 포탈 스톤 x1{nl}19년 12월 26일 점검시, 일괄 삭제됩니다.				
 INTL_20191216_000377	{img test_cooltime 25 25}{s18}Les points sont réinitialisés chaque trimestre.	{img test_cooltime 25 25}{s18}매 분기마다 포인트 초기화가 진행됩니다.				
 INTL_20191216_000378	 {nl}Veuillez sélectionner une récompense.	 {nl}원하는 보상을 선택해주세요.				
 INTL_20191230_000379	Accessible uniquement les vendredis, samedis et dimanches.	금,토,일에만 대화하실 수 있습니다.	INTL_20191203_000375	Accessible uniquement le week-end.	주말에만 대화하실 수 있습니다.	

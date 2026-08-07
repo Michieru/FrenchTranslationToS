@@ -515,7 +515,7 @@ QUEST_LV_0400_20161005_000510	C'était peu après que j'ai commencé à m'occupe
 QUEST_LV_0400_20161005_000511	{nl}Peu m'importe ce qu'un démon venait chercher ici. Je m'en suis simplement occupé.	{nl}무언가를 찾아 이곳까지 온 듯 한데 놈의 목적 따위 내가 신경 쓸 바가 아니잖은가.{nl}마족은 처단할 따름일세.				빌헬마스
 QUEST_LV_0400_20161005_000512	{nl}Ce fut relativement facile de le vaincre. Mais il y a eu des complications.	{nl}녀석과 싸우는 것은 어렵지 않았네.{nl}하지만 문제가 생겼지.				빌헬마스
 QUEST_LV_0400_20161005_000513	{nl}Il m'a maudit quand il a été acculé. Ma vue est gravement entravée à cause de cette stupide{nl}malédiction.	{nl}녀석은 궁지에 몰리더니 내게 저주를 걸었네.{nl}그 저주 탓에 지금도 내 시야는 심하게 좁혀져 있다네.				빌헬마스
-QUEST_LV_0400_20161005_000514	{nl}Quoi qu'il en soit, il s'est planté un joyau rouge dans le corps après cela. Il s'est mis à se{nl}transformer ensuite.	{nl}아무튼 그러더니 품 안에서 붉은 보석을 꺼내 자신의 몸에 박아 넣더군.{nl}그러자 녀석의 몸뚱이가 변화하기 시작했다네.				빌헬마스
+QUEST_LV_0400_20161005_000514	{nl}Quoi qu'il en soit, il s'est planté une gemme rouge dans le corps après cela. Il s'est mis à se{nl}transformer ensuite.	{nl}아무튼 그러더니 품 안에서 붉은 보석을 꺼내 자신의 몸에 박아 넣더군.{nl}그러자 녀석의 몸뚱이가 변화하기 시작했다네.				빌헬마스
 QUEST_LV_0400_20161005_000515	{nl}Je suis sûr que vous l'avez deviné en m'écoutant jusqu'ici, mais la bête est le démon. J'ai compris{nl}tout de suite que le démon était bien plus dangereux qu'avant.	{nl}여기까지 들었으면 아마 짐작했겠지만 그 마족이 바로 소문의 그 괴수일세.{nl}괴수로 변한 녀석은 결코 만만한 상대가 아니란 건 사냥꾼의 감으로 알 수 있었지.				빌헬마스
 QUEST_LV_0400_20161005_000516	{nl}Bien sûr, il lui restait un peu de peur à mon égard et il a fui lui aussi. Le long et ennuyeux combat{nl}entre nous deux s'éternise depuis lors.	{nl}녀석도 나에 대한 두려움이 남았는지 바로 도망을 쳤어.{nl}그때부터 녀석과 나 사이에 길고 지루한 싸움이 시작되었네.				빌헬마스
 QUEST_LV_0400_20161005_000517	{nl}Traquer cette chose avec cette malédiction n'a pas été facile. Avoir une vision limitée quand on{nl}est chasseur est  presque une condamnation à mort.	{nl}저주가 걸린 몸으로 놈을 추적하는 일이 결코 쉽지는 않았네.{nl}사냥꾼으로서 시야가 제한된다는 건 치명적인 단점이거든.				빌헬마스
@@ -549,7 +549,7 @@ QUEST_LV_0400_20161005_000544	Apportez-moi du poison paralysant récolté sur le
 QUEST_LV_0400_20161005_000545	Cela a pris plus de temps que prévu. Allons achever le piège.	생각보다 시간이 걸렸군.{nl}이제 함정을 완성시키세.				빌헬마스
 QUEST_LV_0400_20161005_000546	Nous sommes fin prêts. Il me reste juste à installer ceci.	다 되었네.{nl}이제 이걸 설치만 하면 되네.				빌헬마스
 QUEST_LV_0400_20161005_000547	J'ai traqué la bête et mélangé le poison pendant que vous récoltiez le poison pour le piège. Il{nl}laisse une trace rouge derrière lui. Elle sera peut-être un peu trop faible pour que vous la voyiez.	자네가 마비약을 모으는 동안 나는 독 배합을 끝내고 녀석의 흔적을 조사했지.{nl}녀석은 붉은 흔적을 남기고 다닌다네. 희미해서 자네는 아마 발견하기 어려울 게야.				빌헬마스
-QUEST_LV_0400_20161005_000548	{nl}Je crois que c'est à cause du joyau rouge qu'il s'est planté dans le corps. Quoi qu'il en soit, j'ai{nl}trouvé un petit sentier qu'il emprunte souvent.	{nl}아마 괴수로 변할 때 몸에 박아 넣은 붉은 보석 때문인 것 같네.{nl}어쨌든 그 붉은 흔적을 쫓다가 녀석이 주로 오가는 작은 길목을 발견했어.				빌헬마스
+QUEST_LV_0400_20161005_000548	{nl}Je crois que c'est à cause de la gemme rouge qu'il s'est planté dans le corps. Quoi qu'il en soit, j'ai{nl}trouvé un petit sentier qu'il emprunte souvent.	{nl}아마 괴수로 변할 때 몸에 박아 넣은 붉은 보석 때문인 것 같네.{nl}어쨌든 그 붉은 흔적을 쫓다가 녀석이 주로 오가는 작은 길목을 발견했어.				빌헬마스
 QUEST_LV_0400_20161005_000549	{nl}Je crois que nous devrions installer le piège sur le chemin qui monte vers les Chutes de Saalmas{nl}depuis le Ruisseau de Tredhalai. Je me cacherai aux Chutes de Visuobene et le frapperai de la{nl}flèche empoisonnée dès qu'il sera pris au piège.	{nl}트레달라이 냇가에서 살마스 폭포로 올라가는 길목에 마비 함정을 설치하면 될 것이네.{nl}나는 비수오베네 폭포에 숨어 있다가 함정에 걸린 녀석에게 이 독을 바른 화살을 쏘겠네.				빌헬마스
 QUEST_LV_0400_20161005_000550	{nl}Cela devrait suffire à blesser gravement la bête. Il vous suffit d'installer le piège là où je viens de{nl}le décrire.	{nl}녀석에게 치명상을 입히기 충분할 거야.{nl}자네는 내가 말한 위치에 함정을 설치 해 주게.				빌헬마스
 QUEST_LV_0400_20161005_000551	Veillez à l'installer exactement là où je l'ai décrit. Je ne pourrai pas l'atteindre si ce n'est pas au{nl}bon endroit.	정확한 위치에 부탁하네.{nl}내가 말해준 위치가 아니면 내가 녀석을 맞출 수 없어.				빌헬마스
@@ -978,30 +978,30 @@ QUEST_LV_0400_20161005_000973	Leur souhaiter bonne chance	잘 찾아보라고 �
 QUEST_LV_0400_20161005_000974	Marques d'une légende(12)	전설의 흔적(12)				
 QUEST_LV_0400_20161005_000975	Accepter de l'apporter au Maître Empenneur	플레쳐 마스터에게 가서 전해주고 오겠다고 한다				
 QUEST_LV_0400_20161005_000976	Donner la Fléchette	플레세트를 건네 주는 중				
-QUEST_LV_0400_20161005_000977	Les VœUx de Maven(1)	메이번의 유지(1)				
-QUEST_LV_0400_20161005_000978	Les VœUx de Maven(2)	메이번의 유지(2)				
-QUEST_LV_0400_20161005_000979	Les VœUx de Maven(3)	메이번의 유지(3)				
+QUEST_LV_0400_20161005_000977	Les Vœux de Maven(1)	메이번의 유지(1)				
+QUEST_LV_0400_20161005_000978	Les Vœux de Maven(2)	메이번의 유지(2)				
+QUEST_LV_0400_20161005_000979	Les Vœux de Maven(3)	메이번의 유지(3)				
 QUEST_LV_0400_20161005_000980	Accepter d'aller trouver le monument	기념비를 찾으러 가자고 한다				
 QUEST_LV_0400_20161005_000981	Dire que vous aiderez plus tard	나중에 일을 돕겠다고 한다				
-QUEST_LV_0400_20161005_000982	Les VœUx de Maven(5)	메이번의 유지(5)				
+QUEST_LV_0400_20161005_000982	Les Vœux de Maven(5)	메이번의 유지(5)				
 QUEST_LV_0400_20161005_000983	Accompagner le prêtre Lintas pour trouver le monument	린타스와 함께 기념비를 찾으러 간다				
 QUEST_LV_0400_20161005_000984	Le laisser aller trouver le monument tout seul	혼자 찾으러 가게 한다				
-QUEST_LV_0400_20161005_000985	Les VœUx de Maven(6)	메이번의 유지(6)				
+QUEST_LV_0400_20161005_000985	Les Vœux de Maven(6)	메이번의 유지(6)				
 QUEST_LV_0400_20161005_000986	Accepter de récolter les herbes Mittelly	미탤리 약초를 구해 오겠다고 한다				
 QUEST_LV_0400_20161005_000987	Dire que vous ne croyez pas que ce soit à vous d'aider	내가 할 일이 아닌 것 같다고 한다				
 QUEST_LV_0400_20161005_000988	Donner les Herbes Mittelly	미탤리 약초 전달 중				
-QUEST_LV_0400_20161005_000989	Les VœUx de Maven(7)	메이번의 유지(7)				
-QUEST_LV_0400_20161005_000990	Les VœUx de Maven(8)	메이번의 유지(8)				
+QUEST_LV_0400_20161005_000989	Les Vœux de Maven(7)	메이번의 유지(7)				
+QUEST_LV_0400_20161005_000990	Les Vœux de Maven(8)	메이번의 유지(8)				
 QUEST_LV_0400_20161005_000991	Accepter de fouiller la zone	대신 찾아보겠다고 한다				
 QUEST_LV_0400_20161005_000992	Dire que vous chercherez un peu plus tard	조금 있다가 찾겠다고 한다				
-QUEST_LV_0400_20161005_000993	Les VœUx de Maven(9)	메이번의 유지(9)				
+QUEST_LV_0400_20161005_000993	Les Vœux de Maven(9)	메이번의 유지(9)				
 QUEST_LV_0400_20161005_000994	Demander comment aider	그러면 어떻게 해야 하느냐고 묻는다				
 QUEST_LV_0400_20161005_000995	Désherbage(1)	제초 작업(1)				
 QUEST_LV_0400_20161005_000996	Accepter de récolter les glandes salivaires de Vilkas	빌카스의 침샘을 구하러 가겠다고 한다				
 QUEST_LV_0400_20161005_000997	Désherbage(2)	제초 작업(2)				
 QUEST_LV_0400_20161005_000998	Accepter de chercher le prêtre Brunas	사제 브루나스를 찾으러 가겠다고 한다				
 QUEST_LV_0400_20161005_000999	Dire qu'il viendra si vous attendez ici	기다리면 올 거라고 한다				
-QUEST_LV_0400_20161005_001000	Les VœUx de Maven(4)	메이번의 유지(4)				
+QUEST_LV_0400_20161005_001000	Les Vœux de Maven(4)	메이번의 유지(4)				
 QUEST_LV_0400_20161005_001001	Le suivre	뒤따라 간다				
 QUEST_LV_0400_20161005_001002	Lui dire qu'il est seul	알아서 찾아가라고 한다				
 QUEST_LV_0400_20161005_001003	Projets d'avenir	앞으로의 계획				
@@ -1056,7 +1056,7 @@ QUEST_LV_0400_20161005_001051	Trouver les Traces du Mercenaire Heranda	용병 �
 QUEST_LV_0400_20161005_001052	Vous avez ramené Heranda comme le prêtre Celvica vous l'a demandé mais Heranda a disparu. Trouvez les traces de Heranda.	프리스트 셀베카의 요청으로 헤란다를 데리러 왔으나 감쪽같이 사라졌습니다. 주변에서 헤란다의 흔적을 찾아보세요				
 QUEST_LV_0400_20161005_001053	Parler Avec le Prêtre Celvica	프리스트 셀베카와 대화				
 QUEST_LV_0400_20161005_001054	Vous n'avez pas trouvé le mercenaire Heranda mais vous avez trouvé les traces. Retournez voir le prêtre Celvica.	용병 헤란다는 찾지 못 했지만 그의 흔적을 여럿 찾았습니다. 프리스트 셀베카에게 돌아가세요				
-QUEST_LV_0400_20161005_001055	Le prêtre Celvica attend votre aide.	알렘빅 동굴의 프리스트 셀베카가 당신의 도움을 기다리고 있습니다				
+QUEST_LV_0400_20161005_001055	Le prêtre Celvica, dans la Grotte d'Alembique, attend votre aide	알렘빅 동굴의 프리스트 셀베카가 당신의 도움을 기다리고 있습니다				
 QUEST_LV_0400_20161005_001056	Vaincre les Ravinelarva des Grottes	동굴 러바인러바 처치				
 QUEST_LV_0400_20161005_001057	D'après la note de Heranda, le prêtre Celvica a trouvé un moyen de survivre à la mystérieuse créature. Pour la sécurité de tous, vainquez le Ravinelarva des grottes.	프리스트 셀베카는 헤란다의 쪽지에 적힌 미지의 생물에게서 살아남을 방법을 고안했습니다. 모두의 안전을 위해 동굴 러바인러바를 처치하세요				
 QUEST_LV_0400_20161005_001058	Vous avez vaincu avec succès les Ravinelarva des grottes comme le prêtre Celvica. Retournez voir Celvica.	프리스트 셀베카의 제안대로 동굴 러바인러바를 충분히 처치했습니다. 셀베카에게 돌아갑시다				
@@ -1278,7 +1278,7 @@ QUEST_LV_0400_20161005_001273	On dit que l'essence de Vilkas est nécessaire pou
 QUEST_LV_0400_20161005_001274	Vaincre les Vilkas et obtenir %s	빌카스를 처치해 %s 구하기				
 QUEST_LV_0400_20161005_001275	Trouvez la Fléchette à l'aide du Fléchette Dispositif de détection	플레세트 탐색 장치로 플레세트 찾기				
 QUEST_LV_0400_20161005_001276	Trouver la Fléchette Avec le Dispositif de Détection de Fléchettes	완성된 플레세트 탐색 장치로 플레세트를 찾으세요				
-QUEST_LV_0400_20161005_001277	Les VœUx de Maven	메이번의 유지				
+QUEST_LV_0400_20161005_001277	Les Vœux de Maven	메이번의 유지				
 QUEST_LV_0400_20161005_001278	Parler au Prêtre Lintas	사제 린타스와 대화				
 QUEST_LV_0400_20161005_001279	Parler au Prêtre Lintas	사제 린타스와 대화하세요				
 QUEST_LV_0400_20161005_001280	Trouver les documents sur la dissipation de la magie de transformation	변형 마법 해제 문서 찾아오기				
@@ -1583,7 +1583,7 @@ QUEST_LV_0400_20161214_001580	Vous avez obtenu les jetons des traités des démo
 QUEST_LV_0400_20161214_001581	Demander à Kupole Lenja comment lire le contenu du traité.	서약의 내용을 보려면 어떻게 해야하는지 큐폴 레냐에게 물어보세요.				
 QUEST_LV_0400_20161214_001582	Utiliser l'Autel Yudejan pour Lire le Traité	유데이안의 제단을 이용해서 서약의 내용 확인				
 QUEST_LV_0400_20161214_001583	Placez la plaque du traité sur l'Autel de Yudejan et utilisez les jetons des traités des démons et des déesses pour lire le contenu du traité principal. Rendez-vous au Autel de Yudejan et lisez le traité.	서약의 석판을 유데이안의 제단에 올리고 마족과 여신의 서약 증표를 사용하면 서약의 내용을 볼 수 있다고 합니다. 유데이안의 제단으로 가서 서약의 내용을 확인하세요.				
-QUEST_LV_0400_20161214_001584	Vous avez lu le contenu du traité. Retournez voir Kupole Lenja.QUEST_LV_0400_20161221_001585	서약의 내용을 모두 알게 되었습니다. 큐폴 레냐에게 돌아가보세요.				
+QUEST_LV_0400_20161214_001584	Vous avez lu le contenu du traité. Retournez voir Kupole Lenja.	서약의 내용을 모두 알게 되었습니다. 큐폴 레냐에게 돌아가보세요.				
 QUEST_LV_0400_20170313_001591	Vous avez trouvé la pierre de foi de la déesse.{nl}Rendez-vous à Tamsus Ikeitimas et obtenez le jeton du traité de la déesse.	여신의 신뢰석을 찾았습니다!{nl}스비에소스 이케이티마스로 가서 비석의 봉인을 해제하세요!	QUEST_LV_0400_20161214_001487	Vous avez trouvé la pierre de foi de la Déesse.{nl}Rendez-vous à Tamsus Ikeitimas et obtenez le jeton du traité de la Déesse.	여신의 신뢰석을 찾았습니다{nl}탐소스 이케이티마스로 가서 여신의 서약 증표를 손에 넣으세요	
 QUEST_LV_0400_20170313_001592	Retirer le Mystérieux Dispositif des Démons	수수께끼의 마족장치 제거				
 QUEST_LV_0400_20170313_001593	Le marchand de l'Alliance de Kedora Alta vous a demandé de retirer les dispositifs démoniaques qui affectent la zone de la Grotte d'Alembique.	케도라 상단원 알타는 알렘빅 동굴에 퍼져있는 마법의 매개체로 추정되는 수수께끼의 마족장치를 제거해달라고 부탁했습니다	QUEST_LV_0400_20161005_001085	Le marchand de l'Alliance de Kedora Alta veut que vous retiriez le mystérieux dispositif démoniaque que l'on croit être le médium magique dans la Grotte d'Alembique.	케도라 상단원 알타는 알렘빅 동굴에 퍼져있는 마법의 매개체로 추정되는 수수깨끼의 마족장치를 제거해달라고 부탁했습니다	
@@ -2735,7 +2735,7 @@ QUEST_LV_0400_20171128_002746	Le chien sans maître semble vous demander de le s
 QUEST_LV_0400_20171128_002747	Suivre le chien	개를 따라가기				
 QUEST_LV_0400_20171128_002748	Le chien va quelque part. Continuez de le suivre.	개가 어디론가 향합니다. 개를 따라가세요.				
 QUEST_LV_0400_20171128_002749	Le chien vous a mené à un moine qui semble fatigué. Parlez au moine.	개를 따라가 보니 기운 없어 보이는 수도사가 있었습니다. 수도사와 대화하세요.				
-QUEST_LV_0400_20171128_002750	Le moine semble pressé. Parlez-lui.	수도사 급하게 뭔가를 이야기하려는 듯 보입니다. 그와 대화하세요.				
+QUEST_LV_0400_20171128_002750	Le moine a l'air d'avoir quelque chose d'urgent à vous dire. Parlez-lui.	수도사 급하게 뭔가를 이야기하려는 듯 보입니다. 그와 대화하세요.				
 QUEST_LV_0400_20171128_002751	Aller au Temple de Narvas	나르바스 사원으로 가기				
 QUEST_LV_0400_20171128_002752	Le moine vous a dit que l'archimage Agailla Flurry a divisé Hauberk en trois parties et les a scellées dans le Temple de Narvas. Cependant, après Medzio Diena, le sceau s'est fissuré et une partie de l'essence de Hauberk s'est échappée. Les démons alentour l'ont remarqué, et attaquent le temple pour réveiller complètement Hauberk. Le moine veut que vous empêchiez cela à sa place. Certains démons se battront entre eux en chemin, aussi le moine vous a-t-il donné des instructions pour les traverser. Lisez l'instruction pour éviter les démons et atteindre le Temple de Narvas.	수도사는 대마법사 아가일라 플러리가 세 개로 나눠진 하우벅을 봉인한 나르바스 사원을 관리하고 있었다고 합니다. 그런데 신수의 날 이후 봉인에 틈이 생기고 그 틈 사이로 하우벅이 기운이 흘러 나왔다고 합니다. 하우벅의 기운을 탐지한 마족들은 나르바스 사원을 습격해 봉인된 하우벅을 깨우려 하고 있다고 합니다. 수도사는 자신을 대신해 하우벅이 봉인에서 풀려나지 않게 해달라고 합니다. 그런데 나르바스 사원으로 가는 길에 마족들끼리 서로 싸우고 있을 것이라 합니다. 이것을 뚫고 지나 갈 수 있도록 수도사가 메모지에 몇 가지 사항을 적어뒀습니다. 메모지를 읽고 마족을 피해 나르바스 사원으로 이동하세요.				
 QUEST_LV_0400_20171128_002753	Le moine vous a dit que l'archimage Agailla Flurry a divisé Hauberk en trois parties et les a scellées dans le Temple de Narvas. Cependant, après Medzio Diena, le sceau s'est fissuré et une partie de l'essence de Hauberk s'est échappée. Les démons alentour l'ont remarqué, et attaquent le temple pour réveiller complètement Hauberk. Le moine veut que vous empêchiez cela à sa place. Certains démons se battront entre eux en chemin, aussi le moine vous a-t-il donné des instructions pour les traverser. Lisez l'instruction pour éviter les démons et atteindre le Temple de Narvas.	수도사는 대마법사 아가일라 플러리가 세 개로 나눠진 하우벅을 봉인한 나르바스 사원을 관리하고 있었다고 합니다. 그런데 신수의 날 이후 봉인에 틈이 생기고 그 틈 사이로 하우벅이 기운이 흘러 나왔다고 합니다. 하우벅의 기운을 탐지한 마족들은 나르바스 사원을 습격해 봉인을 깨 하우벅을 깨우려 하고 있다고 합니다. 수도사는 자신을 대신해 하우벅이 봉인에서 풀려나지 않게 해달라고 합니다. 그런데 나르바스 사원으로 가는 길에 마족들끼리 서로 싸우고 있을 것이라 합니다. 이것을 뚫고 지나 갈 수 있도록 수도사가 메모지에 몇 가지 사항을 적어뒀습니다. 메모지를 읽고 마족을 피해 나르바스 사원으로 이동하세요.				
@@ -3119,7 +3119,7 @@ QUEST_LV_0400_20180827_003140	Nicopolis est isolée du monde extérieur par des 
 QUEST_LV_0400_20180827_003141	J'ai mené quelques recherches et trouvé dans la Ville étoilée des structures qui dégageaient une{nl}énergie inquiétante. Je suppose que cette énergie agite les monstres d'ici. Je veux supprimer{nl}l'énergie qui émane des structures. 	왜 그런가 싶어 확인을 해보니 이 곳, 스타리 타운에 있는 조형물들이 마법력을 뿜어 내고 있었어요.{nl}제 추측으로는 이 조형물에서 나온 마법력에 영향을 받아 몬스터들이 사나워진 것이 아닌가 싶어요.{nl}그래서 전 이 조형물들의 마법력을 통제하려고 해요.				오위니아 딜벤
 QUEST_LV_0400_20180827_003142	Voyageur. Pourriez-vous utiliser ces parchemins de blocage magique sur les sculptures de la{nl}Ville étoilée pour annuler l'énergie maléfique qu'elles dégagent ?	여행자님께서는 스타리 타운에 있는 조형물들에 마력 제어 주문서를 사용해 마법력이 더 이상 나오지 않게 해주세요.				오위니아 딜벤
 QUEST_LV_0400_20180827_003143	Je vais vous confier le soin de vous occuper des sculptures du Quartier des boutiques de magie,{nl}de la Place de la ville étoilée et du Terrain de Magija. J'irai utiliser les parchemins dans les zones{nl}restantes.	마법 상점가, 스타리 소광장, 마지아 공터, 슬로우브 삼거리에 있는 조형물을 부탁드려요.{nl}저는 다른 지역에 있는 조형물에 마력 제어 주문서를 사용하러 갈게요.				오위니아 딜벤
-QUEST_LV_0400_20180827_003144	Retrouvons-nous à Rue de Represijos quand nous aurons fini.	조형물들을 다 확인하면 레프레지호스 거리에서 만나기로 하죠.				오위니아 딜벤
+QUEST_LV_0400_20180827_003144	Retrouvons-nous dans la Rue de Represijos quand nous aurons fini.	조형물들을 다 확인하면 레프레지호스 거리에서 만나기로 하죠.				오위니아 딜벤
 QUEST_LV_0400_20180827_003145	On dirait que la sculpture est protégée par quelque chose. Examinez ses environs.	무엇인가에 보호를 받고 있는 것 같다. 주변을 확인해보자.				PC
 QUEST_LV_0400_20180827_003146	La structure semble protégée par un dispositif à proximité. Injectez dans le dispositif une boule{nl}d'électricité pour le surcharger.	장치에 보호를 받고 있는 것 같다. 주변에 있는 전기 구체를 장치에 넣어 과부화시키자.				PC
 QUEST_LV_0400_20180827_003147	La structure est immunisée contre la magie mais un étrange dispositif a surgi du sol.	조형물에 마력은 통하지 않고 이상한 장치가 올라왔다.				PC
@@ -3127,7 +3127,7 @@ QUEST_LV_0400_20180827_003148	On dirait que vous devez saisir un mot de passe po
 QUEST_LV_0400_20180827_003149	Vous devez examiner la Croisement de Raktas.	라크타스 삼거리 지역을 조사할 필요가 있다.				PC
 QUEST_LV_0400_20180827_003150	Examiner la Croisement de Raktas.	라크타스 삼거리를 조사 해보자.				PC
 QUEST_LV_0400_20180827_003151	Auguste Dupin	오귀스트 뒤팽				
-QUEST_LV_0400_20180827_003152	Bace est à la Croisement de Keista.	경비원 베이스는 키스타 삼거리에 있습니다.{nl}그에게서 목격 진술을 듣고 제게 알려주세요.				오귀스트 뒤팽
+QUEST_LV_0400_20180827_003152	Le garde Bace se trouve au Croisement de Keista. Recueillez son témoignage et venez me le{nl}rapporter.	경비원 베이스는 키스타 삼거리에 있습니다.{nl}그에게서 목격 진술을 듣고 제게 알려주세요.				오귀스트 뒤팽
 QUEST_LV_0400_20180827_003153	Garde Bace	경비경 베이스				
 QUEST_LV_0400_20180827_003154	Je l'ai perdu à la Croisement de Raktas.	그 자를 놓친 곳은 라크타스 삼거리에서 입니다.				경비경 베이스
 QUEST_LV_0400_20180827_003155	C'est une tâche difficile pour moi car je n'ai jamais traqué de personne possédée durant ma{nl}carrière de détective.	탐정 일을 여러 해 동안 해왔지만, 악령에 빙의된 자를 찾는 말도 안되는 일은 이번이 처음이라 힘드네요.				오귀스트 뒤팽
@@ -3164,7 +3164,7 @@ QUEST_LV_0400_20180827_003185	Les forces magiques qui entourent la cité de Nico
 QUEST_LV_0400_20180827_003186	Mage Ane	위저드 아네				
 QUEST_LV_0400_20180827_003187	Il n'y avait pas beaucoup de monstres à notre arrivée. Les monstres se sont multipliés depuis{nl}que nous avons commencé à veiller sur les pierres de barrière. Heureusement, nous n'avons{nl}jamais été attaqués par eux mais nous vivons dans la crainte qu'ils frappent à tout moment.	저희가 여기 처음 왔을 때보다는 몬스터가 그리 많지는 않았어요.{nl}결계석을 관리하는 일을 시작하고 나서부터는 몬스터 개체수가 부쩍 늘었어요.{nl}다행히 공격 받진 않았지만, 언제 공격을 받을까 늘 노심초사해요.				위저드 아네
 QUEST_LV_0400_20180827_003188	Sans ce qui s'est passé par le passé, Nicopolis aurait été une grande cité.	과거의 사고만 아니였다면 니코폴리스는 분명 살기 좋은 도시였을 거에요.				위저드 아네
-QUEST_LV_0400_20180827_003189	Quoi qu'il arrive quand vous échangerez les vieux documents de recherche contre les faux,{nl}revenez à Rue d'Avarija.	오래된 연구 기록지를 가짜로 바꾸는 과정에서 무슨 일이 생기시거든 이곳, 아바리아 거리로 오세요.				위저드 니디아
+QUEST_LV_0400_20180827_003189	Quoi qu'il arrive quand vous échangerez les vieux documents de recherche contre les faux,{nl}revenez dans la Rue d'Avarija.	오래된 연구 기록지를 가짜로 바꾸는 과정에서 무슨 일이 생기시거든 이곳, 아바리아 거리로 오세요.				위저드 니디아
 QUEST_LV_0400_20180827_003190	Je dois suivre le sort de pistage sur le Quipmage et l'empêcher d'accomplir le rituel.	큅메이지에게 붙어 있는 추적 마법을 쫓아서 그가 의식을 치르지 못하도록 막아야 해요.				위저드 알도니
 QUEST_LV_0400_20180827_003191	Le Quipmage a failli m'avoir.	하마터면 큅메이지에게 당할 뻔 했어요.				위저드 아네
 QUEST_LV_0400_20180827_003192	Je n'aurais jamais cru finir par combattre des monstres... Je ne savais pas que ce travail{nl}deviendrait si dangereux.	몬스터와 대치해서 싸우게 될 줄이야...{nl}제 스스로가 너무 위험한 일을 하는거 같아 무서워요.				위저드 아네
@@ -4077,14 +4077,14 @@ QUEST_LV_0400_20180827_004098	Les démons ont été vaincus.{nl}Reparlez à Byle
 QUEST_LV_0400_20180827_004099	Le commandant de la Résistance Byle veut préparer ses soldats à la prise du 20F.{nl}Parlez à Byle.	저항군 총사령관 바일은 본격적으로 20층을 장악하기 위한 준비를 하려고 합니다.{nl}바일과 이야기하세요.				
 QUEST_LV_0400_20180827_004100	Vaincre les Monstres Alentour et Arrêter le Dispositif de Protection	주변 몬스터 처치 및 보호 장치의 작동 정지				
 QUEST_LV_0400_20180827_004101	Byle croit que les dispositifs de protection doivent d'abord être éteints pour retirer les défenses de l'étage.{nl}Vainquez les démons des Lodge 1 et 2 et éteignez-y les dispositifs de protection.	바일은 장로 아다욱스에게서 들은 이야기를 토대로 방어 장치를 보호하고 있는 보호 장치의 작동부터 멈춰야한다고 합니다.{nl}우선 가장 가까운 숙소 1호실, 2호실에 있는 보호 장치 주변의 마족들을 처치 후 보호 장치의 작동을 멈춰주세요.				
-QUEST_LV_0400_20180827_004102	Byle dit que le dispositif de protection du Lodge 3 a une protection supplémentaire qui doit d'abord être défaite.{nl}Vainquez les démons près du Lodge 3 pour obtenir des Parchemins suspects et utilisez-les pour trouver et détruire la source de magie afin de retirer la barrière autour du dispositif de protection.	바일은 숙소 3호실에 있는 보호 장치에는 추가적인 보호가 걸려있으니 이를 먼저 해결해야한다고 합니다.{nl}숙소 3호실 주변에 있는 마족들을 물리쳐 수상한 스크롤을 얻은 뒤, 이를 이용하여 숨겨진 마력원을 찾아 제거하여 보호 장치의 보호막을 없애주세요.				
+QUEST_LV_0400_20180827_004102	Byle dit que le dispositif de protection du Logement 3 a une protection supplémentaire qui doit d'abord être défaite.{nl}Vainquez les démons près du Logement 3 pour obtenir des Parchemins suspects et utilisez-les pour trouver et détruire la source de magie afin de retirer la barrière autour du dispositif de protection.	바일은 숙소 3호실에 있는 보호 장치에는 추가적인 보호가 걸려있으니 이를 먼저 해결해야한다고 합니다.{nl}숙소 3호실 주변에 있는 마족들을 물리쳐 수상한 스크롤을 얻은 뒤, 이를 이용하여 숨겨진 마력원을 찾아 제거하여 보호 장치의 보호막을 없애주세요.				
 QUEST_LV_0400_20180827_004103	Utiliser les parchemins suspects pour trouver et retirer la source de magie	수상한 스크롤을 이용하여 숨겨진 마력원 제거				
 QUEST_LV_0400_20180827_004104	Éteindre le Dispositif Protecteur	보호 장치의 작동을 정지				
-QUEST_LV_0400_20180827_004105	Vous avez retiré la barrière autour du dispositif de protection du Lodge 3.{nl}Rendez-vous au dispositif de protection et éteignez-le.	숙소 3호실에 있는 보호 장치의 보호막을 없앴습니다.{nl}보호 장치에 가서 작동을 멈춰주세요.				
+QUEST_LV_0400_20180827_004105	Vous avez retiré la barrière autour du dispositif de protection du Logement 3.{nl}Rendez-vous au dispositif de protection et éteignez-le.	숙소 3호실에 있는 보호 장치의 보호막을 없앴습니다.{nl}보호 장치에 가서 작동을 멈춰주세요.				
 QUEST_LV_0400_20180827_004106	Aller au dispositif de protection du Pavillon 4 et essayer de l'éteindre.	숙소 4호실에 있는 보호 장치에 가서 보호 장치를 조사하여 작동을 멈춰보세요.				
 QUEST_LV_0400_20180827_004107	Examiner le Dispositif de Protection du Pavillon 4	숙소 4호실의 보호 장치를 조사				
 QUEST_LV_0400_20180827_004108	Éteindre le Dispositif de Protection du Pavillon 4	숙소 4호실의 보호 장치의 작동 정지				
-QUEST_LV_0400_20180827_004109	Vous avez retiré le sceau qui protégeait le dispositif de protection du Lodge 4.{nl}Éteignez le dispositif de protection.	숙소 4호실에 있는 보호 장치의 결계를 없앴습니다.{nl}보호 장치에 가서 작동을 멈춰주세요.				
+QUEST_LV_0400_20180827_004109	Vous avez retiré le sceau qui protégeait le dispositif de protection du Logement 4.{nl}Éteignez le dispositif de protection.	숙소 4호실에 있는 보호 장치의 결계를 없앴습니다.{nl}보호 장치에 가서 작동을 멈춰주세요.				
 QUEST_LV_0400_20180827_004110	Vous avez éteint tous les dispositifs de protection.{nl}Faites votre rapport à Byle.	모든 보호 장치의 작동을 멈췄습니다.{nl}바일에게 돌아가 보고하세요.				
 QUEST_LV_0400_20180827_004111	Vaincre le Gardien qui Protège le Dispositif Défensif	방어 장치를 지키는 수호자 처치				
 QUEST_LV_0400_20180827_004112	Byle a confirmé que tous les dispositifs de protection ont été arrêtés et veut se rendre à la salle de contrôle du 20F où se trouve le dispositif défensif.{nl}Il avertit qu'il y aura un gardien pour protéger le dispositif.{nl}Vainquez le gardien et obtenez le levier du dispositif défensif.	바일은 보호 장치가 모두 정지된 걸 확인했다며 이제 방어 장치가 있는 20층 제어실로 이동하자고 합니다.{nl}단, 여태 그래왔듯 이번에도 수호자가 지키고 있을테니 조심하라고 합니다.{nl}방어 장치를 지키는 수호자를 처치하고 방어 장치의 레버를 획득하세요.				
@@ -4660,7 +4660,7 @@ QUEST_LV_0400_20190104_004681	La barrière invisible doit être retirée à tout
 QUEST_LV_0400_20190104_004682	Boruta	드래곤 보루타				
 QUEST_LV_0400_20190104_004683	La Faim Engendre l'Angoisse	배고픔은 불안을 느낀다				
 QUEST_LV_0400_20190104_004684	Parler à Kupole Kaze	큐폴 카제와 대화				
-QUEST_LV_0400_20190104_004685	Kupole Kaze vous attend à Plateau de Vedas.	베다 고원에서 큐폴 카제가 당신의 지원을 기다리고 있습니다				
+QUEST_LV_0400_20190104_004685	Kupole Kaze vous attend au Plateau de Vedas.	베다 고원에서 큐폴 카제가 당신의 지원을 기다리고 있습니다				
 QUEST_LV_0400_20190104_004686	Prendre des nouvelles de Boruta	보루타의 동태 확인				
 QUEST_LV_0400_20190104_004687	Kupole Kaze vous a demandé de prendre des nouvelles de Boruta au Repaire de Sulivinas.	큐폴 카제는 슬리비나스 레어에 진입하여 보루타의 동태를 확인하고 돌아와 달라고 부탁했습니다				
 QUEST_LV_0400_20190104_004688	Vous avez pris des nouvelles de  Boruta. Retournez voir Kupole Kaze.	보루타의 동태를 확인했습니다. 큐폴 카제에게 돌아가세요				
@@ -5361,7 +5361,7 @@ QUEST_LV_0400_20190419_005382	Je peux vous aider à chercher.	수색을 돕겠�
 QUEST_LV_0400_20190419_005383	Non, je ne peux pas faire cela.	더는 볼일이 없다고 말한다.				
 QUEST_LV_0400_20190419_005384	Qu'est-ce que la relique	유물의 정체				
 QUEST_LV_0400_20190419_005385	Je vais regarder autour.	주변을 살펴본다.				
-QUEST_LV_0400_20190419_005386	Je ne sens rien.	아무것도 느껴지지 않는다고 말한다.				
+QUEST_LV_0400_20190419_005386	Je ne sens rien du tout.	아무것도 느껴지지 않는다고 말한다.				
 QUEST_LV_0400_20190419_005387	Je vais me rendre au camp.	주둔지로 이동한다.				
 QUEST_LV_0400_20190419_005388	J'attendrai que vous vous rétablissiez.	회복할 때까지 기다린다.				
 QUEST_LV_0400_20190419_005389	Le Gardien du Lac	수역을 지키는 자				
@@ -5370,7 +5370,7 @@ QUEST_LV_0400_20190419_005391	Désolé, j'ai beaucoup à faire.	갈 길이 바�
 QUEST_LV_0400_20190419_005392	Acquérir des Ressources	자원 확보				
 QUEST_LV_0400_20190419_005393	Prendre les Devants	주도권 잡기				
 QUEST_LV_0400_20190419_005394	J'accepte.	수락한다.				
-QUEST_LV_0400_20190419_005395	CœUr Craintif	두려운 마음				
+QUEST_LV_0400_20190419_005395	Cœur Craintif	두려운 마음				
 QUEST_LV_0400_20190419_005396	Je leur parlerai, ne vous inquiétez pas.	격려하고 오겠다.				
 QUEST_LV_0400_20190419_005397	Oh non, je suis trop timide...	부끄럽다고 말한다.				
 QUEST_LV_0400_20190419_005398	Élève Inquiétant	걱정되는 제자				
@@ -5691,7 +5691,7 @@ QUEST_LV_0400_20190419_005712	Apollonius veut partager la potion et commencer l'
 QUEST_LV_0400_20190419_005713	Se Transformer et Espionner les Monstres	몬스터로 변신하여 몬스터에게 정보 수집				
 QUEST_LV_0400_20190419_005714	Apollonius veut que vous utilisiez la potion pour récolter des informations auprès des monstres. Déguisez-vous avec la potion et amenez les monstres par ruse à vous parler.	아폴로니유스가 변신 시약병을 이용해 몬스터에게 정보를 수집해달라고 합니다. 시약병을 이용하여 몬스터로 변신해 몬스터를 속여 정보를 수집해오세요.				
 QUEST_LV_0400_20190419_005715	Vous avez récolté assez d'informations. Retournez faire un rapport à Apollonius.	정보를 수집했습니다. 아폴로니유스에게 돌아가 정보를 알려주세요.				
-QUEST_LV_0400_20190419_005716	Apollonius semble inquiet. Parlez-lui.	샤펜스타 부관 아폴로니유스가 심각한 표정을 짓고 있습니다. 아폴로니유스와 대화하세요.				
+QUEST_LV_0400_20190419_005716	Le lieutenant Apollonius, de Schaffenstar, affiche une mine grave. Parlez à Apollonius.	샤펜스타 부관 아폴로니유스가 심각한 표정을 짓고 있습니다. 아폴로니유스와 대화하세요.				
 QUEST_LV_0400_20190419_005717	Dire au Soldat Schaffenstar d'Allumer le Feu de Signal	샤펜스타 단원에게 봉화를 올리도록 요청				
 QUEST_LV_0400_20190419_005718	Apollonius veut que vous disiez au soldat d'allumer le feu de signal et d'alerter les autres.	아폴로니유스 옆에 있는 단원에게 상황을 전달하고 봉화를 올릴 것을 요청했다고 합니다.				
 QUEST_LV_0400_20190419_005719	Interroger l'adjudant de la Résistance Benjaminas à Barynwell 85 Eaux	바린웰 85지역에 있는 저항군 부관 벤자미나스에게 전달				
@@ -5723,7 +5723,7 @@ QUEST_LV_0400_20190419_005744	Malédiction, disparais !	저주여, 물렀거라
 QUEST_LV_0400_20190419_005745	L'esprit du soldat royal veut vous dire comment atteindre la source de la malédiction. Parlez-lui.	왕국 병사의 영혼은 이제 사악한 기운이 시작되는 지역으로 가는 방법을 알려주려고 합니다. 왕국 병사의 영혼과 대화하세요.				
 QUEST_LV_0400_20190419_005746	Désactiver la Barrière de l'Appareillage	개폐 장치에 걸린 방어막 해제				
 QUEST_LV_0400_20190419_005747	Afin d'atteindre l'appareillage, vous devez résoudre une énigme ! Manœuvrez les piliers dans l'ordre où ils brillent pour désactiver la barrière autour de l'appareillage.	개폐 장치를 작동시키기 위해서는 수수께끼를 풀어내야 합니다! 주변의 기둥이 빛을 발하는 순서대로 똑같이 작동시켜 개폐 장치의 방어막을 전부 없애주세요.				
-QUEST_LV_0400_20190419_005748	ManœUvrer l'Appareillage	개폐 장치를 작동				
+QUEST_LV_0400_20190419_005748	Manœuvrer l'Appareillage	개폐 장치를 작동				
 QUEST_LV_0400_20190419_005749	La barrière a disparu ! Maintenant, manœuvrez l'appareillage pour ouvrir la porte du Laboratoire du sergent instructeur.	무사히 방어막을 없앴습니다! 이제 개폐 장치를 작동시켜 교관 전용 연구실로 가는 문을 열어주세요.				
 QUEST_LV_0400_20190419_005750	Manœuvrez l'appareillage pour ouvrir la porte du Laboratoire du sergent instructeur, où se trouve la source de la malédiction.	개폐 장치를 작동하여 사악한 기운이 시작되는 교관 전용 연구실로 가기 위한 닫힌 문을 열어주세요.				
 QUEST_LV_0400_20190419_005751	Vaincre le Char de Vel Dément	미쳐버린 벨스채리옷 격파				
@@ -6142,27 +6142,27 @@ QUEST_LV_0400_20200129_006163	Utiliser l'orbe de la Déesse Austeja dans le quat
 QUEST_LV_0400_20200129_006164	La Déesse Austeja veut que vous fouilliez le quatrième hall.{nl}Rendez-vous au quatrième hall et utilisez l'orbe.	아우스테야 여신은 아직 확인하지 못한 제 4 연회장을 확인해 달라고 합니다.{nl}제 4 연회장으로 가서 아우스테야 여신의 보주를 사용해 보세요.				
 QUEST_LV_0400_20200129_006165	Parler au Roi Démon Baiga	마왕 바이가와 대화				
 QUEST_LV_0400_20200129_006166	Suivre Baiga	바이가를 쫓아가기				
-QUEST_LV_0400_20200129_006167	Baiga veut que vous veniez le trouver.{nl}Cherchez Baiga.	바이가는 비에니베 대주랑을 지나 자신을 찾아오라고 얘기합니다.{nl}비에니베 대주랑을 지나 바이가를 찾아보세요.				
+QUEST_LV_0400_20200129_006167	Baiga vous demande de le rejoindre en passant par le Parvis de Vienibe.{nl}Traversez le Parvis de Vienibe et retrouvez Baiga.	바이가는 비에니베 대주랑을 지나 자신을 찾아오라고 얘기합니다.{nl}비에니베 대주랑을 지나 바이가를 찾아보세요.				
 QUEST_LV_0400_20200129_006168	Se Rendre à la Salle de Banquet	연회장으로 이동				
 QUEST_LV_0400_20200129_006169	Baiga veut que vous le suiviez jusqu'à la salle de banquet. Allez-y.	바이가는 연회장으로 자신을 따라오라고 얘기합니다. 연회장으로 이동하세요.				
-QUEST_LV_0400_20200129_006170	Se rendre au mur intérieur de la forteresse haute	제 2 소형 홀 근처로 이동				
-QUEST_LV_0400_20200129_006171	La Déesse Austeja dit qu'elle sent Kartas à l'intérieur des murs de la forteresse supérieure. Rendez-vous-y.	바이가는 제 2 소형 홀 근처로 자신을 찾아오라고 합니다.{nl}제 2 소형 홀 근처에서 바이가를 찾아보세요.				
-QUEST_LV_0400_20200129_006172	Le Maître Chronomancien Lucid Winterspoon appelle tous les Révélateurs. Allez voir Lucid Winterspoon pour savoir ce qu'elle veut.	무너진 옛 초소로 이동				
-QUEST_LV_0400_20200129_006173	Le Maître Chronomancien a appelé tous les Révélateurs afin d'observer le passé pour découvrir ce que Baiga prépare. Rendez visite à Lucid Winterspoon quand vous serez prêt à l'aider.	아우스테야 여신은 이 지역에서 신성한 기운이 어렴풋이 느껴진다고 이야기합니다. 먼저 무너진 옛 초소로 가서 특이한 점은 없는지 살펴보세요.				
-QUEST_LV_0400_20200129_006174	Se Rendre au Second Hall	아우스테야 여신은 이 지역에 신성한 기운이 어렴풋이 느껴진다고 얘기합니다. 먼저 무너진 옛 초소로 가서 특이한 점은 없는지 살펴보세요.				
-QUEST_LV_0400_20200129_006175	Baiga veut que vous le rejoigniez dans le second hall.{nl}Allez voir Baiga dans le second hall.	리우드나스 공터로 이동				
-QUEST_LV_0400_20200129_006176	Aller à la Vieille Forteresse en Ruine	무너진 옛 초소에서는 신수의 뿌리를 찾을 수 없었습니다.{nl}리우드나스 공터로 가서 신수의 뿌리를 찾아보세요.				
-QUEST_LV_0400_20200129_006177	La Déesse Austeja dit qu'elle sent une énergie divine dans la zone. Rendez-vous à la vieille forteresse en ruine et enquêtez.	수상한 장치 확인				
-QUEST_LV_0400_20200129_006178	La Déesse Austeja dit qu'elle sent une énergie divine dans la zone. Rendez-vous à la vieille forteresse en ruine et enquêtez.	무너진 옛 초소에서는 신수의 뿌리를 찾을 수 없었고, 리우드나스 공터에 수상한 장치들을 발견했습니다.{nl}장치들에 비밀이 있진 않을지 살펴보세요.				
-QUEST_LV_0400_20200129_006179	Se Rendre au Terrain de Liudnas	리우드나스 공터에 수상한 장치들을 발견했습니다.{nl}장치들에 비밀이 있진 않을지 살펴보세요.				
-QUEST_LV_0400_20200129_006180	Vous n'avez pas pu trouver la racine de l'Arbre divin.{nl}Rendez-vous au Terrain de Liudnas pour chercher la racine.	신수의 뿌리 확인				
-QUEST_LV_0400_20200129_006181	Examiner l'étrange dispositif	장치들의 비밀을 풀어내자 신수의 뿌리가 나타났습니다.{nl}신수의 뿌리를 확인하세요.				
-QUEST_LV_0400_20200129_006182	Vous n'avez pas pu trouver la racine de l'Arbre divin mais vous avez trouvé d'étranges dispositifs.{nl}Examinez les dispositifs à la recherche de secrets cachés.	카르타스의 기운을 쫓기				
-QUEST_LV_0400_20200129_006183	Vous avez trouvé d'étranges dispositifs au Terrain de Liudnas.{nl}Examinez les dispositifs.	아우스테야 여신은 카르타스의 기운을 쫓아가자고 합니다.{nl}아우스테야 여신과 함께 카르타스의 기운을 쫓아가세요.				
-QUEST_LV_0400_20200129_006184	Examiner la Racine de l'Arbre Divin	요새 상층부 내벽으로 이동				
-QUEST_LV_0400_20200129_006185	Vous avez percé le secret des dispositifs.{nl}Examinez la racine de l'Arbre divin.	아우스테야 여신은 요새 상층부 내벽 위에 카르타스의 기운이 강하게 느껴진다고 합니다. 어서 요새 상층부 내벽으로 이동하세요.				
-QUEST_LV_0400_20200129_006186	Suivre Kartas	크로노맨서 마스터 루시드 윈터스푼이 계시자들을 불러모으고 있다는 소식이 있습니다. 무슨 일이 있는지 루시드 윈터스푼에게 찾아가 보세요.				
-QUEST_LV_0400_20200129_006187	La Déesse Austeja veut poursuivre Kartas.{nl}Suivez Kartas avec la Déesse Austeja.	크로노맨서 마스터는 과거의 시간을 관찰하여 마왕 바이가의 계획을 알아내기 위해서 계시자들을 모았다고 합니다. 루시드 윈터스푼을 도울 준비를 마치면 찾아가 그녀와 대화하세요.				
+QUEST_LV_0400_20200129_006170	Se Rendre au Second Hall	제 2 소형 홀 근처로 이동				
+QUEST_LV_0400_20200129_006171	Baiga veut que vous le rejoigniez dans le second hall.{nl}Allez voir Baiga dans le second hall.	바이가는 제 2 소형 홀 근처로 자신을 찾아오라고 합니다.{nl}제 2 소형 홀 근처에서 바이가를 찾아보세요.				
+QUEST_LV_0400_20200129_006172	Aller à la Vieille Forteresse en Ruine	무너진 옛 초소로 이동				
+QUEST_LV_0400_20200129_006173	La Déesse Austeja dit qu'elle sent une énergie divine dans la zone. Rendez-vous à la vieille forteresse en ruine et enquêtez.	아우스테야 여신은 이 지역에서 신성한 기운이 어렴풋이 느껴진다고 이야기합니다. 먼저 무너진 옛 초소로 가서 특이한 점은 없는지 살펴보세요.				
+QUEST_LV_0400_20200129_006174	La Déesse Austeja dit qu'elle sent une énergie divine dans la zone. Rendez-vous à la vieille forteresse en ruine et enquêtez.	아우스테야 여신은 이 지역에 신성한 기운이 어렴풋이 느껴진다고 얘기합니다. 먼저 무너진 옛 초소로 가서 특이한 점은 없는지 살펴보세요.				
+QUEST_LV_0400_20200129_006175	Se Rendre au Terrain de Liudnas	리우드나스 공터로 이동				
+QUEST_LV_0400_20200129_006176	Vous n'avez pas pu trouver la racine de l'Arbre divin.{nl}Rendez-vous au Terrain de Liudnas pour chercher la racine.	무너진 옛 초소에서는 신수의 뿌리를 찾을 수 없었습니다.{nl}리우드나스 공터로 가서 신수의 뿌리를 찾아보세요.				
+QUEST_LV_0400_20200129_006177	Examiner l'étrange dispositif	수상한 장치 확인				
+QUEST_LV_0400_20200129_006178	Vous n'avez pas pu trouver la racine de l'Arbre divin mais vous avez trouvé d'étranges dispositifs.{nl}Examinez les dispositifs à la recherche de secrets cachés.	무너진 옛 초소에서는 신수의 뿌리를 찾을 수 없었고, 리우드나스 공터에 수상한 장치들을 발견했습니다.{nl}장치들에 비밀이 있진 않을지 살펴보세요.				
+QUEST_LV_0400_20200129_006179	Vous avez trouvé d'étranges dispositifs au Terrain de Liudnas.{nl}Examinez les dispositifs.	리우드나스 공터에 수상한 장치들을 발견했습니다.{nl}장치들에 비밀이 있진 않을지 살펴보세요.				
+QUEST_LV_0400_20200129_006180	Examiner la Racine de l'Arbre Divin	신수의 뿌리 확인				
+QUEST_LV_0400_20200129_006181	Vous avez percé le secret des dispositifs.{nl}Examinez la racine de l'Arbre divin.	장치들의 비밀을 풀어내자 신수의 뿌리가 나타났습니다.{nl}신수의 뿌리를 확인하세요.				
+QUEST_LV_0400_20200129_006182	Suivre Kartas	카르타스의 기운을 쫓기				
+QUEST_LV_0400_20200129_006183	La Déesse Austeja veut poursuivre Kartas.{nl}Suivez Kartas avec la Déesse Austeja.	아우스테야 여신은 카르타스의 기운을 쫓아가자고 합니다.{nl}아우스테야 여신과 함께 카르타스의 기운을 쫓아가세요.				
+QUEST_LV_0400_20200129_006184	Se rendre au mur intérieur de la forteresse haute	요새 상층부 내벽으로 이동				
+QUEST_LV_0400_20200129_006185	La Déesse Austeja dit qu'elle sent Kartas à l'intérieur des murs de la forteresse supérieure. Rendez-vous-y.	아우스테야 여신은 요새 상층부 내벽 위에 카르타스의 기운이 강하게 느껴진다고 합니다. 어서 요새 상층부 내벽으로 이동하세요.				
+QUEST_LV_0400_20200129_006186	Le Maître Chronomancien Lucid Winterspoon appelle tous les Révélateurs. Allez voir Lucid Winterspoon pour savoir ce qu'elle veut.	크로노맨서 마스터 루시드 윈터스푼이 계시자들을 불러모으고 있다는 소식이 있습니다. 무슨 일이 있는지 루시드 윈터스푼에게 찾아가 보세요.				
+QUEST_LV_0400_20200129_006187	Le Maître Chronomancien a appelé tous les Révélateurs afin d'observer le passé pour découvrir ce que Baiga prépare. Rendez visite à Lucid Winterspoon quand vous serez prêt à l'aider.	크로노맨서 마스터는 과거의 시간을 관찰하여 마왕 바이가의 계획을 알아내기 위해서 계시자들을 모았다고 합니다. 루시드 윈터스푼을 도울 준비를 마치면 찾아가 그녀와 대화하세요.				
 QUEST_LV_0400_20200514_006188	Il sera difficile de percer à travers les démons. Brûler leur camp attirerait peut-être leur attention. Nous avons assez de fleurs Sporgimo pour brûler tout leur camp. Placez les fleurs Sporgimo dans leurs installations.	마족들이 싸우는 곳을 뚫고 가기는 어려워 보입니다. 먼저 마족의 진지를 불 태워 그들의 눈을 돌리는 게 좋겠습니다. 마족의 진지를 불 태우기 위해 필요한 스포르기모 꽃을 모두 구했습니다. 마족의 시설물이 있는 지역에 스포르기모 꽃을 놓으세요.	QUEST_LV_0400_20171128_002762	Vous avez appris que passer directement à travers les démons n'est pas un plan viable. Brûlez plutôt leur camp d'abord pour créer une diversion. Vous avez récolté assez de fleurs Sporgimo. Placez-les près du camp.	마족들이 싸우는 곳을 뚫고 가기는 어려워 보입니다. 먼저 마족의 진지를 불 태워 그들의 눈을 돌리는 게 좋겠습니다. 마족의 진지를 불 태우기 위해 필요한 스포르기모 꽃을 모두 구했습니다. 마족의 시설물 근처에 스포르기모 꽃을 놓으세요.	
 QUEST_LV_0400_20200710_006189	La déesse Medeina craint encore que la graine de l'Arbre divin ne tombe entre les mains de quelqu'un comme Kartas.{nl}Afin de n'utiliser la graine que pour la guérison, le reste de ses pouvoirs doit être scellé. Les outils pour cela sont déjà préparés dans cette région.{nl}Activez l'autel de la déesse afin de sceller l'énergie de la graine.	메데이나 여신은 신수의 씨앗이 카르타스나 다른 누군가에게 강제로 빼앗겨 악의적으로 사용될 것을 염려합니다.{nl}그리고는 씨앗을 오로지 본인의 치료로만 사용되도록 씨앗의 기운을 봉인하는 과정이 필요하며 그러한 준비를 이미 이 지역에 마련해 놓았다고 합니다.{nl}파슬립티스 공터에 마련된 제단들을 활성화하고 신수의 씨앗의 기운을 봉인하세요.	QUEST_LV_0400_20190419_005816	La déesse Medeina craint encore que la graine de l'Arbre divin ne tombe entre les mains de quelqu'un comme Kartas.{nl}Afin de n'utiliser la graine que pour la guérison, le reste de ses pouvoirs doit être scellé, et les outils pour cela se trouvent dans cette région.{nl}Activez l'autel de la déesse afin de sceller l'énergie de la graine.	메데이나 여신은 신수의 씨앗이 카르타스나 다른 누간가에게 강제로 빼앗겨 악의적으로 사용될 것을 염려합니다.{nl}그리고는 씨앗을 오로지 본인의 치료로만 사용되도록 씨앗의 기운을 봉인하는 과정이 필요하며 그러한 준비를 이미 이 지역에 마련해 놓았다고 합니다.{nl}파슬립티스 공터에 마련된 제단들을 활성화하고 신수의 씨앗의 기운을 봉인하세요.	
 QUEST_LV_0400_20200826_006190	D'après les éclaireurs, ils ont repéré une lueur rouge qui ressemblait à un portail dans la Salle{nl}des machines au 1F. Pourriez-vous aller l'éliminer ?	대원들의 보고에 따르면 1층 동력실에서 마족의 포탈로 보이는 붉은빛을 띠는 것이 있었다고 하더군요.{nl}계시자님께서 그걸 제거해 주실 수 있겠습니까?	QUEST_LV_0400_20181017_004531	D'après les éclaireurs, ils ont repéré une lueur rouge qui ressemblait à un portail dans la Salle{nl}des machines au 1F. Pourriez-vous aller y jeter un œil pour moi ?	대원들의 보고에 따르면 1층 동력실에서 마족의 포탈로 보이는 붉은빛을 띠는 것이 있었다고 하더군요.{nl}계시자님께서 가셔서 한번 확인해주시겠습니까?	저항군 부사령관 크론
@@ -6264,7 +6264,7 @@ QUEST_LV_0400_20210115_006285	La pierre tombale a l'air assez lourde, vous ferie
 QUEST_LV_0400_20210115_006286	Seules les parties ombragées de cette pierre tombale sont visibles. Y a-t-il quelque chose{nl}alentour pour faire de l'ombre ?	이 비석은 그림자가 드리워진 부분만 내용이 보여요.{nl}주변에 그림자를 만들만한 게 있을까요?				뮬리아
 QUEST_LV_0400_20210115_006287	Récoltons des branches alentour. Mais chaque objet ici a dû éroder la magie des Bower au fil de{nl}centaines d'années.	주변에서 나뭇가지를 모아보죠.{nl}하지만 이 주변에 있는 모든 물건에는 바우어들의 마력이 수 백 년에 걸쳐 침식했을 겁니다.				랑다 마스터
 QUEST_LV_0400_20210115_006288	Prenez soin de Mulia et avancez prudemment, je vous prie.	뮬리아를 신경 써서 조심히 옮겨주세요.				랑다 마스터
-QUEST_LV_0400_20210115_006289	Revelator..	계시자님..				랑다 마스터
+QUEST_LV_0400_20210115_006289	Révélateur..	계시자님..				랑다 마스터
 QUEST_LV_0400_20210115_006290	Je m'inquiète de l'état de Mulia. Elle va de plus en plus mal depuis notre arrivée ici.	뮬리아의 몸 상태가 걱정입니다.{nl}여기에 온 이후로 더욱더 빠르게 몸 상태가 나빠지고 있어요.				랑다 마스터
 QUEST_LV_0400_20210115_006291	Rester ici n'est pas bon pour Mulia.	이 장소에 머무는 건 뮬리아에게 안 좋습니다.				랑다 마스터
 QUEST_LV_0400_20210115_006292	Maître..je vais bien.	마스터님.. 저는 괜찮아요.				뮬리아
@@ -6376,7 +6376,7 @@ QUEST_LV_0400_20210115_006397	Le Dernier Dispositif de Protection (3)	마지막 
 QUEST_LV_0400_20210115_006398	Je vais répandre l'essence.	정수를 뿌리고 오겠다고 한다.				
 QUEST_LV_0400_20210115_006399	Je ne suis pas prêt à répandre l'essence.	아직 정수를 뿌릴 준비가 안 되었다고 한다.				
 QUEST_LV_0400_20210115_006400	Le Dernier Dispositif de Protection (4)	마지막 보호 장치(4)				
-QUEST_LV_0400_20210115_006401	Cachons-nous.	어서 자리를 피해 숨어있자자고 한다.				
+QUEST_LV_0400_20210115_006401	Filons vite d'ici et cachons-nous.	어서 자리를 피해 숨어있자자고 한다.				
 QUEST_LV_0400_20210115_006402	Je vérifierai de nouveau si l'essence est correctement répandue. 	정수가 제대로 뿌려졌는지 한 번 더 확인하겠다고 한다.				
 QUEST_LV_0400_20210115_006403	Le Dernier Dispositif de Protection (5)	마지막 보호 장치(5)				
 QUEST_LV_0400_20210115_006404	Encourager Mulia.	뮬리아를 격려해준다.				

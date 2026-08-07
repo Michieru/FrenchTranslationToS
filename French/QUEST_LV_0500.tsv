@@ -346,7 +346,7 @@ QUEST_LV_0500_20210115_000345	Je suis content que vous ayez l'air d'aller bien.	
 QUEST_LV_0500_20210115_000346	Je vois. Orsha a de nouveau été aidée par le Révélateur.	그렇군요.{nl}오르샤는 이렇게 또 한 번 계시자님의 도움을 받게되었군요.				[오르샤 영주]이네사 해먼데일
 QUEST_LV_0500_20210115_000347	Merci au nom d'Orsha et de la province de Kiren. Au moins Orsha a gagné du temps pour se{nl}préparer à la prochaine bataille.	오르샤와 키렌 지방을 대표하여 감사드립니다.{nl}적어도 우리 오르샤는 다음 전투를 준비할 시간을 벌었습니다.				[오르샤 영주]이네사 해먼데일
 QUEST_LV_0500_20210115_000348	Beaucoup de gens ont été blessés et se sont effondrés, mais nous ne resterons pas les bras croisés.{nl}Après avoir sauvé les gens qui n'ont pas évacué l'heure de la contre-attaque viendra.	많은 이들이 다치고 쓰러졌지만, 이대로 우리는 당하고만 있지는 않을 겁니다.{nl}아직 피난하지 못한 사람들을 구하고 나면{nl}반격의 시간이 오겠지요.				[오르샤 영주]이네사 해먼데일
-QUEST_LV_0500_20210115_000349	Merci encore au Révélateur.	계시자님께 다시 한 번 감사의 말씀을 드리겠습니다.				[오르샤 영주]이네사 해먼데일
+QUEST_LV_0500_20210115_000349	Permettez-moi de vous remercier encore une fois, Révélateur.	계시자님께 다시 한 번 감사의 말씀을 드리겠습니다.				[오르샤 영주]이네사 해먼데일
 QUEST_LV_0500_20210115_000350	Les démons n'attaqueront pas directement Orsha pour l'instant.	당분간은 마족들이 오르샤를 직접 공격하는 일은 없을 겁니다.				여신 라다
 QUEST_LV_0500_20210115_000351	Mais Révélateur, vous savez bien que cette paix précaire ne durera pas longtemps.	하지만 이 위태로운 평화가 오래가지 못할 것은 계시자, 그대도 잘 알고 있겠지요.				여신 라다
 QUEST_LV_0500_20210115_000352	Vous avez été fidèle à votre devoir de protéger Orsha. J'ai moi aussi été assez responsable.	당신은 오르샤를 지키는 임무에 충실히 임했고,{nl}저 또한 충분할 만큼 책임을 질 수 있었습니다.				여신 라다
@@ -563,7 +563,7 @@ QUEST_LV_0500_20210115_000562	[Hebdomadaire] Annihilation - Monstre de taille mo
 QUEST_LV_0500_20210115_000563	[Hebdomadaire] Annihilation - Monstre de petite taille	[주간] 섬멸 - 소형 몬스터				
 QUEST_LV_0500_20210115_000564	[Hebdomadaire] Annihilation - Purification d'Orsha	[주간] 섬멸 - 오르샤 정화				
 QUEST_LV_0500_20210115_000565	[Hebdomadaire] Conquête - Vestiges de Bernice	[주간] 정복 - 베르니케 파편 던전				
-QUEST_LV_0500_20210115_000566	[Hebdomadaire] Conquête - Donjon Assister	[주간] 정복 - 어시스터 던전				
+QUEST_LV_0500_20210115_000566	[Hebdomadaire] Conquête - Donjon Assistant	[주간] 정복 - 어시스터 던전				
 QUEST_LV_0500_20210115_000567	[Hebdomadaire] Conquête - Chasse Solitaire	[주간] 정복 - 1인 레이드				
 QUEST_LV_0500_20210115_000568	[Hebdomadaire] Conquête - Raid Legend	[주간] 정복 - 레전드 레이드				
 QUEST_LV_0500_20210115_000569	[Hebdomadaire] Conquête - Raid de Boss Hebdomadaire	[주간] 정복 - 주간 보스 레이드				
@@ -743,7 +743,7 @@ QUEST_LV_0500_20210115_000742	Vaincre les monstres de petite taille de la zone d
 QUEST_LV_0500_20210115_000743	Vaincre 8000 monstres dans la zone de l'Épisode 13	Episode13 지역에서 몬스터 8000마리 처치				
 QUEST_LV_0500_20210115_000744	Vaincre les monstres de la zone de l'Épisode 13	Episode13 지역의 몬스터 처치				
 QUEST_LV_0500_20210115_000745	Terminer Vestiges de Bernice 50e étage ou plus	베르니케 파편 던전 50층 이상 클리어				
-QUEST_LV_0500_20210115_000746	Achever le Donjon Assister section 6 ou plus	어시스터 던전 6구간 이상 클리어				
+QUEST_LV_0500_20210115_000746	Achever le Donjon Assistant section 6 ou plus	어시스터 던전 6구간 이상 클리어				
 QUEST_LV_0500_20210115_000747	Achever la Chasse Solitaire	1인 레이드 클리어				
 QUEST_LV_0500_20210115_000748	Achever le Raid Legend 10 fois	레전드 레이드 10회 클리어				
 QUEST_LV_0500_20210115_000749	Infliger 500 millions de dégâts cumulés ou plus dans les Raid de boss hebdomadaire	주간 보스 레이드 누적 대미지 5억 이상 달성				
@@ -1907,10 +1907,10 @@ QUEST_LV_0500_20220614_001906	Parler à Nijole au Portail du Grand Roi	대왕의
 QUEST_LV_0500_20220614_001907	Vous avez trouvé Nijole au Portail du Grand Roi.{nl}La Nijole du Portail du Grand Roi s'est présentée comme chercheuse.{nl}Parlez à Nijole	대왕의 관문에서 니욜레를 찾았습니다.{nl}대왕의 관문에 있는 니욜레는 자신을 연구원이라고 소개했습니다.{nl}니욜레와 대화하세요				
 QUEST_LV_0500_20220614_001908	Trouver Nijole à la Côte d'Igti et enquêter	이기티 연안에서 니욜레를 찾아 조사하기				
 QUEST_LV_0500_20220614_001909	La Nijole du Portail du Grand Roi ne semble pas non plus avoir de rapport avec cet incident.{nl}Trouvez Nijole à la Côte d'Igti et enquêtez une dernière fois.	대왕의 관문에서 찾은 니욜레도 이번 사건과는 연관성이 없어보입니다.{nl}마지막으로 이기티 연안에 있다는 니욜레를 찾아가세요.				
-QUEST_LV_0500_20220614_001910	Parler à la Maître du Savoir Nijole à la Côte d'Igti	이기티 연안의 전승자 니욜레와 대화하기				
-QUEST_LV_0500_20220614_001911	Vous avez trouvé la Maître du savoir Nijole à la Côte d'Igti, qui sert la{nl}Déesse Jurate{nl}Parlez à la Maître du savoir Nijole	이기티 연안에서 유라테 여신을 모시는 전승자 니욜레를 찾았습니다{nl}전승자 니욜레와 대화하세요				
+QUEST_LV_0500_20220614_001910	Parler à la Loremaster Nijole à la Côte d'Igti	이기티 연안의 전승자 니욜레와 대화하기				
+QUEST_LV_0500_20220614_001911	Vous avez trouvé la Loremaster Nijole à la Côte d'Igti, qui sert la Déesse Jurate{nl}Parlez à la Loremaster Nijole	이기티 연안에서 유라테 여신을 모시는 전승자 니욜레를 찾았습니다{nl}전승자 니욜레와 대화하세요				
 QUEST_LV_0500_20220614_001912	Parler à l'Officier d'Entrée du Port d'Orsha	오르샤의 입항 수속 담당자와 대화하기				
-QUEST_LV_0500_20220614_001913	Vous avez reçu une prophétie de la Déesse Jurate par l'intermédiaire de la Maître du savoir Nijole.{nl}Comme la Déesse Jurate vous a dit de garder la vérité pour vous, allez donner les informations superficielles à l'officier d'entrée du port.	전승자 니욜레를 통해 유라테 여신으로부터 신탁을 받았습니다.{nl}유라테 여신은 사건의 진상에 대해 함구하라 하였으니, 필요한 부분만 입항 수속 담당자에게 보고하세요.				
+QUEST_LV_0500_20220614_001913	Vous avez reçu une prophétie de la Déesse Jurate par l'intermédiaire de la Loremaster Nijole.{nl}Comme la Déesse Jurate vous a dit de garder la vérité pour vous, allez donner les informations superficielles à l'officier d'entrée du port.	전승자 니욜레를 통해 유라테 여신으로부터 신탁을 받았습니다.{nl}유라테 여신은 사건의 진상에 대해 함구하라 하였으니, 필요한 부분만 입항 수속 담당자에게 보고하세요.				
 QUEST_LV_0500_20220614_001914	Retourner Voir Nijole à la Côte d'Igti	이기티 연안의 니욜레에게 돌아가기				
 QUEST_LV_0500_20220614_001915	Vous avez inventé une histoire à raconter à l'officier d'entrée du port d'Orsha.{nl}Il avait l'air plutôt mal à l'aise, mais heureusement, il ne semble pas soupçonneux.{nl}Retournez voir Nijole à la Côte d'Igti	오르샤 입항 수속 담당자에게는 적당히 이야기를 둘러댔습니다{nl}입항 수속 담당자는 다소 찜찜한 기분을 내비쳤지만, 다행히 의심은 없어보입니다{nl}이기티 연안의 니욜레에게 돌아가세요				
 QUEST_LV_0500_20220614_001916	Achever Raid de la Déesse : Saisie engloutie	가디스 레이드 : 가라앉는 나포선 완료하기				
@@ -2075,7 +2075,7 @@ QUEST_LV_0500_20220823_002074	Signe de Turbulence	격동의 조짐
 QUEST_LV_0500_20220823_002075	Raconter ce qui s'est passé.	그 동안의 이야기를 전한다.				
 QUEST_LV_0500_20220823_002076	J'ai besoin de me préparer.	마음의 준비가 필요하다고 한다.				
 QUEST_LV_0500_20220823_002077	Vers le Noyau turbulent : RAID_CASTLE_EP14_2_MQ_2	격동의 핵으로 : RAID_CASTLE_EP14_2_MQ_2				
-QUEST_LV_0500_20220823_002078	Vers le cœUr Turbulent	격동의 핵으로				
+QUEST_LV_0500_20220823_002078	Vers le cœur Turbulent	격동의 핵으로				
 QUEST_LV_0500_20220823_002079	Traquer le Beholder	주시자 추적				
 QUEST_LV_0500_20220823_002080	Je me joins à vous.	합류하겠다고 한다.				
 QUEST_LV_0500_20220823_002081	Parler au Général Ramin	대장군 라민과 이야기하기				
@@ -2131,7 +2131,7 @@ QUEST_LV_0500_20220823_002130	Vaincre les Monstres Alentour	주변 몬스터를 
 QUEST_LV_0500_20220823_002131	Le pendentif reçu de Ramin peut récolter le pouvoir magique, mais pas assez.{nl}Vainquez les monstres alentour et absorbez le pouvoir magique.	라민에게 받은 펜던트는 마력을 모을 수 있지만, 충분한 양의 마력이 모이지 않았다.{nl}주변 몬스터를 처치해 마력을 흡수하자.				
 QUEST_LV_0500_20220823_002132	Cela semble être assez de pouvoir magique.{nl}Retournons voir Ramin.	이 정도면 마력이 충분히 모인 듯하다. {nl}라민에게 돌아가자.				
 QUEST_LV_0500_20220823_002133	Vaincre les Monstres de Delmore	델무어 연결로의 몬스터 처치				
-QUEST_LV_0500_20220823_002134	ManœUvrer le Dispositif de Contrôle Magique	마력 제어 장치 조작하기				
+QUEST_LV_0500_20220823_002134	Manœuvrer le Dispositif de Contrôle Magique	마력 제어 장치 조작하기				
 QUEST_LV_0500_20220823_002135	Premier dispositif de contrôle magique activé.{nl}Maintenant, trouvons le second dispositif de contrôle magique.{nl}Parlez à Ramin.	첫번째 마력 제어 장치를 가동했다.{nl}이제 두번째 마력 제어 장치의 위치를 찾아야한다.{nl}라민과 이야기를 해보자.				
 QUEST_LV_0500_20220823_002136	Aller au Second Dispositif de Contrôle Magique	두번째 마력 제어 장치로 가기				
 QUEST_LV_0500_20220823_002137	Aller au second dispositif de contrôle magique et vérifier son état.	두번째 마력 제어 장치로 가서 마력 제어 장치의 상태를 확인해보자.				
@@ -2439,7 +2439,7 @@ QUEST_LV_0500_20230130_002438	Indice dans la Bibliothèque	단서는 서고 안�
 QUEST_LV_0500_20230130_002439	Écoutons Rose.	로제의 의견을 들어보라고 한다.				
 QUEST_LV_0500_20230130_002440	Vous êtes trop curieux.	너무 오지랖이 넓다고 꾸짖는다.				
 QUEST_LV_0500_20230130_002441	Rose Souffrante	고통받는 로제				
-QUEST_LV_0500_20230130_002442	ŒIl pour œIl	약탈은 약탈로				
+QUEST_LV_0500_20230130_002442	Œil pour œil	약탈은 약탈로				
 QUEST_LV_0500_20230130_002443	Piste Floue (1)	흐린 흔적(1)				
 QUEST_LV_0500_20230130_002444	Je le sens aussi.	나도 느끼고 있다고 말한다.				
 QUEST_LV_0500_20230130_002445	Vous devez vous reposer.	안정을 취해야한다고 말한다.				
@@ -2723,7 +2723,7 @@ QUEST_LV_0500_20230904_002722	Parler à Neringa à Orsha	오르샤에서 네링�
 QUEST_LV_0500_20230904_002723	Où le Beholder est-il allé après la mort de Rose ?{nl}Parlez à Neringa à Orsha.	로제의 죽음 이후, 주시자는 어디로 간 것일까?{nl}오르샤에서 네링가와 만나서 이야기를 해보자.				
 QUEST_LV_0500_20230904_002724	Parler à la Déesse Laima dans le Sanctuaire de Laima	라이마의 성소에서 라이마 여신과 이야기하기				
 QUEST_LV_0500_20230904_002725	Neringa vous a envoyé au Sanctuaire de Laima, en vous disant d'aller voir la déesse Laima.{nl}Allez voir la déesse Laima.	네링가는 라이마 여신에게 가보라고 하며 라이마의 성소로 보내주었다.{nl}라이마 여신에게 가보도록 하자.				
-QUEST_LV_0500_20230904_002726	Trouver la Déesse sœUr de Laima	라이마의 자매 여신을 찾기				
+QUEST_LV_0500_20230904_002726	Trouver la Déesse sœur de Laima	라이마의 자매 여신을 찾기				
 QUEST_LV_0500_20230904_002727	La Déesse Laima a dit que l'éveil du Beholder est proche, et que ses déesses sœurs seraient là où se trouve le Beholder.{nl}Cherchez la Déesse sœur de Laima.	라이마 여신은 주시자의 각성이 머지 않았다고 하며, 주시자가 있는 곳에 자신의 자매 여신이 도와줄 것이라고 이야기했다.{nl}라이마의 자매 여신을 찾아보자.				
 QUEST_LV_0500_20230904_002728	Parler au Garde de Nicopolis	니코폴리스 경비병과 이야기하기				
 QUEST_LV_0500_20230904_002729	La Déesse Laima vous a téléporté à la Ville étoilée, en disant que sa sœur vous aiderait.{nl}Ville étoilée est sens dessus dessous... Que se passe-t-il ?	라이마 여신은 자신의 자매가 도와준다고 말을 하며, 스타리 타운으로 워프시켜줬다.{nl}스타리 타운이 어수선한데... 무슨 일이 있는걸까?				
@@ -2989,7 +2989,7 @@ QUEST_LV_0500_20250212_002988	Si vous parvenez à vaincre Ledania, nous pourrion
 QUEST_LV_0500_20250212_002989	Berné et trompé	속고 속이고					
 QUEST_LV_0500_20250212_002990	Trouver la Trace	흔적 찾기					
 QUEST_LV_0500_20250212_002991	Lancer l'Attaque	공격 개시					
-QUEST_LV_0500_20250212_002992	SœUrs Disparues Depuis Longtemps	자매의 빈 자리					
+QUEST_LV_0500_20250212_002992	Sœurs Disparues Depuis Longtemps	자매의 빈 자리					
 QUEST_LV_0500_20250212_002993	Raisons de la Réclusion	은둔의 이유					
 QUEST_LV_0500_20250212_002994	Situation Interne	내부 상황					
 QUEST_LV_0500_20250212_002995	Kupole Tombée	쓰러진 큐폴					
@@ -3138,7 +3138,7 @@ QUEST_LV_0500_20250826_003137	Gens Encoconnés	고치가 된 사람들
 QUEST_LV_0500_20250826_003138	Cocon Géant	거대한 고치				
 QUEST_LV_0500_20250826_003139	Braise de Gabija	가비야의 불씨				
 QUEST_LV_0500_20250826_003140	Brûler le Cocon Géant	거대 고치 불태우기				
-QUEST_LV_0500_20250826_003141	L'Antre des sœUrs	자매의 본거지				
+QUEST_LV_0500_20250826_003141	L'Antre des sœurs	자매의 본거지				
 QUEST_LV_0500_20250826_003142	Éclaireurs Disparus	사라진 정찰대				
 QUEST_LV_0500_20250826_003143	Secourir les Soldats	병사 구조				
 QUEST_LV_0500_20250826_003144	Soldat trouvé. Secourez-le. 	병사를 발견했다. 구해준다.				
@@ -3174,7 +3174,7 @@ QUEST_LV_0500_20250826_003173	Parler à Aeglei des cocons géants. 	거대 고�
 QUEST_LV_0500_20250826_003174	Trouver la Braise de Gabija	가비야의 불씨 찾기				
 QUEST_LV_0500_20250826_003175	La braise de Gabija se trouve quelque part dans les Ruisseaux de Letas.	레타스 개울가 어딘가에 가비야의 불씨가 있다고 합니다.				
 QUEST_LV_0500_20250826_003176	Brûler les cocons avec la braise de Gabija. 	발견한 가비야의 불씨로 고치를 불태워야 합니다.				
-QUEST_LV_0500_20250826_003177	Trouver l'Antre des sœUrs	자매의 본거지 찾기				
+QUEST_LV_0500_20250826_003177	Trouver l'Antre des sœurs	자매의 본거지 찾기				
 QUEST_LV_0500_20250826_003178	D'après Aeglei, l'antre des sœurs se trouve dans les Plaines de Saknis. 	에글레의 말에 따르면 사크니스 벌판에 자매의 본거지가 있다고 합니다.				
 QUEST_LV_0500_20250826_003179	Parler à l'Officier Danus	장교 다뉴스와 대화하기				
 QUEST_LV_0500_20250826_003180	Parler à l'officier Danus des soldats disparus dans les Plaines de Saknis...	사크니스 벌판에서 실종된 병사에 대해 장교 다뉴스가 이야기 할 게 있습니다..				
@@ -3188,7 +3188,7 @@ QUEST_LV_0500_20250826_003187	Retirer les Cocons	고치 제거
 QUEST_LV_0500_20250826_003188	Affronter Laimara	라이마라 조우				
 QUEST_LV_0500_20250826_003189	Laimara est devenue furieuse après que ses plans ont été ruinés. Soyez prudent. 	자신의 계획이 일그러진 라이마라가 분노하고 있습니다. 조심하십시오.				
 QUEST_LV_0500_20250826_003190	Affronter Ragana	라가나 조우				
-QUEST_LV_0500_20250826_003191	Ragana est apparue. 	전투로 인해 지친 당신에게 라가나가 나타납니다.				
+QUEST_LV_0500_20250826_003191	Ragana apparaît devant vous, que le combat a épuisé.	전투로 인해 지친 당신에게 라가나가 나타납니다.				
 QUEST_LV_0500_20260206_003192	Révélateur, je ressens la douleur des villageois. 	계시자, 주민들의 고통이 느껴지네요.				여신 라이마
 QUEST_LV_0500_20260206_003193	Des cris de souffrance continuent de s'élever du Exil de Sventimas, l'ancienne demeure des{nl}travailleurs de la Prison de Kalejimas.	과거 칼레이마스 감옥을 건설했던 주민들이 모여 있는 스벤티마스 유형지에서 고통의 호소가 계속 들리고 있습니다.				여신 라이마
 QUEST_LV_0500_20260206_003194	Une terre rude, mais jadis suffisante pour soutenir la vie. Maintenant, il semble que la terre{nl}elle-même se soit retournée pour menacer son propre peuple.	비록 척박한 땅이긴 하나 생명을 이어가기엔 부족함이 없는 곳인데 오히려 지금은 그 땅이 주민들을 위협하고 있는 것 같군요.				여신 라이마

@@ -1436,7 +1436,7 @@ QUEST_LV_0200_20150317_001435	Le Grand Portail d'Évasion (2)	대탈출 포탈(2
 QUEST_LV_0200_20150317_001436	Le Grand Portail d'Évasion (3)	대탈출 포탈(3)				
 QUEST_LV_0200_20150317_001437	Je suis prêt	준비됐다고 한다				
 QUEST_LV_0200_20150317_001438	Attendre un moment	기다려달라고 한다				
-QUEST_LV_0200_20150317_001439	ManœUvre/ MAKING / 3 / TRACK_BEFORE / None	작동 중/MAKING/3/TRACK_BEFORE/None				
+QUEST_LV_0200_20150317_001439	Manœuvre/ MAKING / 3 / TRACK_BEFORE / None	작동 중/MAKING/3/TRACK_BEFORE/None				
 QUEST_LV_0200_20150317_001440	Une Alliance Inconfortable	불편한 동맹				
 QUEST_LV_0200_20150317_001441	Tous Pareils (1)	한통속(1)				
 QUEST_LV_0200_20150317_001442	Tous Pareils (2)	한통속(2)				
@@ -2208,7 +2208,7 @@ QUEST_LV_0200_20150317_002207	Vaincre les Meleech surgis soudainement	갑자기 
 QUEST_LV_0200_20150317_002208	Des Meleech sont apparus pendant que vous parliez au soldat Rudolfas. Vainquez-les.	병사 루돌파스와 대화 중에 멜리치가 등장했습니다. 멜리치를 처치하세요.				
 QUEST_LV_0200_20150317_002209	Vaincre les monstres qui font obstacle	방해하는 몬스터 처치				
 QUEST_LV_0200_20150317_002210	Parler au Soldat Aspas	병사 아스파스와 대화				
-QUEST_LV_0200_20150317_002211	Le soldat blessé Aspas cherche de l'aide.	상처를 입고 누군가의 도움이 필요해보이는 병사 아스파스가 당신의 도움을 필요로 합니다.				
+QUEST_LV_0200_20150317_002211	Le soldat Aspas, blessé, a visiblement besoin d'aide — de la vôtre.	상처를 입고 누군가의 도움이 필요해보이는 병사 아스파스가 당신의 도움을 필요로 합니다.				
 QUEST_LV_0200_20150317_002212	Les monstres attaquent Aspas. Vainquez les monstres pour Aspas.	몬스터들이 아스파스에게 공격해 옵니다. 아스파스를 위해 몬스터를 처치해 주세요.				
 QUEST_LV_0200_20150317_002213	Vous avez protégé le soldat Aspas des monstres. Reparlez au soldat Aspas.	몬스터로부터 병사 아스파스를 지켰습니다. 병사 아스파스와 대화하세요.				
 QUEST_LV_0200_20150317_002214	Vaincre les Keparaider qui attaquent	공격해오는 케파레이더 처치				
@@ -2429,7 +2429,7 @@ QUEST_LV_0200_20150317_002428	Faire un Rapport au Commandant Julian	지휘관 �
 QUEST_LV_0200_20150317_002429	Vous avez vaincu de nombreux monstres sur Pic des âmes. Faites un rapport au commandant Julian.	영혼고개에 있는 많은 몬스터들을 처치했습니다. 지휘관 줄리안에게 보고하세요.				
 QUEST_LV_0200_20150317_002430	Vaincre les monstres à Pic des âmes	영혼고개에 있는 몬스터를 처치				
 QUEST_LV_0200_20150317_002431	Parler au Villageois Darren	마을 청년 다렌과 대화				
-QUEST_LV_0200_20150317_002432	Darren a l'air perplexe. Écoutez-le.	마을 청년 다렌이 곤란해 하고 있습니다. 무슨 일인지 이야기를 들어보세요.				
+QUEST_LV_0200_20150317_002432	Darren, un jeune du village, est bien embarrassé. Écoutez ce qui lui arrive.	마을 청년 다렌이 곤란해 하고 있습니다. 무슨 일인지 이야기를 들어보세요.				
 QUEST_LV_0200_20150317_002433	Inspecter les ruches du Rucher de Rododun	로도논 양봉장의 벌집 확인				
 QUEST_LV_0200_20150317_002434	Darren s'inquiète de savoir si ses ruches du Rucher de Rododun sont intactes après avoir été attaquées par les monstres. Rendez-vous au Rucher de Rododun et vérifiez si les ruches sont intactes.	마을 청년 다렌은 로도논 양봉장이 몬스터에게 습격받아 벌집이 망가지진 않았을까 걱정하고 있습니다.로도논 양봉장으로 가서 멀쩡한 벌집이 남아있는지 확인해 보세요.				
 QUEST_LV_0200_20150317_002435	Heureusement, les ruches sont intactes. Retournez le faire savoir au villageois Darren.	벌집은 다행히 멀쩡합니다. 마을 청년 다렌에게 돌아가 이 사실을 알려주세요.				
@@ -2729,7 +2729,7 @@ QUEST_LV_0200_20150317_002728	En examinant le Cristal de racine d'arbre, il a eu
 QUEST_LV_0200_20150317_002729	Sceller le Cristal de racine d'arbre muté	변형된 나무뿌리 수정 봉인하기				
 QUEST_LV_0200_20150317_002730	Toute la source d'énergie des Cristaux de racine d'arbre est récoltée. Servez-vous-en pour sceller le Cristal de racine d'arbre.	나무뿌리 수정 에너지원을 모두 모았으니 그것으로 변형된 나무뿌리 수정을 봉인하세요.				
 QUEST_LV_0200_20150317_002731	Le Cristal de Racine d'Arbre Muté de Fontaine de Noras	노레티 샘터의 변형된 나무뿌리 수정				
-QUEST_LV_0200_20150317_002732	Il y a un Cristal de racine d'arbre muté à Fontaine de Noras. Approchez-vous et vérifiez ce qu'il faut faire pour lever la malédiction de la Paresse.	노레티 샘터에는 변형된 나무뿌리 수정이 있습니다. 가까이 다가가서, 나태의 저주를 풀기 위해 무엇을 해야 하는지 살펴 보세요.				
+QUEST_LV_0200_20150317_002732	Il y a un Cristal de racine d'arbre muté à la Fontaine de Noras. Approchez-vous et vérifiez ce qu'il faut faire pour lever la malédiction de la Paresse.	노레티 샘터에는 변형된 나무뿌리 수정이 있습니다. 가까이 다가가서, 나태의 저주를 풀기 위해 무엇을 해야 하는지 살펴 보세요.				
 QUEST_LV_0200_20150317_002733	Briser le Cristal de Racine d'Arbre	나무뿌리 수정 해체				
 QUEST_LV_0200_20150317_002734	Plusieurs Cristal de racine d'arbre ont été invoqués pendant que vous examiniez le Cristal de racine d'arbre ! Trouvez le vrai Cristal de racine d'arbre et brisez-le.	나무뿌리 수정을 살펴 보았더니 갑자기 여러 개의 나무뿌리 수정이 소환 되어 버렸습니다! 일대에 소환 된 변형 나무뿌리 수정 중 진짜를 찾아 해체 하세요.				
 QUEST_LV_0200_20150317_002735	La Ruelle vers l'Escalier Éparpillé	흩어진 계단으로 가는 길목				
@@ -2886,7 +2886,7 @@ QUEST_LV_0200_20150317_002885	Récupérer %s en vainquant les monstres	몬스터
 QUEST_LV_0200_20150317_002886	Vaincre les monstres et récupérer le sac de Theophilis	몬스터를 처치하고 태오필리스의 가방 찾기				
 QUEST_LV_0200_20150317_002887	Écoutons l'histoire de Theophilis, qui a repris connaissance après avoir bu de l'eau	물을 마시고 이제 좀 정신을 차린 거 같은 테오필리스의 사연을 들어 봅시다				
 QUEST_LV_0200_20150317_002888	Allons chercher les ingrédients du remède	약 재료 구하기				
-QUEST_LV_0200_20150317_002889	Theophilis a repris connaissance. Reparlez-lui.	서큐버스의 저주에 면역이 생기게 하는 약을 만드는 방법을 테오필리스가 알고 있다고 하니, 약의 재료를 구해 옵시다. 세스티네 황야 위쪽의 큰잎사귀 갈대의 뿌리에 기생하고 있는 몬스터로부터 재료를 구할 수 있다고 합니다.				
+QUEST_LV_0200_20150317_002889	Theophilis sait préparer le remède qui immunise contre la malédiction de la Succube : allons en chercher les ingrédients. On les obtient des monstres qui parasitent les racines des grands roseaux, au nord du Désert de Sestine.	서큐버스의 저주에 면역이 생기게 하는 약을 만드는 방법을 테오필리스가 알고 있다고 하니, 약의 재료를 구해 옵시다. 세스티네 황야 위쪽의 큰잎사귀 갈대의 뿌리에 기생하고 있는 몬스터로부터 재료를 구할 수 있다고 합니다.				
 QUEST_LV_0200_20150317_002890	Apporter les ingrédients au pèlerin Theophilis	테오필리스에게 재료 가져다 주기				
 QUEST_LV_0200_20150317_002891	Vous avez obtenu tous les ingrédients. Apportez maintenant les ingrédients à Theophilis.	약의 재료를 다 구했습니다. 이제 테오필리스에게 재료를 가져다 주세요.				
 QUEST_LV_0200_20150317_002892	Maintenant que vous avez pris le remède, écoutons l'histoire ici.	이제 약을 먹었으니 이 곳의 사연에 대해 더 들어 봅시다.				
@@ -4734,7 +4734,7 @@ QUEST_LV_0200_20150323_004733	Chercher le noyau du Cristal de racine d'arbre sur
 QUEST_LV_0200_20150323_004734	Les Cristaux de racine d'arbre réagissent étrangement et ont souillé les environs ! Vous feriez mieux de trouver les noyaux de Cristal de racine d'arbre sur les monstres alentour.	나무뿌리 수정이 이상 반응을 일으키면서 주변을 오염시켜 버리고 말았습니다! 일단 주변 몬스터에게 흩뿌려진 나무 뿌리 수정 핵을 찾아보는게 좋겠습니다.				
 QUEST_LV_0200_20150323_004735	Vous avez récolté tous les noyaux de Cristal de racine d'arbre. Servez-vous-en pour sceller le Cristal de racine d'arbre corrompu.	나무뿌리 수정 핵을 모두 모았으니 그것으로 변형된 나무뿌리 수정을 봉인하세요.				
 QUEST_LV_0200_20150323_004736	Le Cristal de Racine d'Arbre de Fontaine de Noras	노레티 샘터의 나무뿌리 수정				
-QUEST_LV_0200_20150323_004737	Il y a un Cristal de racine d'arbre à Fontaine de Noras. Approchez-vous et examinez-le pour découvrir ce qu'il faut faire pour lever la malédiction de la Paresse.	노레티 샘터에는 나무뿌리 수정이 있습니다. 가까이 다가가서, 나태의 저주를 풀기 위해 무엇을 해야 하는지 살펴 보세요.				
+QUEST_LV_0200_20150323_004737	Il y a un Cristal de racine d'arbre à la Fontaine de Noras. Approchez-vous et examinez-le pour découvrir ce qu'il faut faire pour lever la malédiction de la Paresse.	노레티 샘터에는 나무뿌리 수정이 있습니다. 가까이 다가가서, 나태의 저주를 풀기 위해 무엇을 해야 하는지 살펴 보세요.				
 QUEST_LV_0200_20150323_004738	Trouver le vrai cristal parmi les Cristaux de racine d'arbre invoqués et le détruire.	소환된 나무뿌리 수정 중 진짜를 찾아 파괴				
 QUEST_LV_0200_20150323_004739	Alors que vous examiniez de près le Cristal de racine d'arbre, de nombreux Cristaux de racine d'arbre ont soudain été invoqués ! Trouvez le vrai parmi les Cristaux de racine d'arbre invoqués et détruisez-le.	나무뿌리 수정을 살펴 보았더니 갑자기 여러 개의 나무뿌리 수정이 소환 되어 버렸습니다! 소환된 변형 나무뿌리 수정 중 진짜를 찾아 파괴하세요.				
 QUEST_LV_0200_20150323_004740	Examiner les Cristaux de racine d'arbre sur la route de la Voie de l'autel.	제단로로 가는 길목의 나무뿌리 수정 조사				
@@ -4751,7 +4751,7 @@ QUEST_LV_0200_20150323_004750	Le résultat semble être un échec. Dites-le au p
 QUEST_LV_0200_20150323_004751	Vous avez dit au pèlerin Gracius que le réactif expérimental était inefficace. Demandez-lui la suite à donner.	순례자 그라치우스에게 시험용 시약은 별로 효과가 없었음을 알려 주었습니다. 그러면 이제는 어떻게 해야 하는지 다시 한 번 이야기 해 보세요.				
 QUEST_LV_0200_20150323_004752	La dernière étape nécessaire au réactif expérimental était une écriture. Vous pourrez sans doute l'obtenir à l'autel situé en haut du Sentier de Rudiziu.	시약에 필요한 마지막 한 가지는 순례자의 경전이었습니다. 아마 루디주 숲길 위쪽의 제단에서 구할 수 있을지도 모르겠습니다.				
 QUEST_LV_0200_20150323_004753	Remettre l'écriture au pèlerin Gracius.	순례자 그라치우스에게 경전 건네 주기				
-QUEST_LV_0200_20150323_004754	Écouter l'histoire de ce lieu par le pèlerin Gracius.	순례자 그라치우스로부터 이제 이 곳의 사연을 들을 수 있을 것 같습니다. 그라치우스와 다시 대화해 보세요.				
+QUEST_LV_0200_20150323_004754	Le pèlerin Gracius peut maintenant vous raconter l'histoire de ce lieu. Reparlez-lui.	순례자 그라치우스로부터 이제 이 곳의 사연을 들을 수 있을 것 같습니다. 그라치우스와 다시 대화해 보세요.				
 QUEST_LV_0200_20150323_004755	Libérer les âmes des monstres	몬스터로부터 영혼 해방				
 QUEST_LV_0200_20150323_004756	Quand vous utiliserez le réactif que le pèlerin Gracius vous a donné, vous pourrez voir quels monstres renferment des âmes prisonnières. Vainquez ces monstres.	그라치우스가 건네 준 약을 사용하면 영혼이 들어 있는 몬스터가 보인다고 하니, 그 몬스터를 잡아 영혼들을 풀어 주세요.				
 QUEST_LV_0200_20150323_004757	Parler au pèlerin Gracius pour sauver les âmes prisonnières de chaque autel.	각 제단에 속박되어 있는 분노한 영혼들을 구원하기 위해 그라치우스와 대화해 보세요.				
@@ -5575,7 +5575,7 @@ QUEST_LV_0200_20150323_005574	Le général Buros cherche quelqu'un qui l'aiderai
 QUEST_LV_0200_20150323_005575	Vaincre Lauzinute de l'autre côté du tunnel souterrain	땅굴 너머의 라우지누테 처치				
 QUEST_LV_0200_20150323_005576	Le général Buros ne veut pas entrer dans le tunnel souterrain car c'est trop effrayant. Vaincre les monstres pour le compte du général Buros.	사병대장 뷰로스는 땅굴은 오싹해서 들어가고 싶지 않다고 합니다. 뷰로스를 대신해서 땅굴 너머의 몬스터를 처치하세요.				
 QUEST_LV_0200_20150323_005577	Tous les monstres sont vaincus. Parlez au général Buros.	땅굴 너머의 몬스터를 모두 처치했습니다. 사병대장 뷰로스와 대화해 보세요.				
-QUEST_LV_0200_20150323_005578	Buros a l'air sombre. Parlez à Buros.	사병대장 뷰로스의 표정이 심상치가 않습니다. 사병대장 뷰로스와 대화해 보세요.				
+QUEST_LV_0200_20150323_005578	Buros fait une tête qui n'augure rien de bon. Parlez-lui.	사병대장 뷰로스의 표정이 심상치가 않습니다. 사병대장 뷰로스와 대화해 보세요.				
 QUEST_LV_0200_20150323_005579	Vaincre Scorpio près de la Tour de la girouette	풍향계 탑 근처의 스콜피오 처치				
 QUEST_LV_0200_20150323_005580	Buros vous a dit que Scorpio est réapparu parce que vous vous êtes trop déchaîné. Vaincre Scorpio près de la Tour de la girouette.	사병대장 뷰로스는 당신이 너무 들쑤시고 다닌 탓에 스콜피오가 나타났다고 합니다. 풍향계 탑 근처에 있는 스콜피오를 처치하세요.				
 QUEST_LV_0200_20150323_005581	Vous avez vaincu Scorpio. Faites un rapport à Buros.	스콜피오를 처치했습니다. 사병대장 뷰로스에게 보고하세요.				
@@ -5827,7 +5827,7 @@ QUEST_LV_0200_20150401_005830	Ils tentent de s'échapper en empruntant les corps
 QUEST_LV_0200_20150401_005831	Prenez ce Orbe spectral de l'étoile nocturne, je vous prie. Nous pourrons aisément trouver{nl}Hauberk avec cela.	이 저녁별 분광구를 가져가세요.{nl}이걸로 하우벅을 금방 찾을 수 있어요.				큐폴 다이바
 QUEST_LV_0200_20150401_005832	Je pousserai Hauberk vers l'unique chemin d'où il ne pourra pas s'enfuir. S'il tente de renoncer{nl}et de fuir, je bloquerai ici.	하우벅이 도망칠 수 없는 외길로 몰아넣을 거예요.{nl}포기하고 도망치려 한다면 제가 이곳에서 바로 막아서지요.				큐폴 다이바
 QUEST_LV_0200_20150401_005833	Ne vous inquiétez pas trop même s'il s'enfuit. Tout se passe comme prévu.	도망쳤다 해도 너무 걱정하지 마세요.{nl}계획대로 잘 되고 있으니까요.				큐폴 다이바
-QUEST_LV_0200_20150401_005834	Réussi ! Fini les évasions.	성공이에요!{nl}이젠 더 이상 도망치는 건 있을 수 없어요.				큐폴 시기타
+QUEST_LV_0200_20150401_005834	Ça a marché ! Il ne pourra plus s'échapper, maintenant.	성공이에요!{nl}이젠 더 이상 도망치는 건 있을 수 없어요.				큐폴 시기타
 QUEST_LV_0200_20150401_005835	Nous commençons la traque dès maintenant. Il n'y a qu'un seul chemin devant, alors Hauberk{nl}résistera durement.{nl}	이제부터 몰이사냥을 시작할게요.{nl}이 앞으론 외길 뿐이니 하우벅의 저항도 거셀 겁니다.{nl}				큐폴 다이바
 QUEST_LV_0200_20150401_005836	Poussez Hauberk dans le Cellule d'isolement de Galutin. Ne vous inquiétez pas, Sigita bloque la{nl}sortie de Hauberk du côté opposé.	갈루틴 독실까지 하우벅을 몰아 넣으세요.{nl}반대편에서 시기타가 하우벅의 퇴로를 막고 있으니 걱정 마시고요.				큐폴 다이바
 QUEST_LV_0200_20150401_005837	Hauberk est comme un rat qui n'a nulle part où se cacher. Dites-moi quand vous serez prêt à{nl}attaquer.	하우벅은 이제 궁지에 몰린 쥐나 다름 없어요.{nl}덮칠 준비가 되면 말씀해주세요.				큐폴 시기타
@@ -6011,7 +6011,7 @@ QUEST_LV_0200_20150401_006014	Le cercle magique et la statue de Déesse ont tous
 QUEST_LV_0200_20150401_006015	Dire à Jonaris que le cercle magique et la statue se sont brisés et que, le cercle magique disparu, les cultures sont redevenues normales.	마법진과 여신상이 깨졌고, 마법진이 사라지자 주변 밭의 작물이 정상화 되었다는 사실을 요나리스에게  전해 주세요.				
 QUEST_LV_0200_20150401_006016	Trouver le cuir	가죽 구하기				
 QUEST_LV_0200_20150401_006017	Rassembler le cuir dont Horacius a besoin pour la rébellion. Vous pouvez l'obtenir sur les monstres.	호라치우스의 거사를 돕기 위해 필요한 가죽을 모아 봅시다. 몬스터로부터 구할 수 있다고 합니다.				
-QUEST_LV_0200_20150401_006018	Donner le cuir à Horacius.	몬스터로부터 구한 가죽을 호라치우스에게 가져다 주세요.				
+QUEST_LV_0200_20150401_006018	Apporter à Horacius le cuir récupéré sur les monstres.	몬스터로부터 구한 가죽을 호라치우스에게 가져다 주세요.				
 QUEST_LV_0200_20150401_006019	Arracher et rapporter du Niolle	니올레 뽑아 가기				
 QUEST_LV_0200_20150401_006020	Tauras est actuellement chargé des vivres pour la rébellion. Arrachez et rapportez des Niolle pour l'aider. Prenez garde, les Niolle doivent être complètes avec leurs racines pour servir de nourriture.	타우라스는 현재 거사를 위한 식량 수급을 담당하고 있다고 합니다. 그의 일을 돕기 위해 니올레를 뽑아 갑시다. 단, 니올레는 뿌리째 뽑아가야 식량으로서의 가치가 있으니 주의 하세요.				
 QUEST_LV_0200_20150401_006021	Assez de Niolle récolté. Apportez-le à Tauras.	니올레를 충분히 확보했으니, 이제 타우라스에게 가져다 주세요.				
@@ -6353,7 +6353,7 @@ QUEST_LV_0200_20150406_006356	Je vais le découvrir pour lui	알아봐 주겠다
 QUEST_LV_0200_20150406_006357	Je vais éliminer le cercle magique pour lui	마법진을 없애 주겠다고 한다				
 QUEST_LV_0200_20150406_006358	Lui dire de laisser cela, il s'agit peut-être du cercle magique de purification	정화 마법진일수도 있으니 냅두자고 한다				
 QUEST_LV_0200_20150406_006359	À propos des cercles magiques	마법진에 대해				
-QUEST_LV_0200_20150406_006360	Joana l'a peut-être	어쩌면 요아나가 가지고 있을 수도 있다고 한다				
+QUEST_LV_0200_20150406_006360	On dit que Joana l'a peut-être	어쩌면 요아나가 가지고 있을 수도 있다고 한다				
 QUEST_LV_0200_20150406_006361	Ce ne sera pas ici	여기에 그런 건 있을 리 없다고 한다				
 QUEST_LV_0200_20150406_006362	À propos de la possibilité que le cercle magique serve à la purification	마법진이 진짜 정화용일 가능성에 대해				
 QUEST_LV_0200_20150406_006363	À propos de l'arrogance du baron	남작의 횡포에 대해				
@@ -6990,7 +6990,7 @@ QUEST_LV_0200_20150428_006993	Utiliser le fragment de sceau de Hauberk pour maî
 QUEST_LV_0200_20150428_006994	Les plans de Nuaele sont découverts. Parlez-en à Kupole Aurne.	마군주 누아엘레의 계획을 알아내었습니다. 큐폴 아루네에게 누아엘레의 계획을 알려주세요.				
 QUEST_LV_0200_20150428_006995	Les plans de Nuaele sont découverts. Demandez à Kupole Arune la suite à donner.	마군주 누아엘레의 계획을 파악했습니다. 이제 무엇을 해야 할 지 큐폴 아루네와 대화해 보세요.				
 QUEST_LV_0200_20150428_006996	Kupole Arune a suggéré de vaincre les serviteurs les plus forts et les plus loyaux de Nuaele. Vaincre les Harugal dans la 4e zone d'isolement.	큐폴 아루네는 먼저 마군주 누아엘레의 가장 강하고 충성스러운 부하를 처치하자고 합니다. 제4 격리구에 있는 누아엘레의 수하인 하루갈들을 처치하세요.				
-QUEST_LV_0200_20150428_006997	Les Harugal sont vaincus. Reparlez à Kupole Arune.	마군주 누아엘레의 수하인 하루갈들을 처치하는데 성공하였습니다. 큐폴 아루네와 대화해 보세요.				
+QUEST_LV_0200_20150428_006997	Vous avez vaincu les Harugal, serviteurs du Seigneur démon Nuaele. Reparlez à Kupole Arune.	마군주 누아엘레의 수하인 하루갈들을 처치하는데 성공하였습니다. 큐폴 아루네와 대화해 보세요.				
 QUEST_LV_0200_20150428_006998	Vaincre les Harugal dans la 4e zone d'isolement	제4 격리구의 하루갈 처치				
 QUEST_LV_0200_20150428_006999	Vous êtes prêt à vaincre le seigneur démon Nuaele. Parlez à Kupole Arune.	마군주 누아엘레를 처단할 모든 준비를 마쳤습니다. 큐폴 아루네와 대화해 보세요.				
 QUEST_LV_0200_20150428_007000	Vaincre le Seigneur Démon Nuaele	마군주 누아엘레 처치				
@@ -7086,7 +7086,7 @@ QUEST_LV_0200_20150714_007089	J'aurais dû proposer d'aider à reprendre le mona
 QUEST_LV_0200_20150714_007090	Je m'occuperai de lui, alors ne vous inquiétez pas trop et rendez-vous au Marais de Laukyme.	이 분은 제가 돌볼 테니 너무 걱정 마시고 라우키메 저습지로 먼저 가 계십시오.				헌터 나타샤
 QUEST_LV_0200_20150714_007091	Vous pouvez aller au Marais de Laukyme en remontant de nouveau la Route de la colline de la{nl}clairière. Faites un rapport au capitaine traqueur Mintz sur le chemin du retour, je vous prie.	라우키메 저습지는 글라데 언덕길로 다시 돌아가야 합니다.{nl}가는 길에 민츠 대장님께 중간 보고를 부탁드립니다.				헌터 나타샤
 QUEST_LV_0200_20150714_007092	Chasseur Bastille	헌터 바스틸				
-QUEST_LV_0200_20150714_007093	Vous rendez-vous à Monastère de Tyla ? Les monstres là-bas sont déjà en train de prier.	틸라 수도원으로 가는 건가?{nl}거긴 벌써 몬스터들이 예배를 보고 있다고.				헌터 바스틸
+QUEST_LV_0200_20150714_007093	Vous rendez-vous dans le Monastère de Tyla ? Les monstres là-bas sont déjà en train de prier.	틸라 수도원으로 가는 건가?{nl}거긴 벌써 몬스터들이 예배를 보고 있다고.				헌터 바스틸
 QUEST_LV_0200_20150714_007094	Quelle imprudence. J'ai été si imprudent...	방심했군, 방심했어.{nl}이 내가 방심하다니 정말 방심했어.				헌터 바스틸
 QUEST_LV_0200_20150714_007095	Moine Chad	수도사 채드				
 QUEST_LV_0200_20150714_007096	Ne vous approchez pas de ces chasseurs, je vous prie. Ce sont des gens incroyablement grossiers.	저 헌터들과 친해지지 마세요.{nl}아주 무례하고 경우가 없는 사람들입니다.				수도사 채드
@@ -7122,7 +7122,7 @@ QUEST_LV_0200_20150714_007125	Heureusement, l'abbé semble ne rien savoir. Je su
 QUEST_LV_0200_20150714_007126	Je suis moins inquiet en apprenant que l'abbé va bien. Que devons-nous faire d'Ebonypawn à{nl}présent...	원장님께서 무사하시니 한시름 놓았습니다.{nl}이제 에보니폰을 어찌해야할지.. 입장을 정리해야겠습니다.				선임 수도사 거스
 QUEST_LV_0200_20150714_007127	Je suis en discussion avec l'abbé. Patientez un moment auprès de Mintz.	원장님과 논의중입니다.{nl}잠시 민츠님 곁에서 기다려 주시지요.				선임 수도사 거스
 QUEST_LV_0200_20150714_007128	Nous n'avons pas fini d'en discuter. Patientez encore un peu.	아직 이야기가 끝나지 않았습니다.{nl}조금만 더 기다려 주시지요.				선임 수도사 거스
-QUEST_LV_0200_20150714_007129	Vous allez bientôt partir. Que les déesses vous bénissent. Passez à Monastère de Tyla à l'occasion.	이제 떠나시겠군요. 여신의 가호를 빌겠습니다.{nl}생각나시면, 가끔 틸라 수도원에 들러 주시지요.				선임 수도사 거스
+QUEST_LV_0200_20150714_007129	Vous allez bientôt partir. Que les déesses vous bénissent. Passez dans le Monastère de Tyla à{nl}l'occasion.	이제 떠나시겠군요. 여신의 가호를 빌겠습니다.{nl}생각나시면, 가끔 틸라 수도원에 들러 주시지요.				선임 수도사 거스
 QUEST_LV_0200_20150714_007130	Je regrette un peu, car nous aurions dû nous allier dès le début. Je suppose que j'ai oublié un{nl}moment les leçons des déesses.	처음부터 손을 잡았어야 했는데 조금 후회됩니다.{nl}여신의 가르침을 잠시 잊고 있었나 봅니다.				선임 수도사 거스
 QUEST_LV_0200_20150714_007131	Quelle chance que l'abbé aille bien. J'ai... envie de pleurer.	원장님께서 무사하시니 얼마나 다행인지 모릅니다.{nl}정말.. 눈물이 나는군요.				선임 수도사 포토스
 QUEST_LV_0200_20150714_007132	Je m'attendais un peu à ce qu'il aille bien puisqu'il était dans la salle de prière... Mais le voir sain{nl}et sauf de mes propres yeux me réconforte davantage.	기도실에 계시니 안전할거라고 생각했지만..{nl}그래도 온전하신 모습을 보니 얼마나 다행인지 모르겠습니다.				선임 수도사 포토스
@@ -8111,7 +8111,7 @@ QUEST_LV_0200_20150714_008114	Lui dire que vous êtes prêt	준비 됐다고 한
 QUEST_LV_0200_20150714_008115	Lui dire que ce n'est pas encore prêt	아직 안됐다고 한다.				
 QUEST_LV_0200_20150714_008116	Conversation	대화 중				
 QUEST_LV_0200_20150714_008117	Un Jour de Malchance	운수 나쁜 날				
-QUEST_LV_0200_20150714_008118	Des Ennuis à Monastère de Tyla	틸라 수도원의 고난				
+QUEST_LV_0200_20150714_008118	Des Ennuis dans le Monastère de Tyla	틸라 수도원의 고난				
 QUEST_LV_0200_20150714_008119	Lui dire que vous allez aider	도울 수 있는 데까지 돕겠다고 한다				
 QUEST_LV_0200_20150714_008120	Lui dire que vous n'êtes pas encore tout à fait guéri	아직 몸이 다 낫지 않았다고 한다				
 QUEST_LV_0200_20150714_008121	À Propos d'Ebonypawn	에보니폰에 대해				
@@ -8648,9 +8648,9 @@ QUEST_LV_0200_20150714_008651	Examiner la tombe d'Aire de repos de Priekis	파�
 QUEST_LV_0200_20150714_008652	Trouver la tombe du mort tué par le poison d'Ebonypawn et chercher des indices sur Ebonypawn.	에보니폰의 독에 죽은 남자의 무덤을 찾아 에보니폰과 관련된 실마리를 찾아야 합니다.				
 QUEST_LV_0200_20150714_008653	Vous avez trouvé un livre contenant des inscriptions. Montrez le livre à la chasseuse Natasha.	문장이 새겨진 책을 찾았습니다. 헌터 나타샤에게 책을 보여주세요.				
 QUEST_LV_0200_20150714_008654	Le détail de ce qu'a fait Ebonypawn est écrit dans le vieux livre du voyageur. Montrez la lettre à Goss et parlez-lui.	나그네의 낡은 책에서 나온 편지에는 에보니폰의 악행에 대한 정황이 적혀 있었습니다. 선임 수도사 거스에게 편지를 보여주고 그와 대화하세요.				
-QUEST_LV_0200_20150714_008655	Il semble que Goss ait lui aussi découvert l'identité d'Ebonypawn. Parlez à la chasseuse Natasha et préparez-vous à charger vers Monastère de Tyla.	거스 역시 에보니폰의 정체를 알아챈 것 같습니다. 헌터 나타샤와 이야기하고 틸라 수도원으로 돌격할 준비를 하세요.	QUEST_LV_0200_20150714_008654	Le détail de ce qu'a fait Ebonypawn est écrit dans le vieux livre du voyageur. Montrez la lettre à Goss et parlez-lui.	나그네의 낡은 책에서 나온 편지에는 에보니폰의 악행에 대한 정황이 적혀 있었습니다. 선임 수도사 거스에게 편지를 보여주고 그와 대화하세요.	
+QUEST_LV_0200_20150714_008655	Il semble que Goss ait lui aussi découvert l'identité d'Ebonypawn. Parlez à la chasseuse Natasha et préparez-vous à charger vers le Monastère de Tyla.	거스 역시 에보니폰의 정체를 알아챈 것 같습니다. 헌터 나타샤와 이야기하고 틸라 수도원으로 돌격할 준비를 하세요.	QUEST_LV_0200_20150714_008654	Le détail de ce qu'a fait Ebonypawn est écrit dans le vieux livre du voyageur. Montrez la lettre à Goss et parlez-lui.	나그네의 낡은 책에서 나온 편지에는 에보니폰의 악행에 대한 정황이 적혀 있었습니다. 선임 수도사 거스에게 편지를 보여주고 그와 대화하세요.	
 QUEST_LV_0200_20150714_008656	Entrer dans Monastère de Tyla	틸라 수도원 안으로 진입				
-QUEST_LV_0200_20150714_008657	Beaucoup de moines et de chasseurs sont rassemblés à Monastère de Tyla. Rendez-vous à l'entrée de Monastère de Tyla.	틸라 수도원에는 이미 수도사들과 헌터들이 모여있는 것 같습니다. 틸라 수도원 정문으로 가세요.				
+QUEST_LV_0200_20150714_008657	Beaucoup de moines et de chasseurs sont rassemblés dans le Monastère de Tyla. Rendez-vous à l'entrée de Monastère de Tyla.	틸라 수도원에는 이미 수도사들과 헌터들이 모여있는 것 같습니다. 틸라 수도원 정문으로 가세요.				
 QUEST_LV_0200_20150714_008658	Parler au Moine Jones	수도사 욘스와 대화				
 QUEST_LV_0200_20150714_008659	Le moine Jones semble anxieux. Demandez-lui ce qui le tracasse.	수도사 욘수가 안절부절해 하고 있습니다. 그의 고민이 무언지 물어보세요.				
 QUEST_LV_0200_20150714_008660	Vaincre les Hépatiques et les Stonacon	우산이끼와 스토내콘 처치				
@@ -8720,7 +8720,7 @@ QUEST_LV_0200_20150714_008723	Il reste encore beaucoup de monstres dans le monas
 QUEST_LV_0200_20150714_008724	Vous avez beaucoup réduit le nombre de monstres. Dites-le à Moheim.	몬스터의 수를 충분히 줄인 것 같습니다. 모하임에게 이 사실을 전해주세요.				
 QUEST_LV_0200_20150714_008725	Vaincre les monstres du monastère	수도원 내의 몬스터 처치				
 QUEST_LV_0200_20150714_008726	Moheim semble avoir du mal à nettoyer le monastère. Parlez à Moheim.	수도사 모하임은 수도원의 정리가 힘든 모양입니다. 모하임과 대화해 보세요.				
-QUEST_LV_0200_20150714_008727	Chercher l'écriture à Monastère de Tyla	틸라 수도원의 경전 찾기				
+QUEST_LV_0200_20150714_008727	Chercher l'écriture dans le Monastère de Tyla	틸라 수도원의 경전 찾기				
 QUEST_LV_0200_20150714_008728	Moheim vous a demandé de chercher les pages éparpillées de l'écriture. Trouvez les écritures éparpillées dans le monastère et remettez-les à Moheim.	모하임은 흩어진 경전을 찾아달라고 부탁했습니다. 수도원 곳곳에 있는 경전을 찾아 모하임에게 전해주세요.				
 QUEST_LV_0200_20150714_008729	Les remettre à Moheim	수도사 모하임에게 전달				
 QUEST_LV_0200_20150714_008730	Toutes les écritures sont trouvées. Remettez-les à Moheim.	찾을 수 있는 경전은 이게 다인 것 같습니다. 모하임에게 전해 주세요.				
@@ -8855,7 +8855,7 @@ QUEST_LV_0200_20150717_008858	Parler au Garde de l'Armée Royale Delus	왕국군
 QUEST_LV_0200_20150717_008859	Examiner le corps du garde de l'armée royale et récupérer l'équipement	왕국군 경비병 시체를 뒤져서 장비 모으기				
 QUEST_LV_0200_20150717_008860	Examiner les corps des gardes de l'armée royale assiégés par les monstres et récupérer leur équipement.	몬스터들의 공격을 받아 죽은 왕국군 경비병의 시체를 뒤져 장비를 모으세요				
 QUEST_LV_0200_20150717_008861	Vaincre les monstres qui occupent le camp	주둔지를 점령하고 있는 몬스터 처치하기				
-QUEST_LV_0200_20150717_008862	Parler à Delus	왕국군 경비병 델루스와 대호하세요				
+QUEST_LV_0200_20150717_008862	Parler au garde de l'armée royale Delus	왕국군 경비병 델루스와 대호하세요				
 QUEST_LV_0200_20150717_008863	Installer une structure de défense	방어 시설을 설치				
 QUEST_LV_0200_20150717_008864	Installer une structure de défense pour protéger le camp	주둔지 방어를 위해 방어 시설을 설치하세요				
 QUEST_LV_0200_20150717_008865	Vaincre les monstres qui attaquent	공격해 오는 보스 몬스터 처치	QUEST_LV_0100_20150317_005228	Vaincre les monstres	공격해 오는 몬스터 처치	
@@ -8868,7 +8868,7 @@ QUEST_LV_0200_20150717_008871	Explorer la zone cachée	숨겨진 장소 탐색�
 QUEST_LV_0200_20150717_008872	L'âme du général vous transporte dans une zone cachée. Explorez la zone.	장교 영혼이 숨겨진 장소로 이동시켰습니다. 숨겨진 장소를 탐색하세요.				
 QUEST_LV_0200_20150717_008873	Récolter %s dans les ruches abandonnées	버려진 벌통에서 %s 수집	QUEST_LV_0200_20150714_008633	Récolter %s dans les vieilles ruches	낡은 벌통에서 %s 수집	
 QUEST_LV_0200_20150717_008874	Parler de la lettre à la chasseuse Natasha	헌터 나타샤와 이야기해 편지에 대해 들어보세요.				
-QUEST_LV_0200_20150717_008875	Parler au Moine Supérieur Goss à Monastère de Tyla	틸라 수도원에서 선임 수도사 거스와 대화				
+QUEST_LV_0200_20150717_008875	Parler au Moine Supérieur Goss dans le Monastère de Tyla	틸라 수도원에서 선임 수도사 거스와 대화				
 QUEST_LV_0200_20150717_008876	Vaincre les monstres rassemblés	몰려있는 몬스터 처치				
 QUEST_LV_0200_20150729_008877	Aurait-il mieux valu racler la poudre de charbon sur le Phyracon ?	차라리 피라콘에게서 흑탄 가루를 긁어내는 게 나았을까?	QUEST_LV_0100_20150317_001029	Ne vaut-il pas mieux simplement gratter la poudre sur les monstres à proximité ?	차라리 주변에 있는 몬스터에게서 흑탄 가루를 긁어내는 게 나았을까?	코델리어
 QUEST_LV_0200_20150729_008878	Levez ce sceau. Le sceau peut être ouvert en récoltant et brisant le Cristal de contention sur les{nl}Mages Flask.	나의 봉인을 풀어다오{nl}플라스크 메이지들에게서 속박의 결정을 모아 부숴버리면 이 봉인이 풀릴 것이다.	QUEST_LV_0100_20150317_001059	Levez ce sceau qui pèse sur moi, je vous prie. Quand vous aurez recueilli les essences de{nl}contention auprès des observateurs, ce sceau se brisera.	나의 봉인을 풀어다오{nl}감시자들에게서 속박의 결정을 모아 부숴버리면 이 봉인이 풀릴 것이다.	봉인석
@@ -8879,7 +8879,7 @@ QUEST_LV_0200_20150729_008882	Vaincre Phyracon et récolter de la poudre de char
 QUEST_LV_0200_20150729_008883	Cordelier veut de la Poudre de charbon noir. Obtenez-la sur Phyracon pour Cordelier.	코델리어는 흑탄 가루를 원하고 있습니다. 코델리어를 위해 피라콘에게서 흑탄 가루를 구해 주세요.	QUEST_LV_0100_20150317_005517	Cordelier veut de la poudre de charbon noir. Vainquez les monstres à proximité et rapportez-lui la poudre.	코델리어는 흑탄 가루를 원하고 있습니다. 코델리어를 위해 주변의 몬스터에게서 흑탄 가루를 구해 주세요.	
 QUEST_LV_0200_20150729_008884	Vaincre Phyracon et obtenir %s	피라콘을 처치하여 %s 획득	QUEST_LV_0100_20150317_005520	Vaincre les monstres à proximité et obtenir %s	주변의 몬스터를 처치하여 %s 획득	
 QUEST_LV_0200_20150729_008885	Récolter des Braises Éternelles sur les Drake	드레이크에게서 꺼지지 않는 불씨 수집	QUEST_LV_0100_20150317_005522	Récolter les Braises Éternelles	꺼지지 않는 불씨 수집	
-QUEST_LV_0200_20150729_008886	Cordelier vous a demandé d'obtenir des braises éternelles sur les Drake.	코델리어는 설명서를 요리조리 살펴 보더니 드레이크 안에 있는 꺼지지 않는 불씨를 구해 오라고 합니다. 드레이크에게서 꺼지지 않는 불씨를 구해 오세요.	QUEST_LV_0100_20150317_005523	Après avoir consulté le manuel, Cordelier vous demande des Braises éternelles. Obtenez-les des monstres à proximité.	코델리어는 설명서를 요리조리 살펴 보더니 몬스터 안에 있는 꺼지지 않는 불씨를 구해 오라고 합니다. 주변의 몬스터에게서 꺼지지 않는 불씨를 구해 오세요.	
+QUEST_LV_0200_20150729_008886	Après avoir scruté le manuel en tous sens, Cordelier vous demande de rapporter les Braises Éternelles qui se trouvent dans les Drake. Récupérez-les sur les Drake.	코델리어는 설명서를 요리조리 살펴 보더니 드레이크 안에 있는 꺼지지 않는 불씨를 구해 오라고 합니다. 드레이크에게서 꺼지지 않는 불씨를 구해 오세요.	QUEST_LV_0100_20150317_005523	Après avoir consulté le manuel, Cordelier vous demande des Braises éternelles. Obtenez-les des monstres à proximité.	코델리어는 설명서를 요리조리 살펴 보더니 몬스터 안에 있는 꺼지지 않는 불씨를 구해 오라고 합니다. 주변의 몬스터에게서 꺼지지 않는 불씨를 구해 오세요.	
 QUEST_LV_0200_20150729_008887	Vaincre les monstres et obtenir des morceaux de l'Arche sacrée	몬스터를 처치하여 성궤 조각 획득	QUEST_LV_0100_20150317_005551	Vaincre les monstres à proximité et obtenir un morceau de l'Arche sacrée.	주변 몬스터를 처치하여 성궤 조각 획득	
 QUEST_LV_0200_20150729_008888	La pierre du sceau se dispersera une fois libérée, alors il vous faut l'Arche sacrée pour contenir son âme. Récoltez les morceaux de l'Arche sacrée sur les monstres du 2e étage de la Tour du mage.	봉인석은 그냥 풀려났다간 흩어질 뿐이니 영혼을 담을 성궤가 필요하다고 합니다. 마법사의 탑 2층 몬스터에게서 성궤 조각을 모아 주세요.	QUEST_LV_0100_20150317_005552	La pierre de scellement dit qu'il lui faut une Arche sacrée pour contenir l'âme. Récupérez les morceaux d'Arche sacrée auprès des monstres à proximité.	봉인석은 그냥 풀려났다간 흩어질 뿐이니 영혼을 담을 성궤가 필요하다고 합니다. 주변의 몬스터에게서 성궤 조각을 모아 주세요.	
 QUEST_LV_0200_20150729_008889	Vaincre le Mage Flask et obtenir le Cristal de restriction	플라스크 메이지를 처치하여 속박의 결정 획득	QUEST_LV_0100_20150317_005577	Vaincre les monstres à proximité et obtenir un Cristal de piège	주변 몬스터를 처치하여 속박의 결정 획득	
@@ -9108,7 +9108,7 @@ QUEST_LV_0200_20150918_009111	Vous avez nettoyé l'autel !	제단을 정리하�
 QUEST_LV_0200_20150918_009112	Il semble que le Tetraox ait dévoré l'esprit !	이미 테트라옥스가 영혼을 먹어치워 버린 것 같습니다!	QUEST_LV_0200_20150908_008965	Le Tetraox a déjà dévoré l'âme{nl}Vaincre le Tetraox !	테트라옥스가 이미 영혼을 먹어치운 뒤입니다{nl}테트라옥스를 처치하세요!	
 QUEST_LV_0200_20150918_009113	La statue était fausse !{nl}Vaincre Sparnashorn !	여신상은 가짜였습니다!{nl}스파나스혼을 처치하세요!	QUEST_LV_0200_20150908_008975	La statue de la déesse était fausse ! Vaincre Sparnashorn !	여신상은 가짜였습니다! 스파나스혼을 처치하세요!	
 QUEST_LV_0200_20150918_009114	La Chouette Inquiète du Carrefour d'Ishrai	걱정되는 이쉬라이 사거리의 부엉이				
-QUEST_LV_0200_20150918_009115	Grita a dit que pour réactiver le Dispositif de barrière de la Tour, il faudrait une grande quantité d'énergie. Posez au sol le joyau que Grita vous a donné et rechargez-le avec la force vitale des monstres.	그리타는 방어막 가동 장치를 다시 가동시키려면 거대한 에너지가 필요하다고 합니다. 그리타가 준 흡정석을 바닥에 놓고 주변 몬스터의 생명력으로 충전시키세요.	QUEST_LV_0100_20150428_006816	Grita a dit que pour réactiver le Dispositif de barrière de la Tour, il faudrait une grande quantité d'énergie. Posez au sol le joyau que Grita vous a donné et rechargez-le avec la force vitale des monstres.	그리타는 방어막 가동 장치를 다시 가동시키는 게 좋겠다고 합니다. 그러기 위해서는 거대한 에너지가 필요하다고 합니다. 그리타가 준 흡정석을 몬스터의 생명력으로 충전시키세요.	
+QUEST_LV_0200_20150918_009115	Grita a dit que pour réactiver le Dispositif de barrière de la Tour, il faudrait une grande quantité d'énergie. Posez au sol la gemme que Grita vous a donné et rechargez-le avec la force vitale des monstres.	그리타는 방어막 가동 장치를 다시 가동시키려면 거대한 에너지가 필요하다고 합니다. 그리타가 준 흡정석을 바닥에 놓고 주변 몬스터의 생명력으로 충전시키세요.	QUEST_LV_0100_20150428_006816	Grita a dit que pour réactiver le Dispositif de barrière de la Tour, il faudrait une grande quantité d'énergie. Posez au sol la gemme que Grita vous a donné et rechargez-le avec la force vitale des monstres.	그리타는 방어막 가동 장치를 다시 가동시키는 게 좋겠다고 합니다. 그러기 위해서는 거대한 에너지가 필요하다고 합니다. 그리타가 준 흡정석을 몬스터의 생명력으로 충전시키세요.	
 QUEST_LV_0200_20150918_009116	La sculpture de chouette faible vous a dit de retrouver ses camarades chouettes.{nl}Cherchez-les au repaire des monstres vers la droite du Carrefour d'Ishrai. 	약해진 부엉이 조각상은 몬스터에게 끌려간 동료 부엉이를 찾아 달라고 합니다. 이쉬라이 사거리의 오른쪽에 있는 몬스터의 은거지에서 부엉이 조각상의 흔적을 찾아 보세요.	QUEST_LV_0200_20150729_008891	La chouette faible veut que vous retrouviez les autres chouettes que les monstres ont emportées. Trouvez les traces de sculpture de chouette dans le repaire des monstres situé au bout du Carrefour d'Ishrai.	약해진 부엉이는 몬스터들이 먹지 못하고 가져가버린 동료 부엉이를 찾아 주길 원하고 있습니다. 이쉬라이 사거리 길의 끝에 있는 몬스터의 은거지에서 부엉이 조각상의 흔적을 찾아 보세요.	
 QUEST_LV_0200_20150918_009117	La sculpture de chouette détruite a été entièrement détruite. Racontez à la sculpture de chouette faible ce qui s'est passé.	부서진 부엉이의 조각밖에 남지 않았습니다. 약해진 부엉이에게 부서진 부엉이의 조각을 전달하세요.	QUEST_LV_0200_20150317_002651	Tous les morceaux brisés de la chouette sont trouvés. Donnez-les à la chouette faible.	부서진 부엉이의 조각을 모두 찾았습니다. 약해진 부엉이에게 부서진 부엉이의 조각을 전달하세요.	
 QUEST_LV_0200_20150918_009118	Le pèlerin Julius s'est soudain changé en Drapeliun après avoir vu la boîte à musique. Calmez le Drapeliun qui attaque en réduisant ses PV sous les 50 % et en le convainquant.	순례자 율리우스는 오르골을 보더니 갑자기 드라페리운으로 변해버렸습니다. 공격해 오는 드라페리운을 무력으로라도 진정시켜 HP를 50% 이하로 만든 뒤 말을 걸어 설득해 보세요.	QUEST_LV_0200_20150428_006972	Julius s'est changé en Draperiun après avoir vu la boîte à musique. Calmez le Draperiun en réduisant ses PV sous les 10 % et essayez de nouveau de le convaincre.	순례자 율리우스는 오르골을 보더니 갑자기 드라페리운으로 변해버렸습니다. 공격해 오는 드라페리운을 무력으로라도 진정시켜 HP를 10% 이하로 만든 뒤 말을 걸어 설득해 보세요.	
@@ -9288,7 +9288,7 @@ QUEST_LV_0200_20151001_009291	Je ne pourrai pas arrêter complètement Hauberk, 
 QUEST_LV_0200_20151001_009292	Si Hauberk renonce et tente de fuir, je ferai de mon mieux pour l'arrêter. {nl}	하우벅이 포기하고 도망치려 한다면 제가 어떻게든 바로 막아서겠어요. {nl}	QUEST_LV_0200_20150401_005832	Je pousserai Hauberk vers l'unique chemin d'où il ne pourra pas s'enfuir. S'il tente de renoncer{nl}et de fuir, je bloquerai ici.	하우벅이 도망칠 수 없는 외길로 몰아넣을 거예요.{nl}포기하고 도망치려 한다면 제가 이곳에서 바로 막아서지요.	큐폴 다이바
 QUEST_LV_0200_20151001_009293	Je ne pourrai pas arrêter complètement Hauberk, mais... Je tâcherai de gagner autant de temps{nl}que possible pour le Sauveur.	하우벅을 완전히 막을 순 없겠지만.. {nl}구원자님께서 오실 때 까지 시간은 벌 수 있겠지요.				큐폴 다이바
 QUEST_LV_0200_20151001_009294	Heureusement, il n'est pas venu de mon côté et s'est déplacé comme je le pensais. Avec le{nl}pouvoir du Sauveur, nous pouvons assurément l'attraper.	다행히 제 쪽으로 오지 않고 저희 생각대로 움직여 주는군요.{nl}분명 잡을 수 있어요. 구원자님의 힘만 있다면요.	QUEST_LV_0200_20150401_005833	Ne vous inquiétez pas trop même s'il s'enfuit. Tout se passe comme prévu.	도망쳤다 해도 너무 걱정하지 마세요.{nl}계획대로 잘 되고 있으니까요.	큐폴 다이바
-QUEST_LV_0200_20151001_009295	C'était une réussite ! Si Hauberk peut réfléchir sainement, il devrait savoir qu'il n'a pas de temps{nl}à perdre à vaincre Sigita. Espérons du moins que ce soit le cas.	성공이에요!{nl}하우벅이 생각이 있다면 시기타를 해치는 데 시간을 낭비하지 않을 겁니다.{nl}반드시 그러길 빌어야지요.	QUEST_LV_0200_20150401_005834	Réussi ! Fini les évasions.	성공이에요!{nl}이젠 더 이상 도망치는 건 있을 수 없어요.	큐폴 시기타
+QUEST_LV_0200_20151001_009295	C'était une réussite ! Si Hauberk peut réfléchir sainement, il devrait savoir qu'il n'a pas de temps{nl}à perdre à vaincre Sigita. Espérons du moins que ce soit le cas.	성공이에요!{nl}하우벅이 생각이 있다면 시기타를 해치는 데 시간을 낭비하지 않을 겁니다.{nl}반드시 그러길 빌어야지요.	QUEST_LV_0200_20150401_005834	Ça a marché ! Il ne pourra plus s'échapper, maintenant.	성공이에요!{nl}이젠 더 이상 도망치는 건 있을 수 없어요.	큐폴 시기타
 QUEST_LV_0200_20151001_009296	Il n'y a qu'une seule issue d'ici. Ce sera notre grande chance d'attraper Hauberk.{nl}	이 앞으론 외길 뿐이에요.{nl}하우벅을 잡을 수 있는 절호의 기회이죠.{nl}	QUEST_LV_0200_20150401_005835	Nous commençons la traque dès maintenant. Il n'y a qu'un seul chemin devant, alors Hauberk{nl}résistera durement.{nl}	이제부터 몰이사냥을 시작할게요.{nl}이 앞으론 외길 뿐이니 하우벅의 저항도 거셀 겁니다.{nl}	큐폴 다이바
 QUEST_LV_0200_20151001_009297	Poussez Hauberk dans le Cellule d'isolement de Galutin. Comme Kupole Sigita bloque la sortie{nl}de Hauberk du côté opposé, vous n'avez pas à craindre sa fuite.{nl}	구원자님께선 갈루틴 독실까지 하우벅을 몰아 넣으세요.{nl}반대편에선 큐폴 시기티가 하우벅의 퇴로를 막을 거예요.{nl}	QUEST_LV_0200_20150401_005836	Poussez Hauberk dans le Cellule d'isolement de Galutin. Ne vous inquiétez pas, Sigita bloque la{nl}sortie de Hauberk du côté opposé.	갈루틴 독실까지 하우벅을 몰아 넣으세요.{nl}반대편에서 시기타가 하우벅의 퇴로를 막고 있으니 걱정 마시고요.	큐폴 다이바
 QUEST_LV_0200_20151001_009298	Beau travail. Hauberk ne savait que faire en me voyant et s'est enfui vers le Cellule d'isolement{nl}de Galutin.{nl}	정말 잘해주셨어요.{nl}하우벅은 절 보자 당황한 듯이 갈루틴 독실로 도망쳤으니까요.{nl}	QUEST_LV_0200_20150401_005837	Hauberk est comme un rat qui n'a nulle part où se cacher. Dites-moi quand vous serez prêt à{nl}attaquer.	하우벅은 이제 궁지에 몰린 쥐나 다름 없어요.{nl}덮칠 준비가 되면 말씀해주세요.	큐폴 시기타
@@ -9393,7 +9393,7 @@ QUEST_LV_0200_20151001_009396	Les Lizardman sont des monstres apparus en grand n
 QUEST_LV_0200_20151001_009397	Révélateur, c'est stupéfiant ! Quand j'applique le pouvoir de l'arbre aux cuirs de monstre que{nl}vous avez apportés, les cuirs se corrodent aussitôt.	계시자님, 이것 참 굉장하네요!{nl}가져오신 몬스터의 가죽에 묘목의 힘을 불어넣었더니 바로 바스라져 버렸습니다.	QUEST_LV_0200_20150406_006315	Révélateur, c'est stupéfiant ! Après avoir insufflé le pouvoir de l'arbre dans les ongles du monstre{nl}que vous avez apportés, ils se sont corrodés aussitôt.	계시자님, 이것 참 굉장하네요!{nl}가져오신 몬스터의 발톱에 묘목의 힘을 불어넣었더니 바로 부식되어버렸습니다.	드루이드 엘리
 QUEST_LV_0200_20151001_009398	Aidez-moi, je vous prie. Je dois récolter, mais toutes mes cultures vont bientôt mourir à cause du{nl}poison.	제발 도와주세요.{nl}이런걸 키워야 한다니 아마 얼마 못가서 전부 독에 당할 거예요.	QUEST_LV_0200_20150323_004084	Aidez-nous, je vous prie. Nous devons faire pousser ces choses ainsi, elles mourront toutes en{nl}peu de temps.	제발 도와주세요.{nl}이런걸 키워야 한다니 아마 얼마 못가서 전부 죽고 말 거예요.	소작인 샬롯
 QUEST_LV_0200_20151001_009399	Vous n'êtes pas... un messager. Ce lieu est un quartier militaire, mais nous avons désespérément{nl}besoin d'aide ces temps-ci.{nl}	당신은 왕국의 연락관..은 아니군.{nl}여긴 군사지역이오. 하지만 지금은 도움의 손길이 더 시급하지.{nl}				메사파슬라 부대장 고먼
-QUEST_LV_0200_20151001_009400	Vous semblez fort compétent. Pouvez-vous nous aider un peu ?	여기까지 올라온 걸 보니 당신은 보통 실력자가 아닌 듯 싶소.{nl}왕국을 위하는 길이라 생각하고 우리에게 조금만 힘을 보태주실 수 있겠소?				메사파슬라 부대장 고먼
+QUEST_LV_0200_20151001_009400	Être monté jusqu'ici n'est pas donné à tout le monde : vous devez être d'une belle trempe.{nl}Voyez-y un service rendu au royaume et prêtez-nous main-forte un moment, voulez-vous ?	여기까지 올라온 걸 보니 당신은 보통 실력자가 아닌 듯 싶소.{nl}왕국을 위하는 길이라 생각하고 우리에게 조금만 힘을 보태주실 수 있겠소?				메사파슬라 부대장 고먼
 QUEST_LV_0200_20151001_009401	Merci. Il y a une chose que vous devez savoir sur ce lieu.{nl}	고맙군.{nl}일단 이 지역에 대해 알아둘 것이 있소.{nl}				메사파슬라 부대장 고먼
 QUEST_LV_0200_20151001_009402	Ce lieu est la position stratégique bâtie lorsque Ruklys a semé le chaos. Éminent, qui était{nl}Premier ministre à l'époque, l'a conçue pour bloquer leur route de marche. {nl}	여긴 루클리스가 반란을 일으켰을 때 구축된 요충지요. {nl}그들의 진군로를 막기 위해 그 당시의 재상이었던 에미넌트가 고안했지.{nl}				메사파슬라 부대장 고먼
 QUEST_LV_0200_20151001_009403	Elles sont entretenues pour bloquer les monstres ou les démons de nos jours. Depuis Medzio{nl}Diena, nous n'avons reçu aucune provision ni aucun ordre du royaume.{nl}	지금은 몬스터나 마족들을 막기 위해 운용되고 있소.{nl}하지만 신수의 날 이후로 왕국에선 어떠한 보급도 지시도 내려오고 있지 않소.{nl}				메사파슬라 부대장 고먼
@@ -9448,7 +9448,7 @@ QUEST_LV_0200_20151001_009451	Il y a longtemps, ce prisonnier a été transfér�
 QUEST_LV_0200_20151001_009452	Tout ira bien si cela a été déplacé depuis la rébellion de Ruklys. Avant cela, beaucoup de gens{nl}étaient emmenés aux travaux forcés.{nl}	저게 다 루클리스의 반란 이후에 옮겨진 거라면 그러려니 하겠습니다만.{nl}그 전에도 엄청나게 많은 사람들이 강제로 가둬져 노역에 동원되었지요.{nl}				보급병 론다
 QUEST_LV_0200_20151001_009453	La Mine de cristal est-elle près de Klaipeda ? En fait, ce lieu est l'un des lieux de travail. L'Ashaq{nl}Prison est près d'Orsha aussi.	클라페다 근교의 수정광산 있지요?{nl}사실 그곳도 강제 노역장 중 하나였다고 합니다.{nl}오르샤 인근의 아샤크 감옥도 마찬가지고요.				보급병 론다
 QUEST_LV_0200_20151001_009454	J'ai comme le sang glacé en regardant les fragments de la prison. On y sent comme une{nl}rancune...	저 철창들의 잔해를 보고 있으면 왠지 모르게 소름끼쳐요.{nl}원한 같은게 느껴진다고나 할까요..				보급병 론다
-QUEST_LV_0200_20151001_009455	Merci infiniment.{nl}	정말 수고하셨습니다.{nl}저에겐 계시자니 뭐니 하는 사람들보단 당장 앞에 있는 당신이 더 감사하군요.				보급병 론다
+QUEST_LV_0200_20151001_009455	Merci infiniment. Les Révélateurs et tout ce qu'on raconte, très peu pour moi : c'est vous, ici,{nl}devant moi, à qui je dois des remerciements.	정말 수고하셨습니다.{nl}저에겐 계시자니 뭐니 하는 사람들보단 당장 앞에 있는 당신이 더 감사하군요.				보급병 론다
 QUEST_LV_0200_20151001_009456	En tant que soldat, je suis mal à l'aise de recevoir l'aide d'une personne ordinaire comme vous,{nl}mais... Horace, qui nous aidait, est allongé dans la tente en ce moment.{nl}	군인으로써 민간인에게 도움을 구해야 한다는 게 좀 껄끄럽습니다만.{nl}저희를 도와주시던 호라스라는 분이 지금 텐트에 누워계십니다.{nl}				스토가스 분대장 아데스
 QUEST_LV_0200_20151001_009457	Il a été dépêché ici par le royaume pour aider notre escouade. Après Medzio Diena, même{nl}quand le contact avec le royaume a été perdu, il nous a beaucoup aidés.{nl}	그 분은 저희 부대를 돕고자 왕국에서 파견되어 오셨지요.{nl}신수의 날 이후로 왕국에서 연락이 끊긴 뒤에도 저희와 함께 고생을 나누신 고마운 분입니다.{nl}				스토가스 분대장 아데스
 QUEST_LV_0200_20151001_009458	Il est malade après avoir mangé quelque chose de mauvais en cherchant de quoi remplacer la{nl}nourriture. Il devrait se rétablir bientôt... Comme les circonstances sont mauvaises, nous{nl}voudrions recevoir votre aide.	그런데 대체식량을 찾으시겠다고 뭘 잘못 드셨는지 저렇게 앓아눕고 말았지 뭡니까.{nl}어떻게든 나으셔야 할 텐데.. 상황이 여의치 못하니 당신의 힘을 꼭 빌리고 싶습니다.				스토가스 분대장 아데스
@@ -9582,7 +9582,7 @@ QUEST_LV_0200_20151001_009585	Vous êtes prêt à reprendre le camp de base. Par
 QUEST_LV_0200_20151001_009586	Rejoindre le camp de base en suivant les gardes	왕국군 경비병들을 따라 주둔지로 이동				
 QUEST_LV_0200_20151001_009587	Vous êtes prêt à reprendre le camp de base. Suivez les gardes et rendez-vous au lieu de rassemblement.	주둔지를 되찾을 만반의 준비를 끝냈습니다. 왕국군 경비병들을 따라 왕국군 주둔지로 이동하세요.				
 QUEST_LV_0200_20151001_009588	Vaincre les monstres qui occupent le camp de base	주둔지를 점령하고 있는 몬스터 처치	QUEST_LV_0200_20150717_008861	Vaincre les monstres qui occupent le camp	주둔지를 점령하고 있는 몬스터 처치하기	
-QUEST_LV_0200_20151001_009589	Le camp de base est repris. Parlez au garde Delus.	주둔지를 무사히 되찾았습니다. 왕국군 경비병 델루스와 대화해보세요.	QUEST_LV_0200_20150717_008862	Parler à Delus	왕국군 경비병 델루스와 대호하세요	
+QUEST_LV_0200_20151001_009589	Le camp de base est repris. Parlez au garde Delus.	주둔지를 무사히 되찾았습니다. 왕국군 경비병 델루스와 대화해보세요.	QUEST_LV_0200_20150717_008862	Parler au garde de l'armée royale Delus	왕국군 경비병 델루스와 대호하세요	
 QUEST_LV_0200_20151001_009590	Installer la barricade	방책 설치				
 QUEST_LV_0200_20151001_009591	Il semble que Delus s'inquiète de la défense du camp bien qu'il soit épuisé. Pour améliorer la défense du camp, obtenez la barricade dans la caisse de ravitaillement et posez-la.	왕국군 경비병 델루스는 지친 가운데서도 주둔지의 방어가 신경쓰이는 것 같습니다. 주둔지 방어를 위해 보급 상자에서 방책을 꺼내서 설치하세요.	QUEST_LV_0200_20150717_008864	Installer une structure de défense pour protéger le camp	주둔지 방어를 위해 방어 시설을 설치하세요	
 QUEST_LV_0200_20151001_009592	Toutes les barricades sont posées. Retournez voir le garde Delus.	방책을 전부 세웠습니다. 왕국군 경비병 델루스에게 돌아가세요.	QUEST_LV_0200_20150717_008858	Parler au Garde de l'Armée Royale Delus	왕국군 경비병 델루스와 대화하세요	
@@ -9852,10 +9852,10 @@ QUEST_LV_0200_20151224_009855	La déesse Gabija et les mages restants protègent
 QUEST_LV_0200_20151224_009856	Nous perdrons la tour au profit des démons si nous ne recevons pas d'aide. Vous seul pouvez{nl}empêcher tout cela.	이대로라면 저흰 마족들에게 여신과 마법사의 탑을 잃게 될 거예요.{nl}막을 방법은 있지만 당신이 아니면 할 수 없어요.{nl}				그리타
 QUEST_LV_0200_20151224_009857	Venez au Site de la salle de Karsta des Faubourgs de Fedimian, je vous prie.	부탁이에요.. {nl}마족들이 절 찾아내기 전에 페디미안 외곽의 카르스타 전당 터로 와 주세요.				그리타
 QUEST_LV_0200_20151224_009858	Voici l'entrée de la tour. Je ne pourrai pas user de magie, mais je vous mènerai assurément{nl}jusqu'à la Déesse Gabija.{nl}	여기가 바로 탑의 입구예요.{nl}전 사정이 있어 마력을 쓸 순 없지만.. 반드시 당신을 가비야님께 데려갈 거예요.{nl}	QUEST_LV_0200_20150717_008753	Voici l'entrée de la tour. Je ne pourrai pas user de magie, mais je vous mènerai assurément{nl}jusqu'à la Déesse Gabija.{nl}	여기가 바로 탑의 입구예요.{nl}전 사정이 있어 마력을 쓸 순 없지만 반드시 당신을 가비야님께 데려갈 겁니다.{nl}	그리타
-QUEST_LV_0200_20151224_009859	Gabija n'a pas complètement disparu.	자세한 사정은 천천히 말씀드릴테지만.. {nl}세상 사람들이 말하는 것처럼 가비야 여신께선 스스로 모습을 감추신 건 아니예요.{nl}	QUEST_LV_0200_20150717_008754	Êtes-vous prêt ?	준비는 되셨나요?	그리타
+QUEST_LV_0200_20151224_009859	Je vous expliquerai le détail en temps voulu... Quoi qu'en disent les gens, la Déesse Gabija ne s'est{nl}pas cachée d'elle-même.{nl}	자세한 사정은 천천히 말씀드릴테지만.. {nl}세상 사람들이 말하는 것처럼 가비야 여신께선 스스로 모습을 감추신 건 아니예요.{nl}	QUEST_LV_0200_20150717_008754	Êtes-vous prêt ?	준비는 되셨나요?	그리타
 QUEST_LV_0200_20151224_009860	Pour protéger la tour des démons, elle n'avait qu'à se cacher.{nl}	연이은 마족의 공격에서 탑을 지켜내시느라 세상에 나설 수 없었을 뿐이지요.{nl}				그리타
 QUEST_LV_0200_20151224_009861	Comme Agailla Flurry ne pouvait pas trouver de successeur, elle a géré la tour. Pour protéger{nl}une chose précieuse... elle s'est sacrifiée.	아가일라 플러리님께서 후계자를 찾지 못해 탑의 주인을 대신하셨거든요{nl}중요한 것을 지키기 위해.. 희생하신 것 뿐이에요.{nl}				그리타
-QUEST_LV_0200_20151224_009862	Êtes-vous prêt ?	당신만이 가비야 여신과 마법사의 탑을 구할 수 있는 유일한 희망이예요.{nl}준비는 되셨나요?				그리타
+QUEST_LV_0200_20151224_009862	Vous êtes le seul espoir de sauver la Déesse Gabija et la Tour du mage. Êtes-vous prêt ?	당신만이 가비야 여신과 마법사의 탑을 구할 수 있는 유일한 희망이예요.{nl}준비는 되셨나요?				그리타
 QUEST_LV_0200_20151224_009863	Gabija n'a pas disparu exprès. Elle devait protéger la tour des attaques incessantes des démons.{nl}Elle n'avait d'autre choix que de partir.{nl}	)}가비야께선 스스로 모습을 감추신 게 아니예요.{nl}연이은 마족의 공격에서 탑을 지켜내시느라 세상에 나설 수 없었을 뿐이지요.{nl}				그리타
 QUEST_LV_0200_20151224_009864	Habituellement, le meilleur moyen d'être accepté comme Pardonneur est de verser beaucoup{nl}d'argent. Mais je pense qu'accomplir une tâche te conviendrait mieux.{nl}	보통 파드너로 입문을 하려면 거액을 기부하는 게 제일 좋지요.{nl}하지만 당신은 입문 과제가 더 어울리겠군요.{nl}	QUEST_JOBSTEP_20150317_000539	Habituellement, le meilleur moyen d'être accepté comme Pardonneur est de verser beaucoup{nl}d'argent. Mais je pense qu'accomplir une tâche te conviendrait mieux.{nl}	보통 파드너로 입문을 하려면 거액을 기부하는 게 제일 좋지.{nl}하지만 자네는 입문 과제가 더 어울리겠군.{nl}	파드너 마스터
 QUEST_LV_0200_20151224_009865	Rapportez l'objet appelé Bocal de feu. Des rumeurs disent que les marchands de Fedimian ont{nl}vu la jarre.	불항아리라는 물건을 가져오세요.{nl}페디미안의 상인들이 그 항아리를 봤다는 소문이 돌더군요.	QUEST_JOBSTEP_20150317_000540	Rapporte-moi le Fire Pot, je t'en prie. J'ai entendu une rumeur selon laquelle les marchands de{nl}Fedimian l'auraient vu.	불항아리라는 물건을 가져다주게.{nl}페디미안의 상인들이 그 항아리를 봤다는 소문이 돌더군.	파드너 마스터
@@ -10228,7 +10228,7 @@ QUEST_LV_0200_20151224_010231	Le Maître Cataphractaire dit qu'il vous faut un a
 QUEST_LV_0200_20160224_010232	Comme je m'y attendais ! J'avais deviné que vous aviez ce qu'il faut pour devenir un bon{nl}Lanceur de runes.{nl}	역시, 오셨군요!{nl}당신이라면 좋은 룬캐스터가 될 수 있을 거라고 생각했어요.{nl}				룬캐스터 마스터
 QUEST_LV_0200_20160224_010233	Vous devez fabriquer votre propre Pierre runique si vous voulez devenir Lanceur de runes. Il{nl}vous faudra rassembler les matériaux requis pour la créer.	룬캐스터가 되려면 우선, 자신의 룬 스톤을 만들어야 해요.{nl}몇 가지 재료가 필요하니 그걸 구해오셔야겠네요.				룬캐스터 마스터
 QUEST_LV_0200_20160224_010234	Puisque je vous suis redevable, je vais vous donner le matériau le plus important, la Pierre{nl}démoniaque bleue. Il faut encore pas mal d'autres matériaux, alors écoutez bien.{nl}	당신에게는 신세진 것도 있으니 가장 중요한 재료인 푸른 마석은 제가 드릴게요.{nl}나머지 재료는 좀 많으니 잘 들어 주세요.{nl}				룬캐스터 마스터
-QUEST_LV_0200_20160224_010235	Rendez-vous à Monastère de Tyla et obtenez le fragment d'énergie maléfique de Malstatue..{nl}Vous devez aussi rassembler le sang froid de Velaphid et la corne robuste de Pumpleflap.	틸라 수도원에 가셔서 멀스태츄의 마력 파편을.. {nl}그리고 벨라피드의 차가운 피와 펌플랍의 단단한 뿔을 모아오시면 돼요.				룬캐스터 마스터
+QUEST_LV_0200_20160224_010235	Rendez-vous dans le Monastère de Tyla et obtenez le fragment d'énergie maléfique de{nl}Malstatue.. Vous devez aussi rassembler le sang froid de Velaphid et la corne robuste de{nl}Pumpleflap.	틸라 수도원에 가셔서 멀스태츄의 마력 파편을.. {nl}그리고 벨라피드의 차가운 피와 펌플랍의 단단한 뿔을 모아오시면 돼요.				룬캐스터 마스터
 QUEST_LV_0200_20160224_010236	Vous pouvez rassembler le reste des matériaux requis pour fabriquer une Pierre runique sur{nl}divers monstres de Monastère de Tyla. N'oubliez pas, obtenez le fragment d'énergie maléfique{nl}de Malstatue, le sang froid de Velaphid et la corne robuste de Pumpleflap.	룬 스톤을 만드는 데 필요한 나머지 재료는 틸라 수도원에 있는 몬스터에게 구할 수 있어요.{nl}멀스태츄의 마력 파편, 벨라피드의 차가운 피와 펌플랍의 단단한 뿔이니 잘 기억하세요.				룬캐스터 마스터
 QUEST_LV_0200_20160224_010237	Je vois que vous avez rassemblé tous les matériaux. Commençons maintenant par créer une{nl}Pierre runique.	전부 모아오셨군요.{nl}이제 룬 스톤을 만들어 보죠.				룬캐스터 마스터
 QUEST_LV_0200_20160224_010238	Voici votre Pierre runique. Vous pourrez désormais user de la magie du Lanceur de runes.	이게 당신의 룬 스톤이에요.{nl}이제 룬캐스터의 마법을 사용하실 수 있을 거예요.				룬캐스터 마스터
@@ -10247,8 +10247,8 @@ QUEST_LV_0200_20160224_010250	Demander quels sont les matériaux	재료가 무�
 QUEST_LV_0200_20160224_010251	Si vous aviez sauvé toutes les âmes scellées dans les pierres scellées au-delà de la Tour du mage, vous pourrez recevoir la dernière mission de la pierre scellée sur le chemin du grand hall de Keturidu.	지금까지 마법사의 탑을 지나쳐 오면서 봉인석에 봉인된 모든 영혼들을 모두 구해주었다면, 케튜리듀 대회당으로 가는 길의 마지막 봉인석에게서 마지막 임무를 받을 수 있을 것입니다.	QUEST_LV_0100_20150317_005623	Si vous avez libéré toutes les âmes emprisonnées dans la pierre de sceau sur votre chemin depuis la Tour du mage, vous pouvez obtenir la dernière mission auprès de la lampe suspecte sur le chemin du Grande salle de Keturidu.	지금까지 마법사의 탑을 지나쳐 오면서 봉인석에 봉인된 모든 영혼들을 모두 구해주었다면, 케튜리듀 대회당으로 가는 길의 수상한 램프에게서 마지막 임무를 받을 수 있을 것입니다.	
 QUEST_LV_0200_20160224_010252	Parler au Maître Lanceur de Runes	룬캐스터 마스터와 대화				
 QUEST_LV_0200_20160224_010253	Parler au Maître Lanceur de runes au Ancien jardin de la Déesse.	여신의 옛뜰에 있는 룬캐스터 마스터와 대화하세요.				
-QUEST_LV_0200_20160224_010254	Récolter les matériaux de Pierre runique à Monastère de Tyla	틸라 수도원에서 룬 스톤 재료 수집				
-QUEST_LV_0200_20160224_010255	Le Maître Lanceur de runes dit que vous devez récolter les matériaux de la Pierre runique nécessaires pour lancer la magie runique. Récoltez le fragment d'énergie maléfique de Malstatue, le sang froid de Velaphid et la corne robuste de Pumpleflap à Monastère de Tyla.	룬캐스터 마스터는 룬캐스터의 마법에 필요한 룬 스톤을 만들 재료를 모아야 한다고 합니다. 틸라 수도원에서 멀스태츄의 마력 파편, 벨라피드의 차가운 피, 펌플랍의 단단한 뿔을 모아오세요.				
+QUEST_LV_0200_20160224_010254	Récolter les matériaux de Pierre runique dans le Monastère de Tyla	틸라 수도원에서 룬 스톤 재료 수집				
+QUEST_LV_0200_20160224_010255	Le Maître Lanceur de runes dit que vous devez récolter les matériaux de la Pierre runique nécessaires pour lancer la magie runique. Récoltez le fragment d'énergie maléfique de Malstatue, le sang froid de Velaphid et la corne robuste de Pumpleflap dans le Monastère de Tyla.	룬캐스터 마스터는 룬캐스터의 마법에 필요한 룬 스톤을 만들 재료를 모아야 한다고 합니다. 틸라 수도원에서 멀스태츄의 마력 파편, 벨라피드의 차가운 피, 펌플랍의 단단한 뿔을 모아오세요.				
 QUEST_LV_0200_20160224_010256	Faire un Rapport au Maître Lanceur de Runes	룬캐스터 마스터에게 보고				
 QUEST_LV_0200_20160224_010257	Vous avez récolté tous les matériaux requis. Retournez voir le Maître Lanceur de runes et remettez-les-lui.	필요한 재료를 모두 모았습니다. 룬캐스터 마스터에게 돌아가 전해주세요.				
 QUEST_LV_0200_20160310_010258	J'ai une requête à vous faire. Les soldats souffrent bien trop des Luvine Rubba.	부탁드리고 싶은 게 있어요.{nl}병사들이 러바인러바 때문에 고생하는 게 너무 안타까워요.	QUEST_LV_0200_20150317_000074	J'ai quelque chose à vous demander. Je m'inquiète pour les soldats blessés par les Ravinelarva.	부탁드리고 싶은 게 있어요.{nl}병사들이 러바인러바때문에 고생하는 게 너무 안타까워요.	정착한 부엉이 조각상
@@ -10298,7 +10298,7 @@ QUEST_LV_0200_20160310_010301	Bien. J'ai terminé. Je dois rencontrer deux autre
 QUEST_LV_0200_20160310_010302	Faustas a brisé le tabou et expérimenté sur les cadavres humains ! Les soldats gelés que vous{nl}avez vus jusqu'ici sont tous son œuvre...{nl}	파우스타스가 금기를 어기고 인간의 시신으로 실험을 하고 있었어요!{nl}당신이 봤다던 그 얼어붙은 병사도 전부.. 그의 짓이였어요.{nl}				네크로맨서 레미야
 QUEST_LV_0200_20160310_010303	Alors que je tentais d'arrêter Faustas... Il m'a dit qu'il m'enverrait auprès d'Adomas...{nl}	그걸 막으려고 하니까 파우스타스가.. {nl}절 아도마스의 곁으로 보내버리겠다고..{nl}				네크로맨서 레미야
 QUEST_LV_0200_20160310_010304	Je suis vraiment désolée. J'aurais dû vous faire confiance. Je suis sûre qu'Adomas... J'ignore{nl}pourquoi Faustas fait cela.	정말 미안해요. 당신 말을 믿었어야 했어요. {nl}분명 아도마스도 그가.. 파우스타스가 갑자기 왜 저러는 건지 모르겠어요.				네크로맨서 레미야
-QUEST_LV_0200_20160310_010305	En fait, Faustas est venu à Plateau de Vedas sur les instructions du Maître Nécromancien. Les{nl}familles des soldats qui travaillaient ici nous ont demandé de nous occuper des corps.{nl}	원래 파우스타스는 네크로멘서 마스터님의 지시로 베다 고원에 온 거예요.{nl}이 곳에서 근무하던 병사들의 가족들이 시신을 수습해 달라고 요청이 왔었거든요.{nl}				네크로맨서 레미야
+QUEST_LV_0200_20160310_010305	En fait, Faustas est venu au Plateau de Vedas sur les instructions du Maître Nécromancien. Les{nl}familles des soldats qui travaillaient ici nous ont demandé de nous occuper des corps.{nl}	원래 파우스타스는 네크로멘서 마스터님의 지시로 베다 고원에 온 거예요.{nl}이 곳에서 근무하던 병사들의 가족들이 시신을 수습해 달라고 요청이 왔었거든요.{nl}				네크로맨서 레미야
 QUEST_LV_0200_20160310_010306	Mais nous avons perdu le contact après cela... Le maître, inquiet, nous a envoyés ici, Adomas et{nl}moi.{nl}	그런데 그 후로 연락이 끊겨버려서..{nl}걱정이 된 마스터께서 혹시 무슨 일이 생겼을까 싶어 저와 아도마스를 이리 보내신거죠.{nl}				네크로맨서 레미야
 QUEST_LV_0200_20160310_010307	Mais alors... comment une telle tragédie... Ce n'est pas quelqu'un qui ferait une chose pareille.{nl}	그런데 왜.. 어째서 그런 끔찍한 일을.. {nl}절대 이런 일을 벌일 만한 사람이 아니거든요.{nl}				네크로맨서 레미야
 QUEST_LV_0200_20160310_010308	Je suis sûr qu'il y a une histoire derrière tout cela... Nous devons éviter de briser le tabou.	분명 뭔가 사연이 있는 게 분명하지만.. {nl}그래도 금기를 깨는 일은 반드시 막아야 해요.{nl}				네크로맨서 레미야
@@ -10334,7 +10334,7 @@ QUEST_LV_0200_20160310_010337	C'est un peu déplaisant, mais rien d'autre ne peu
 QUEST_LV_0200_20160310_010338	Mais, à ma place, il nous faut le médium qui contiendra le pouvoir magique. Depuis que Faustas{nl}m'a attaquée, son pouvoir magique est un lourd fardeau pour moi.{nl}	하지만 저 대신 그의 마력을 감당할 매개체가 필요해요.{nl}아까 파우스타스에게 당한 것 때문에 그의 마력은 제게 부담이 너무 크거든요.{nl}				네크로맨서 레미야
 QUEST_LV_0200_20160310_010339	Pourriez-vous récolter les morceaux des cadavres sur les monstres alentour ? Je créerai avec ces{nl}morceaux le talisman qui servira de médium.	주위의 몬스터로부터 사체 조각을 모아주시겠어요? {nl}제가 그 조각으로 매개체로 쓸 부적을 만들어 볼게요.				네크로맨서 레미야
 QUEST_LV_0200_20160310_010340	Vieille Lettre	낡은 편지				
-QUEST_LV_0200_20160310_010341	À mon grand-père disparu.{nl}- Bonjour, grand-père. Comment vas-tu ? Je monte la garde à Plateau de Vedas et j'ai pris la{nl}plume en pensant à toi. Je fais cela parce que tu me manques, alors j'espère que tu ne me{nl}gronderas pas ! Comment va le village ? 	보고싶은 할아버지께.{nl}-{nl}할아버지 건강하세요? {nl}베다 고원에서 경계 근무를 서다가 할아버지 생각에 펜을 들어 봅니다.{nl}할아버지 보고 싶어서 그런 거니까 근무 태만이라고 혼내시기 없기에요!{nl}마을 분위기는 어때요? {nl}광산은 제가 없어도 여전히 잘 돌아가고 있을 테지요?{nl}아직도 동네 꼬마들 모아놓고 광산 지하의 마족 이야기를 해주시나요?{nl}				낡은 편지
+QUEST_LV_0200_20160310_010341	À mon grand-père disparu.{nl}- Bonjour, grand-père. Comment vas-tu ? Je monte la garde au Plateau de Vedas et j'ai pris la{nl}plume en pensant à toi. Je fais cela parce que tu me manques, alors j'espère que tu ne me{nl}gronderas pas ! Comment va le village ? 	보고싶은 할아버지께.{nl}-{nl}할아버지 건강하세요? {nl}베다 고원에서 경계 근무를 서다가 할아버지 생각에 펜을 들어 봅니다.{nl}할아버지 보고 싶어서 그런 거니까 근무 태만이라고 혼내시기 없기에요!{nl}마을 분위기는 어때요? {nl}광산은 제가 없어도 여전히 잘 돌아가고 있을 테지요?{nl}아직도 동네 꼬마들 모아놓고 광산 지하의 마족 이야기를 해주시나요?{nl}				낡은 편지
 QUEST_LV_0200_20160310_010342	Quand j'ai appris de toi l'existence des démons enfermés dans la mine souterraine, c'était bien{nl}trop effrayant.. Ronesa a pleuré en l'écoutant avec moi. Je ressens comme précieux tout ce qui{nl}me semblait normal par le passé. Je t'écrirai une autre lettre la prochaine fois. J'espère que tu iras{nl}bien d'ici là.{nl}-{nl}- Ton petit-fils, Hendrick -	어릴 적에 할아버지께서 해주신 광산 지하에 갇힌 마족 이야기를 들었을 때 얼마나 무서웠는지..{nl}그 때 같이 듣던 로네사는 결국 울음을 터뜨려 버리고 말았었죠.{nl}이 곳에 있으니까 당연하게 느꼈던 그 모든 것들이 소중하게 느껴집니다.{nl}다음에 또 편지할게요. 그때까지 건강하세요.{nl}-{nl}-할아버지의 손자, 헨드릭 올림-				낡은 편지
 QUEST_LV_0200_20160310_010343	La note laissée par le commandant	부대장이 남긴 쪽지				
 QUEST_LV_0200_20160310_010344	Je suis le commandant du quartier général de Plateau de Vedas. Je laisse ceci en espérant que{nl}quelqu'un le comprendra. Mes subordonnés ont entièrement changé. Ils se sont mis à souffrir{nl}du froid et de la faim, alors ils ont abandonné leur fierté et se sont mis à voler les environs{nl}comme des bandits.	나는 베다 고원 기지의 부대장이다.{nl}누군가는 이 사실을 알아줬으면 하는 마음에 이 글을 남긴다.{nl}내 부하들은 완전히 변해버렸다.{nl}추위와 굶주림에 시달린 나머지 왕국군의 긍지를 버리고 산적처럼 주위를 약탈하기 시작했다.{nl}				부대장이 남긴 쪽지
@@ -10358,9 +10358,9 @@ QUEST_LV_0200_20160310_010361	Le 14 de X{nl}- Le démon aux habits noirs est app
 QUEST_LV_0200_20160310_010362	Il tenait un morceau de pierre rouge appelé le Kruvina, Comme ce lieu est plein de neige, les{nl}cadavres ne se corrompent pas... ce pouvoir sauvera peut-être Elluma.{nl}{nl}	그의 손에는 크루비나라는 피처럼 새빨간 돌 조각이 들려있었다.{nl}이 곳은 설원이라 시체가 썩지 않는다.. 저 힘이라면 엘르마를 살릴 수 있을지도 모른다.{nl}{nl}				파우스타스의 일기
 QUEST_LV_0200_20160310_010363	Le 18 de X{nl}- En utilisant le Kruvina, le pouvoir magique que je possède s'est amplifié. Le problème est qu'à{nl}mesure que le Kruvina tente sans cesse de prendre ma force vitale, il consume continuellement{nl}ma force vitale. Je suppose que je devrais manier le Kruvina avec plus de prudence.	X월 18일{nl}-{nl}크루비나를 사용하자 내가 가진 마력이 강력하게 증폭된다.{nl}문제는 크루비나가 내 생명력을 탐내듯이 계속해서 내 생명력을{nl}소진시킨 다는 것이다.{nl}크루비나는 좀 더 신중하게 사용해야할 것 같다.{nl}{nl}				파우스타스의 일기
 QUEST_LV_0200_20160310_010364	Le X de X{nl}- Je sens que le Kruvina empiète lentement sur mon corps. C'est comme un verre au fond brisé :{nl}même quand je n'utilise pas le Kruvina, je sens ma force vitale s'écouler. Mais je ne peux pas{nl}m'arrêter maintenant. J'ai déjà brisé le tabou et expérimenté sur des humains.	X월 X일{nl}-{nl}크루비나가 점점 내 몸을 잠식해옴을 느낀다.{nl}밑이 깨진 유리잔처럼 크루비나를 사용하지 않을 때도 내 생명력이 흘러나가는 것 같다.{nl}하지만 이제와서 멈출수는 없다.{nl}이미 금기까지 깨고 인간을 대상으로 실험을 시작했다.{nl}내가 죽더라도 너를 다시 살릴 수만 있다면야..{nl}내 목숨따위 아무래도 상관 없다..				파우스타스의 일기
-QUEST_LV_0200_20160310_010365	Le 11 de X{nl}- À partir de demain, Faustas sera dépêché à Plateau de Vedas. Sur les instructions du Maître{nl}Nécromancien. Il a reçu une requête pour évacuer les corps des soldats.{nl}	X월 11일{nl}-{nl}내일부터 파우스타스가 베다 고원으로 파견을 가게 되었다고 한다.{nl}네크로맨서 마스터님께서 지시하신 일인데 병사의 시신을 수습해달라는 의뢰를 받았다나.{nl}				엘르마의 일기
+QUEST_LV_0200_20160310_010365	Le 11 de X{nl}- À partir de demain, Faustas sera dépêché au Plateau de Vedas. Sur les instructions du Maître{nl}Nécromancien. Il a reçu une requête pour évacuer les corps des soldats.{nl}	X월 11일{nl}-{nl}내일부터 파우스타스가 베다 고원으로 파견을 가게 되었다고 한다.{nl}네크로맨서 마스터님께서 지시하신 일인데 병사의 시신을 수습해달라는 의뢰를 받았다나.{nl}				엘르마의 일기
 QUEST_LV_0200_20160310_010366	J'ai dit que je suivrais car je pensais que la montagne couverte de neige serait utile à Faustas{nl}comme à moi. Faustas a été surpris, mais il semblait que cela ne lui plaisait pas. Je devrais me{nl}préparer bientôt.{nl}{nl}	눈 덮인 설산이라면 나나 파우스타스에게도 도움이 될 것 같아서 따라간다고 했다.{nl}파우스타스는 깜짝 놀라는 듯 했지만 싫은 눈치는 아닌 것 같다.{nl}얼른 짐을 싸고 준비 해야겠다.{nl}{nl}				엘르마의 일기
-QUEST_LV_0200_20160310_010367	Le 12 de X{nl}- Je suis arrivée à Plateau de Vedas sans le moindre problème. Je craignais de ne trouver que les{nl}corps des soldats, mais je me suis sentie mieux en voyant quelques survivants. Les soldats sont{nl}forts, comme je m'y attendais.{nl}	X월 12일{nl}-{nl}별 문제 없이 파우스타스와 베다 고원에 도착했다.{nl}병사들의 시신만 마주하게 될 거란 걱정과는 달리 아직 살아남은 생존자들이 있어서 반가웠다.{nl}이 추운 날씨에도 꿋꿋하게 버티는 모습을 보고 역시 군인은 강하다는 생각이 들었다.{nl}				엘르마의 일기
+QUEST_LV_0200_20160310_010367	Le 12 de X{nl}- Je suis arrivée au Plateau de Vedas sans le moindre problème. Je craignais de ne trouver que{nl}les corps des soldats, mais je me suis sentie mieux en voyant quelques survivants. Les soldats{nl}sont forts, comme je m'y attendais.{nl}	X월 12일{nl}-{nl}별 문제 없이 파우스타스와 베다 고원에 도착했다.{nl}병사들의 시신만 마주하게 될 거란 걱정과는 달리 아직 살아남은 생존자들이 있어서 반가웠다.{nl}이 추운 날씨에도 꿋꿋하게 버티는 모습을 보고 역시 군인은 강하다는 생각이 들었다.{nl}				엘르마의 일기
 QUEST_LV_0200_20160310_010368	Comme le Maître Nécromancien l'a indiqué, Faustas s'est mis à récolter les cadavres. Je devrais{nl}réfléchir à ce que je peux faire pour les soldats vivants.	파우스타스는 네크로맨서 마스터의 지시대로 병사들의 시신을 수습하기 시작했다.{nl}나도 살아있는 병사들을 위해 해줄 수 있는 것이 없을 지 찾아봐야겠다.				엘르마의 일기
 QUEST_LV_0200_20160310_010369	La Tombe de l'Amant	연인의 무덤				
 QUEST_LV_0200_20160310_010370	Ci-gisent Faustas et Elluma.	파우스타스와 엘르마, 이 곳에 잠들다.				연인의 무덤
@@ -10391,7 +10391,7 @@ QUEST_LV_0200_20160310_010394	L'Histoire qui se Cache Derrière (1)	그들의 �
 QUEST_LV_0200_20160310_010395	L'Histoire qui se Cache Derrière (2)	그들의 사연 (2)				
 QUEST_LV_0200_20160310_010396	Je ne peux pas le remettre	전할 수 없다고 한다				
 QUEST_LV_0200_20160310_010397	Chercher le nécromancien Adomas avec précaution	네크로맨서 아도마스 살피기				
-QUEST_LV_0200_20160310_010398	Vous avez trouvé le nécromancien Adomas, tombé à Plateau de Vedas. Examinez Adomas pour voir ce qui s'est passé.	베다 고원에서 쓰러져있는 네크로맨서 아도마스를 발견했습니다. 무슨 일인지 아도마스를 살펴보세요.				
+QUEST_LV_0200_20160310_010398	Vous avez trouvé le nécromancien Adomas, tombé au Plateau de Vedas. Examinez Adomas pour voir ce qui s'est passé.	베다 고원에서 쓰러져있는 네크로맨서 아도마스를 발견했습니다. 무슨 일인지 아도마스를 살펴보세요.				
 QUEST_LV_0200_20160310_010399	Fouiller le sac d'Adomas	아도마스의 가방 수색				
 QUEST_LV_0200_20160310_010400	Le nécromancien Adomas est mort après avoir demandé de transmettre la note à Lemija. Trouvez la note dans le sac d'Adomas et remettez-la à Lemija.	네크로맨서 아도마스는 레미야에게 쪽지를 전달해달라는 말을 남긴 채 숨을 거두고 말았습니다. 아도마스의 가방에서 쪽지를 찾아 네크로멘서 레미야에게 전해주세요.				
 QUEST_LV_0200_20160310_010401	Remettre la note à la nécromancienne Lemija	네크로맨서 레미야에게 쪽지 전달				
@@ -10403,7 +10403,7 @@ QUEST_LV_0200_20160310_010406	La nécromancienne Lemija ne peut pas vous croire 
 QUEST_LV_0200_20160310_010407	Le corps d'Adomas a disparu ! D'abord, reparlez à Lemija.	아도마스의 시신은 온데간데 없습니다! 일단 레미야와 다시 대화해 보세요.				
 QUEST_LV_0200_20160310_010408	Un incident survenu ici	이 곳에서 있었던 일				
 QUEST_LV_0200_20160310_010409	Fouiller le poste des soldats	병사 주둔지 수색				
-QUEST_LV_0200_20160310_010410	Nous sommes sûrs que quelque chose d'étrange se produit à Plateau de Vedas. Vérifions d'abord le poste des soldats.	베다 고원에서 분명 이상한 일이 벌어지고 있는 게 틀림없습니다. 일단 병사 주둔지를 확인해 보는 것이 좋겠습니다.				
+QUEST_LV_0200_20160310_010410	Nous sommes sûrs que quelque chose d'étrange se produit au Plateau de Vedas. Vérifions d'abord le poste des soldats.	베다 고원에서 분명 이상한 일이 벌어지고 있는 게 틀림없습니다. 일단 병사 주둔지를 확인해 보는 것이 좋겠습니다.				
 QUEST_LV_0200_20160310_010411	Les résultats de la fouille du poste des soldats	병사 주둔지 수색 결과				
 QUEST_LV_0200_20160310_010412	Découvrir ce qui s'est passé ici	이곳에서 무슨 일이 일어났는지 알아보세요.				
 QUEST_LV_0200_20160310_010413	Suivre le bruit du cri	비명소리 쫓아가기				
@@ -10412,7 +10412,7 @@ QUEST_LV_0200_20160310_010415	Se rendre aux Sources de Spega, d'où provenait le
 QUEST_LV_0200_20160310_010416	Le nécromancien disparu et Lemija semblent se connaître. Parlez à Lemija.	사라진 네크로맨서와 레미야는 아는 사이인 것 같습니다. 레미야와 대화해보세요.				
 QUEST_LV_0200_20160310_010417	Vaincre les monstres tout en protégeant Lemija	레미야를 지키며 몬스터 처치				
 QUEST_LV_0200_20160310_010418	Prier pour leur repos éternel	그들의 안식을 기도하며				
-QUEST_LV_0200_20160310_010419	Lemija semble connaître Faustas. Parlez à Lemija de Faustas.	레미야는 파우스타스라는 네크로맨서와 잘 알고 있는 것 같습니다. 네크로맨서 파우스타스에 대해 레미야와 대화해보세요.				
+QUEST_LV_0200_20160310_010419	Lemija semble bien connaître un nécromancien du nom de Faustas. Parlez-lui du nécromancien Faustas.	레미야는 파우스타스라는 네크로맨서와 잘 알고 있는 것 같습니다. 네크로맨서 파우스타스에 대해 레미야와 대화해보세요.				
 QUEST_LV_0200_20160310_010420	Récolter les morceaux des cadavres des monstres	몬스터로부터 사체 조각 수집				
 QUEST_LV_0200_20160310_010421	Lemija vous a dit qu'elle doit dérober la magie de Faustas pour briser sa barrière. Obtenez les morceaux de cadavres sur les monstres pour fabriquer le talisman qui servira à dérober le pouvoir magique au soldat gelé.	레미야는 파우스타스가 걸어 놓은 결계를 깨기 위해 그의 마력을 훔쳐야겠다고 합니다. 얼어붙은 병사에게서 마력을 훔칠 부적을 만들기 위해 몬스터로부터 사체 조각을 구해 오세요.				
 QUEST_LV_0200_20160310_010422	Remettre les morceaux des cadavres à la nécromancienne Lemija	네크로맨서 레미야에게 사체조각 전달				
@@ -10442,12 +10442,12 @@ QUEST_LV_0200_20160310_010445	L'Histoire qui se Cache Derrière	그들의 사연
 QUEST_LV_0200_20160310_010446	Examiner la note du commandant	부대장의 쪽지 확인				
 QUEST_LV_0200_20160310_010447	Une note écrite par le commandant de Plateau de Vedas a été obtenue sur le monstre. Lisez la note.	몬스터에게서 이곳 베다 고원의 부대장이 써놓은 듯한 쪽지를 얻었습니다. 쪽지를 읽어보세요.				
 QUEST_LV_0200_20160310_010448	Fouiller la maison où se cache le commandant	부대장이 숨어 있는 집 수색				
-QUEST_LV_0200_20160310_010449	Ce qui s'est passé à Plateau de Vedas et les raisons pour lesquelles le commandant se cache sont écrits sur la note. Fouillez la maison où le commandant se cache.	쪽지에는 베다 고원에서 있었던 일들과 부대장이 숨어지내게 된 사연이 적혀있었습니다. 부대장이 숨어 있는 집을 찾아보세요.				
-QUEST_LV_0200_20160310_010450	Parler au commandant à Plateau de Vedas	베다 고원 부대장과 대화				
+QUEST_LV_0200_20160310_010449	Ce qui s'est passé au Plateau de Vedas et les raisons pour lesquelles le commandant se cache sont écrits sur la note. Fouillez la maison où le commandant se cache.	쪽지에는 베다 고원에서 있었던 일들과 부대장이 숨어지내게 된 사연이 적혀있었습니다. 부대장이 숨어 있는 집을 찾아보세요.				
+QUEST_LV_0200_20160310_010450	Parler au commandant au Plateau de Vedas	베다 고원 부대장과 대화				
 QUEST_LV_0200_20160310_010451	Étonnamment, le commandant vivait dans la maison où il se cachait autrefois. Parlez au commandant.	놀랍게도 부대장이 숨어 있던 집에 부대장이 살고 있었습니다. 부대장과 대화해보세요.				
 QUEST_LV_0200_20160310_010452	Remettre la bague au garde Retia à la Place de Verkti	베르크티 광장의 장교 레티아에게 반지 전달				
 QUEST_LV_0200_20160310_010453	Le commandant vous a dit qu'il ne peut pas survivre car il est malade. Il vous a demandé d'annoncer sa mort à sa fiancée et de lui remettre la bague.	부대장은 병에 걸려 살아갈 희망이 없다고 합니다. 그는 마지막으로 약혼녀에게 자신의 죽음을 알리고 반지를 전달해달라고 부탁했습니다.				
-QUEST_LV_0200_20160310_010454	Récupérer les reliques des soldats à Plateau de Vedas	베다 고원의 병사 유품 수집				
+QUEST_LV_0200_20160310_010454	Récupérer les reliques des soldats au Plateau de Vedas	베다 고원의 병사 유품 수집				
 QUEST_LV_0200_20160310_010455	Des reliques ont été obtenues sur les monstres, elles semblent appartenir aux soldats de Plateau de Vedas.	몬스터로부터 이곳 베다 고원의 병사들의 것으로 보이는 유품을 얻었습니다.				
 QUEST_LV_0200_20160310_010456	Remettre les marchandises à la nécromancienne Lemija	네크로맨서 레미야에게 유품 전달				
 QUEST_LV_0200_20160310_010457	Des reliques ont été obtenues sur les monstres, elles semblent appartenir aux soldats de Plateau de Vedas. Remettez-les à la nécromancienne Lemija.	몬스터로부터 이곳 베다 고원의 병사들의 것으로 보이는 유품을 얻었습니다. 네크로맨서 레미야에게 전달하세요.				
@@ -10653,7 +10653,7 @@ QUEST_LV_0200_20161005_010656	Tous les objets perdus sont récupérés. Faites v
 QUEST_LV_0200_20161005_010657	Chercher Ebonypawn dans l'Armurerie	병기고에서 에보니폰 수색				
 QUEST_LV_0200_20161005_010658	Vous êtes fin prêt. Cherchez maintenant Ebonypawn.	만반의 준비를 갖췄습니다. 이제 에보니폰을 추적해보세요.				
 QUEST_LV_0200_20161005_010659	Détruire les Pièges d'Ebonypawn	에보니폰의 함정 파괴				
-QUEST_LV_0200_20161005_010660	Ebonypawn a posé des pièges. Détruisez-les.	병기고에는 에보니폰이 설치한 함정이 있었습니다. 에보니폰이 설치한 함정을 파괴하세요.				
+QUEST_LV_0200_20161005_010660	L'arsenal était piégé par Ebonypawn. Détruisez les pièges qu'il y a posés.	병기고에는 에보니폰이 설치한 함정이 있었습니다. 에보니폰이 설치한 함정을 파괴하세요.				
 QUEST_LV_0200_20161005_010661	Détruire les Pièges d'Ebonypawn	에보니폰이 설치한 함정 파괴				
 QUEST_LV_0200_20161005_010662	Chercher Ebonypawn au Camp de Ravitaillement	보급지에서 에보니폰 수색				
 QUEST_LV_0200_20161005_010663	Chercher Ebonypawn au Camp de Ravitaillement 	보급지에서 에보니폰을 수색하세요.				
@@ -10829,7 +10829,7 @@ QUEST_LV_0200_20170313_010832	{nl}Quand cela arrive, c'est très difficile. Je c
 QUEST_LV_0200_20170313_010833	Oh, je suis heureux de l'entendre. Si vous m'aidez, je vous enseignerai mes techniques{nl}d'expertise. 	오, 듣던 중 반가운 말씀이세요.{nl}제 일을 잘 도와주시면 당신에게 감정 기술을 알려드릴게요.				감정사 마스터
 QUEST_LV_0200_20170313_010834	{nl}Après être devenu Maître Expert, le Maître Escrimeur et le marchand d'accessoires d'Orsha,{nl}Jurus, m'ont envoyé des lettres. Leurs fonctions les occupent, alors ils ont demandé que je me{nl}déplace en personne.     	{nl}제가 감정사 마스터가 된 후, 펜서 마스터님과 오르샤의 악세사리 상인 유르스씨가 제게 편지를 보내셨어요.{nl}두 분 다 각자의 위치에서 바쁘신 분들이시다 보니 저에게 출장 감정을 부탁하셨죠.				감정사 마스터
 QUEST_LV_0200_20170313_010835	{nl}Le Maître Escrimeur a demandé l'expertise d'un héritage familial. Elle veut vendre ses héritages{nl}pour aider les pauvres, mais il lui faut mon certificat. 	{nl}펜서 마스터님은 집안의 가보를 감정해달라고 하셨어요.{nl}가난한 사람들을 돕기 위해 가보를 정리하고 싶은데 저의 인증서가 필요하다고 하시네요.				감정사 마스터
-QUEST_LV_0200_20170313_010836	{nl}Ensuite, Jurus m'a demandé d'expertiser les accessoires de sa boutique.{nl} 	{nl}유르스씨는 가게의 악세사리들이 진품임을 감정해 달라고 하셨어요.{nl}악덕상인들이 파는 모조품속에서 살아남아서 피난민을 도우려면 저의 도움이 있어야 한다고 하세요.				감정사 마스터
+QUEST_LV_0200_20170313_010836	{nl}M. Jurus m'a demandé de certifier l'authenticité des accessoires de sa boutique. Il dit avoir{nl}besoin de mon aide pour tenir face aux contrefaçons des marchands véreux et continuer à{nl}secourir les réfugiés.	{nl}유르스씨는 가게의 악세사리들이 진품임을 감정해 달라고 하셨어요.{nl}악덕상인들이 파는 모조품속에서 살아남아서 피난민을 도우려면 저의 도움이 있어야 한다고 하세요.				감정사 마스터
 QUEST_LV_0200_20170313_010837	{nl}Mais depuis que je suis devenu Maître moi aussi, je suis soudain plus occupé et, vu le reste de{nl}mon travail, je ne peux pas y aller. Alors, voyez-vous, apportez-moi les héritages du Maître{nl}Escrimeur et les accessoires d'Orsha, je vous prie. 	{nl}하지만 저도 마스터가 된 이후 갑자기 바빠지고 덩달아 마스터의 업무까지 생기다 보니 움직일 수가 없네요.{nl}그러니 당신이 펜서 마스터님의 가보와 유르스의 악세사리들을 좀 가져다 주세요.				감정사 마스터
 QUEST_LV_0200_20170313_010838	{nl}Si vous le faites, je pourrai les expertiser et juger si je peux délivrer des certificats. 	{nl}그러면 제가 감정을 해서 인증서를 발급할 것인지 판단할게요.				감정사 마스터
 QUEST_LV_0200_20170313_010839	Le Maître Escrimeur se trouve dans la forêt de la prière, tandis que le marchand d'accessoires,{nl}Jurus, est à Orsha. 	펜서 마스터님은 기원의 숲에 계시고 악세서리 상인 유르스씨는 오르샤에 계세요.				감정사 마스터
@@ -10993,9 +10993,9 @@ QUEST_LV_0200_20170313_010996	Je parie que ces types vont simplement prendre les
 QUEST_LV_0200_20170313_010997	Ouah... Êtes-vous sûr que cela vient des baguettes de monstres ? Je parie que je pourrais gagner{nl}une belle somme en vendant cela au marché... Merci quand même. Je m'occupe du reste.	오.. 그런데 이거 정말 지팡이에 달려있던 수정조각이 맞아?{nl}그냥 시중에 팔아도 제법 돈 좀 만지겠는데.. 아무튼 고마워.{nl}나머지는 내가 마무리 하지.				도굴꾼 루돌파스
 QUEST_LV_0200_20170313_010998	Garde Horton	경비병 호튼				
 QUEST_LV_0200_20170313_010999	Voyez-vous le district inondé sous la tour ? Il y a là quelque chose de brillant et je suis vraiment{nl}curieux de savoir ce que c'est.	망루 아래쪽을 내려다보면 침수구역 보이죠?{nl}저 구역에서 뭔가가 빛나는데 도대체 뭔지 궁금합니다.				경비병 호튼
-QUEST_LV_0200_20170313_011000	{nl}Je crois que c'est peut-être un joyau, mais mon chef surveille toujours, alors je ne peux pas{nl}descendre vérifier. Et je n'oserais pas descendre seul avec tous ces monstres alentour.	{nl}제 생각에는 보석이 아닐까 하는데, 바로 앞에 상관이 지켜보고 있으니 내려갈수도 없네요.{nl}그렇다고 혼자서 몰래 확인하기는 또, 몬스터들 때문에 겁도 나고요.				경비병 호튼
-QUEST_LV_0200_20170313_011001	{nl}Si cela ne vous dérange pas, iriez-vous voir ce que c'est ? Si c'est vraiment un joyau, je veillerai à{nl}vous récompenser comme il faut.	{nl}저기 혹시, 저 빛나는 물체가 뭔지 살펴 봐 주실 수 있나요?{nl}정말 보석이 맞다면 후한 사례를 해드리죠.				경비병 호튼
-QUEST_LV_0200_20170313_011002	Je pense qu'il y a peut-être plus d'un joyau, alors regardez attentivement.	보석 같은 게 꽤 여러 개 보였으니, 자세히 살펴보세요.				경비병 호튼
+QUEST_LV_0200_20170313_011000	{nl}Je crois que c'est peut-être une gemme, mais mon chef surveille toujours, alors je ne peux pas{nl}descendre vérifier. Et je n'oserais pas descendre seul avec tous ces monstres alentour.	{nl}제 생각에는 보석이 아닐까 하는데, 바로 앞에 상관이 지켜보고 있으니 내려갈수도 없네요.{nl}그렇다고 혼자서 몰래 확인하기는 또, 몬스터들 때문에 겁도 나고요.				경비병 호튼
+QUEST_LV_0200_20170313_011001	{nl}Si cela ne vous dérange pas, iriez-vous voir ce que c'est ? Si c'est vraiment une gemme, je{nl}veillerai à vous récompenser comme il faut.	{nl}저기 혹시, 저 빛나는 물체가 뭔지 살펴 봐 주실 수 있나요?{nl}정말 보석이 맞다면 후한 사례를 해드리죠.				경비병 호튼
+QUEST_LV_0200_20170313_011002	Je pense qu'il y a peut-être plus d'une gemme, alors regardez attentivement.	보석 같은 게 꽤 여러 개 보였으니, 자세히 살펴보세요.				경비병 호튼
 QUEST_LV_0200_20170313_011003	Parfois, les gardes trouvent des antiquités dans la ville pétrifiée. Il se pourrait fort bien qu'il y ait{nl}aussi des trésors cachés dans le Quartier inondé.	석화도시에서 가끔 골동품을 발견하는 경비병들이 있다고 하더군요.{nl}침수 구역에도 그런 물건이 있을지도 모른다는 생각이 들어요.				경비병 호튼
 QUEST_LV_0200_20170313_011004	L'objet brillant était donc un ancien cercle magique ? Je ne me souviens pas avoir entendu parler{nl}d'un cercle magique dans le Quartier inondé.	반짝거리던 물체가 마법진을 형성하던 마법석이었다구요?{nl}침수 구역에 그런 마법진이 있었다는 얘기는 들은 적이 없어요.				경비병 호튼
 QUEST_LV_0200_20170313_011005	{nl}Je suppose que c'était un cercle magique que quelqu'un a commencé à créer il y a longtemps. Vu{nl}qu'il a été abandonné, il ne devait pas être très important.	{nl}아마도 오래 전 누군가 마법진을 만들어 두었었나보네요.{nl}단순히 방치되어 있던걸 보면 어떤 중요한 의미가 있는 마법진은 아니겠지요.				경비병 호튼
