@@ -15214,3 +15214,162 @@ QUEST_20260713_015363	{@st66d_y}{s25}[Warning]{/}{/}{nl}Weekly acquisition limit
 QUEST_20260713_015364	Congratulations! You have finished the Goddess Roulette Over the Rainbow!	무지개 다리 완주를 축하합니다!				[이벤트] 완주 성공!
 QUEST_20260730_015365	[Executor Master] Mort	[엑시큐터 마스터] 모르트				
 QUEST_20260730_015366	Discard emotion. Only decisive execution is our mission.	감정은 버려라. 오직 확실한 처형만이 우리의 임무다.				[엑시큐터 마스터] 모르트
+QUEST_20260828_015367	Select a monster to release.{nl}{#003399}Tip!{/}{nl}You can only release one monster at a time.{nl}When released, half of Monster Energy used for level growth will be refunded.{nl}Captured new monster will grow from Lv.1	방생할 몬스터를 선택해주세요.{nl}{#003399}Tip!{/}{nl}한 번에 1마리의 몬스터만 방생할 수 있습니다.{nl}방생 시 레벨 성장에 사용한 몬스터의 기운의 50%를 돌려받습니다.{nl}새로운 몬스터는 Lv.1부터 성장합니다.
+QUEST_20260828_015368	Releasing a monster will refund 50% of the Monster Essence used for its level growth.{nl}Do you wish to proceed?	몬스터를 방생하면 레벨 성장에 사용한 몬스터의 기운의 50%를 돌려받습니다.{nl}진행하시겠습니까?
+QUEST_20260828_015369	Shatter the chains... behold the essence. Savior, your resonance has reached my heart.	사슬을 끊고... 본질을 보라. 구원자여, 그대의 공명이 나의 심장에 닿았도다.
+QUEST_20260828_015370	The gate has opened! Step into 	문이 열렸군! 이제 
+QUEST_20260828_015371	Sanctuary of Resonance	공명의 성소
+QUEST_20260828_015372	 Now.	 로 들어가게나.
+QUEST_20260828_015373	Inside, you shall face true power.	그 안에서 진정한 힘과 마주하게 될 거야.
+QUEST_20260828_015374	The echo of the Goddess slumbering within my Wild Nature... shall test your soul.	나의 야성 속에 잠든 여신의 메아리가... 그대의 영혼을 시험하리라.
+QUEST_20260828_015375	Inferno Zaura	인페르노 자우라
+QUEST_20260828_015376	The false husk has burned to ash. Now resonate as one with my true essence!	거짓된 껍데기는 모두 타버렸노라. 이제 나의 진정한 본질과 하나 되어 공명하라!
+QUEST_20260828_015377	...This script is unfamiliar to me. Are you able to decipher it?	…제가 아는 문자가 아니군요. 혹시 해독이 가능합니까?
+QUEST_20260828_015378	...I am not entirely certain, but it might be the language of the ancient Dragonkin. Its markings closely match records from old texts I've studied.	…확실하지는 않지만, 어쩌면 고대 용족의 언어일지도 모릅니다. 제가 봤던 고문헌에 남겨진 기록과 형태가 매우 유사하군요.
+QUEST_20260828_015379	...Roughly translated, it seems to say: 	…어렴풋하게나마 해석해 보자면, 
+QUEST_20260828_015380	We refuse to be forgotten.	우리는 잊히기를 거부한다
+QUEST_20260828_015381	or something along those lines.	라는 뜻 같습니다.
+QUEST_20260828_015382	There must still be Dragonkin somewhere in this area. Let's hurry and explore the next zone as well.	어쩌면 이 지역 어딘가에 용족이 남아 있는 게 분명합니다. 서둘러 다음 구역도 탐색해 봅시다.
+QUEST_20260828_015383	El...?	엘…?
+QUEST_20260828_015384	Explain El to Belion	벨리온에게 엘에 대해 설명해 준다.
+QUEST_20260828_015385	(Written in an unreadable script.)	(읽을 수 없는 문자가 적혀 있다)
+QUEST_20260828_015386	Nya, Revelator! Do we really have to go in there, meow? My meow-senses have been warning me of danger for a while now, meow.	냐, 계시자. 굳이 저런 데를 들어가야겠냥? 내 냥센서가 아까부터 위험하다고 경고하고 있다냥.
+QUEST_20260828_015387	Dangerous...? To me, that sounds like there's something in there.	위험하다…? 그건 반대로, 저 안에 뭔가 있다는 소리로 들리는데.
+QUEST_20260828_015388	Why are you looking even more interested when I just said it's dangerous, meow?!	위험하다니까 왜 더 흥미롭다는 얼굴이 되는 거냥?!
+QUEST_20260828_015389	I mean, is there any reason to risk our necks and go in, meow?! A truly sinister stench is reeking from inside, meow!	내 말은, 굳이 위험을 무릅쓰고 들어갈 까닭이 있냐는 거다냥. 저 안쪽에서 아주 흉악한 냄새가 짙게 풍긴다냥!
+QUEST_20260828_015390	Alright, then let me know the moment it feels dangerous, and we'll pull back immediately.	그럼 위험하다 느껴지면 바로 빠져나오는 걸로 하자.
+QUEST_20260828_015391	So this is... 	여기가... 
+QUEST_20260828_015392	 So this is the inside. The air itself feels distinctly different—as if completely severed from the outside world... A vast silence built up, layer by layer, over thousands of years.	 내부군요. 공기부터가 확연히 다릅니다. 바깥 세계와 완전히 단절된 듯한 느낌... 수천 년의 시간이 켜켜이 쌓여 만든 거대한 침묵이라고 해야 할까요.
+QUEST_20260828_015393	Gah, it's appearing as if it was waiting for the exact moment we stepped inside!	큭, 마치 우리가 진입하기만을 기다리고 있었다는 듯이 나타나는군요!
+QUEST_20260828_015394	Revelator... It really does feel too dangerous here, meow. Before we go any deeper, maybe we should look somewhere else instead, meow...	계시자. 아무래도 여긴 역시 위험한 것 같다냥. 더 깊이 들어가기 전에, 차라리 다른 곳부터 찾아보는 게…
+QUEST_20260828_015395	This is... the runestone we saw back at the Fields of Ashes. In the middle of that situation, how did you manage to find this?	이건… 재의 벌판에서 봤던 그 문양석이군요. 방금 그 난전 와중에, 이걸 어떻게 찾아내셨습니까?
+QUEST_20260828_015396	I didn't find it. El, that cat, was prowling around right in front of it.	제가 찾아낸 게 아닙니다. 엘, 그 고양이가 이 앞을 어슬렁거리더군요.
+QUEST_20260828_015397	El? ...Speaking of which, where on earth did that cat go?	엘이요? …그런데 정작 그 녀석은 어디 갔습니까?
+QUEST_20260828_015398	Well... she disappeared, saying she was going to take a quick look around.	글쎄요. 주변을 좀 더 둘러보고 오겠다며 사라졌습니다.
+QUEST_20260828_015399	...Is that so? At any rate, an unknown magical energy seems to be flowing across the surface of this runestone.	…그런가요? 그나저나 이 문양석의 겉면에 알 수 없는 마력이 흐르는 것 같네요.
+QUEST_20260828_015400	Yes. I can't be entirely sure yet... but it seems this runestone is forming a 	네. 아직 확언할 순 없지만… 이 문양석이 협곡 전체를 감싸는 
+QUEST_20260828_015401	that envelopes the entire canyon. As if someone created it to protect what lies inside...	를 형성하고 있는 것 같습니다. 마치 누군가 이 안쪽을 보호하기 위해...
+QUEST_20260828_015402	Dragonkin Guardian Kaldra	용족 수호자 칼드라
+QUEST_20260828_015403	Stand back! To think Baubas's minions have tracked us all the way here! I, Kaldra, will tear you to pieces with my own hands!	물러서라! 바우바스의 앞잡이들이 끝내 여기까지 찾아오다니! 이 칼드라가 직접 찢어발겨 주마!
+QUEST_20260828_015404	 ...Baubas? I am no minion of his.	 …바우바스? 저는 그자의 앞잡이가 아닙니다.
+QUEST_20260828_015405	Ha! And yet a human comes wandering in at a time like this!? Do you really expect me to believe that!	하! 그런데 인간이 이 시기에 이곳에 찾아왔다고!? 그걸 내가 믿을 것 같나!
+QUEST_20260828_015406	Dragonkin Elder Reinas	용족 장로 레이나스
+QUEST_20260828_015407	Enough, Kaldra. It truly seems this one is no minion of Baubas.	그만해라, 칼드라. 정말로 바우바스의 앞잡이는 아닌 듯 하구나.
+QUEST_20260828_015408	Elder! How can you believe them so easily?!	장로님! 그 말을 어찌 믿어주시는 것입니까!
+QUEST_20260828_015409	Can you not feel it, Kaldra? The aura emanating from this one. It shares the very same wavelength as the massive ripple that reached deep into this valley a few days ago	느껴지지 않느냐, 칼드라. 이 자에게서 흐르는 기운. 며칠 전 이 깊은 계곡까지 전해진 그 거대한 파문과 같은 결이다.
+QUEST_20260828_015410	In all likelihood, this is the Revelator who defeated Zmei.	아마, 이 자가 바로 즈메이를 쓰러뜨린 계시자겠지
+QUEST_20260828_015411	Truly...? Is this human really the Revelator who brought down Zmei?	정말… 이 인간이 즈메이를 쓰러뜨린 그 계시자란 말입니까?
+QUEST_20260828_015412	Indeed. So step back, Kaldra. We lack the strength to stop them regardless. Besides... now is when we need that power most. A human who follows the Goddess should be capable of putting a stop to Baubas.	그래. 그러니 물러나거라, 칼드라. 어차피 우리에겐 저자를 막을 여력도 없다. 그리고… 지금은 오히려 그 힘이 필요한 때지. 여신을 따르는 인간이라면, 바우바스를 막아 세울 수 있을 테니.
+QUEST_20260828_015413	Outsider. Forgive our rudeness in drawing our spears against you. We have a... very long story to tell.	외부인이여. 창을 겨눈 무례는 용서하게. 우리에겐 그대에게 들려주어야 할… 아주 긴 이야기가 있다.
+QUEST_20260828_015414	I heard from Kaldra. Is there something you wish to speak with me about?	칼드라에게 들었습니다. 무슨 하실 말씀이라도?
+QUEST_20260828_015415	We have trouble! A massive horde of monsters is swarming toward us! There are easily hundreds of them!	큰일 났습니다! 몬스터 대군이 이쪽으로 몰려오고 있습니다! 수백 마리는 족히 됩니다!
+QUEST_20260828_015416	...Sooner than expected. 	...예상보다 빠르군. 
+QUEST_20260828_015417	What? You were expecting this to happen?	네? 지금 이 상황을 예상하고 있던 겁니까?
+QUEST_20260828_015418	Indeed. In any case, thank you for bringing word, but we cannot abandon this place and flee.	그렇네. 아무튼, 이렇게 소식을 알려준 건 고맙지만, 이곳을 버리고 달아날 수는 없네.
+QUEST_20260828_015419	But there is no time to hesitate! If we stay here, we'll be surrounded!	하지만 머뭇거릴 시간이 없습니다! 이대로 있다간 포위당하고 맙니다!
+QUEST_20260828_015420	Calm yourself, human. We cannot leave this land. Even if we meet our end today.	진정해라, 인간. 우리는 이 땅을 떠날 수 없다. 설령 오늘 죽더라도.
+QUEST_20260828_015421	What do you ...	그게 무슨...
+QUEST_20260828_015422	Elder, we must move to the Last Nest at once.	장로님, 어서 최후의 둥지로 이동하시죠.
+QUEST_20260828_015423	Indeed. We must protect the eggs. Revelator, my apologies, but could you buy us some time?	그래야겠지. 알들을 지켜야 하니. 계시자, 미안하지만 시간 좀 끌어 줄 수 있겠나?
+QUEST_20260828_015424	El. Where have you been and what were you doing all this time?	엘. 그동안 어디서 뭘 하고 있었어?
+QUEST_20260828_015425	You made it back alive. ...So you truly are the human who defeated Zmei.	살아서 돌아왔군. ...역시 즈메이를 쓰러뜨린 인간이라는 건가.
+QUEST_20260828_015426	Where is the Elder?	장로 님은요?
+QUEST_20260828_015427	He is inside. I was standing guard at the entrance to guide you. ...Though, what is that beast beside you?	안에 계신다. 나는 자넬 안내하려 입구를 지키고 있었지. ...한데, 곁에 있는 그 짐승은 뭐지?
+QUEST_20260828_015428	Nice to meet you, meow! I'm El, meow. Could I come inside too, meow?	반갑다냥! 나는 엘이라고 한다냥. 혹시 나도 같이 들어가도 될까냥?
+QUEST_20260828_015429	No.	안 된다.
+QUEST_20260828_015430	Mew?! Why not, meow?! The Revelator and I are best buddies, meow!	냥?! 어째서다냥? 나는 계시자랑 아주 친한 사이다냥!
+QUEST_20260828_015431	To my eyes, you are nothing more than a beast of unknown origin. We have no leeway to let something that sprang out of nowhere into our nest.	내 눈에 너는 그저 정체 모를 짐승일 뿐이다. 어디서 솟아났는지도 모를 것을 둥지에 들일 만큼, 우리에게 여유는 없다.
+QUEST_20260828_015432	Revelator! Say something to help me out, meow!	계시자! 너도 뭐라고 말 좀 해보라냥!
+QUEST_20260828_015433	...Revelator?	...계시자?
+QUEST_20260828_015434	El, hang back for a moment. The master of this place said no, so I can't really push the issue.	엘. 잠시 떨어져 있어. 이곳의 주인이 안 된다는데, 내가 억지로 밀어붙일 수는 없잖아.
+QUEST_20260828_015435	Meoooow...? 	냐아앙...? 
+QUEST_20260828_015436	Belion?	벨리온?
+QUEST_20260828_015437	Where are we?	여기는 어딘가요?
+QUEST_20260828_015438	As you can see, our Dragonkin eggs lie dormant here. Remaining unhatched for over two thousand years, just as I told you.	자네도 보다시피, 이곳엔 우리 용족의 알이 잠들어 있네. 말했듯 2000년이 넘도록 끝내 부화하지 못한 채로 말이야.
+QUEST_20260828_015439	We knew a day like this would come. So when driven into a corner, Caldra and I intended to sacrifice our lives to seal this entire space along with the eggs—beyond the reach of Baubas.	언젠가 이런 날이 오리란 걸, 우린 알고 있었네. 하여 막다른 순간이 오면 나와 칼드라, 두 목숨을 바쳐 이 공간째 알들을 봉인할 작정이었지. 바우바스의 손이 닿지 않도록.
+QUEST_20260828_015440	...But you came, Revelator.	...허나 자네가 왔어, 계시자.
+QUEST_20260828_015441	With your strength, you may well be able to protect the last eggs of the Dragonkin from Baubas' malice—even without resorting to a seal.	자네라면 봉인을 하지 않더라도 용족의 마지막 알들을 바우바스의 악의로부터 지켜 줄 수 있겠지.
+QUEST_20260828_015442	Because of you, I have changed my mind. Rather than losing Kaldra in vain, I shall offer my own life as a sacrifice to break that curse.	덕분에 마음을 바꿨네. 칼드라까지 헛되이 잃느니, 내 한 목숨을 제물로 저 저주를 풀어 보려 하네.
+QUEST_20260828_015443	Are you truly certain about this?	정말로 괜찮겠습니까?
+QUEST_20260828_015444	Who can say? It is a path I have never walked before.	모르지. 한 번도 가 보지 못한 길이니.
+QUEST_20260828_015445	Besides, Baubas has no intention of letting us live. Just as he harvested the last drops of despair from Zmei, now it is our turn.	어차피 바우바스는 더는 우리를 살려 둘 마음이 없네. 즈메이에게서 마지막 절망까지 거둬 갔듯, 이제 우리 차례인 게지.
+QUEST_20260828_015446	So if this life is destined to fade regardless... I wish to devote its final moments to those little ones.	그러니 어차피 스러질 목숨이라면... 그 마지막 순간만은, 저 아이들을 위해 쓰고 싶군.
+QUEST_20260828_015447	So I ask this of you, Revelator.	그러니 부탁하네, 계시자.
+QUEST_20260828_015448	Should my attempt succeed, lifting the curse and awakening the eggs... please, protect those last children from Baubas's malice.	혹시라도 내 시도가 성공하여 저주가 풀려 알들이 깨어나거든 바우바스의 악의로부터, 부디 저 마지막 아이들을 지켜 주게.
+QUEST_20260828_015449	Are you telling me you trust me now?	지금, 저를 믿으시겠다는 겁니까?
+QUEST_20260828_015450	Indeed. If it is a human who follows the Goddesses I once knew... wouldn't they be worth entrusting with our end?	그렇다네. 적어도 내가 알던 그 여신들을 따르는 인간이라면... 마지막을 맡겨 볼 만하지 않겠나.
+QUEST_20260828_015451	Kaldra is unaware of this, isn't he?	칼드라는 이 사실을 모르고 있는 거죠?
+QUEST_20260828_015452	Do not tell him. He would surely try to stop me.	그 녀석에게는 말하지 말게나. 분명 하지 말라 할 테니.
+QUEST_20260828_015453	So it comes to this in the end. Yet perhaps this is better—than clinging to life as a plaything of Baubas...	결국, 이렇게 되는군. 하지만 차라리 이편이 나을지도 모르지. 바우바스의 장난감 노릇이나 하며 목숨을 잇느니...
+QUEST_20260828_015454	Do not look at me like that. This, too, is a path of our own choosing.	그렇게 쳐다보지 마라. 이것 역시 우리가 스스로 택한 길이니.
+QUEST_20260828_015455	...Come to think of it, where has Belion gone?	...그러고 보니, 벨리온은 어디로 갔습니까?
+QUEST_20260828_015456	I sent that human outside. Staying here would have gotten him caught in the crossfire and killed.	그 인간은 밖으로 내보냈다. 여기 남았다간 싸움에 휘말려 죽을 테니까.
+QUEST_20260828_015457	Fortunately, there was a passage to sneak a human out, so I sent him through there.	다행히 인간 하나쯤 몰래 빼낼 통로는 있어, 그리로 보냈지.
+QUEST_20260828_015458	Here they come.	녀석들이 왔군.
+QUEST_20260828_015459	El?	엘?
+QUEST_20260828_015460	We'll have to do what we can. By the way, why did you come in here?	할 수 있는 데까진 해봐야지. 그나저나 여긴 왜 들어왔어.
+QUEST_20260828_015461	Why, I came to help, of course, meow!	그야, 도와주러 왔다냥!
+QUEST_20260828_015462	To help? What could a mere cat like you possibly do?	도와주러 왔다? 한낱 고양이 따위가 무얼 돕겠다는 거지.
+QUEST_20260828_015463	Go back at once. This is no place for you. 	어서 돌아가라. 이곳은 네가 있을 곳이 아니다. 
+QUEST_20260828_015464	Haven't you heard? It's all hands—or paws—on deck in a pinch, meow!	급할 땐 고양이 손이라도 빌린다는 말, 모르냥?
+QUEST_20260828_015465	 Cut the wordplay, beast. I never permitted you to set foot in here in the first place	 말장난 집어치워라, 짐승. 애초에 나는 네가 이 안에 드는 걸 허락한 적 없다.
+QUEST_20260828_015466	Huff, huff! Revelator! Something terrible has happened!	헉, 헉! 계시자님! 큰일 났습니다!
+QUEST_20260828_015467	Belion? I thought you made it out... Why are you back?	벨리온? 분명 이곳을 빠져나갔을 텐데, 어째서?
+QUEST_20260828_015468	You must listen to me! You can't trust a single word that cat says!	드릴 말씀이 있습니다! 지금, 저 고양이의 말을 믿어선 안 됩니다!
+QUEST_20260828_015469	I saw it with my own two eyes! El—that creature is leading the monsters right to us—!	제가 두 눈으로 똑똑히 봤습니다! 엘, 저것이 몬스터들을 이쪽으로—!
+QUEST_20260828_015470	Shut it, meow. I was wondering where you vanished to... so there was another passage after all, meow? 	시끄럽다냥. 그새 어디로 사라졌나 했더니, 역시 다른 통로가 있었던 거다냥? 
+QUEST_20260828_015471	El. So you were up to something after all.	엘. 역시, 뭔가 꿍꿍이가 있었구나?
+QUEST_20260828_015472	So you had a hunch too, Revelator, meow? 	역시 계시자도 짐작하고 있었다냥? 
+QUEST_20260828_015473	I originally planned to fool you nice and quietly, meow. I never expected the Revelator to follow me all the way in here, meow. Thanks to you, my plans are completely ruined, meow.	원래는 좀 더 얌전히 속여 넘길 생각이었는데. 계시자가 이런 곳까지 따라 들어올 줄은 몰랐다냥. 덕분에 계획이 다 틀어졌다냥.
+QUEST_20260828_015474	Is this your true form?	그게 네 본모습이야?
+QUEST_20260828_015475	That's right, meo— Ah, no need for that act anymore. That's right. This is my true self.	맞다냥— 아, 이젠 이럴 필요 없지. 맞아요. 이게 제 진짜 모습이죠.
+QUEST_20260828_015476	...Is Baubas behind all this?	...이러는 이유는 역시 바우바스 때문이겠지?
+QUEST_20260828_015477	Who knows? I suppose that's for you to figure out yourself from now on, Revelator.	글쎄요? 그건 이제부터 계시자가 직접 알아봐야겠죠?
+QUEST_20260828_015478	...Did you finish it off?	...해치운 건가?
+QUEST_20260828_015479	No. Unfortunately, it seems it slipped away at the very last second.	아니요. 아쉽지만, 마지막에 놓친 것 같습니다.
+QUEST_20260828_015480	To think that cat was hiding such power...	설마 그 고양이가, 저런 힘을 숨기고 있었을 줄이야.
+QUEST_20260828_015481	Still, we thwarted its scheme for now, so we can breathe a sigh of—	그래도 일단 녀석의 계략은 막았으니, 그나마 한시름—
+QUEST_20260828_015482	This is...! Don't tell me—!	이건...! 설마—!
+QUEST_20260828_015483	Elder—!	장로님—!
+QUEST_20260828_015484	What a pity, El.	아쉽게 되었구나, 엘.
+QUEST_20260828_015485	Is something amiss?	무언가 잘못되었나요?
+QUEST_20260828_015486	The despair we extracted is incomplete. After waiting two thousand years... to receive mere half-baked sustenance.	뽑아낸 절망이 불완전하다. 기껏 2000년을 기다렸거늘... 고작 이런 반쪽짜리 양식이라니.
+QUEST_20260828_015487	Is that, too, because of the Revelator...?	그것도 역시 계시자 때문이겠죠...?
+QUEST_20260828_015488	Most likely. It is far from satisfying, but I shall settle for this today and withdraw.	아마 그렇겠지. 마음에 차진 않지만, 오늘은 이걸로 만족하고 물러나야겠다.
+QUEST_20260828_015489	What will you do with the remaining eggs here?	여기 남은 알들은 어찌하시겠습니까?
+QUEST_20260828_015490	Leave them be. Whatever Raynas did right before dying, they are in a state that cannot be meddled with carelessly. A futile struggle, nevertheless.	놔두어라. 레이나스가 죽기 직전까지 무슨 짓을 해 놓았는지, 함부로 건드릴 수 없는 상태다. 어차피 쓸모없는 발버둥이었지만.
+QUEST_20260828_015491	Indeed, so long as they bear Lord Baubas's curse, they are practically dead anyway.	하기야, 바우바스님의 저주에 걸린 이상 사실상 죽은 알들이나 다름없으니까요.
+QUEST_20260828_015492	Holding on for all those ages without giving up, just to protect what is already lost... How foolish.	이미 끝난 것들을 지키겠다고 그 오랜 세월을 포기하지 않고 버티다니. 어리석군요.
+QUEST_20260828_015493	Th-This can't be...! Elder!	이, 이럴 수가! 장로님!
+QUEST_20260828_015494	...El was a decoy all along. 	...엘은 미끼였군요. 
+QUEST_20260828_015495	Ugh...! Baubas...!	크윽...! 바우바스...!
+QUEST_20260828_015496	What on earth is this...?	이건 도대체?
+QUEST_20260828_015497	Why would a curse that hadn't budged for thousands of years suddenly...?	수천 년 동안 꿈쩍도 않던 저주가 갑자기 왜...?
+QUEST_20260828_015498	...You knew, didn't you? What the Elder was trying to do.	...자네는, 알고 있었군. 장로님이 무엇을 하려 하셨는지.
+QUEST_20260828_015499	...Instead of a seal, the Elder chose to break the curse with his own life. To keep you alive, and to awaken these children.	...장로님은 봉인 대신, 자신의 목숨으로 저주를 푸는 길을 택하셨습니다. 당신을 살리고, 이 아이들을 깨우기 위해서.
+QUEST_20260828_015500	...So that is why he kept me stationed outside. Intending to shoulder it all alone from the very start.	...그래서 나를 바깥에 묶어 두셨던 건가. 처음부터, 혼자 짊어질 작정으로.
+QUEST_20260828_015501	(It appears to have lost its original color, stained pitch-black by Baubas's curse.)	(바우바스의 저주로 인해 본래 색을 잃고 검게 물들어버린 듯한 모습이다)
+QUEST_20260828_015502	(It seems Raynas's sacrifice was not entirely in vain...)	(레이나스의 희생이 의미가 없지는 않은 듯하다...)
+QUEST_20260828_015503	I have no words for humans...	인간과 할 말은 없다...
+QUEST_20260828_015504	Wings of False Radiance Entrance Message	거짓된 광휘의 날개 입장 메세지
+QUEST_20260828_015505	Party members or players who used Auto Match can enter Wings of False Radiance: Goddess (Recommended level: Lv. 560) together.	거짓된 광휘의 날개: 가디스 레이드 (권장레벨:560)는 자동 매칭이나 당신과 파티를 맺은 플레이어와 함께 입장할 수 있습니다.
+QUEST_20260828_015506	Wings of Fallen Judgement Entrance Message	타락한 심판의 날개 입장 메세지
+QUEST_20260828_015507	Party members or players who used Auto Match can enter Wings of Fallen Judgement: Goddess (Recommended level: Lv. 560) together.	타락한 심판의 날개: 가디스 레이드 (권장레벨:560)는 자동 매칭이나 당신과 파티를 맺은 플레이어와 함께 입장할 수 있습니다.
+QUEST_20260828_015508	Kaldra	칼드라
+QUEST_20260828_015509	I sense a powerful presence... Revelator, are you ready?	강력한 기운이 느껴진다... 계시자, 준비는 되었나?
+QUEST_20260828_015510	You have entered Fedimian Jar Investigation.{nl}Destroy jars for 2 minutes to earn party score.{nl}Points earned vary depending on the jar type and personal combo.	항아리 대박 수색전에 입장하셨습니다.{nl}2분 동안 항아리를 파괴해 파티 점수를 획득하세요.{nl}항아리 종류와 개인 콤보에 따라 획득 점수가 달라집니다.
+QUEST_20260828_015511	{#003399}Fedimian Jar Investigation{/}!{nl}Challenge for the highest party score for 2 minutes with no entry limits.	{#003399}항아리 대박 수색전{/}!{nl}입장 횟수 제한 없이 2분 동안 파티 점수에 도전하세요.
+QUEST_20260828_015512	{#003399}Fedimian Jar Investigation{/} held in Fedimian!{nl}Find jars alone or with your party for 2 minutes to build up your party score.	페디미안에서 열리는 {#003399}항아리 대박 수색전{/}!{nl}혼자 또는 파티와 함께 2분 동안 항아리를 찾아 파티 점수를 쌓으세요.
+QUEST_20260828_015513	[Jar Guide]{nl}- {#ffffff}{ol}Normal Jar{/}{/}: Basic points and maintains personal combo{nl}- {#ffd700}{ol}Golden Jar{/}{/}: Takes longer to destroy, but yields high points and Lucky Pouch{nl}- {#ba55d3}{ol}Suspicious Jar{/}{/}: Grants rewards, or resets personal combo and slows speed{nl}- {#00ced1}{ol}Blessed Jar{/}{/}: Movement Speed buff and points	[항아리 안내]{nl}- {#ffffff}{ol}일반 항아리{/}{/}: 기본 점수와 개인 콤보 유지{nl}- {#ffd700}{ol}황금 항아리{/}{/}: 파괴 시간이 길지만 높은 점수와 복주머니{nl}- {#ba55d3}{ol}수상한 항아리{/}{/}: 보상 또는 개인 콤보 초기화와 감속{nl}- {#00ced1}{ol}축복 항아리{/}{/}: 이동 속도 버프와 점수
+QUEST_20260828_015514	If each character destroys the next jar within 8 seconds, their personal combo increases, and points earned are added to the party score.{nl}Party score rewards grant 15/30/50/70/90/120 Grand Festival Vouchers based on 0/200/400/600/800/1,000 points.{nl}Rewards are distributed only to characters who personally destroy at least 1 jar and are not inactive for an extended period.	각 캐릭터가 8초 안에 다음 항아리를 파괴하면 개인 콤보가 올라가며, 획득 점수는 파티 점수에 합산됩니다.{nl}파티 점수 보상은 0/200/400/600/800/1000점을 기준으로 대축제 교환권 15/30/50/70/90/120개입니다.{nl}항아리를 1회 이상 직접 파괴하고 장시간 미이동 상태가 아닌 캐릭터에게만 지급됩니다.
+QUEST_20260828_015515	[Obtain Limit]{nl}- Grand Festival Voucher: Weekly 2,500{nl}- Grand Festival Voucher: Total 7,000{nl}- Lucky Pouch: Max 100{nl}※ Weekly obtain limits reset every Monday at 6:00 AM.{nl}※ Entry and score challenges are still available after reaching limits.	[획득 제한]{nl}- 대축제 교환권 주간 2,500개{nl}- 대축제 교환권 이벤트 전체 7,000개{nl}- 복주머니 최대 100개{nl}※ 주간 획득량은 매주 월요일 오전 6시에 초기화됩니다.{nl}※ 한도 달성 후에도 입장과 점수 도전은 가능합니다.
+QUEST_20260828_015516	Entering {#003399}Fedimian Jar Investigation{/}.{nl}There is no entry limit, and you can enter immediately alone or with your current party.	{#003399}항아리 대박 수색전{/}에 입장합니다.{nl}입장 횟수 제한이 없으며 혼자 또는 현재 파티와 즉시 입장할 수 있습니다.
+QUEST_20260828_015517	The time limit is 2 minutes. Destroy jars continuously to maintain your personal combo, and target Golden/Blessed Jars to raise your party score.{nl}Upon completion, Grand Festival Vouchers are distributed according to the party score, and you must personally destroy at least 1 jar to receive rewards.{nl}Entry and score challenges are still available after reaching limits.	제한 시간은 2분입니다. 항아리를 연속으로 파괴해 개인 콤보를 유지하고, 황금·축복 항아리를 노려 파티 점수를 올리세요.{nl}종료 시 파티 점수에 따라 대축제 교환권이 지급되며, 항아리를 1회 이상 직접 파괴해야 보상을 받을 수 있습니다.{nl}획득 한도 달성 후에도 입장과 점수 도전은 가능합니다.
+QUEST_20260828_015518	Participate in {#003399}Fedimian Jar Investigation{/}!{nl}{#FF0000}※ Characters below Lv. 50 cannot participate.{/}	{#003399}항아리 대박 수색전{/}에 참여하세요!{nl}{#FF0000}※50레벨 미만의 캐릭터는 참여할 수 없습니다.{/}
+QUEST_20260828_015519	Open the {#003399}Fedimian Jar Investigation{/} Exchange Shop.	{#003399}항아리 대박 수색전{/} 교환 상점을 엽니다.
+QUEST_20260828_015520	Is the fighting spirit boiling within you ready to resonate with the entity beyond? If you are prepared not to back down even before the flames that consume flesh, knock upon the sanctuary's doors.	네 안의 끓어오르는 투기가 저 너머의 존재와 공명할 준비가 되었는가? 육신을 태우는 불꽃 앞에서도 물러서지 않을 각오가 섰다면, 성소의 문을 두드려라.
+QUEST_20260828_015521	[Sanctuary of Resonance]{nl}1.  Defeat Zaura in the Sanctuary of Resonance to resonate with him.{nl}  - Boss is strengthened according to the difficulty setting. Difficulty can be set from Level 1 to Level 10.{nl}2.  Entry is available from Lv.550.{nl}3.  The quantity of rewards provided will vary based on the amount of Resonance Points earned.	[공명의 성소 - 자우라]{nl}1.  공명의 성소에 등장한 자우라를 처치하여서 자우라와 공명하세요.{nl}  - 설정 난이도 단계에 따라 보스가 강화됩니다. 단계는 1단계부터 10단계까지 설정할 수 있습니다.{nl}2.  입장은 Lv.550 부터 가능합니다.{nl}3.  공명 포인트를 획득량에 따라 제공되는 보상 수량이 변경됩니다.
+QUEST_20260828_015522	[Event] Memory of El NPC	[이벤트] 엘의 기억 NPC
+QUEST_20260828_015523	. As you can see, a truly special being.{nl}Shall we put our fight on hold for now?	. 보다시피 아주 특별한 존재지.{nl}싸움은 잠시 미루도록 할까.
+QUEST_20260828_015524	The Unlocker's gaze follows the target.	언낙커의 시선이 대상을 쫓습니다.
+QUEST_20260831_015525	{@st66d_y}{s25}[Event Info]{/}{/}{nl}{nl}1.  You can exchange Memory of El Pieces for other items in the shop.{nl}2.  Items obtained from this shop can only be moved to Team Storage.{nl}3.  In the Costume Dismantle tab, you can dismantle Memory of El Costumes to obtain Memory Pieces.{nl}4.  After the event period ends, using Memory Pieces will grant Mercenary Badge: 10,000.	{@st66d_y}{s25}[이벤트 안내]{/}{/}{nl}{nl}1.  엘의 기억조각을 상점 내 다른 아이템으로 교환할 수 있습니다.{nl}2.  본 상점에서 획득하는 아이템은 팀 창고 이동만 가능합니다.{nl}3.  코스튬 분해 탭에서는 엘의 기억 코스튬을 분해하여 기억조각을 획득할 수 있습니다.{nl}4.  기억조각은 이벤트 기간이 종료되면 사용 시 용병단 증표 : 10,000을 획득합니다.

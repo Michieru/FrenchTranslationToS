@@ -81990,3 +81990,983 @@ ETC_20260730_081970	Abyssal Oculus[T] Skill Level + 1	어비셜 오큘러스[T] 
 ETC_20260730_081971	OptDesc/Abyssal Oculus[T] Skill Level + 1	OptDesc/어비셜 오큘러스[T] 스킬 레벨 + 1				
 ETC_20260730_081972	 - All Executor Skill Level {img green_up_arrow 16 16}1{nl} {nl}{@st66d}{s15} - Death Sentence Final Damage {img green_up_arrow 16 16}50%{nl}{@st66d}{s15} - Abyssal Flurry Final Damage {img green_up_arrow 16 16}50%	 - 엑시큐터 모든 스킬 레벨 {img green_up_arrow 16 16}1{nl} {nl}{@st66d}{s15} - 데스 센텐스 최종 대미지 {img green_up_arrow 16 16}50%{nl}{@st66d}{s15} - 어비셜 플러리 최종 대미지 {img green_up_arrow 16 16}50%				
 ETC_20260730_081973	{nl} {nl}{@st66d}{s15}- Abyssal Oculus Final Damage{img green_up_arrow 16 16}100%	{nl} {nl}{@st66d}{s15}- 어비셜 오큘러스 최종 대미지{img green_up_arrow 16 16}100%				
+ETC_20260812_081974	[Invincibility Chain Limit]	[무적 연계 제한]
+ETC_20260812_081975	Using this skill sets the remaining cooldown of other [Invincibility Chain Limit] skills to 5 seconds if under 5 seconds.	이 스킬을 사용하면 다른 [무적 연계 제한]스킬의 재사용 대기시간이 5초 미만인 경우 5초로 조정됩니다.
+ETC_20260812_081976	Excluded from cooldown adjustment under your current attribute setup.	현재 특성 설정에서는 이 스킬이 대기시간 조정 대상에서 제외됩니다.
+ETC_20260818_081977	[Lv.2] Goddess Treasure Material x1 Selection Box	[Lv.2] 여신의 보구 재료 1개 선택 상자
+ETC_20260818_081978	[Lv.2] Power of Fire (Untradable)	[Lv.2] 불의 권능 (거래불가)
+ETC_20260818_081979	[Lv.2] Sign of Fate (Untradable)	[Lv.2] 운명의 징표 (거래불가)
+ETC_20260818_081980	[Lv.2] Symbol of Fertility (Untradable)	[Lv.2] 풍요의 상징 (거래불가)
+ETC_20260818_081981	Dawn Add. Reward Package	여명의 추보권 패키지
+ETC_20260818_081982	Dawn Awaken Package	여명의 해방석 패키지
+ETC_20260818_081983	Dawn Earring Package	여명의 귀걸이 패키지
+ETC_20260818_081984	Dawn All-in-One Package	여명의 올인원 패키지
+ETC_20260818_081985	Blessed Enhancement Package	축복의 강화 패키지
+ETC_20260818_081986	Blessed Begineer's Package	축복의 초보자 패키지
+ETC_20260818_081987	Blessed Earring Package	축복의 귀걸이 패키지
+ETC_20260818_081988	Blessed All-in-One Package	축복의 올인원 패키지
+ETC_20260828_081989	An apostle of Baubas with an angelic appearance. Her true identity is known only to Baubas.	천사의 외형을 지닌 바우바스의 사도. 그녀의 자세한 정체는 오로지 바우바스만 알고 있습니다.
+ETC_20260828_081990	Angel Uriel	천사 우리엘
+ETC_20260828_081991	Demon Uriel	악마 우리엘
+ETC_20260828_081992	Bloody Hogma Captain	핏빛 호그마 전투대장
+ETC_20260828_081993	Bloody Hogma Warrior	핏빛 호그마 전사
+ETC_20260828_081994	Bloody Hogma Archer	핏빛 호그마 궁수
+ETC_20260828_081995	Bloody Hogma Shaman	핏빛 호그마 주술사
+ETC_20260828_081996	Zaura is a Combat Frenzy who, like most of his kind, bows only to the strong. However, he has a unique trait: he disregards even the powerful unless they are warrior-type demons. For instance, because Demon King Baiga will not slay another Demon Lord's subordinates simply out of bad humor, Zaura treats Baiga with contempt despite Baiga being stronger than him. The sole exception is the Demon Goddess Giltine—anyone else, even of Demon King rank, receives the exact same cold shoulder.	자우라는 전투광이며 대개의 전투광이 그러하듯 강자에게만 고개를 숙입니다. 다만 그에게는 특이한 성격이 있는데 강자라도 투사형의 마족이 아니라면 무시한다는 점입니다. 예를 들어 마왕 바이가는 기분 나쁘다는 이유만으로 다른 마왕의 부하를 처치하지 않기 때문에 바이가가 자신보다 강자라도 무시하는 태도를 보입니다. 예외가 있다면 마신 길티네 정도이며, 그외에는 마왕급이라도 마찬가지입니다.
+ETC_20260828_081997	The dense energy surging from the Sanctuary of Resonance ignited the Combat Frenzy instincts dormant deep within Zaura’s veins. He who despised those like Demon King Baiga—who avoided battle through shallow schemes or mere whims—and made an exception for none save Demon Goddess Giltine, finally let his arrogant standards break for the enemy before his eyes.	공명의 성소에서 뿜어져 나오는 짙은 에너지는 자우라의 혈관 깊은 곳에 잠들어 있던 전투광의 본능에 불을 지폈습니다. 얄팍한 책략이나 기분 따위로 전투를 피하는 마왕 바이가 같은 자들을 경멸하며, 오직 마신 길티네만을 예외로 두었던 그의 오만한 잣대가 마침내 눈앞의 적을 향해 꺾였습니다.
+ETC_20260828_081998	Fire Crevice	화염 균열
+ETC_20260828_081999	Sanctuary of Resonance - Seir Rainforest	공명의 성소 - 세이르 숲
+ETC_20260828_082000	The Last Nest	최후의 둥지
+ETC_20260828_082001	EP18 Field of Ashes	EP18 재의 벌판
+ETC_20260828_082002	Land of the Hermits	은둔자들의 땅
+ETC_20260828_082003	EP18 Canyon of Oblivion	EP18 망각의 협곡
+ETC_20260828_082004	Belion	벨리온
+ETC_20260828_082005	Title given to the saviors who completed [Wings of False Radiance: Goddess] within 3 minutes.	[거짓된 광휘의 날개 : 가디스] 3분 이내에 클리어한 유저에게 지급되는 칭호입니다.
+ETC_20260828_082006	Title given to the saviors who completed [Wings of False Radiance: Goddess] within 10 minutes.	[거짓된 광휘의 날개 : 가디스] 10분 이내에 클리어한 유저에게 지급되는 칭호입니다.
+ETC_20260828_082007	Title given to the saviors who completed [Wings of False Radiance: Goddess].	[거짓된 광휘의 날개 : 가디스] 클리어한 유저에게 지급되는 칭호입니다.
+ETC_20260828_082008	Title given to the saviors who completed [Wings of Fallen Judgement: Goddess] within 3 minutes.	[타락한 심판의 날개 : 가디스] 3분 이내에 클리어한 유저에게 지급되는 칭호입니다.
+ETC_20260828_082009	Title given to the saviors who completed [Wings of Fallen Judgement: Goddess] within 10 minutes.	[타락한 심판의 날개 : 가디스] 10분 이내에 클리어한 유저에게 지급되는 칭호입니다.
+ETC_20260828_082010	Title given to the saviors who completed [Wings of Fallen Judgement: Goddess].	[타락한 심판의 날개 : 가디스] 클리어한 유저에게 지급되는 칭호입니다.
+ETC_20260828_082011	Cleared Goddess: Wings of False Radiance (Solo/Auto) 10 times.	가디스 : 거짓된 광휘의 날개(1인, 자동매칭)를 10회 클리어 했습니다.
+ETC_20260828_082012	Cleared Goddess: Wings of False Radiance (Solo/Auto) 100 times.	가디스 : 거짓된 광휘의 날개(1인, 자동매칭)를 100회 클리어 했습니다.
+ETC_20260828_082013	Cleared Goddess: Wings of False Radiance (Solo/Auto) 150 times.	가디스 : 거짓된 광휘의 날개(1인, 자동매칭)를 150회 클리어 했습니다.
+ETC_20260828_082014	Cleared Goddess: Wings of False Radiance (Solo/Auto) 200 times.	가디스 : 거짓된 광휘의 날개(1인, 자동매칭)를 200회 클리어 했습니다.
+ETC_20260828_082015	Cleared Goddess: Wings of False Radiance (Hard) 10 times.	가디스 : 거짓된 광휘의 날개(Hard)를 10회 클리어 했습니다.
+ETC_20260828_082016	Cleared Goddess: Wings of False Radiance (Hard) 50 times.	가디스 : 거짓된 광휘의 날개(Hard)를 50회 클리어 했습니다.
+ETC_20260828_082017	Cleared Goddess: Wings of False Radiance (Hard) 100 times.	가디스 : 거짓된 광휘의 날개(Hard)를 100회 클리어 했습니다.
+ETC_20260828_082018	Breaker of the Wings of Light	빛의 날개를 꺾은 자
+ETC_20260828_082019	Cleared Goddess: Wings of False Radiance (Hard) 150 times.	가디스 : 거짓된 광휘의 날개(Hard)를 150회 클리어 했습니다.
+ETC_20260828_082020	Cleared Goddess: Wings of Fallen Judgement (Solo/Auto) 10 times.	가디스 : 타락한 심판의 날개(1인, 자동매칭)를 10회 클리어 했습니다.
+ETC_20260828_082021	Cleared Goddess: Wings of Fallen Judgement (Solo/Auto) 100 times.	가디스 : 타락한 심판의 날개(1인, 자동매칭)를 100회 클리어 했습니다.
+ETC_20260828_082022	Cleared Goddess: Wings of Fallen Judgement (Solo/Auto) 150 times.	가디스 : 타락한 심판의 날개(1인, 자동매칭)를 150회 클리어 했습니다.
+ETC_20260828_082023	Cleared Goddess: Wings of Fallen Judgement (Solo/Auto) 200 times.	가디스 : 타락한 심판의 날개(1인, 자동매칭)를 200회 클리어 했습니다.
+ETC_20260828_082024	Cleared Goddess: Wings of Fallen Judgement (Hard) 10 times.	가디스 : 타락한 심판의 날개(Hard)를 10회 클리어 했습니다.
+ETC_20260828_082025	Cleared Goddess: Wings of Fallen Judgement (Hard) 50 times.	가디스 : 타락한 심판의 날개(Hard)를 50회 클리어 했습니다.
+ETC_20260828_082026	Cleared Goddess: Wings of Fallen Judgement (Hard) 100 times.	가디스 : 타락한 심판의 날개(Hard)를 100회 클리어 했습니다.
+ETC_20260828_082027	Breaker of the Wings of Darkness	어둠의 날개를 꺾은 자
+ETC_20260828_082028	Cleared Goddess: Wings of Fallen Judgement (Hard) 150 times.	가디스 : 타락한 심판의 날개(Hard)를 150회 클리어 했습니다.
+ETC_20260828_082029	Cleared Goddess: Wings of Fallen Judgement (Hard), Goddess: Wings of False Radiance (Hard) 150 times.	가디스 : 타락한 심판의 날개(Hard), 거짓된 광휘의 날개를 150회 클리어 했습니다.
+ETC_20260828_082030	Cleared Stage 1 Sanctuary of Resonance : Zaura 10 times in total.	공명의 성소 : 자우라 1단계 난이도를 10회 클리어 했습니다.
+ETC_20260828_082031	Zaura Challenger	자우라 도전자
+ETC_20260828_082032	Cleared Stage 2 Sanctuary of Resonance : Zaura 15 times in total.	공명의 성소 : 자우라 2단계 난이도를 15회 클리어 했습니다.
+ETC_20260828_082033	Zaura Chaser	자우라 추적자
+ETC_20260828_082034	Cleared Stage 3 Sanctuary of Resonance : Zaura 20 times in total.	공명의 성소 : 자우라 3단계 난이도를 20회 클리어 했습니다.
+ETC_20260828_082035	Zaura Hunter	자우라 사냥꾼
+ETC_20260828_082036	Cleared Stage 4 Sanctuary of Resonance : Zaura 25 times in total.	공명의 성소 : 자우라 4단계 난이도를 25회 클리어 했습니다.
+ETC_20260828_082037	Zaura Elite Hunter	자우라 정예 사냥꾼
+ETC_20260828_082038	Cleared Stage 5 Sanctuary of Resonance : Zaura 30 times in total.	공명의 성소 : 자우라 5단계 난이도를 30회 클리어 했습니다.
+ETC_20260828_082039	Zaura Slayer	자우라 학살자
+ETC_20260828_082040	Cleared Stage 6 Sanctuary of Resonance : Zaura 35 times in total.	공명의 성소 : 자우라 6단계 난이도를 35회 클리어 했습니다.
+ETC_20260828_082041	Zaura Conqueror	자우라 정복자
+ETC_20260828_082042	Cleared Stage 7 Sanctuary of Resonance : Zaura 40 times in total.	공명의 성소 : 자우라 7단계 난이도를 40회 클리어 했습니다.
+ETC_20260828_082043	Zaura Dominator	자우라 지배자
+ETC_20260828_082044	Cleared Stage 8 Sanctuary of Resonance : Zaura 45 times in total.	공명의 성소 : 자우라 8단계 난이도를 45회 클리어 했습니다.
+ETC_20260828_082045	Zaura Destroyer	자우라 파괴자
+ETC_20260828_082046	Cleared Stage 9 Sanctuary of Resonance : Zaura 50 times in total.	공명의 성소 : 자우라 9단계 난이도를 50회 클리어 했습니다.
+ETC_20260828_082047	Zaura Transcender	자우라 초월자
+ETC_20260828_082048	Cleared Stage 10 Sanctuary of Resonance : Zaura 60 times in total.	공명의 성소 : 자우라 10단계 난이도를 60회 클리어 했습니다.
+ETC_20260828_082049	Zaura Avatar	자우라 화신
+ETC_20260828_082050	[Lv.560] Cleared Challenge Mode 50 times in total.	[Lv.560] 챌린지 모드 누적 50회 클리어.
+ETC_20260828_082051	[Lv.560] Challenge Challenger 	[Lv.560] 챌린지 도전자
+ETC_20260828_082052	[Lv.560] Cleared Challenge Mode 200 times in total.	[Lv.560] 챌린지 모드 누적 200회 클리어.
+ETC_20260828_082053	[Lv.560] Challenge Novice	[Lv.560] 챌린지의 숙련자
+ETC_20260828_082054	[Lv.560] Cleared Challenge Mode 500 times in total.	[Lv.560] 챌린지 모드 누적 500회 클리어.
+ETC_20260828_082055	[Lv.560] Challenge Expert	[Lv.560] 챌린지의 전문가
+ETC_20260828_082056	[Lv.560] Cleared Challenge Mode 1000 times in total.	[Lv.560] 챌린지 모드 누적 1000회 클리어.
+ETC_20260828_082057	[Lv.560] Challenge Conquerer	[Lv.560] 챌린지의 정복자
+ETC_20260828_082058	[Lv.560] Cleared Challenge Mode 2500 times in total.	[Lv.560] 챌린지 모드 누적 2500회 클리어.
+ETC_20260828_082059	[Lv.560] Challenge Dominator	[Lv.560] 챌린지의 지배자
+ETC_20260828_082060	[Lv.560] Cleared Challenge Mode 5000 times in total.	[Lv.560] 챌린지 모드 누적 5000회 클리어.
+ETC_20260828_082061	[Lv.560] Challenge Transcender	[Lv.560] 챌린지의 초월자
+ETC_20260828_082062	[Lv.560] Challenge Avatar	[Lv.560] 챌린지의 화신
+ETC_20260828_082063	[Lv.560] Cleared Challenge Mode 10000 times in total.	[Lv.560] 챌린지 모드 누적 10000회 클리어.
+ETC_20260828_082064	[Lv.560] Cleared Challenge Mode: Division Singularity 20 times in total.	[Lv.560] 챌린지 모드 : 분열 특이점 누적 20회 클리어.
+ETC_20260828_082065	[Lv.560] Division Singularity Explorer	[Lv.560] 분열 특이점의 탐사자
+ETC_20260828_082066	[Lv.560] Cleared Challenge Mode: Division Singularity 100 times in total.	[Lv.560] 챌린지 모드 : 분열 특이점 누적 100회 클리어.
+ETC_20260828_082067	[Lv.560] Division Singularity Observer	[Lv.560] 분열 특이점의 관찰자
+ETC_20260828_082068	[Lv.560] Cleared Challenge Mode: Division Singularity 500 times in total.	[Lv.560] 챌린지 모드 : 분열 특이점 누적 500회 클리어.
+ETC_20260828_082069	[Lv.560] Division Singularity Inspector	[Lv.560] 분열 특이점의 분석가
+ETC_20260828_082070	[Lv.560] Cleared Challenge Mode: Division Singularity 2000 times in total.	[Lv.560] 챌린지 모드 : 분열 특이점 누적 2000회 클리어.
+ETC_20260828_082071	[Lv.560] Division Singularity Expert	[Lv.560] 분열 특이점의 전문가
+ETC_20260828_082072	[Lv.560] Singularity Seeker	[Lv.560] 경계를 넘은 자
+ETC_20260828_082073	[Lv.560] Cleared Challenge Mode: Division Singularity 5000 times in total.	[Lv.560] 챌린지 모드 : 분열 특이점 누적 5000회 클리어.
+ETC_20260828_082074	Fanaticus	파나티쿠스
+ETC_20260828_082075	[Lv.560] Challenge Mode	[Lv.560] 챌린지모드
+ETC_20260828_082076	[Lv.560] Division Singularity	[Lv.560] 분열 특이점
+ETC_20260828_082077	Clear [Wings of False Radiance: Goddess]	[거짓된 광휘의 날개 : 가디스] 클리어
+ETC_20260828_082078	Clear [Wings of False Radiance: Goddess] within 10 minutes	[거짓된 광휘의 날개 : 가디스] 10분 이내에 클리어
+ETC_20260828_082079	Clear [Wings of False Radiance: Goddess] within 3 minutes	[거짓된 광휘의 날개 : 가디스] 3분 이내에 클리어
+ETC_20260828_082080	Clear Wings of False Radiance: Goddess (Solo/Auto)	거짓된 광휘의 날개: 가디스(1인,자동매칭) 클리어
+ETC_20260828_082081	Clear Wings of False Radiance: Goddess (Hard)	거짓된 광휘의 날개: 가디스(Hard) 클리어
+ETC_20260828_082082	Clear [Wings of Fallen Judgement: Goddess]	[타락한 심판의 날개 : 가디스] 클리어
+ETC_20260828_082083	Clear [Wings of Fallen Judgement: Goddess] within 10 minutes	[타락한 심판의 날개 : 가디스] 10분 이내에 클리어
+ETC_20260828_082084	Clear [Wings of Fallen Judgement: Goddess] within 3 minutes	[타락한 심판의 날개 : 가디스] 3분 이내에 클리어
+ETC_20260828_082085	Clear Wings of Fallen Judgement: Goddess (Solo/Auto)	타락한 심판의 날개: 가디스(1인,자동매칭) 클리어
+ETC_20260828_082086	Clear Wings of Fallen Judgement: Goddess (Hard)	타락한 심판의 날개: 가디스(Hard) 클리어
+ETC_20260828_082087	Clear El Raid: Goddess (Hard)	엘 레이드: 가디스(Hard) 클리어
+ETC_20260828_082088	Clear Sanctuary of Resonance: Zaura Stage 1	공명의 성소 : 자우라 1단계 클리어
+ETC_20260828_082089	Clear Sanctuary of Resonance: Zaura Stage 2	공명의 성소 : 자우라 2단계 클리어
+ETC_20260828_082090	Clear Sanctuary of Resonance: Zaura Stage 3	공명의 성소 : 자우라 3단계 클리어
+ETC_20260828_082091	Clear Sanctuary of Resonance: Zaura Stage 4	공명의 성소 : 자우라 4단계 클리어
+ETC_20260828_082092	Clear Sanctuary of Resonance: Zaura Stage 5	공명의 성소 : 자우라 5단계 클리어
+ETC_20260828_082093	Clear Sanctuary of Resonance: Zaura Stage 6	공명의 성소 : 자우라 6단계 클리어
+ETC_20260828_082094	Clear Sanctuary of Resonance: Zaura Stage 7	공명의 성소 : 자우라 7단계 클리어
+ETC_20260828_082095	Clear Sanctuary of Resonance: Zaura Stage 8	공명의 성소 : 자우라 8단계 클리어
+ETC_20260828_082096	Clear Sanctuary of Resonance: Zaura Stage 9	공명의 성소 : 자우라 9단계 클리어
+ETC_20260828_082097	Clear Sanctuary of Resonance: Zaura Stage 10	공명의 성소 : 자우라 10단계 클리어
+ETC_20260828_082098	Title - Wings of Deceit	칭호 - Wings of Deceit
+ETC_20260828_082099	[Mystic Eyes]	[마안]
+ETC_20260828_082100	Can not move for a certain period. Weak to all attacks.	잠시 행동이 불가능한 상태입니다. 모든 공격에 취약한 상태입니다.
+ETC_20260828_082101	Increases damage taken and reduces stats due to Uriel's magic.	우리엘의 마력으로 인해 받는 대미지가 증가하고, 능력치가 감소합니다.
+ETC_20260828_082102	Mark	징표
+ETC_20260828_082103	Exposure to Uriel's magic destabilizes your soul. Reaching a set number of stacks triggers a Stigma debuff.	우리엘의 마력에 노출되어 영혼이 불안정해집니다. 일정 중첩 도달 시 낙인 디버프가 발현됩니다.
+ETC_20260828_082104	Can not receive healing effects for certain duration	지속 시간 동안 치유 효과를 받을 수 없습니다.
+ETC_20260828_082105	Life Inversion	생명의 역행
+ETC_20260828_082106	While active, receiving healing effects deals damage instead of restoring HP.	지속 시간 동안 치유 효과를 받을 경우, 회복 대신 피해를 입습니다.
+ETC_20260828_082107	Life Tether	생명의 갈고리
+ETC_20260828_082108	While active, all incoming healing effects are replicated to restore Uriel's HP.	지속 시간 동안 받는 모든 치유 효과가 우리엘의 HP 회복에 동일하게 적용됩니다.
+ETC_20260828_082109	Death Link	죽음의 연쇄
+ETC_20260828_082110	Damage taken is shared with all party members	피격 시 입는 모든 피해가 파티 내 모든 플레이어에게 공유됩니다.
+ETC_20260828_082111	Death Tether	죽음의 갈고리
+ETC_20260828_082112	Damage dealt to Uriel is shared with all party members.	우리엘에게 피해를 입힐 경우, 입힌 피해가 파티 내 모든 플레이어에게 공유됩니다.
+ETC_20260828_082113	Your soul is tethered to Uriel. If the link persists for a set duration, you are Stunned.	우리엘과 영혼이 연결된 상태입니다. 일정 시간 동안 링크가 유지될 경우 기절이 적용됩니다.
+ETC_20260828_082114	Encroaching Darkness	잠식하는 암흑
+ETC_20260828_082115	Darkness gradually encroaches upon your body. If hit by a projectile while fully consumed, Uriel significantly recovers HP.	어둠이 몸을 잠식합니다. 완전히 잠식된 상태에서 투사체에 맞으면, 우리엘의 HP가 대폭 회복됩니다.
+ETC_20260828_082116	Feather of El	엘의 깃털
+ETC_20260828_082117	A feather imbued with El's power.	엘의 힘이 깃든 깃털입니다.
+ETC_20260828_082118	Iron Wall	철벽
+ETC_20260828_082119	Boss' DEF increases by 50%.	보스의 방어력이 50% 상승합니다.
+ETC_20260828_082120	Leap of Destruction Airborne	파괴의 도약 에어본
+ETC_20260828_082121	Increases [Inferno Judgment] damage by 5% per stack of the [Burn] debuff.	[화염] 디버프 스택당 [인페르노 저지먼트]의 대미지가 5% 증가합니다.
+ETC_20260828_082122	While in the [Immolation] state, Flame pillar deals 1.5x damage, dealing additional damage per stack every second.	[화상] 상태에서는 불기둥의 대미지가 1.5배로 적용되며, 매초마다 스택당 증가 대미지를 입습니다.
+ETC_20260828_082123	Doubles [Burn] debuff stacks and increases Final Damage by 10%.	[화염] 디버프 스택을 2배로 증가하며, 최종 대미지가 10% 증가한다.
+ETC_20260828_082124	Spring of Purification	정화의 샘
+ETC_20260828_082125	Vaivora Vision - Dolor	바이보라 비전 - 돌로르
+ETC_20260828_082126	El2Joy	엘2기쁨
+ETC_20260828_082127	El2Sleepy	엘2졸려
+ETC_20260828_082128	Collection: Saule's Authority	컬렉션: 사울레의 권능
+ETC_20260828_082129	Collection: Trained Muscle(7)	컬렉션: 단련된 근육(7)
+ETC_20260828_082130	Collection: Ability to Understand(7)	컬렉션: 이해 능력(7)
+ETC_20260828_082131	Collection: Determination(7)	컬렉션: 확고한 의지(7)
+ETC_20260828_082132	Collection: Endurance(7)	컬렉션: 지구력(7)
+ETC_20260828_082133	Collection: Nimble Hands(7)	컬렉션: 재빠른 손놀림(7)
+ETC_20260828_082134	Collection: Prepared Wisdom(7)	컬렉션: 준비된 지혜(7)
+ETC_20260828_082135	Collection: Endurance of the Mage(7)	컬렉션: 마법사의 인내(7)
+ETC_20260828_082136	Collection: Keen Eye(7)	컬렉션: 예리한 시선(7)
+ETC_20260828_082137	Collection: Spot Chance(7)	컬렉션: 기회 포착(7)
+ETC_20260828_082138	Collection: Endless Resistance(7)	컬렉션: 끝없는 저항(7)
+ETC_20260828_082139	Collection: Final Resistance(7)	컬렉션: 최후의 저항(7)
+ETC_20260828_082140	Collection: Attrition Warfare(7)	컬렉션: 지구전(7)
+ETC_20260828_082141	Collection: Focus(7)	컬렉션: 정신 집중(7)
+ETC_20260828_082142	Collection: Cautious Fire(7)	컬렉션: 신중한 사격(7)
+ETC_20260828_082143	Collection: Edgy Tactile(7)	컬렉션: 곤두선 촉각(7)
+ETC_20260828_082144	Collection: Suppressive Fire(7)	컬렉션: 제압 사격(7)
+ETC_20260828_082145	Collection: Swift Movement(7)	컬렉션: 날렵한 몸놀림(7)
+ETC_20260828_082146	Collection: Detect Crisis(7)	컬렉션: 위기 감지(7)
+ETC_20260828_082147	Collection: Secure(7)	컬렉션: 안전 확보(7)
+ETC_20260828_082148	Light of Deceit	기만의 빛
+ETC_20260828_082149	Damage to Boss monsters increased by {@st66d_y}{s16}[{CalculatedValue}]{/}{/}%	보스 몬스터에게 주는 대미지 {@st66d_y}{s16}[{CalculatedValue}]{/}{/}% 증가
+ETC_20260828_082150	Damage received from monsters reduced by {@st66d_y}{s16}[{CalculatedValue}]{/}{/}%	보스 몬스터에게 받는 대미지 {@st66d_y}{s16}[{CalculatedValue}]{/}{/}% 감소
+ETC_20260828_082151	Movement Speed +{@st66d_y}{s16}[{CalculatedValue}]{/}{/}	이동 속도 {@st66d_y}{s16}[{CalculatedValue}]{/}{/} 증가
+ETC_20260828_082152	Wings of False Radiance: Goddess (Solo)	거짓된 광휘의 날개: 가디스(1인)
+ETC_20260828_082153	Wings of False Radiance: Goddess (Auto Match)	거짓된 광휘의 날개: 가디스(자동 매칭)
+ETC_20260828_082154	Wings of False Radiance: Goddess (Party)	거짓된 광휘의 날개: 가디스(파티)
+ETC_20260828_082155	Wings of Fallen Judgement: Goddess (Solo)	타락한 심판의 날개: 가디스(1인)
+ETC_20260828_082156	Wings of Fallen Judgement: Goddess (Auto Match)	타락한 심판의 날개: 가디스(자동 매칭)
+ETC_20260828_082157	Wings of Fallen Judgement: Goddess (Party)	타락한 심판의 날개: 가디스(파티)
+ETC_20260828_082158	Lv.560 Challenge Mode : Solo	Lv.560 챌린지 모드 : 1인
+ETC_20260828_082159	Lv.560 Challenge Mode Auto Match	Lv.560 챌린지 모드 자동매칭
+ETC_20260828_082160	Lv.560 Challenge Mode : Division Singularity Auto Match	Lv.560 챌린지 모드 : 분열 특이점 자동 매칭
+ETC_20260828_082161	[Lv.560] Fedimian Public House Balloting	[Lv.560] 페디미안 주점 추첨
+ETC_20260828_082162	[Lv.540] Onyx Fang	[Lv.540] 검은 독니
+ETC_20260828_082163	Goddess' Grace is a 7-minute long reward event for server-wide.{nl}Only characters in the cities of Klaipeda, Orsha, and Fedimian can participate in the Goddess' Grace event.{nl}You don't have to proceed with the Joint Strike Raid to participate.	여신의 가호는 7분간 서버 단위로 진행되는 보상 이벤트입니다.{nl}여신의 가호는 클라페다와 오르샤, 페디미안에서만 진행할 수 있습니다.{nl}보스 협동전에 진행하지 않아도 참여 할 수 있습니다.
+ETC_20260828_082164	 button to dedicate 50,000 silver to receive one of the possible rewards in the list.{nl}Please notice that the items are not chosen at the same chance.{nl} {nl}The [Goddess' Grace] will immediately end if all Legend grade items are depleted regardless of remaining time.{nl}Even if 1 or more Legend grade items are still available, the Goddess' Grace will end after 7 minutes.{nl}You can participate in the offering until [Goddess' Grace] ends.	 버튼을 누르면 5만 실버를 소모하여 획득 가능 아이템 리스트 중에 있는 하나를 획득할 수 있습니다.{nl}각 아이템의 확률은 동일하지 않습니다.{nl} {nl}[여신의 가호] 획득 가능 아이템 리스트 중, 레전드 등급 아이템이 모두 소진되면 잔여 시간과 상관없이 [여신의 가호] 이벤트가 종료됩니다.{nl}또한, 레전드 등급 아이템이 모두 소진되지 않더라도 이벤트 시작 7분 후에 이벤트가 종료됩니다.{nl}봉헌은 [여신의 가호] 종료 시점까지 계속해서 참여할 수 있습니다.
+ETC_20260828_082165	  Unknown Sanctuary is a Hunting Ground where every character with a maximum level, 22,000 Gear Score, and 100% Attribute Achievement Rate can enter.{nl}　{nl}  You can receive materials for upgrading Goddess Rank equipment by defeating monsters in the Unknown Sanctuary.	  미지의 성역은 최대 레벨을 달성한 캐릭터, 기어스코어 22,000 및 특성 달성률이 100이상이라면 누구나 입장할 수 있는 프리 던전입니다.{nl}　{nl}  미지의 성역내의 몬스터들을 처치하면 가디스 장비 업그레이드 재화 등 유용한 아이템을 획득할 수 있습니다.
+ETC_20260828_082166	Lua Thread free-list reuse Stats (60s)	Lua 스레드 free-list 재사용 통계 (60초 주기)
+ETC_20260828_082167	Fedimian Jar Investigation	항아리 대박 수색전
+ETC_20260828_082168	Sanctuary of Resonance: Zaura	공명의 성소: 자우라
+ETC_20260828_082169	Goddess: Wings of False Radiance	가디스: 거짓된 광휘의 날개
+ETC_20260828_082170	Goddess: Wings of Fallen Judgement	가디스: 타락한 심판의 날개
+ETC_20260828_082171	Title - Fanaticus	칭호 - 파나티쿠스
+ETC_20260828_082172	Collection: Memory of El	컬렉션: 엘의 기억
+ETC_20260828_082173	[Lv.560] Goddess Anvil	[Lv.560] 가디스 모루
+ETC_20260828_082174	You can enhance the Collection equipment below level 560 by placing it on an anvil and hitting it. You can purchase the anvil from the Goddess Token(Saule) Shop.{nl}Right-click to use.{nl}{#ff0000}Enhancement Coupon is not applied.{/}{nl} {nl}{@st47}{s15}{#00ff00}Goddess Token(Saule) is consumed when enhancing.{/}{/}{/}	모루 위에 장비를 놓고 두드리면 560레벨 이하의 컬렉션 장비를 강화할 수 있습니다. 여신의 증표(사울레) 상점에서 구입할 수 있습니다.{nl}마우스 오른쪽 클릭으로 사용합니다.{nl}{#ff0000}강화 실버 할인 쿠폰이 적용되지 않습니다..{/}{nl} {nl}{@st47}{s15}{#00ff00}강화시 여신의 증표(사울레)를 소모합니다.{/}{/}{/}
+ETC_20260828_082175	Obtain [Lv.480] Aether Gem Socket Key (Untradable)] x1 by combining [Processed Corrupt Corpse Doll Thread] x50, [Blessed Shard] x200.{nl}Right-click to use.	[가공된 변질자의 시체 인형 실] 50개, [축복받은 조각] 200개를 조합하여 [Lv.480] 에테르 젬 소켓 열쇠(거래불가) 1개를 얻습니다.{nl}마우스 오른쪽 버튼 클릭으로 사용 가능합니다.
+ETC_20260828_082176	Obtain [Lv.500] Aether Gem Socket Key (Untradable)] x1 by combining [Refined Upinis Wing] x50, [Advanced Blessed Shard] x200.{nl}Right-click to use.	[정제된 우피니스의 날개] 50개, [고급 축복받은 조각] 200개를 조합하여 [Lv.500] 에테르 젬 소켓 열쇠(거래불가) 1개를 얻습니다.{nl}마우스 오른쪽 버튼 클릭으로 사용 가능합니다.
+ETC_20260828_082177	Wings of False Radiance: Solo Multiply Token	거짓된 광휘의 날개: 1인 배수권
+ETC_20260828_082178	Can receive Wings of False Radiance rewards one more time.{nl}{#ff0000}1 entry count is deducted.{/}{/}	거짓된 광휘의 날개: 1인 보상을 1회 더 획득할 수 있습니다.{nl}{#ff0000}입장 횟수가 1회 차감 됩니다.{/}{/}
+ETC_20260828_082179	Wings of False Radiance: Solo Multiply Token (Untradable)	거짓된 광휘의 날개: 1인 배수권(거래불가)
+ETC_20260828_082180	Wings of False Radiance: Party (Hard) Add. Reward Voucher	거짓된 광휘의 날개: 파티(Hard) 추가 보상권
+ETC_20260828_082181	You can receive 1 more reward of Wings of False Radiance: Party (Hard).{nl}{#ff0000}Entry count does not deduct when receiving an additional reward.{/}{/}	거짓된 광휘의 날개: 파티(Hard) 보상을 1회 더 획득할 수 있습니다.{nl}{#ff0000}추가 보상 획득으로 입장 횟수를 차감하지 않습니다.{/}{/}
+ETC_20260828_082182	Wings of Fallen Judgement: Solo Multiply Token	타락한 심판의 날개: 1인 배수권
+ETC_20260828_082183	Can receive Wings of Fallen Judgement rewards one more time.{nl}{#ff0000}1 entry count is deducted.{/}{/}	타락한 심판의 날개: 1인 보상을 1회 더 획득할 수 있습니다.{nl}{#ff0000}입장 횟수가 1회 차감 됩니다.{/}{/}
+ETC_20260828_082184	Wings of Falllen Judgement: Solo Multiply Token (Untradable)	타락한 심판의 날개: 1인 배수권(거래불가)
+ETC_20260828_082185	Wings of Falllen Judgement: Party (Hard) Add. Reward Voucher	타락한 심판의 날개: 파티(Hard) 추가 보상권
+ETC_20260828_082186	You can receive 1 more reward of Wings of Fallen Judgement: Party (Hard).{nl}{#ff0000}Entry count does not deduct when receiving an additional reward.{/}{/}	타락한 심판의 날개: 파티(Hard) 보상을 1회 더 획득할 수 있습니다.{nl}{#ff0000}추가 보상 획득으로 입장 횟수를 차감하지 않습니다.{/}{/}
+ETC_20260828_082187	[Austeja] Ace Collection Engrave Stone	[아우스테야] 만능 컬렉션 각인석
+ETC_20260828_082188	Equipment Collection(F11) material item.{nl}[Austeja] Equipment materials with a prefix can be registered as substitutes.{/}	장비 컬렉션(F11) 재료 아이템입니다.{nl}[아우스테야] 말머리가 붙은 장비 재료를 대체하여 등록할 수 있습니다.{/}
+ETC_20260828_082189	An mysterious Elixir crafted to defy El of the Goddess Alliance.{nl}Receive Final Damage Increase +10%, Movement Speed +3, and Stigma duration -50% in the Fallen Judgement, False Radiance Raid for 10 minutes upon use. Grants Immunity to Stigma when used with Goddess' Stigma Resistance Elixir. {/}{nl} {nl}{#ff0000}Applied to all party members. Duration is added if the same buff is received.	여신 조합의 엘에 대항하기 위해 제조한 신비로운 영약입니다.{nl}사용 시 10분간 타락한 심판의 날개, 거짓된 광휘의 날개 레이드에서 받는 피해 -20%, 이동 속도 +3, 낙인 상태 이상 지속시간 50% 감소 효과를 받습니다. 여신의 예리한 영약과 함께 사용 시 낙인 상태 이상에 면역됩니다.{/}{nl} {nl}{#ff0000}모든 파티원에게 적용되며, 동일한 버프를 받을 경우 지속 시간이 추가됩니다.
+ETC_20260828_082190	An mysterious Elixir crafted to defy El of the Goddess Alliance.{nl}Receive Final Damage Increase +10%, Movement Speed +3, and Stigma duration -50% in the Fallen Judgement, False Radiance Raid for 10 minutes upon use. Grants Immunity to Stigma when used with Goddess' Stigma Resistance Elixir. {/}{nl} {nl}{#ff0000}Applied to all party members. Duration is added if the same buff is received.	여신 조합의 엘에 대항하기 위해 제조한 신비로운 영약입니다.{nl}사용 시 10분간 타락한 심판의 날개, 거짓된 광휘의 날개 레이드에서 최종 대미지 +10%, 이동 속도 +3, 낙인 상태 이상 지속시간 50% 감소 효과를 받습니다. 여신의 낙인 저항 영약과 함께 사용 시 낙인 상태 이상에 면역됩니다.{/}{nl} {nl}{#ff0000}모든 파티원에게 적용되며, 동일한 버프를 받을 경우 지속 시간이 추가됩니다.
+ETC_20260828_082191	When used, resets the 5th and 6th attributes of [Jurate] Advanced Spaulder of Ferocity. Must have at least 1 attribute in use.	사용시 [유라테] 상급 맹렬의 어깨보호구의 5번째, 6번째 속성을 초기화 합니다. 최소 1개의 속성이 부여되어 있어야 합니다.
+ETC_20260828_082192	Collect 20 to obtain the{@st66d}{s15}[Jurate] Belt of Insight{/}{/}. Right-click to use.	20개를 모아 사용하면 {@st66d}{s15}[유라테] 통찰의 허리띠{/}{/}를 획득할 수 있습니다. 마우스 오른쪽 버튼 클릭으로 사용합니다.
+ETC_20260828_082193	Obtain [Lv.520] Aether Gem Socket Key (Untradable)] x1 by combining [Condensed Crystal Bead] x50, [Advanced Blessed Shard] x200.{nl}Right-click to use.	[응축된 수정 구슬] 50개, [고급 축복받은 조각] 200개를 조합하여 [Lv.520] 에테르 젬 소켓 열쇠(거래불가) 1개를 얻습니다.{nl}마우스 오른쪽 버튼 클릭으로 사용 가능합니다.
+ETC_20260828_082194	You can obtain [Jurate's Blessed Relic (Apex) - Infinite Spear] by collecting and using 4 different types of Jurate's Blessed Relic (Apex) Fragment - Infinite Spear. {nl} {nl} - Obtained from {nl} [Lv.520 ~ 560] Challenge Mode & Division Singularity{nl} {nl} Right-click to use.	각기 다른 4종류의 축복받은 유라테의 성물(최상급) 조각 - 무한의 창을 모아 사용하면 [축복받은 유라테의 성물(최상급) - 무한의 창]을 얻을 수 있습니다.{nl} {nl} - 획득처{nl} [Lv.520 ~ 560] 챌린지 모드 & 분열 특이점{nl} {nl} 마우스 오른쪽 버튼 클릭으로 사용합니다.
+ETC_20260828_082195	You can obtain [Jurate's Blessed Relic (Apex) - Divine Shield] by collecting and using 4 different types of Jurate's Blessed Relic (Apex) Fragment - Divine Shield. {nl} {nl} - Obtained from {nl} [Lv.520 ~ 560] Challenge Mode & Division Singularity{nl} {nl} Right-click to use.	각기 다른 4종류의 축복받은 유라테의 성물(최상급) 조각 - 신의 가호를 모아 사용하면 [축복받은 유라테의 성물(최상급) - 신의 가호]를 얻을 수 있습니다.{nl} {nl} - 획득처{nl} [Lv.520 ~ 560] 챌린지 모드 & 분열 특이점{nl} {nl} 마우스 오른쪽 버튼 클릭으로 사용합니다.
+ETC_20260828_082196	TOS Coin : 1,000	TOS 주화 : 1,000
+ETC_20260828_082197	Obtain 1,000 TOS Coin upon use. {nl} {nl}{#0000ff}Does not include in Weekly Acquisition Limit.  	사용 시 TOS 주화 1,000 포인트가 추가됩니다. {nl} {nl}{#0000ff}해당 아이템으로 획득하는 포인트는 획득량 제한에 포함되지 않습니다. 
+ETC_20260828_082198	TOS Coin : 5,000	TOS 주화 : 5,000
+ETC_20260828_082199	Obtain 5,000 TOS Coin upon use. {nl} {nl}{#0000ff}Does not include in Weekly Acquisition Limit.  	사용 시 TOS 주화 5,000 포인트가 추가됩니다. {nl} {nl}{#0000ff}해당 아이템으로 획득하는 포인트는 획득량 제한에 포함되지 않습니다. 
+ETC_20260828_082200	Obtain [Lv.540] Aether Gem Socket Key (Untradable)] x1 by combining [Condensed Essence of Belliora] x50, [Superior Blessed Shard] x200.{nl}Right-click to use.	[응축된 벨리오라의 정수] 50개, [최고급 축복받은 조각] 200개를 조합하여 [Lv.540] 에테르 젬 소켓 열쇠(거래불가) 1개를 얻습니다.{nl}마우스 오른쪽 버튼 클릭으로 사용 가능합니다.
+ETC_20260828_082201	Material used to unlock or upgrade Resonance Skills.	공명 스킬을 해금 또는 강화 할 수 있는 재료입니다.
+ETC_20260828_082202	Core of Resonance - Zaura (Untradable)	공명의 핵 - 자우라(거래불가)
+ETC_20260828_082203	Core of Resonance - Zaura Box	공명의 핵 - 자우라 상자
+ETC_20260828_082204	Golden Feather of El	엘의 금빛 깃털
+ETC_20260828_082205	Golden Feather of El.{nl}{#ff0000}Right-click to transform it into a usable ingredient.{/}	엘의 금빛 깃털입니다.{nl}{#ff0000}우클릭으로 사용 가능한 재료형태로 변환 가능합니다.{/}
+ETC_20260828_082206	Faded Golden Feather of El	힘을 잃은 엘의 금빛 깃털
+ETC_20260828_082207	Golden Feather of El.	엘의 금빛 깃털입니다.
+ETC_20260828_082208	Black Feather of El	엘의 검은 깃털
+ETC_20260828_082209	Black Feather of El.{nl}{#ff0000}Right-click to transform it into a usable ingredient.{/}	엘의 검은 깃털입니다.{nl}{#ff0000}우클릭으로 사용 가능한 재료형태로 변환 가능합니다.{/}
+ETC_20260828_082210	Faded Black Feather of El	힘을 잃은 엘의 검은 깃털
+ETC_20260828_082211	Black Feather of El.	엘의 검은 깃털입니다.
+ETC_20260828_082212	Goddess Token(Saule) : 1	여신의 증표(사울레) : 1
+ETC_20260828_082213	Coins that can be obtained by playing contents.{nl}Can be used when purchasing items from {@st41}{#00eeee}Menu - Shop - Goddess Token (Saule) Shop{/}{/}.	콘텐츠 플레이를 통해 획득할 수 있는 주화입니다.{nl}{@st41}{#00eeee}메뉴 - 상점 - 여신의 증표(사울레) 상점{/}{/}에서 물품을 구매하실 때 사용하실 수 있습니다.
+ETC_20260828_082214	Goddess Token(Saule) : 100	여신의 증표(사울레) : 100
+ETC_20260828_082215	Goddess Token(Saule) : 1,000	여신의 증표(사울레) : 1,000
+ETC_20260828_082216	Goddess Token(Saule) : 5,000	여신의 증표(사울레) : 5,000
+ETC_20260828_082217	Goddess Token(Saule) : 10,000	여신의 증표(사울레) : 10,000
+ETC_20260828_082218	Goddess Token(Saule) : 50,000	여신의 증표(사울레) : 50,000
+ETC_20260828_082219	Goddess Token(Saule) : 1,000,000	여신의 증표(사울레) : 1,000,000
+ETC_20260828_082220	Goddess Token(Saule)	여신의 증표(사울레)
+ETC_20260828_082221	Saule's First Authority	사울레의 첫 번째 권능
+ETC_20260828_082222	Collection item.{nl}[Collection: Saule's Authority] is registered when using in the inventory, item is consumed when registering the Collection to the Magic Association NPC. {nl} {nl}Collection: Saule's Authority{nl} - Saule's First Authority{nl} - Saule's Second Authority{nl} - Saule's Third Authority	컬렉션 전용 아이템입니다.{nl}인벤토리에서 사용 시 [컬렉션: 사울레의 권능]이 등록되며, 마법협회 NPC에게 컬렉션 등록 시 아이템이 소모됩니다. {nl} {nl}컬렉션: 사울레의 권능{nl} - 사울레의 첫 번째 권능{nl} - 사울레의 두 번째 권능{nl} - 사울레의 세 번째 권능
+ETC_20260828_082223	Saule's Second Authority	사울레의 두 번째 권능
+ETC_20260828_082224	Saule's Third Authority	사울레의 세 번째 권능
+ETC_20260828_082225	[Saule] Collection Equipment Random Box (+10)	[사울레] 컬렉션 장비 랜덤 상자(10강)
+ETC_20260828_082226	[Lv.560] Equipment Type Change Tome (1 Day)	[Lv.560] 장비 계열 변경의 서 (1일)
+ETC_20260828_082227	Use to change the type of Lv.560 Goddess Rank equipment.{nl} {nl}{#0022ff}You can change the type of Lv.560 Goddess Rank equipment at the Change Type tab of Goddess Rank equipment Management.{/}	Lv.560 가디스 장비의 계열 변경에 사용됩니다.{nl} {nl}{#0022ff}Lv.560 가디스 장비 계열 변경은 가디스 장비 관리의 계열 변경 탭에서 이용 가능합니다.{/}
+ETC_20260828_082228	[Lv.560] Equipment Type Change Tome	[Lv.560] 장비 계열 변경의 서
+ETC_20260828_082229	[Lv.560] Enhance Aid	[Lv.560] 강화 보조제
+ETC_20260828_082230	[Lv.560] Enhance Aid (Untradable)	[Lv.560] 강화 보조제(거래불가)
+ETC_20260828_082231	[Lv.560] Enhance Aid (Untradable)x10	[Lv.560] 강화 보조제(거래불가)x10
+ETC_20260828_082232	Use to obtain the following items.{nl}- [Lv.560] Enhance Aid (Untradable) x10	사용 시 아래의 구성물을 획득할 수 있습니다.{nl} - [Lv.560] 강화 보조제(거래불가) 10개
+ETC_20260828_082233	[Lv.560] Enhance Aid (Untradable)x10 +1	[Lv.560] 강화 보조제(거래불가)x10 + 1
+ETC_20260828_082234	Use to obtain the following items.{nl}- [Lv.560] Enhance Aid (Untradable) x11 	사용 시 아래의 구성물을 획득할 수 있습니다.{nl} - [Lv.560] 강화 보조제(거래불가) 11개
+ETC_20260828_082235	[Lv.560] Enhance Aid (Untradable)x15	[Lv.560] 강화 보조제(거래불가)x15
+ETC_20260828_082236	Use to obtain the following items.{nl}- [Lv.560] Enhance Aid (Untradable) x15	사용 시 아래의 구성물을 획득할 수 있습니다.{nl} - [Lv.560] 강화 보조제(거래불가) 15개
+ETC_20260828_082237	[Lv.560] Enhance Aid (Untradable)x30	[Lv.560] 강화 보조제(거래불가)x30
+ETC_20260828_082238	Use to obtain the following items.{nl}- [Lv.560] Enhance Aid (Untradable) x30	사용 시 아래의 구성물을 획득할 수 있습니다.{nl} - [Lv.560] 강화 보조제(거래불가) 30개
+ETC_20260828_082239	[Lv.560] Urgent Repair Kit	[Lv.560] 긴급 수리 키트
+ETC_20260828_082240	Recovers the durability of your current equipment with Lv.560 or below by +10. 	사용 시 착용 중인 Lv.560 이하 장비의 내구도를 +10 회복시켜 줍니다.
+ETC_20260828_082241	[Lv.560] Evolution Stone	[Lv.560] 진화석
+ETC_20260828_082242	Used to evolve Lv.560 Goddess Rank Weapon.{nl}{#ff0000}Right-click to transform it into a usable ingredient.{/}{nl} {nl}{#0000ff}This evolution is passed on to {img green_up_arrow 16 16}the next generation equipment.{/}{nl}{#ff0000}Upon Succession, the ATK gained from evolution will decrease by {img red_down_arrow 16 16}50%.{/}	Lv.560 가디스 무기를 진화시킬 때 사용 됩니다.{nl}{#ff0000}우클릭으로 사용 가능한 재료형태로 변환 가능합니다.{/}{nl} {nl}{#0000ff}이 진화는 다음 세대 장비로 {img green_up_arrow 16 16}계승됩니다.{/}{nl}{#ff0000}단, 계승 시 진화 공격력은 {img red_down_arrow 16 16}50%로 감소합니다.{/}
+ETC_20260828_082243	[Lv.560] Evolution Stone (Untradable)	[Lv.560] 진화석(거래불가)
+ETC_20260828_082244	Used to evolve Lv.560 Goddess Rank Weapon.{nl} {nl}{#0000ff}This evolution is passed on to {img green_up_arrow 16 16}the next generation equipment.{/}{nl}{#ff0000}Upon Succession, the ATK gained from evolution will decrease by {img red_down_arrow 16 16}50%.{/}	Lv.560 가디스 무기를 진화시킬 때 사용 됩니다.{nl} {nl}{#0000ff}이 진화는 다음 세대 장비로 {img green_up_arrow 16 16}계승됩니다.{/}{nl}{#ff0000}단, 계승 시 진화 공격력은 {img red_down_arrow 16 16}50%로 감소합니다.{/}
+ETC_20260828_082245	[Lv.560] Aether Gem Catalyst	[Lv.560] 에테르 젬 촉매제
+ETC_20260828_082246	Use when clearing Remnants of Bernice Dungeon.{nl} {nl}{@st66d}{s16}Maximum enhance count of [Aether Gem {#ff0000}{s18}Lv.560{/}{/} or below Enhancement] increases by 5 each time used.	베르니케의 파편 던전 클리어 시 사용할 수 있습니다.{nl} {nl}{@st66d}{s16}사용할 때마다 [{#ff0000}{s18}Lv.560 {/}{/}이하 에테르 젬 강화]의 최대 강화 가능 횟수가 5 추가됩니다.
+ETC_20260828_082247	[Lv.560] Aether Gem Catalyst (Untradable)	[Lv.560] 에테르 젬 촉매제(거래불가)
+ETC_20260828_082248	[Lv.560] Aether Gem Fragment	[Lv.560] 에테르 젬 파편
+ETC_20260828_082249	Use to select and obtain 1 of the following items.{nl} - [Lv.560] Aether Gem - STR{nl} - [Lv.560] Aether Gem - INT{nl} - [Lv.560] Aether Gem - DEX{nl} - [Lv.560] Aether Gem - SPR{nl} - [Lv.560] Aether Gem - CON	사용 시 다음 아이템 중 1개를 선택하여 획득할 수 있습니다.{nl} - [Lv.560] 에테르 젬 - 힘{nl} - [Lv.560] 에테르 젬 - 지능{nl} - [Lv.560] 에테르 젬 - 민첩{nl} - [Lv.560] 에테르 젬 - 정신{nl} - [Lv.560] 에테르 젬 - 체력
+ETC_20260828_082250	[Lv.560] Aether Gem Scroll	[Lv.560] 에테르 젬 변환 스크롤
+ETC_20260828_082251	Exchange [Lv.560] Aether Gem with other type of Aether Gem.{@st16}{#ff2222}The level of the gem is maintained.{/}{/}	[Lv.560] 에테르 젬을 다른 종류의 에테르 젬으로 변환합니다.{@st16}{#ff2222}레벨은 유지됩니다.{/}{/}
+ETC_20260828_082252	[Lv.560] Aether Gem Socket Key (Untradable)	[Lv.560] 에테르 젬 소켓 열쇠(거래불가)
+ETC_20260828_082253	Material needed for unlocking Advanced Socket of Goddess Rank Equipment with Lv.560 or below.	Lv.560 이하의 가디스 장비의 고급 소켓 개방에 필요한 재료입니다.
+ETC_20260828_082254	[Lv.560] Aether Gem Socket Key (Untradable) Recipe	[Lv.560] 에테르 젬 소켓 열쇠(거래불가) 제작서
+ETC_20260828_082255	Obtain [Lv.560] Aether Gem Socket Key (Untradable)] x1 by combining [Faded Black Feather of El] x50, [Superior Blessed Shard] x200.{nl}Right-click to use.	[힘을 잃은 엘의 검은 깃털] 50개, [최고급 축복받은 조각] 200개를 조합하여 [Lv.560] 에테르 젬 소켓 열쇠(거래불가) 1개를 얻습니다.{nl}마우스 오른쪽 버튼 클릭으로 사용 가능합니다.
+ETC_20260828_082256	Use to increase 5,000 STR and DEX for 10 minutes.{nl}Right-click to use.{nl} {nl}{#ff0000}Does not apply with other Arcanum effects at the same time.{nl}Effect is removed when the player becomes incapable of battle.{nl}Item effect is not applied in Team Battle League and you can not enter TBL during the effect.{/}	사용 시 10분 동안 힘과 민첩을 5,000 증가시킵니다.{nl}마우스 오른쪽 클릭으로 사용합니다.{nl} {nl}{#ff0000}다른 비약의 효과와 동시 적용되지 않습니다.{nl}플레이어 사망 시 효과가 사라집니다.{nl}해당 아이템 효과는 팀 배틀리그에서 적용되지 않으며, 효과를 받는 중에는 팀 배틀리그에 입장할 수 없습니다.{/}
+ETC_20260828_082257	[Lv.560] Arcanum of STR Recipe	[Lv.560] 힘의 비약 제작서
+ETC_20260828_082258	Craft a [Lv.560] Arcanum of STR by consuming 3 [Lv.540] Arcanum of STR.{nl}Right-click to use.	[Lv.540] 힘의 비약 3개를 소모하여 [Lv.560] 힘의 비약 1개를 제작합니다.{nl}마우스 오른쪽 버튼 클릭으로 사용 가능합니다.
+ETC_20260828_082259	Use to increase 5,000 INT and SPR for 10 minutes.{nl}Right-click to use.{nl} {nl}{#ff0000}Does not apply with other Arcanum effects at the same time.{nl}Effect is removed when the player becomes incapable of battle.{nl}Item effect is not applied in Team Battle League and you can not enter TBL during the effect.{/}	사용 시 10분 동안 지능과 정신을 5,000 증가시킵니다.{nl}마우스 오른쪽 클릭으로 사용합니다.{nl} {nl}{#ff0000}다른 비약의 효과와 동시 적용되지 않습니다.{nl}플레이어 사망 시 효과가 사라집니다.{nl}해당 아이템 효과는 팀 배틀리그에서 적용되지 않으며, 효과를 받는 중에는 팀 배틀리그에 입장할 수 없습니다.{/}
+ETC_20260828_082260	[Lv.560] Arcanum of INT Recipe	[Lv.560] 지능의 비약 제작서
+ETC_20260828_082261	Craft a [Lv.560] Arcanum of INT by consuming 3 [Lv.540] Arcanum of INT.{nl}Right-click to use.	[Lv.540] 지능의 비약 3개를 소모하여 [Lv.560] 지능의 비약 1개를 제작합니다.{nl}마우스 오른쪽 버튼 클릭으로 사용 가능합니다.
+ETC_20260828_082262	[Lv.560] Arcanum of CON Recipe	[Lv.560] 체력의 비약 제작서
+ETC_20260828_082263	Craft a [Lv.560] Arcanum of CON by consuming 3 [Lv.540] Arcanum of CON.{nl}Right-click to use.	[Lv.540] 체력의 비약 3개를 소모하여 [Lv.560] 체력의 비약 1개를 제작합니다.{nl}마우스 오른쪽 버튼 클릭으로 사용 가능합니다.
+ETC_20260828_082264	Token Sack(Saule)	증표 꾸러미(사울레)
+ETC_20260828_082265	Right-click to use and obtain the following items.{nl} - Mercenary Badge : 10,000 x20{nl} - Goddess Token(Saule) : 10,000 x25{nl} {nl}{#0000ff}Item obtained by this item is not included in the weekly acquisition limit.	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - 용병단 증표 : 10,000 20개{nl} - 여신의 증표(사울레) : 10,000 25개{nl} {nl}{#0000ff}해당 패키지로 획득하는 증표는 주간 획득량 제한에 포함되지 않습니다.
+ETC_20260828_082266	[Lv.560] Premium Reset Package	[Lv.560] 프리미엄 초기화 패키지
+ETC_20260828_082267	Use to obtain the following items.{nl} - Class Change Voucher Lv.4 x1{nl} - Stat Reset Potion x1{nl} - Arts Reset Potion Profession Selection Box 3+1 x1{nl} - [Lv.560] Equipment Type Change Tome x1	사용 시 아래의 구성물을 모두 획득할 수 있습니다.{nl} - 클래스 변경권 Lv.4 1개{nl} - 스탯 초기화 포션 1개{nl} - 아츠 초기화 포션 계열 선택 상자 3+1 1개{nl} - [Lv.560] 장비 계열 변경의 서 1개
+ETC_20260828_082268	[Lv.560] Advanced Goddess Grace Weapon Ichor Box (Untradable)	[Lv.560] 은총 옵션 상급 가디스 무기 아이커 상자(거래불가)
+ETC_20260828_082269	Use to obtain a [Lv.560] Advanced Goddess Ichor (Weapon) with a random Grace stat.	사용 시 은총 옵션이 부여된 무작위 [Lv.560] 상급 가디스 무기 아이커(거래불가)를 1개 획득합니다.
+ETC_20260828_082270	[Lv.560] Advanced Goddess Grace Armor Ichor Box (Untradable)	[Lv.560] 은총 옵션 상급 가디스 방어구 아이커 상자(거래불가)
+ETC_20260828_082271	Use to obtain a [Lv.560] Advanced Goddess Ichor (Armor) with a random Grace stat.	사용 시 은총 옵션이 부여된 무작위 [Lv.560] 상급 가디스 방어구 아이커(거래불가)를 1개 획득합니다.
+ETC_20260828_082272	[Lv.560] [Saule's Blessing] Reset Scroll	[Lv.560] [사울레의 축복] 초기화 스크롤
+ETC_20260828_082273	Use it on [Lv.560] Goddess Armor with [Blessing of Saule] to {#ff0000}remove{/}[Blessing of Saule].	[사울레의 축복]이 부여된 [Lv.560] 가디스 방어구에 사용하여, [사울레의 축복]을{#ff0000}제거{/}합니다.
+ETC_20260828_082274	[Saule] Raid Portal Stone Exchanger	[사울레] 레이드 포탈 스톤 변환서
+ETC_20260828_082275	Exchange {@st16}{#00bbff}30 [Austeja] Raid Portal Stone{/}{/} with {@st16}{#555555}10 [Saule] Raid Portal Stone (Untradable){/}{/}.{nl}Right-click to use.	{@st16}{#00bbff}[아우스테야] 레이드 포탈 스톤 30개{/}{/}를 {@st16}{#555555}[사울레] 레이드 포탈 스톤(거래불가) 10개{/}{/}로 변환합니다.{nl}마우스 오른쪽 버튼 클릭으로 사용 가능합니다.
+ETC_20260828_082276	[Saule] Raid Portal Stone → Raid Portal Stone (Untradable) Exchanger	[사울레] 레이드 포탈 스톤 → 레이드 포탈 스톤(거래불가) 변환서
+ETC_20260828_082277	Exchange {@st16}{#555555}50 [Saule] Raid Portal Stone{/}{/} with 50 [Raid Portal Stone (Untradable)].{nl}Right-click to use.	{@st16}{#555555}[사울레] 레이드 포탈 스톤 50개{/}{/}를 [레이드 포탈 스톤(거래불가)] 50개로 변환합니다.{nl}마우스 오른쪽 버튼 클릭으로 사용 가능합니다.
+ETC_20260828_082278	[Saule] Raid Portal Stone → [Austeja] Raid Portal Stone (Untradable) Exchanger	[사울레] 레이드 포탈 스톤 → [아우스테야] 레이드 포탈 스톤(거래불가) 변환서
+ETC_20260828_082279	Exchange {@st16}{#555555}50 [Saule] Raid Portal Stone{/}{/} with {@st16}{#00bbff}50 [Austeja] Raid Portal Stone (Untradable){/}{/}.{nl}Right-click to use.	{@st16}{#555555}[사울레] 레이드 포탈 스톤 50개{/}{/}를 {@st16}{#00bbff}[아우스테야] 레이드 포탈 스톤(거래불가) 50개{/}{/}로 변환합니다.{nl}마우스 오른쪽 버튼 클릭으로 사용 가능합니다.
+ETC_20260828_082280	[Lv.560] Challenge Mode One Entry Voucher (A)	[Lv.560] 챌린지 모드 1회 입장권(A)
+ETC_20260828_082281	Obtain 1 extra entry count of [Lv.560] Challenge Mode.	[Lv.560] 챌린지 모드 입장 횟수를 1회 획득합니다.
+ETC_20260828_082282	[Lv.560] Challenge Mode One Entry Voucher (D)	[Lv.560] 챌린지 모드 1회 입장권(D)
+ETC_20260828_082283	[Lv.560] Challenge Mode One Entry Voucher (B) (1 Day)	[Lv.560] 챌린지 모드 1회 입장권(B) (1일)
+ETC_20260828_082284	[Lv.560] Challenge Mode One Entry Voucher (7 Days)	[Lv.560] 챌린지 모드 1회 입장권 (7일)
+ETC_20260828_082285	[Lv.560] Challenge Mode Add. Reward Voucher	[Lv.560] 챌린지 모드 추가 보상권
+ETC_20260828_082286	You can receive 1 more reward of [Lv.560]Challenge Mode.{nl}{#ff0000}Entry count is not deducted when receiving an additional reward.{/}{/}	[Lv.560] 챌린지 모드 보상을 1회 더 획득할 수 있습니다.{nl}{#ff0000}추가 보상 획득으로 입장 횟수를 감소시키지 않습니다.{/}{/}
+ETC_20260828_082287	[Lv.560] Challenge Mode Add. Reward Voucher (Untradable)	[Lv.560] 챌린지 모드 추가 보상권(거래불가)
+ETC_20260828_082288	[Lv.560] Challenge Mode Add. Reward Voucher (7 Days)	[Lv.560] 챌린지 모드 추가 보상권 (7일)
+ETC_20260828_082289	[Lv.560] Division Singularity Add. Reward Voucher	챌린지 모드 : [Lv.560] 분열 특이점 추가 보상권
+ETC_20260828_082290	Can receive Challenge Mode : [Lv.560] Division Singularity rewards one more time.	챌린지 모드 : [Lv.560] 분열 특이점 보상을 1회 더 획득할 수 있습니다.
+ETC_20260828_082291	[Lv.560] Division Singularity Add. Reward Voucher (Untradable)	챌린지 모드 : [Lv.560] 분열 특이점 추가 보상권(거래불가)
+ETC_20260828_082292	[Lv.560] Division Singularity Add. Reward Voucher (7 Days)	챌린지 모드 : [Lv.560] 분열 특이점 추가 보상권 (7일)
+ETC_20260828_082293	[Lv.560] Division Singularity One Entry Voucher	챌린지 모드 : [Lv.560] 분열 특이점 1회 입장권
+ETC_20260828_082294	Increases 1 entry count of Challenge Mode : [Lv.560] Division Singularity.{nl}{#ff0000}Caution! - It can only be used when the remaining entry count of Challenge Mode : [Lv.560] Division Singularity is 0.	챌린지 모드 : [Lv.560] 분열 특이점 입장 가능 횟수를 1회 증가시킵니다.{nl}{#ff0000}주의! - 챌린지 모드 : [Lv.560] 분열 특이점 입장 가능횟수가 0 인 경우에만 사용가능합니다.
+ETC_20260828_082295	[Lv.560] Division Singularity One Entry Voucher (Untradable)	챌린지 모드 : [Lv.560] 분열 특이점 1회 입장권(거래불가)
+ETC_20260828_082296	[Lv.560] Division Singularity One Entry Voucher (1 Day)	챌린지 모드 : [Lv.560] 분열 특이점 1회 입장권 (1일)
+ETC_20260828_082297	[Lv.560] Division Singularity One Entry Voucher (7 Days)	챌린지 모드 : [Lv.560] 분열 특이점 1회 입장권 (7일)
+ETC_20260828_082298	[Lv.560] Challenge Mode One Entry Voucher → [Lv.540] Challenge Mode One Entry Voucher(B) (1 Day) Exchanger	[Lv.560] 챌린지 모드 1회 입장권 → [Lv.540] 챌린지 모드 1회 입장권(B) (1일) 변환서
+ETC_20260828_082299	{@st16}{#555555}Exchange [Lv.560] Challenge Mode One Entry Voucher x1{/}{/}to [Lv.540] Challenge Mode One Entry Voucher(B) (1 Day) x1.{nl} {nl} The voucher will be consumed in the following order, regardless of the remaining time.{nl} {nl}[Lv.560] Challenge Mode One Entry Voucher(B) (1 Day){nl}[Lv.560] Challenge Mode One Entry Voucher (7 Days){nl}[Lv.560] Challenge Mode One Entry Voucher(D){nl}[Lv.640] Challenge Mode One Entry Voucher(A){nl} {nl}Right-click to use.	{@st16}{#555555}[Lv.560] 챌린지 모드 1회 입장권 1개{/}{/}를 [Lv.540] 챌린지 모드 1회 입장권(B) (1일) 1개로 변환합니다.{nl} {nl} 기간제 아이템인 경우, 남은 기간에 관계없이 다음의 순서로 우선 소모됩니다.{nl} {nl}[Lv.560] 챌린지 모드 1회 입장권(B) (1일){nl}[Lv.560] 챌린지 모드 1회 입장권 (7일){nl}[Lv.560] 챌린지 모드 1회 입장권(D){nl}[Lv.560] 챌린지 모드 1회 입장권(A){nl} {nl} 마우스 오른쪽 버튼 클릭으로 사용 가능합니다.
+ETC_20260828_082300	Eltas → Selas Powder Exchanger	엘타스 → 셀라스 가루 변환서
+ETC_20260828_082301	Exchange {@st16}{#555555}[3000 Eltas Powder]{/}{/} with {@st16}{#11EE11}[1000 Selas Powder]{/}{/}.{nl}Right-click to use. 	{@st16}{#555555}[엘타스 가루 3000개]{/}{/}를 {@st16}{#11EE11}[셀라스 가루 1000개]{/}{/}로 변환합니다.{nl}마우스 오른쪽 버튼 클릭으로 사용 가능합니다.
+ETC_20260828_082302	Selas → Eltas Powder Exchanger	셀라스 → 엘타스 가루 변환서
+ETC_20260828_082303	Exchange {@st16}{#11EE11}[1000 Selas Powder]{/}{/} with {@st16}{#555555}[1000 Eltas Powder]{/}{/}.{nl}Right-click to use. 	{@st16}{#11EE11}[셀라스 가루 1000개]{/}{/}를 {@st16}{#555555}[엘타스 가루 1000개]{/}{/}로 변환합니다.{nl}마우스 오른쪽 버튼 클릭으로 사용 가능합니다.
+ETC_20260828_082304	Blessed [Saule] Random Cube A	축복받은 [사울레]의 랜덤 큐브 A
+ETC_20260828_082305	Collect 20 to obtain the{@st66d}{s15}[Austeja] Belt of Insight{/}{/}. Right-click to use.	20개를 모아 사용하면 {@st66d}{s15}[아우스테야] 통찰의 허리띠{/}{/}를 획득할 수 있습니다. 마우스 오른쪽 버튼 클릭으로 사용합니다.
+ETC_20260828_082306	When used, removes the 5th and 6th attributes of [Austeja] Advanced Spaulder of Ferocity. Must have at least 1 attribute in use.	사용시 [아우스테야] 상급 맹렬의 어깨보호구의 5번째, 6번째 속성을 초기화 합니다. 최소 1개의 속성이 부여되어 있어야 합니다.
+ETC_20260828_082307	[Saule] Belt of Insight Fragment	[사울레] 통찰의 허리띠 파편
+ETC_20260828_082308	Collect 20 to obtain the{@st66d}{s15}[Saule] Belt of Insight{/}{/}. Right-click to use.	20개를 모아 사용하면 {@st66d}{s15}[사울레] 통찰의 허리띠{/}{/}를 획득할 수 있습니다. 마우스 오른쪽 버튼 클릭으로 사용합니다.
+ETC_20260828_082309	[Saule] Belt of Insight Fragment (Untradable)	[사울레] 통찰의 허리띠 파편(거래불가)
+ETC_20260828_082310	[Saule] Advanced Belt of Insight Fragment - Strike	[사울레] 상급 통찰의 허리띠 파편 - 일격
+ETC_20260828_082311	Collect 10 to obtain the{@st66d}{s15}[Saule] Advanced Belt of Insight - Strike{/}{/}. {nl} {nl} Right-click to use.	10개를 모아 사용하면 아래의 속성을 가진 {@st66d}{s15}[사울레] 상급 통찰의 허리띠 - 일격{/}{/}을 획득할 수 있습니다. {nl} {nl} 마우스 오른쪽 버튼 클릭으로 사용합니다.
+ETC_20260828_082312	[Saule] Advanced Belt of Insight Fragment - Rage	[사울레] 상급 통찰의 허리띠 파편 - 광기
+ETC_20260828_082313	Collect 10 to obtain the{@st66d}{s15}[Saule] Advanced Belt of Insight - Rage{/}{/}. {nl} {nl} Right-click to use.	10개를 모아 사용하면 아래의 속성을 가진 {@st66d}{s15}[사울레] 상급 통찰의 허리띠 - 광기{/}{/}을 획득할 수 있습니다. {nl} {nl} 마우스 오른쪽 버튼 클릭으로 사용합니다.
+ETC_20260828_082314	[Saule] Advanced Belt of Insight Fragment - Ultimate	[사울레] 상급 통찰의 허리띠 파편 - 필살
+ETC_20260828_082315	Collect 10 to obtain the{@st66d}{s15}[Saule] Advanced Belt of Insight - Ultimate{/}{/}. {nl} {nl} Right-click to use.	10개를 모아 사용하면 아래의 속성을 가진 {@st66d}{s15}[사울레] 상급 통찰의 허리띠 - 필살{/}{/}을 획득할 수 있습니다. {nl} {nl} 마우스 오른쪽 버튼 클릭으로 사용합니다.
+ETC_20260828_082316	[Saule] Advanced Belt of Insight Fragment - Dawn	[사울레] 상급 통찰의 허리띠 파편 - 여명
+ETC_20260828_082317	Collect 10 to obtain the{@st66d}{s15}[Saule] Advanced Belt of Insight - Dawn{/}{/}. {nl} {nl} Right-click to use.	10개를 모아 사용하면 아래의 속성을 가진 {@st66d}{s15}[사울레] 상급 통찰의 허리띠 - 여명{/}{/}을 획득할 수 있습니다. {nl} {nl} 마우스 오른쪽 버튼 클릭으로 사용합니다.
+ETC_20260828_082318	[Saule] Advanced Belt of Insight Fragment - Annihilation	[사울레] 상급 통찰의 허리띠 파편 - 섬멸
+ETC_20260828_082319	Collect 10 to obtain the{@st66d}{s15}[Saule] Advanced Belt of Insight - Annihilation{/}{/}. {nl} {nl} Right-click to use.	10개를 모아 사용하면 아래의 속성을 가진 {@st66d}{s15}[사울레] 상급 통찰의 허리띠 - 섬멸{/}{/}을 획득할 수 있습니다. {nl} {nl} 마우스 오른쪽 버튼 클릭으로 사용합니다.
+ETC_20260828_082320	[Saule] Advanced Belt of Insight Fragment - Radiance	[사울레] 상급 통찰의 허리띠 파편 - 광명
+ETC_20260828_082321	Collect 10 to obtain the{@st66d}{s15}[Saule] Advanced Belt of Insight - Radiance{/}{/}. {nl} {nl} Right-click to use.	10개를 모아 사용하면 아래의 속성을 가진 {@st66d}{s15}[사울레] 상급 통찰의 허리띠 - 광명{/}{/}을 획득할 수 있습니다. {nl} {nl} 마우스 오른쪽 버튼 클릭으로 사용합니다.
+ETC_20260828_082322	[Saule] Advanced Belt of Insight Fragment - Invincible	[사울레] 상급 통찰의 허리띠 파편 - 불패
+ETC_20260828_082323	Collect 10 to obtain the{@st66d}{s15}[Saule] Advanced Belt of Insight - Invincible{/}{/}. {nl} {nl} Right-click to use.	10개를 모아 사용하면 아래의 속성을 가진 {@st66d}{s15}[사울레] 상급 통찰의 허리띠 - 불패{/}{/}을 획득할 수 있습니다. {nl} {nl} 마우스 오른쪽 버튼 클릭으로 사용합니다.
+ETC_20260828_082324	[Saule] Advanced Belt of Insight Fragment - Graceful Moon	[사울레] 상급 통찰의 허리띠 파편 - 혜월
+ETC_20260828_082325	Collect 10 to obtain the{@st66d}{s15}[Saule] Advanced Belt of Insight - Graceful Moon{/}{/}. {nl} {nl} Right-click to use.	10개를 모아 사용하면 아래의 속성을 가진 {@st66d}{s15}[사울레] 상급 통찰의 허리띠 - 혜월{/}{/}을 획득할 수 있습니다. {nl} {nl} 마우스 오른쪽 버튼 클릭으로 사용합니다.
+ETC_20260828_082326	[Saule] Advanced Belt of Insight Fragment - Protection	[사울레] 상급 통찰의 허리띠 파편 - 수호
+ETC_20260828_082327	Collect 10 to obtain the{@st66d}{s15}[Saule] Advanced Belt of Insight - Protection{/}{/}. {nl} {nl} Right-click to use.	10개를 모아 사용하면 아래의 속성을 가진 {@st66d}{s15}[사울레] 상급 통찰의 허리띠 - 수호{/}{/}을 획득할 수 있습니다. {nl} {nl} 마우스 오른쪽 버튼 클릭으로 사용합니다.
+ETC_20260828_082328	[Saule] Advanced Belt of Insight Fragment - Strike (Untradable)	[사울레] 상급 통찰의 허리띠 파편 - 일격(거래불가)
+ETC_20260828_082329	[Saule] Advanced Belt of Insight Fragment - Rage (Untradable) 	[사울레] 상급 통찰의 허리띠 파편 - 광기(거래불가)
+ETC_20260828_082330	[Saule] Advanced Belt of Insight Fragment - Ultimate (Untradable)	[사울레] 상급 통찰의 허리띠 파편 - 필살(거래불가)
+ETC_20260828_082331	[Saule] Advanced Belt of Insight Fragment - Dawn (Untradable) 	[사울레] 상급 통찰의 허리띠 파편 - 여명(거래불가)
+ETC_20260828_082332	[Saule] Advanced Belt of Insight Fragment - Annihilation (Untradable)	[사울레] 상급 통찰의 허리띠 파편 - 섬멸(거래불가)
+ETC_20260828_082333	[Saule] Advanced Belt of Insight Fragment - Radiance (Untradable)	[사울레] 상급 통찰의 허리띠 파편 - 광명(거래불가)
+ETC_20260828_082334	[Saule] Advanced Belt of Insight Fragment - Invincible (Untradable)	[사울레] 상급 통찰의 허리띠 파편 - 불패(거래불가)
+ETC_20260828_082335	[Saule] Advanced Belt of Insight Fragment - Graceful Moon (Untradable)	[사울레] 상급 통찰의 허리띠 파편 - 혜월(거래불가)
+ETC_20260828_082336	[Saule] Advanced Belt of Insight Fragment - Protection (Untradable)	[사울레] 상급 통찰의 허리띠 파편 - 수호(거래불가)
+ETC_20260828_082337	[Saule] Advanced Belt of Insight Fragment	[사울레] 상급 통찰의 허리띠 파편
+ETC_20260828_082338	Collect 10 to obtain one type of {@st66d}{s15}[Saule] Advanced Belt of Insight Fragment{/}{/}. When selected, 10 fragments will be given.{nl} {nl} Right-click to use.	10개를 모아 사용하면 {@st66d}{s15}[사울레] 상급 통찰의 허리띠 파편{/}{/}들 중 한 종류를 선택하여 획득할 수 있습니다. 선택시 파편 10개가 지급됩니다.{nl} {nl} 마우스 오른쪽 버튼 클릭으로 사용합니다.
+ETC_20260828_082339	[Saule] Spaulder of Ferocity Fragment	[사울레] 맹렬의 어깨보호구 파편
+ETC_20260828_082340	Collect 20 to obtain the{@st66d}{s15}[Saule] Spaulder of Ferocity{/}{/}. Right-click to use.	20개를 모아 사용하면 {@st66d}{s15}[사울레] 맹렬의 어깨보호구{/}{/}를 획득할 수 있습니다. 마우스 오른쪽 버튼 클릭으로 사용합니다.
+ETC_20260828_082341	[Saule] Spaulder of Ferocity Fragment (Untradable)	[사울레] 맹렬의 어깨보호구 파편(거래불가)
+ETC_20260828_082342	[Saule] Advanced Spaulder of Ferocity Fragment - Strike	[사울레] 상급 맹렬의 어깨보호구 파편 - 일격
+ETC_20260828_082343	Collect 10 to obtain the{@st66d}{s15}[Saule] Advanced Spaulder of Ferocity - Strike{/}{/}. {nl} {nl} Right-click to use.	10개를 모아 사용하면 아래의 속성을 가진 {@st66d}{s15}[사울레] 상급 맹렬의 어깨보호구 - 일격{/}{/}을 획득할 수 있습니다. {nl} {nl} 마우스 오른쪽 버튼 클릭으로 사용합니다.
+ETC_20260828_082344	[Saule] Advanced Spaulder of Ferocity Fragment - Rage	[사울레] 상급 맹렬의 어깨보호구 파편 - 광기
+ETC_20260828_082345	Collect 10 to obtain the{@st66d}{s15}[Saule] Advanced Spaulder of Ferocity - Rage{/}{/}. {nl} {nl} Right-click to use.	10개를 모아 사용하면 아래의 속성을 가진 {@st66d}{s15}[사울레] 상급 맹렬의 어깨보호구 - 광기{/}{/}을 획득할 수 있습니다. {nl} {nl} 마우스 오른쪽 버튼 클릭으로 사용합니다.
+ETC_20260828_082346	[Saule] Advanced Spaulder of Ferocity Fragment - Ultimate	[사울레] 상급 맹렬의 어깨보호구 파편 - 필살
+ETC_20260828_082347	Collect 10 to obtain the{@st66d}{s15}[Saule] Advanced Spaulder of Ferocity - Ultimate{/}{/}. {nl} {nl} Right-click to use.	10개를 모아 사용하면 아래의 속성을 가진 {@st66d}{s15}[사울레] 상급 맹렬의 어깨보호구 - 필살{/}{/}을 획득할 수 있습니다. {nl} {nl} 마우스 오른쪽 버튼 클릭으로 사용합니다.
+ETC_20260828_082348	[Saule] Advanced Spaulder of Ferocity Fragment - Annihilation	[사울레] 상급 맹렬의 어깨보호구 파편 - 섬멸
+ETC_20260828_082349	Collect 10 to obtain the{@st66d}{s15}[Saule] Advanced Spaulder of Ferocity - Annihilation{/}{/}. {nl} {nl} Right-click to use.	10개를 모아 사용하면 아래의 속성을 가진 {@st66d}{s15}[사울레] 상급 맹렬의 어깨보호구 - 섬멸{/}{/}을 획득할 수 있습니다. {nl} {nl} 마우스 오른쪽 버튼 클릭으로 사용합니다.
+ETC_20260828_082350	[Saule] Advanced Spaulder of Ferocity Fragment - Radiance	[사울레] 상급 맹렬의 어깨보호구 파편 - 광명
+ETC_20260828_082351	Collect 10 to obtain the{@st66d}{s15}[Saule] Advanced Spaulder of Ferocity - Radiance{/}{/}. {nl} {nl} Right-click to use.	10개를 모아 사용하면 아래의 속성을 가진 {@st66d}{s15}[사울레] 상급 맹렬의 어깨보호구 - 광명{/}{/}을 획득할 수 있습니다. {nl} {nl} 마우스 오른쪽 버튼 클릭으로 사용합니다.
+ETC_20260828_082352	[Saule] Advanced Spaulder of Ferocity Fragment - Invincible	[사울레] 상급 맹렬의 어깨보호구 파편 - 불패
+ETC_20260828_082353	Collect 10 to obtain the{@st66d}{s15}[Saule] Advanced Spaulder of Ferocity - Invincible{/}{/}. {nl} {nl} Right-click to use.	10개를 모아 사용하면 아래의 속성을 가진 {@st66d}{s15}[사울레] 상급 맹렬의 어깨보호구 - 불패{/}{/}을 획득할 수 있습니다. {nl} {nl} 마우스 오른쪽 버튼 클릭으로 사용합니다.
+ETC_20260828_082354	[Saule] Advanced Spaulder of Ferocity Fragment - Protection	[사울레] 상급 맹렬의 어깨보호구 파편 - 수호
+ETC_20260828_082355	Collect 10 to obtain the{@st66d}{s15}[Saule] Advanced Spaulder of Ferocity - Protection{/}{/}. {nl} {nl} Right-click to use.	10개를 모아 사용하면 아래의 속성을 가진 {@st66d}{s15}[사울레] 상급 맹렬의 어깨보호구 - 수호{/}{/}을 획득할 수 있습니다. {nl} {nl} 마우스 오른쪽 버튼 클릭으로 사용합니다.
+ETC_20260828_082356	[Saule] Advanced Spaulder of Ferocity Fragment - Strike (Untradable)	[사울레] 상급 맹렬의 어깨보호구 파편 - 일격(거래불가)
+ETC_20260828_082357	[Saule] Advanced Spaulder of Ferocity Fragment - Rage (Untradable)	[사울레] 상급 맹렬의 어깨보호구 파편 - 광기(거래불가)
+ETC_20260828_082358	[Saule] Advanced Spaulder of Ferocity Fragment - Ultimate (Untradable)	[사울레] 상급 맹렬의 어깨보호구 파편 - 필살(거래불가)
+ETC_20260828_082359	[Saule] Advanced Spaulder of Ferocity Fragment - Annihilation (Untradable)	[사울레] 상급 맹렬의 어깨보호구 파편 - 섬멸(거래불가)
+ETC_20260828_082360	[Saule] Advanced Spaulder of Ferocity Fragment - Radiance (Untradable)	[사울레] 상급 맹렬의 어깨보호구 파편 - 광명(거래불가)
+ETC_20260828_082361	[Saule] Advanced Spaulder of Ferocity Fragment - Invincible (Untradable)	[사울레] 상급 맹렬의 어깨보호구 파편 - 불패(거래불가)
+ETC_20260828_082362	[Saule] Advanced Spaulder of Ferocity Fragment - Protection (Untradable)	[사울레] 상급 맹렬의 어깨보호구 파편 - 수호(거래불가)
+ETC_20260828_082363	[Saule] Advanced Spaulder of Ferocity Fragment	[사울레] 상급 맹렬의 어깨보호구 파편
+ETC_20260828_082364	Collect 10 to obtain one type of {@st66d}{s15}[Saule] Advanced Spaulder of Ferocity Fragment{/}{/}. When selected, 10 fragments will be given.{nl} {nl} Right-click to use.	10개를 모아 사용하면 {@st66d}{s15}[사울레] 상급 맹렬의 어깨보호구 파편{/}{/}들 중 한 종류를 선택하여 획득할 수 있습니다. 선택시 파편 10개가 지급됩니다.{nl} {nl} 마우스 오른쪽 버튼 클릭으로 사용합니다.
+ETC_20260828_082365	[Saule] Advanced Belt of Insight Fragment (Bound)	[사울레] 상급 통찰의 허리띠 파편(귀속)
+ETC_20260828_082366	Right-click to use, you can obtain {@st66d}{s15}[Saule] Advanced Belt of Insight{/}{/}. {nl}One of the following types will be applied with equal chance: Strike/Rage/Ultimate/Annihilation/Radiance/Invincible/Dawn/Graceful Moon/Protection{nl}{#ff0000}The item will be bound to the team.{/}	마우스 우클릭으로 사용 가능하며, 사용 시 {@st66d}{s15}[사울레] 상급 통찰의 허리띠{/}{/}를 획득할 수 있습니다.{nl}일격/광기/필살/섬멸/광명/불패/여명/혜월/수호 속성 중 1개가 각각 동일한 확률로 적용됩니다.{nl}{#ff0000}해당 아이템은 팀에 귀속되게 됩니다.{/}
+ETC_20260828_082367	[Saule] Advanced Spaulder of Ferocity Fragment (Bound)	[사울레] 상급 맹렬의 어깨보호구 파편(귀속)
+ETC_20260828_082368	Right-click to use, you can obtain {@st66d}{s15}[Saule] Advanced Spaulder of Ferocity Fragment{/}{/}. One of the following types will be applied with equal chance: Strike/Rage/Ultimate/Annihilation/Radiance/Invincible/Protection{nl}{#ff0000}The item will be bound to the team.{/}	마우스 우클릭으로 사용 가능하며, 사용 시 {@st66d}{s15}[사울레] 상급 맹렬의 어깨보호구{/}{/}를 획득할 수 있습니다. 일격/광기/필살/섬멸/광명/불패/수호 속성 중 1개가 각각 동일한 확률로 적용됩니다.{nl}{#ff0000}해당 아이템은 팀에 귀속되게 됩니다.{/}
+ETC_20260828_082369	[Lv.560] Luminous Attribute Scroll - [Saule] Advanced Belt of Insight	[Lv.560] 빛나는 속성 주문서 - [사울레] 상급 통찰의 허리띠
+ETC_20260828_082370	When used, sequentially grants the 5th or 6th attribute to the [Saule] Advanced Belt of Insight. Up to 2 additional attributes can be granted. {nl}{#ff0000}Cannot be used when 2 additional attributes already exist.{/}{nl}One of the following attribute is granted randomly with equal chance.	사용시 [사울레] 상급 통찰의 허리띠에 5번째 또는 6번째 속성을 순차적으로 부여합니다. 최대 2개의 추가 속성을 부여할 수 있습니다.{nl}{#ff0000}이미 2개의 추가 속성이 부여되어 있다면 사용할 수 없습니다.{/}{nl}다음 속성 중 1개가 균등 확률로 랜덤하게 부여됩니다.
+ETC_20260828_082371	[Lv.560] Luminous Attribute Scroll - [Saule] Advanced Belt of Insight (Untradable)	[Lv.560] 빛나는 속성 주문서 - [사울레] 상급 통찰의 허리띠(거래불가)
+ETC_20260828_082372	[Lv.560] Luminous Attribute Scroll II- [Saule] Advanced Belt of Insight	[Lv.560] 빛나는 속성 주문서 II - [사울레] 상급 통찰의 허리띠
+ETC_20260828_082373	[Lv.560] Luminous Attribute Scroll II- [Saule] Advanced Belt of Insight (Untradable)	[Lv.560] 빛나는 속성 주문서 II - [사울레] 상급 통찰의 허리띠(거래불가)
+ETC_20260828_082374	[Lv.560] Attribute Reset Scroll - [Saule] Advanced Belt of Insight	[Lv.560] 속성 초기화 주문서 - [사울레] 상급 통찰의 허리띠
+ETC_20260828_082375	When used, resets the 5th and 6th attributes of [Saule] Advanced Belt of Insight. Must have at least 1 attribute in use.	사용시 [사울레] 상급 통찰의 허리띠의 5번째, 6번째 속성을 초기화 합니다. 최소 1개의 속성이 부여되어 있어야 합니다.
+ETC_20260828_082376	[Lv.560] Luminous Attribute Scroll - [Saule] Advanced Spaulder of Ferocity	[Lv.560] 빛나는 속성 주문서 - [사울레] 상급 맹렬의 어깨보호구
+ETC_20260828_082377	When used, sequentially grants the 5th or 6th attribute to the [Saule] Advanced Spaulder of Ferocity. Up to 2 additional attributes can be granted. {nl}{#ff0000}Cannot be used when 2 additional attributes already exist.{/}{nl}One of the following attribute is granted randomly with equal chance.	사용시 [사울레] 상급 맹렬의 어깨보호구에 5번째 또는 6번째 속성을 순차적으로 부여합니다. 최대 2개의 추가 속성을 부여할 수 있습니다.{nl}{#ff0000}이미 2개의 추가 속성이 부여되어 있다면 사용할 수 없습니다.{/}{nl}다음 속성 중 1개가 균등 확률로 랜덤하게 부여됩니다.
+ETC_20260828_082378	[Lv.560] Luminous Attribute Scroll - [Saule] Advanced Spaulder of Ferocity (Untradable)	[Lv.560] 빛나는 속성 주문서 - [사울레] 상급 맹렬의 어깨보호구(거래불가)
+ETC_20260828_082379	[Lv.560] Luminous Attribute Scroll II- [Saule] Advanced Spaulder of Ferocity	[Lv.560] 빛나는 속성 주문서 II - [사울레] 상급 맹렬의 어깨보호구
+ETC_20260828_082380	[Lv.560] Luminous Attribute Scroll II- [Saule] Advanced Spaulder of Ferocity (Untradable)	[Lv.560] 빛나는 속성 주문서 II - [사울레] 상급 맹렬의 어깨보호구(거래불가)
+ETC_20260828_082381	[Lv.560] Attribute Reset Scroll - [Saule] Advanced Spaulder of Ferocity	[Lv.560] 속성 초기화 주문서 - [사울레] 상급 맹렬의 어깨보호구
+ETC_20260828_082382	When used, resets the 5th and 6th attributes of [Saule] Advanced Spaulder of Ferocity. Must have at least 1 attribute in use.	사용시 [사울레] 상급 맹렬의 어깨보호구의 5번째, 6번째 속성을 초기화 합니다. 최소 1개의 속성이 부여되어 있어야 합니다.
+ETC_20260828_082383	[Lv.560] Luminous Attribute Scroll Random Box	[Lv.560] 빛나는 속성 주문서 랜덤 상자
+ETC_20260828_082384	[Lv.560] Luminous Attribute Scroll Random Box (Untradable)	[Lv.560] 빛나는 속성 주문서 랜덤 상자(거래불가)
+ETC_20260828_082385	[Lv.560] Luminous Attribution Scroll Random Box (x2)	[Lv.560] 빛나는 속성 주문서 랜덤 상자(2장)
+ETC_20260828_082386	[Saule] Belt of Insight Team Bound Scroll	[사울레] 통찰의 허리띠 팀 귀속 스크롤
+ETC_20260828_082387	Allows the character-bound [Saule] Belt of Insight to be transferred via team storage.{nl} {nl}{@st47}{s15}{#FF3333}* This can only be used on Bound [Saule] Belt of Insight and [Saule] Advanced Belt of Insight.{/}{/}	캐릭터의 귀속된 [사울레] 통찰의 허리띠를 팀 창고 이동이 가능하도록 만들어 줍니다.{nl} {nl}{@st47}{s15}{#FF3333}* 캐릭터에 귀속된 상태인 [사울레] 통찰의 허리띠, [사울레] 상급 통찰의 허리띠 에만 사용할 수 있습니다.{/}{/}
+ETC_20260828_082388	[Saule] Belt of Insight Team Bound Scroll (1 Day)	[사울레] 통찰의 허리띠 팀 귀속 스크롤(1일)
+ETC_20260828_082389	[Saule] Spaulder of Ferocity Team Bound Scroll 	[사울레] 맹렬의 어깨보호구 팀 귀속 스크롤
+ETC_20260828_082390	Allows the character-bound [Saule] Spaulder of Ferocity to be transferred via team storage.{nl} {nl}{@st47}{s15}{#FF3333}* This can only be used on Bound [Saule] Spaulder of Ferocity and [Saule] Advanced Spaulder of Ferocity{/}{/}	캐릭터의 귀속된 [사울레] 맹렬의 어깨보호구를 팀 창고 이동이 가능하도록 만들어 줍니다.{nl} {nl}{@st47}{s15}{#FF3333}* 캐릭터에 귀속된 상태인 [사울레] 맹렬의 어깨보호구, [사울레] 상급 맹렬의 어깨보호구에만 사용할 수 있습니다.{/}{/}
+ETC_20260828_082391	[Saule] Spaulder of Ferocity Team Bound Scroll (1 Day)	[사울레] 맹렬의 어깨보호구 팀 귀속 스크롤 (1일)
+ETC_20260828_082392	[Saule] Advanced Belt of Insight/Spaulder of Ferocity Box	[사울레] 상급 통찰의 허리띠/맹렬의 어깨보호구 파편 상자
+ETC_20260828_082393	[Saule] Advanced Belt of Insight/Spaulder of Ferocity Box (Untradable)	[사울레] 상급 통찰의 허리띠/맹렬의 어깨보호구 파편 상자(거래불가)
+ETC_20260828_082394	Saule Cube	사울레 큐브
+ETC_20260828_082395	Saule Cube (Guild Mission)	사울레 큐브(길드미션)
+ETC_20260828_082396	Saule Cube II	사울레 큐브 II
+ETC_20260828_082397	Saule Cube II (Guild Mission)	사울레 큐브 II(길드미션)
+ETC_20260828_082398	Baubas Cube IV	바우바스 큐브 IV
+ETC_20260828_082399	Baubas Cube IV (Guild Mission) 	바우바스 큐브 IV(길드미션)
+ETC_20260828_082400	[Lv.560] Luminous Attribute Scroll - Arc	[Lv.560] 빛나는 속성 주문서 - 아크
+ETC_20260828_082401	[Lv.560] Luminous Attribute Scroll II - Arc	[Lv.560] 빛나는 속성 주문서 II - 아크
+ETC_20260828_082402	[Lv.560] Luminous Attribute Scroll - Ark (Untradable)	[Lv.560] 빛나는 속성 주문서 - 아크(거래불가)
+ETC_20260828_082403	[Lv.560] Luminous Attribute Scroll II - Ark (Untradable)	[Lv.560] 빛나는 속성 주문서 II - 아크(거래불가)
+ETC_20260828_082404	[Lv.560] Luminous Attribute Scroll - [Blessing of Saule]	[Lv.560] 빛나는 속성 주문서 - [사울레의 축복]
+ETC_20260828_082405	When used, grants [Blessing of Saule] to [Lv.560] armor. Up to 1 attribute can be granted. {nl}{#ff0000}Cannot be used if an attribute has already been granted.{/}{nl}{#ff0000} [Blessing of Saule] stat is only effective during the Saulee Season.{/}{nl} {nl}One of the following attributes will be granted with the following {#0000FF}probability{/}.	사용시 [Lv.560] 방어구에 [사울레의 축복]을 부여합니다. 최대 1개의 속성을 부여할 수 있습니다.{nl}{#ff0000}이미 속성이 부여되어 있다면 사용할 수 없습니다.{/}{nl}{#ff0000}[사울레의 축복]은 사울레 시즌에만 유효한 옵션입니다.{/}{nl} {nl}다음 속성 중 1개가 아래와 같은 {#0000FF}확률{/}로 부여됩니다.
+ETC_20260828_082406	[Lv.560] Luminous Attribute Scroll - [Blessing of Saule] (Untradable)	[Lv.560] 빛나는 속성 주문서 - [사울레의 축복](거래불가)
+ETC_20260828_082407	[Lv.560] Fedimian Public House Balloting 1 Time Free Voucher	[Lv.560] 페디미안 주점 추첨 1회 무료 쿠폰
+ETC_20260828_082408	[Lv.560] Goddess Weapon/Armor Bound Removal Scroll	[Lv.560] 가디스 무기/방어구 귀속 해제 스크롤
+ETC_20260828_082409	Allows the character-bound [Lv.560] Goddess Weapon/Armor to be transferred via team storage.{nl} {nl}{@st47}{s15}{#FF3333}* This can only be used on [Lv.560] Goddess Weapon/Armor bound to the character.{/}{/}	캐릭터의 귀속된 [Lv.560] 가디스 무기/방어구를 팀 창고 이동이 가능하도록 만들어줍니다.{nl} {nl}{@st47}{s15}{#FF3333}* 캐릭터에 귀속된 상태인 [Lv.560] 가디스 무기/방어구에만 사용할 수 있습니다.{/}{/}
+ETC_20260828_082410	[Saule] Raid Portal Stone Package	[사울레] 레이드 포탈 스톤 꾸러미
+ETC_20260828_082411	Right-click to use and obtain the items.{nl}- [Saule] Raid Portal Stone (Untradable) x1000	마우스 우클릭 시 사용되며 구성물을 획득할 수 있습니다.{nl} - [사울레] 레이드 포탈 스톤(거래불가) 1000개
+ETC_20260828_082412	[Lv.560] Goddess Weapon/Armor Bound Removal Scroll x8	[Lv.560] 가디스 무기/방어구 귀속 해제 스크롤 x8
+ETC_20260828_082413	Use to obtain the following item.{nl} - [Lv.560] Goddess Weapon/Armor Bound Removal Scroll x8	사용 시 아래의 구성물을 획득할 수 있습니다.{nl} - [Lv.560] 가디스 무기/방어구 귀속 해제 스크롤 8개
+ETC_20260828_082414	[Lv.560] Division Singularity Add. Reward Voucher Recipe	챌린지 모드 : [Lv.560] 분열 특이점 추가 보상권 제작서
+ETC_20260828_082415	Obtain 1 {#FF0000}Challenge Mode : [Lv.560] Division Singularity Add. Reward Voucher (Untradable){/} with 3 [Lv.560] Challenge Mode One Entry Voucher (A) or [Lv.560] Challenge Mode One Entry Voucher (D). Right-click to use. 	[Lv.560] 챌린지 모드 1회 입장권(A), [Lv.560] 챌린지 모드 1회 입장권(D) 3장으로 {#FF0000}챌린지 모드 : [Lv.560] 분열 특이점 추가 보상권(거래불가){/} 1장을 얻을 수 있습니다. 마우스 오른쪽 버튼 클릭으로 사용 가능합니다.
+ETC_20260828_082416	Dragon Slayer's Fire Resistance Elixir(Untradable)	용살자의 화염 저항 영약(거래불가)
+ETC_20260828_082417	Dragon Slayer's Fierce Elixir(Untradable)	용살자의 예리한 영약(거래불가)
+ETC_20260828_082418	[Lv.560] Goddess Weapon/Armor Bound Removal Scroll (1Day)	[Lv.560] 가디스 무기/방어구 귀속 해제 스크롤(1일)
+ETC_20260828_082419	[Saule] Reset Item Set (7 days)	[사울레] 초기화 아이템 종합 상자 (7일)
+ETC_20260828_082420	[Lv.520] Arcanum of STR (Untradable)	[Lv.520] 힘의 비약(거래불가)
+ETC_20260828_082421	[Lv.520] Arcanum of INT (Untradable)	[Lv.520] 지능의 비약(거래불가)
+ETC_20260828_082422	[Lv.520] Arcanum of CON (Untradable)	[Lv.520] 체력의 비약(거래불가)
+ETC_20260828_082423	[Lv.520] Arcanum Box (Untradable)	[Lv.520] 비약 상자(거래불가)
+ETC_20260828_082424	When used, you can obtain 1 of the following items. {nl} - [Lv.520] Arcanum of STR (Untradable) x3 {nl} - [Lv.520] Arcanum of INT (Untradable) x3 {nl} - [Lv.520] Arcanum of CON (Untradable) x3	사용 시 아래의 아이템 중 1개를 획득할 수 있습니다.{nl} - [Lv.520] 힘의 비약(거래불가) 3개{nl} - [Lv.520] 지능의 비약(거래불가) 3개{nl} - [Lv.520] 체력의 비약(거래불가) 3개
+ETC_20260828_082425	[Lv.560] Goddess Ichor (Armor)	[Lv.560] 가디스 아이커(방어구)
+ETC_20260828_082426	You can engrave by Goddess Equipment Management window (Engrave -> Ichor), and change the random stat by engraving the Goddess Rank Armor with Lv.480 or above. This item is deleted when engraved.{nl} {nl}{@st47}{s15}{#33FF33}* Press ALT to check the maximum value of each stat.{/}{/}{/}{nl}{@st47}{s15}{#FF3333}* Only one of the stats applied can be reset. Resetting stat is only possible when it is an Ichor.{/}{/}{/}{nl} {nl} 1 {@st66d}{s15}[Lv.560] Goddess Ichor (Armor) Fragment{/}{/} is given when fragmented.	가디스 장비 관리창(각인 - 아이커)을 통해 각인할 수 있으며, Lv.480 이상 가디스 등급 방어구에 각인 부여하여 랜덤 옵션을 변경할 수 있습니다. 각인시 해당 아이템은 소멸됩니다.{nl} {nl}{@st47}{s15}{#33FF33}* 옵션 최대치를 보려면 ALT를 누르고 계십시오.{/}{/}{/}{nl}{@st47}{s15}{#FF3333}* 아이커 상태에서만 부여된 옵션 중 한 종류만 재설정이 가능합니다.{/}{/}{/}{nl} {nl} 파편화시에 1개의 {@st66d}{s15}[Lv.560] 가디스 아이커(방어구) 파편{/}{/}을 획득할 수 있습니다.
+ETC_20260828_082427	[Lv.560] Advanced Goddess Ichor (Armor)	[Lv.560] 상급 가디스 아이커(방어구)
+ETC_20260828_082428	You can engrave by Goddess Equipment Management window (Engrave -> Ichor), and change the random stat by engraving the Goddess Rank Armor with Lv.480 or above. This item is deleted when engraved.{nl} {nl}{@st47}{s15}{#33FF33}* Press ALT to check the maximum value of each stat.{/}{/}{/}{nl}{@st47}{s15}{#FF3333}* Only one of the stats applied can be reset. Resetting stat is only possible when it is an Ichor.{/}{/}{/}{nl} {nl} 20 {@st66d}{s15}[Lv.560] Goddess Ichor (Armor) Fragment{/}{/} is given when fragmented.	가디스 장비 관리창(각인 - 아이커)을 통해 각인할 수 있으며, Lv.480 이상 가디스 등급 방어구에 각인 부여하여 랜덤 옵션을 변경할 수 있습니다. 각인시 해당 아이템은 소멸됩니다.{nl} {nl}{@st47}{s15}{#33FF33}* 옵션 최대치를 보려면 ALT를 누르고 계십시오.{/}{/}{/}{nl}{@st47}{s15}{#FF3333}* 아이커 상태에서만 부여된 옵션 중 한 종류만 재설정이 가능합니다.{/}{/}{/}{nl} {nl} 파편화시에 20개의 {@st66d}{s15}[Lv.560] 가디스 아이커(방어구) 파편{/}{/}을 획득할 수 있습니다.
+ETC_20260828_082429	[Lv.560] Goddess Ichor (Armor) Fragment	[Lv.560] 가디스 아이커(방어구) 파편
+ETC_20260828_082430	Collect and use 7 to obtain 1 {@st66d}{s15}[Lv.560] Goddess Ichor (Armor){/}{/}. {@st66d}{s15}[Lv.560] Advanced Goddess Ichor (Armor){/}{/} can be obtained by a low chance. Right-click to use.	7개를 모아 사용하면 {@st66d}{s15}[Lv.560] 가디스 아이커(방어구){/}{/}, 낮은 확률로{@st66d}{s15}[Lv.560] 상급 가디스 아이커(방어구){/}{/}를 획득할 수 있습니다. 마우스 오른쪽 버튼 클릭으로 사용합니다.
+ETC_20260828_082431	[Lv.560] Goddess Ichor (Armor) Fragment (Untradable)	[Lv.560] 가디스 아이커(방어구) 파편(거래불가)
+ETC_20260828_082432	[Lv.560] Advanced Goddess Ichor (Armor) Fragment	[Lv.560] 상급 가디스 아이커(방어구) 파편
+ETC_20260828_082433	Use to obtain {@st66d}{s15}[Lv.560] Advanced Goddess Ichor (Armor){/}{/}. There is a low probability that the Grace stats can be granted on the 5th stats.{nl} Right-click to use.	사용하면 {@st66d}{s15}[Lv.560] 상급 가디스 아이커(방어구){/}{/}를 획득할 수 있습니다. 낮은 확률로 5번째에 은총 옵션이 부여될 수 있습니다.{nl} 마우스 오른쪽 버튼 클릭으로 사용합니다.
+ETC_20260828_082434	[Lv.560] Advanced Goddess Ichor (Armor) Fragment (Untradable)	[Lv.560] 상급 가디스 아이커(방어구) 파편(거래불가)
+ETC_20260828_082435	[Lv.560] Advanced Goddess Ichor (Armor) Fragment (Bound)	[Lv.560] 상급 가디스 아이커(방어구) 파편(귀속)
+ETC_20260828_082436	Use to obtain {@st66d}{s15}[Event][Lv.560] Advanced Goddess Ichor (Armor){/}{/}.There is a low probability that the Grace stats can be granted on the 5th stats.{nl} {nl}Created item {@st66d}{s15}{#FF1111}can not be fragmented.{/}{/}{/} - Right click to use.	사용하면 {@st66d}{s15}[이벤트][Lv.560] 상급 가디스 아이커(방어구){/}{/}를 획득할 수 있습니다. 낮은 확률로 5번째에 은총 옵션이 부여될 수 있습니다.{nl} {nl} 생성된 아이템은{@st66d}{s15}{#FF1111}파편화 할 수 없습니다.{/}{/}{/} - 마우스 오른쪽 버튼 클릭으로 사용합니다.
+ETC_20260828_082437	[Event][Lv.560] Advanced Goddess Ichor (Armor)	[이벤트] [Lv.560] 상급 가디스 아이커(방어구)
+ETC_20260828_082438	[Lv.560] Advanced Goddess Ichor (Armor) Fragment II	[Lv.560] 상급 가디스 아이커(방어구) 파편 II
+ETC_20260828_082439	Use to obtain {@st66b}{#a349a4}{ol}a guaranteed{/}{/}{/} at least one breakthrough stats applied to{@st66d}{s15}[Lv.560] Advanced Goddess Ichor (Armor){/}{/}. There is a low probability that the Grace stats can be granted on the 5th stats.{nl} Right-click to use.	사용하면 확정적으로 {@st66b}{#a349a4}{ol}최소 1개의 돌파{/}{/}{/} 수치가 부여된 {@st66d}{s15}[Lv.560] 상급 가디스 아이커(방어구){/}{/}를 획득할 수 있습니다. 낮은 확률로 5번째에 은총 옵션이 부여될 수 있습니다.{nl} 마우스 오른쪽 버튼 클릭으로 사용합니다.
+ETC_20260828_082440	[Lv.560] Advanced Goddess Ichor (Armor) Fragment III	[Lv.560] 상급 가디스 아이커(방어구) 파편 III
+ETC_20260828_082441	Use to obtain {@st66b}{#a349a4}{ol}a guaranteed{/}{/}{/} at least two breakthrough stats applied to{@st66d}{s15}[Lv.560] Advanced Goddess Ichor (Armor){/}{/}. There is a low probability that the Grace stats can be granted on the 5th stats.{nl} Right-click to use.	사용하면 확정적으로 {@st66b}{#a349a4}{ol}최소 2개의 돌파{/}{/}{/} 수치가 부여된 {@st66d}{s15}[Lv.560] 상급 가디스 아이커(방어구){/}{/}를 획득할 수 있습니다. 낮은 확률로 5번째에 은총 옵션이 부여될 수 있습니다.{nl} 마우스 오른쪽 버튼 클릭으로 사용합니다.
+ETC_20260828_082442	[Lv.560] Advanced Goddess Ichor (Armor) Fragment IV	[Lv.560] 상급 가디스 아이커(방어구) 파편 IV
+ETC_20260828_082443	Use to obtain {@st66b}{#a349a4}{ol}a guaranteed{/}{/}{/} at least three breakthrough stats applied to{@st66d}{s15}[Lv.560] Advanced Goddess Ichor (Armor){/}{/}. There is a low probability that the Grace stats can be granted on the 5th stats.{nl} Right-click to use.	사용하면 확정적으로 {@st66b}{#a349a4}{ol}최소 3개의 돌파{/}{/}{/} 수치가 부여된 {@st66d}{s15}[Lv.560] 상급 가디스 아이커(방어구){/}{/}를 획득할 수 있습니다. 낮은 확률로 5번째에 은총 옵션이 부여될 수 있습니다.{nl} 마우스 오른쪽 버튼 클릭으로 사용합니다.
+ETC_20260828_082444	[Lv.560] Advanced Goddess Ichor (Armor) Fragment II (Untradable)	[Lv.560] 상급 가디스 아이커(방어구) 파편 II(거래불가)
+ETC_20260828_082445	[Lv.560] Advanced Goddess Ichor (Armor) Fragment II (Bound)	[Lv.560] 상급 가디스 아이커(방어구) 파편 II(귀속)
+ETC_20260828_082446	Use to obtain {@st66b}{#a349a4}{ol}a guaranteed at least one breakthrough{/}{/}{/} stats applied to{@st66d}{s15}[Event][Lv.560] Advanced Goddess Ichor (Armor){/}{/}. There is a low probability that the Grace stats can be granted on the 5th stats.{nl} {nl} Obtained item {@st66d}{s15}{#FF1111}cannot be fragmentized.{/}{/}{/} - Right-click to use.	사용하면 확정적으로 {@st66b}{#a349a4}{ol}최소 1개의 돌파{/}{/}{/} 수치가 부여된 {@st66d}{s15}[이벤트][Lv.560] 상급 가디스 아이커(방어구){/}{/}를 획득할 수 있습니다. 낮은 확률로 5번째에 은총 옵션이 부여될 수 있습니다.{nl} {nl} 생성된 아이템은{@st66d}{s15}{#FF1111}파편화 할 수 없습니다.{/}{/}{/} - 마우스 오른쪽 버튼 클릭으로 사용합니다.
+ETC_20260828_082447	[Lv.560] Advanced Goddess Ichor (Armor) Fragment IIl (Untradable)	[Lv.560] 상급 가디스 아이커(방어구) 파편 III(거래불가)
+ETC_20260828_082448	[Lv.560] Goddess Ichor (Weapon)	[Lv.560] 가디스 아이커(무기)
+ETC_20260828_082449	You can engrave by Goddess Equipment Management window (Engrave -> Ichor), and change the random stat by engraving the Goddess Rank Weapon with Lv.480 or above. This item is deleted when engraved.{nl} {nl}{@st47}{s15}{#33FF33}* Press ALT to check the maximum value of each stat.{/}{/}{/}{nl}{@st47}{s15}{#FF3333}* Only one of the stats applied can be reset. Resetting stat is only possible when it is an Ichor.{/}{/}{/}{nl} {nl} 1 {@st66d}{s15}[Lv.560] Goddess Ichor (Weapon) Fragment{/}{/}is given when fragmented.	가디스 장비 관리창(각인 - 아이커)을 통해 각인할 수 있으며, Lv.480 이상 가디스 등급 무기에 각인 부여하여 랜덤 옵션을 변경할 수 있습니다. 각인시 해당 아이템은 소멸됩니다.{nl} {nl}{@st47}{s15}{#33FF33}* 옵션 최대치를 보려면 ALT를 누르고 계십시오.{/}{/}{/}{nl}{@st47}{s15}{#FF3333}* 아이커 상태에서만 부여된 옵션 중 한 종류만 재설정이 가능합니다.{/}{/}{/}{nl} {nl} 파편화시에 1개의 {@st66d}{s15}[Lv.560] 가디스 아이커(무기) 파편{/}{/}을 획득할 수 있습니다.
+ETC_20260828_082450	[Lv.560] Advanced Goddess Ichor (Weapon)	[Lv.560] 상급 가디스 아이커(무기)
+ETC_20260828_082451	You can engrave by Goddess Equipment Management window (Engrave -> Ichor), and change the random stat by engraving the Goddess Rank Weapon with Lv.480 or above. This item is deleted when engraved.{nl} {nl}{@st47}{s15}{#33FF33}* Press ALT to check the maximum value of each stat.{/}{/}{/}{nl}{@st47}{s15}{#FF3333}* Only one of the stats applied can be reset. Resetting stat is only possible when it is an Ichor.{/}{/}{/}{nl} {nl} 1 {@st66d}{s15}[Lv.560] Goddess Ichor (Weapon) Fragment{/}{/}is given when fragmented.	가디스 장비 관리창(각인 - 아이커)을 통해 각인할 수 있으며, Lv.480 이상 가디스 등급 무기에 각인 부여하여 랜덤 옵션을 변경할 수 있습니다. 각인시 해당 아이템은 소멸됩니다.{nl} {nl}{@st47}{s15}{#33FF33}* 옵션 최대치를 보려면 ALT를 누르고 계십시오.{/}{/}{/}{nl}{@st47}{s15}{#FF3333}* 아이커 상태에서만 부여된 옵션 중 한 종류만 재설정이 가능합니다.{/}{/}{/}{nl} {nl} 파편화시에 20개의 {@st66d}{s15}[Lv.560] 가디스 아이커(무기) 파편{/}{/}을 획득할 수 있습니다.
+ETC_20260828_082452	[Lv.560] Goddess Ichor (Weapon) Fragment	[Lv.560] 가디스 아이커(무기) 파편
+ETC_20260828_082453	Collect and use 7 to obtain 1 {@st66d}{s15}[Lv.560] Goddess Ichor (Weapon){/}{/}. {@st66d}{s15}[Lv.560] Advanced Goddess Ichor (Weapon){/}{/} can be obtained by a low chance. Right-click to use.	7개를 모아 사용하면 {@st66d}{s15}[Lv.560] 가디스 아이커(무기){/}{/}, 낮은 확률로{@st66d}{s15}[Lv.560] 상급 가디스 아이커(무기){/}{/}를 획득할 수 있습니다. 마우스 오른쪽 버튼 클릭으로 사용합니다.
+ETC_20260828_082454	[Lv.560] Goddess Ichor (Weapon) Fragment (Untradable)	[Lv.560] 가디스 아이커(무기) 파편(거래불가)
+ETC_20260828_082455	[Lv.560] Advanced Goddess Ichor (Weapon) Fragment	[Lv.560] 상급 가디스 아이커(무기) 파편
+ETC_20260828_082456	Use to obtain {@st66d}{s15}[Lv.560] Advanced Goddess Ichor (Weapon){/}{/}. There is a low probability that the Grace stats can be granted on the 5th stats.{nl} Right-click to use.	사용하면 {@st66d}{s15}[Lv.560] 상급 가디스 아이커(무기){/}{/}를 획득할 수 있습니다. 낮은 확률로 5번째에 은총 옵션이 부여될 수 있습니다.{nl} 마우스 오른쪽 버튼 클릭으로 사용합니다.
+ETC_20260828_082457	[Lv.560] Advanced Goddess Ichor (Weapon) Fragment (Untradable)	[Lv.560] 상급 가디스 아이커(무기) 파편(거래불가)
+ETC_20260828_082458	[Lv.560] Advanced Goddess Ichor (Weapon) Fragment (Bound)	[Lv.560] 상급 가디스 아이커(무기) 파편(귀속)
+ETC_20260828_082459	Use to obtain {@st66d}{s15}[Event][Lv.560] Advanced Goddess Ichor (Weapon){/}{/}.There is a low probability that the Grace stats can be granted on the 5th stats.{nl} {nl}Created item {@st66d}{s15}{#FF1111}can not be fragmented.{/}{/}{/} - Right click to use.	사용하면 {@st66d}{s15}[이벤트][Lv.560] 상급 가디스 아이커(무기){/}{/}를 획득할 수 있습니다. 낮은 확률로 5번째에 은총 옵션이 부여될 수 있습니다.{nl} {nl} 생성된 아이템은{@st66d}{s15}{#FF1111}파편화 할 수 없습니다.{/}{/}{/} - 마우스 오른쪽 버튼 클릭으로 사용합니다.
+ETC_20260828_082460	[Event][Lv.560] Advanced Goddess Ichor (Weapon)	[이벤트] [Lv.560] 상급 가디스 아이커(무기)
+ETC_20260828_082461	[Lv.560] Advanced Goddess Ichor (Weapon) Fragment II	[Lv.560] 상급 가디스 아이커(무기) 파편 II
+ETC_20260828_082462	Use to obtain {@st66b}{#a349a4}{ol}a guaranteed{/}{/}{/} at least one breakthrough stats applied to{@st66d}{s15}[Lv.560] Advanced Goddess Ichor (Weapon){/}{/}. There is a low probability that the Grace stats can be granted on the 5th stats.{nl} Right-click to use.	사용하면 확정적으로 {@st66b}{#a349a4}{ol}최소 1개의 돌파{/}{/}{/} 수치가 부여된 {@st66d}{s15}[Lv.560] 상급 가디스 아이커(무기){/}{/}를 획득할 수 있습니다. 낮은 확률로 5번째에 은총 옵션이 부여될 수 있습니다.{nl} 마우스 오른쪽 버튼 클릭으로 사용합니다.
+ETC_20260828_082463	[Lv.560] Advanced Goddess Ichor (Weapon) Fragment III	[Lv.560] 상급 가디스 아이커(무기) 파편 III
+ETC_20260828_082464	Use to obtain {@st66b}{#a349a4}{ol}a guaranteed{/}{/}{/} at least two breakthrough stats applied to{@st66d}{s15}[Lv.560] Advanced Goddess Ichor (Weapon){/}{/}. There is a low probability that the Grace stats can be granted on the 5th stats.{nl} Right-click to use.	사용하면 확정적으로 {@st66b}{#a349a4}{ol}최소 2개의 돌파{/}{/}{/} 수치가 부여된 {@st66d}{s15}[Lv.560] 상급 가디스 아이커(무기){/}{/}를 획득할 수 있습니다. 낮은 확률로 5번째에 은총 옵션이 부여될 수 있습니다.{nl} 마우스 오른쪽 버튼 클릭으로 사용합니다.
+ETC_20260828_082465	[Lv.560] Advanced Goddess Ichor (Weapon) Fragment IV	[Lv.560] 상급 가디스 아이커(무기) 파편 IV
+ETC_20260828_082466	Use to obtain {@st66b}{#a349a4}{ol}a guaranteed{/}{/}{/} at least three breakthrough stats applied to{@st66d}{s15}[Lv.560] Advanced Goddess Ichor (Weapon){/}{/}. There is a low probability that the Grace stats can be granted on the 5th stats.{nl} Right-click to use.	사용하면 확정적으로 {@st66b}{#a349a4}{ol}최소 3개의 돌파{/}{/}{/} 수치가 부여된 {@st66d}{s15}[Lv.560] 상급 가디스 아이커(무기){/}{/}를 획득할 수 있습니다. 낮은 확률로 5번째에 은총 옵션이 부여될 수 있습니다.{nl} 마우스 오른쪽 버튼 클릭으로 사용합니다.
+ETC_20260828_082467	[Lv.560] Advanced Goddess Ichor (Weapon) Fragment II (Untradable)	[Lv.560] 상급 가디스 아이커(무기) 파편 II(거래불가)
+ETC_20260828_082468	[Lv.560] Advanced Goddess Ichor (Weapon) Fragment II (Bound)	[Lv.560] 상급 가디스 아이커(무기) 파편 II(귀속)
+ETC_20260828_082469	Use to obtain {@st66b}{#a349a4}{ol}a guaranteed at least one breakthrough{/}{/}{/} stats applied to{@st66d}{s15}[Event][Lv.560] Advanced Goddess Ichor (Weapon){/}{/}. There is a low probability that the Grace stats can be granted on the 5th stats.{nl} {nl} Obtained item {@st66d}{s15}{#FF1111}cannot be fragmentized.{/}{/}{/} - Right-click to use.	사용하면 확정적으로 {@st66b}{#a349a4}{ol}최소 1개의 돌파{/}{/}{/} 수치가 부여된 {@st66d}{s15}[이벤트][Lv.560] 상급 가디스 아이커(무기){/}{/}를 획득할 수 있습니다. 낮은 확률로 5번째에 은총 옵션이 부여될 수 있습니다.{nl} {nl} 생성된 아이템은{@st66d}{s15}{#FF1111}파편화 할 수 없습니다.{/}{/}{/} - 마우스 오른쪽 버튼 클릭으로 사용합니다.
+ETC_20260828_082470	[Lv.560] Advanced Goddess Ichor (Weapon) Fragment IIl (Untradable)	[Lv.560] 상급 가디스 아이커(무기) 파편 III(거래불가)
+ETC_20260828_082471	[Event] Settling Support Box. When used, you can obtain the following rewards:	[이벤트] 정착 지원 상자 입니다. 사용시, 다음 보상을 획득할 수 있습니다.
+ETC_20260828_082472	Mount Voucher - Flame Steed	탈 것 등록증 - 화마
+ETC_20260828_082473	It is a Mount Voucher - Flame Steed	화마 탈 것 등록증입니다.
+ETC_20260828_082474	Memory of El Special Package	엘의 기억 특가 패키지
+ETC_20260828_082475	Use to obtain the following item.{nl} - Memory of El x5{nl} - [Exchange] Bright Enchant Scroll x5	사용 시 아래의 구성물을 획득할 수 있습니다.{nl} - 엘의 기억 5개{nl} - [리사이클] 영롱한 마법 부여 스크롤 5개
+ETC_20260828_082476	Use to obtain the equipment for Popo Boost only.{nl}{#ff0000}This item will be deleted after the maintenance on November 24th.{/}	사용 시 포포 부스트 전용 장비를 획득할 수 있습니다.{nl}{#ff0000}11월 24일 정기점검 시 삭제됩니다.{/}
+ETC_20260828_082477	[Lv.560] Aether Gem LV UP Scroll (+100)	[Lv.540] 에테르 젬 레벨업 스크롤(+100)
+ETC_20260828_082478	Special Class Unlock Voucher Selection Box #6	스페셜 클래스 해금권 선택상자 #6
+ETC_20260828_082479	Select and obtain one of the following items. Right-click to use.{nl}- Swordsman - Eskrimer Special Class Unlock Voucher(Untradable){nl}- Wizard - Kneller[W] Special Class Unlock Voucher(Untradable){nl}- Archer - Grimmark[A] Special Class Unlock Voucher(Untradable){nl}- Cleric - Kneller[C] Special Class Unlock Voucher(Untradable){nl}- Scout - Kneller[T] Special Class Unlock Voucher(Untradable){nl}- Mercenary Badges : 50,000 x3	마우스 우클릭으로 사용 가능하며, 사용 시 아래의 구성품 중 하나를 선택하여 획득할 수 있습니다.{nl} - 소드맨 계열 - 에스크리머 스페셜 클래스 해금권(거래불가){nl} - 위저드 계열 - 넬러[W] 스페셜 클래스 해금권(거래불가){nl} - 아처 계열 - 그림마크[A] 스페셜 클래스 해금권(거래불가){nl} - 클레릭 계열 - 넬러[C] 스페셜 클래스 해금권(거래불가){nl} - 스카우트 계열 - 넬러[T] 스페셜 클래스 해금권(거래불가){nl} - 용병단 증표 : 50,000 3개
+ETC_20260828_082480	Right-click to use, choose one of the following items from the list. {nl} - Special Class Unlock Voucher Selection Box #1{nl} - Special Class Unlock Voucher Selection Box #2{nl} - Special Class Unlock Voucher Selection Box #3{nl} - Special Class Unlock Voucher Selection Box #4{nl} - Special Class Unlock Voucher Selection Box #5{nl} - Special Class Unlock Voucher Selection Box #6	마우스 우클릭으로 사용 가능하며, 사용 시 아래의 구성품 중 하나를 선택하여 획득할 수 있습니다.{nl} - 스페셜 클래스 해금권 선택상자 #1{nl} - 스페셜 클래스 해금권 선택상자 #2{nl} - 스페셜 클래스 해금권 선택상자 #3{nl} - 스페셜 클래스 해금권 선택상자 #4{nl} - 스페셜 클래스 해금권 선택상자 #5{nl} - 스페셜 클래스 해금권 선택상자 #6
+ETC_20260828_082481	Archer - Executor Special Class Unlock Voucher Box	아처 계열 - 엑시큐터 스페셜 클래스 해금권 상자
+ETC_20260828_082482	2026 Leticia's Treasure Selection Box (September)	2026 레티샤의 선택 상자(09월)
+ETC_20260828_082483	Use to select and obtain 1 of the S rank items from the 2026 September Leticia's Secret Cube.	사용 시 2026 년 09 월 레티샤의 시크릿 큐브 S 등급 중 하나를 선택할 수 있습니다.
+ETC_20260828_082484	Sanctuary of Resonance: Zaura One Entry Voucher	공명의 성소: 자우라 1회 입장권
+ETC_20260828_082485	Increases 1 entry count of Sanctuary of Resonance: Zaura	공명의 성소: 자우라 입장 횟수를 1회 증가 시킵니다.
+ETC_20260828_082486	Sanctuary of Resonance: Zaura One Entry Voucher (Untradable)	공명의 성소: 자우라 1회 입장권(거래불가)
+ETC_20260828_082487	Sanctuary of Resonance: Zaura One Entry Voucher (7 Days)	공명의 성소: 자우라 1회 입장권(7일)
+ETC_20260828_082488	Increases 1 entry count of Sanctuary of Resonance: Zaura	공명의 성소: 자우라 입장 횟수를 1회 증가시킵니다.
+ETC_20260828_082489	Wings of False Radiance (Auto/Solo) One Entry Voucher	거짓된 광휘의 날개 (자동 매칭, 1인) 1회 입장권
+ETC_20260828_082490	Increases 1 entry count of Wings of False Radiance (Auto Match, Solo).	거짓된 광휘의 날개(자동 매칭, 1인) 입장 횟수를 1회 증가시킵니다.
+ETC_20260828_082491	Wings of False Radiance (Auto/Solo) One Entry Voucher (Untradable)	거짓된 광휘의 날개 (자동 매칭, 1인) 1회 입장권(거래불가)
+ETC_20260828_082492	Wings of False Radiance (Auto/Solo) One Entry Voucher (7 Days)	거짓된 광휘의 날개 (자동 매칭, 1인) 1회 입장권(7일)
+ETC_20260828_082493	Wings of False Radiance: Goddess One Entry Voucher	거짓된 광휘의 날개: 가디스 1회 입장권
+ETC_20260828_082494	Increases 1 entry count of [Wings of False Radiance: Goddess].{nl}{#ff0000}Caution! - It can only be used when the remaining entry count of Wings of False Radiance: Goddess is 0.	거짓된 광휘의 날개: 가디스 입장 횟수를 1회 증가 시킵니다.{nl}{#ff0000}주의! - 거짓된 광휘의 날개: 가디스 입장 가능 횟수가 0 인 경우에만 사용가능합니다.
+ETC_20260828_082495	Wings of Fallen Judgement (Auto/Solo) One Entry Voucher	타락한 심판의 날개 (자동 매칭, 1인) 1회 입장권
+ETC_20260828_082496	Increases 1 entry count of Wings of Fallen Judgement (Auto Match, Solo).	타락한 심판의 날개(자동 매칭, 1인) 입장 횟수를 1회 증가시킵니다.
+ETC_20260828_082497	Wings of Fallen Judgement (Auto/Solo) One Entry Voucher (Untradable)	타락한 심판의 날개 (자동 매칭, 1인) 1회 입장권(거래불가)
+ETC_20260828_082498	Wings of Fallen Judgement (Auto/Solo) One Entry Voucher (7 Days)	타락한 심판의 날개 (자동 매칭, 1인) 1회 입장권(7일)
+ETC_20260828_082499	Wings of Fallen Judgement: Goddess One Entry Voucher	타락한 심판의 날개: 가디스 1회 입장권
+ETC_20260828_082500	Increases 1 entry count of [Wings of Fallen Judgement: Goddess].{nl}{#ff0000}Caution! - It can only be used when the remaining entry count of Wings of Fallen Judgement: Goddess is 0.	타락한 심판의 날개: 가디스 입장 횟수를 1회 증가 시킵니다.{nl}{#ff0000}주의! - 타락한 심판의 날개: 가디스 입장 가능 횟수가 0 인 경우에만 사용가능합니다.
+ETC_20260828_082501	Wings of False Radiance: Goddess One Entry Voucher (Untradable)	거짓된 광휘의 날개: 가디스 1회 입장권(거래불가)
+ETC_20260828_082502	Wings of Fallen Judgement: Goddess One Entry Voucher (Untradable)	타락한 심판의 날개: 가디스 1회 입장권(거래불가)
+ETC_20260828_082503	[Lv2] Vaivora Vision - Dolor	[Lv2] 바이보라 비전 - 돌로르
+ETC_20260828_082504	[Lv3] Vaivora Vision - Dolor	[Lv3] 바이보라 비전 - 돌로르
+ETC_20260828_082505	[Lv4] Vaivora Vision - Dolor	[Lv4] 바이보라 비전 - 돌로르
+ETC_20260828_082506	[Saule] Belt of Insight 	[사울레] 통찰의 허리띠
+ETC_20260828_082507	{@st66d}{s15}One Group 1 ({img tooltip_attribute4}) stat and three group 2 ({img tooltip_attribute3}) stat will be applied.{/}{/} {nl} {nl}{@st66d}{s15}* Only one type of stats applied {@st47}{s15}{#FF3333} can be reset within the same group.{/}{/}{/} Unbound items will be{@st47}{s15}{#FF3333} bound to the team.{/}{/}{/} Items bound to the team can {@st47}{s15}{#FF3333}alter the stat{/}{/}{/}.{/}{/} {nl} {nl}{@st66d}{s15} [Saule] Belt of Insight Fragment{/}{/} x4 are obtained when made into a fragment.{nl}You can fragmentize from {@st66d}{s15}Pyromancer Master NPC{/}{/}.{nl}  {nl}{@st47}{s15}{#33FF33}* Keep pressing ALT to see the max. value of the stats.{/}{/}{/}	{@st66d}{s15}1개의 그룹1({img tooltip_attribute4}) 옵션과 3개의 그룹2({img tooltip_attribute3}) 옵션이 부여됩니다.{/}{/} {nl} {nl}{@st66d}{s15}* 부여된 옵션 중 한 종류만 {@st47}{s15}{#FF3333}같은 그룹 내 옵션으로 재설정{/}{/}{/}이 가능합니다. 이때 귀속되지 않은 아이템은 {@st47}{s15}{#FF3333}팀에 귀속{/}{/}{/}되게 됩니다. 귀속된 아이템은 {@st47}{s15}{#FF3333}옵션 연성{/}{/}{/}이 가능합니다.{/}{/} {nl} {nl}파편화시에 4개의 {@st66d}{s15}[사울레] 통찰의 허리띠 파편{/}{/}을 획득할 수 있습니다.{nl}파편화는 {@st66d}{s15}파이로맨서 마스터 NPC{/}{/}에게서 가능합니다.{nl}  {nl}{@st47}{s15}{#33FF33}* 옵션 최대치를 보려면 ALT를 누르고 계십시오.{/}{/}{/}
+ETC_20260828_082508	[Saule] Advanced Belt of Insight - Strike	[사울레] 상급 통찰의 허리띠 - 일격
+ETC_20260828_082509	Bound item can be {@st47}{s15}{#FF3333}transmuted{/}{/}{/}.{/}{/} {nl} {nl}When fragmenting, you can obtain 1 {@st66d}{s15}[Saule] Advanced Belt of Insight Fragment{/}{/}.{nl}Fragmentation is available from the {@st66d}{s15}Pyromancer Master NPC{/}{/}.	귀속된 아이템은 {@st47}{s15}{#FF3333}옵션 연성{/}{/}{/}이 가능합니다.{/}{/} {nl} {nl} 파편화시에 1개의 {@st66d}{s15}[사울레] 상급 통찰의 허리띠 파편{/}{/}을 획득할 수 있습니다.{nl}파편화는 {@st66d}{s15}파이로맨서 마스터 NPC{/}{/}에게서 가능합니다.
+ETC_20260828_082510	[Saule] Advanced Belt of Insight - Rage	[사울레] 상급 통찰의 허리띠 - 광기
+ETC_20260828_082511	[Saule] Advanced Belt of Insight - Ultimate	[사울레] 상급 통찰의 허리띠 - 필살
+ETC_20260828_082512	[Saule] Advanced Belt of Insight - Dawn	[사울레] 상급 통찰의 허리띠 - 여명
+ETC_20260828_082513	[Saule] Advanced Belt of Insight - Annihilation	[사울레] 상급 통찰의 허리띠 - 섬멸
+ETC_20260828_082514	[Saule] Advanced Belt of Insight - Radiance	[사울레] 상급 통찰의 허리띠 - 광명
+ETC_20260828_082515	[Saule] Advanced Belt of Insight - Invincible	[사울레] 상급 통찰의 허리띠 - 불패
+ETC_20260828_082516	[Saule] Advanced Belt of Insight - Graceful Moon	[사울레] 상급 통찰의 허리띠 - 혜월
+ETC_20260828_082517	[Saule] Advanced Belt of Insight - Protection	[사울레] 상급 통찰의 허리띠 - 수호
+ETC_20260828_082518	[Saule] Advanced Belt of Insight - Strike (Bound)	[사울레] 상급 통찰의 허리띠 - 일격(귀속)
+ETC_20260828_082519	[Saule] Advanced Belt of Insight - Rage (Bound)	[사울레] 상급 통찰의 허리띠 - 광기(귀속)
+ETC_20260828_082520	[Saule] Advanced Belt of Insight - Ultimate (Bound)	[사울레] 상급 통찰의 허리띠 - 필살(귀속)
+ETC_20260828_082521	[Saule] Advanced Belt of Insight- Dawn (Bound)	[사울레] 상급 통찰의 허리띠 - 여명(귀속)
+ETC_20260828_082522	[Saule] Advanced Belt of Insight - Annihilation (Bound)	[사울레] 상급 통찰의 허리띠 - 섬멸(귀속)
+ETC_20260828_082523	[Saule] Advanced Belt of Insight - Radiance (Bound)	[사울레] 상급 통찰의 허리띠 - 광명(귀속)
+ETC_20260828_082524	[Saule] Advanced Belt of Insight - Invincible (Bound)	[사울레] 상급 통찰의 허리띠 - 불패(귀속)
+ETC_20260828_082525	[Saule] Advanced Belt of Insight - Graceful Moon (Bound)	[사울레] 상급 통찰의 허리띠 - 혜월(귀속)
+ETC_20260828_082526	[Saule] Advanced Belt of Insight - Protection (Bound)	[사울레] 상급 통찰의 허리띠 - 수호(귀속)
+ETC_20260828_082527	[Saule] Spaulder of Ferocity	[사울레] 맹렬의 어깨보호구
+ETC_20260828_082528	{@st66d}{s15}One Group 1 ({img tooltip_attribute4}) stat and three group 2 ({img tooltip_attribute3}) stat will be applied.{/}{/} {nl} {nl}{@st66d}{s15}* Only one type of stats applied {@st47}{s15}{#FF3333} can be reset within the same group.{/}{/}{/} Unbound items will be{@st47}{s15}{#FF3333} bound to the team.{/}{/}{/} Items bound to the team can {@st47}{s15}{#FF3333}alter the stat{/}{/}{/}.{/}{/} {nl} {nl}{@st66d}{s15} [Saule] Spaulder of Ferocity Fragment{/}{/} x4 are obtained when made into a fragment.{nl}You can fragmentize and alter stat from {@st66d}{s15}Pyromancer Master NPC{/}{/}.{nl}  {nl}{@st47}{s15}{#33FF33}* Keep pressing ALT to see the max. value of the stats.{/}{/}{/}	{@st66d}{s15}1개의 그룹1({img tooltip_attribute4}) 옵션과 3개의 그룹2({img tooltip_attribute3}) 옵션이 부여됩니다.{/}{/} {nl} {nl}{@st66d}{s15}* 부여된 옵션 중 한 종류만 {@st47}{s15}{#FF3333}같은 그룹 내 옵션으로 재설정{/}{/}{/}이 가능합니다. 이때 귀속되지 않은 아이템은 {@st47}{s15}{#FF3333}팀에 귀속{/}{/}{/}되게 됩니다. 귀속된 아이템은 {@st47}{s15}{#FF3333}옵션 연성{/}{/}{/}이 가능합니다.{/}{/} {nl} {nl}파편화시에 4개의 {@st66d}{s15}[사울레] 맹렬의 어깨보호구 파편{/}{/}을 획득할 수 있습니다. {nl}파편화 및 옵션 연성은 {@st66d}{s15}파이로맨서 마스터 NPC{/}{/}에게서 가능합니다.{nl}  {nl}{@st47}{s15}{#33FF33}* 옵션 최대치를 보려면 ALT를 누르고 계십시오.{/}{/}{/}
+ETC_20260828_082529	[Saule] Advanced Spaulder of Ferocity - Strike	[사울레] 상급 맹렬의 어깨보호구 - 일격
+ETC_20260828_082530	Bound item can be {@st47}{s15}{#FF3333}transmuted{/}{/}{/}.{/}{/} {nl} {nl}When fragmenting, you can obtain 1 {@st66d}{s15}[Saule] Advanced Spaulder of Ferocity Fragment{/}{/}.{nl}Fragmentation is available from the {@st66d}{s15}Pyromancer Master NPC{/}{/}.	귀속된 아이템은 {@st47}{s15}{#FF3333}옵션 연성{/}{/}{/}이 가능합니다.{/}{/} {nl} {nl} 파편화시에 1개의 {@st66d}{s15}[사울레] 상급 맹렬의 어깨보호구 파편{/}{/}을 획득할 수 있습니다. {nl}파편화는 {@st66d}{s15}파이로맨서 마스터 NPC{/}{/}에게서 가능합니다.
+ETC_20260828_082531	[Saule] Advanced Spaulder of Ferocity - Rage	[사울레] 상급 맹렬의 어깨보호구 - 광기
+ETC_20260828_082532	[Saule] Advanced Spaulder of Ferocity - Ultimate	[사울레] 상급 맹렬의 어깨보호구 - 필살
+ETC_20260828_082533	[Saule] Advanced Spaulder of Ferocity - Annihilation	[사울레] 상급 맹렬의 어깨보호구 - 섬멸
+ETC_20260828_082534	[Saule] Advanced Spaulder of Ferocity - Radiance	[사울레] 상급 맹렬의 어깨보호구 - 광명
+ETC_20260828_082535	[Saule] Advanced Spaulder of Ferocity - Invincible	[사울레] 상급 맹렬의 어깨보호구 - 불패
+ETC_20260828_082536	[Saule] Advanced Spaulder of Ferocity - Protection	[사울레] 상급 맹렬의 어깨보호구 - 수호
+ETC_20260828_082537	[Saule] Advanced Spaulder of Ferocity - Strike (Bound)	[사울레] 상급 맹렬의 어깨보호구 - 일격(귀속)
+ETC_20260828_082538	[Saule] Advanced Spaulder of Ferocity - Rage (Bound)	[사울레] 상급 맹렬의 어깨보호구 - 광기(귀속)
+ETC_20260828_082539	[Saule] Advanced Spaulder of Ferocity - Ultimate (Bound)	[사울레] 상급 맹렬의 어깨보호구 - 필살(귀속)
+ETC_20260828_082540	[Saule] Advanced Spaulder of Ferocity - Annihilation (Bound)	[사울레] 상급 맹렬의 어깨보호구 - 섬멸(귀속)
+ETC_20260828_082541	[Saule] Advanced Spaulder of Ferocity - Radiance (Bound)	[사울레] 상급 맹렬의 어깨보호구 - 광명(귀속)
+ETC_20260828_082542	[Saule] Advanced Spaulder of Ferocity - Invincible (Bound)	[사울레] 상급 맹렬의 어깨보호구 - 불패(귀속)
+ETC_20260828_082543	[Saule] Advanced Spaulder of Ferocity - Protection (Bound)	[사울레] 상급 맹렬의 어깨보호구 - 수호(귀속)
+ETC_20260828_082544	Dawn Sword	여명의 소드
+ETC_20260828_082545	{#0000ff}When equipping 8 [Lv.560] Goddess Armor{nl} - Damage {img green_up_arrow 16 16}50%{nl} - PVP Damage received decreases by {img green_up_arrow 16 16}20%{/}	{#0000ff}[Lv.560] 가디스 장비 8부위 장착 효과{nl} - 대미지 {img green_up_arrow 16 16}50%{nl} - PVP 피해 감소 {img green_up_arrow 16 16}20%{/}
+ETC_20260828_082546	Dawn Two-handed Sword	여명의 투 핸드 소드
+ETC_20260828_082547	Dawn Rod	여명의 로드
+ETC_20260828_082548	Dawn Bow	여명의 보우
+ETC_20260828_082549	Dawn Crossbow	여명의 크로스보우
+ETC_20260828_082550	Dawn Mace	여명의 메이스
+ETC_20260828_082551	Dawn Two-handed Mace	여명의 투 핸드 메이스
+ETC_20260828_082552	Dawn Shield	여명의 실드
+ETC_20260828_082553	{#0000ff}When equipped, minimum block probability increases by 30%. (When using a sub slot, only half is applied){nl} {nl} [Lv.560] Goddess equipment 8-piece set effect{nl} - Damage {img green_up_arrow 16 16}50%{nl} - PVP damage reduction {img green_up_arrow 16 16}20%{/}	{#0000ff}장착 시 최소 블럭 확률이 30% 증가합니다.(서브 슬롯 사용 시에는 절반만 적용){nl} {nl}[Lv.560] 가디스 장비 8부위 장착 효과{nl} - 대미지 {img green_up_arrow 16 16}50%{nl} - PVP 피해 감소 {img green_up_arrow 16 16}20%{/}
+ETC_20260828_082554	Dawn Spear	여명의 스피어
+ETC_20260828_082555	Dawn Pike	여명의 파이크
+ETC_20260828_082556	Dawn Dagger	여명의 대거
+ETC_20260828_082557	Dawn Staff	여명의 스태프
+ETC_20260828_082558	Dawn Pistol	여명의 피스톨
+ETC_20260828_082559	Dawn Rapier	여명의 레이피어
+ETC_20260828_082560	Dawn Cannon	여명의 캐논
+ETC_20260828_082561	Dawn Musket	여명의 머스킷
+ETC_20260828_082562	Dawn Trinket	여명의 트링킷
+ETC_20260828_082563	Dawn Robe	여명의 로브
+ETC_20260828_082564	Dawn Pants	여명의 팬츠
+ETC_20260828_082565	Dawn Boots	여명의 부츠
+ETC_20260828_082566	Dawn Gloves	여명의 글로브
+ETC_20260828_082567	Dawn Leather Armor	여명의 레더 아머
+ETC_20260828_082568	Dawn Leather Pants	여명의 레더 팬츠
+ETC_20260828_082569	Dawn Leather Boots	여명의 레더 부츠
+ETC_20260828_082570	Dawn Leather Gloves	여명의 레더 글로브
+ETC_20260828_082571	Dawn Plate Armor	여명의 플레이트 아머
+ETC_20260828_082572	Dawn Plate Pants	여명의 플레이트 팬츠
+ETC_20260828_082573	Dawn Greaves	여명의 그리브
+ETC_20260828_082574	Dawn Plate Gauntlet	여명의 플레이트 건틀릿
+ETC_20260828_082575	Fanaticus Costume	파나티쿠스 코스튬
+ETC_20260828_082576	Fanaticus Tailored Suit	파나티쿠스의 맞춤 수트입니다.
+ETC_20260828_082577	[Saule] Dio Two-handed Sword	[사울레] 디오 투 핸드 소드
+ETC_20260828_082578	[Saule] Thresh Two-handed Sword	[사울레] 트레시 투 핸드 소드
+ETC_20260828_082579	[Saule] Sestas Two-handed Sword	[사울레] 세스타스 투 핸드 소드
+ETC_20260828_082580	[Saule] Dratt Two-handed Sword	[사울레] 드라트 투 핸드 소드
+ETC_20260828_082581	[Saule] Aston Two-handed Sword	[사울레] 아스턴 투 핸드 소드
+ETC_20260828_082582	[Saule] Thresh Staff	[사울레] 트레시 스태프
+ETC_20260828_082583	[Saule] Sestas Staff	[사울레] 세스타스 스태프
+ETC_20260828_082584	[Saule] Dratt Staff	[사울레] 드라트 스태프
+ETC_20260828_082585	[Saule] Aston Staff	[사울레] 아스턴 스태프
+ETC_20260828_082586	[Saule] Tenet Staff	[사울레] 테넷 스태프
+ETC_20260828_082587	[Saule] Miner Hammer	[사울레] 마이너 해머
+ETC_20260828_082588	[Saule] Soldier's Iron Club	[사울레] 병사의 아이언 클럽
+ETC_20260828_082589	[Saule] Smith Mace	[사울레] 스미스 메이스
+ETC_20260828_082590	[Saule] Dio Shield	[사울레] 디오 실드
+ETC_20260828_082591	[Saule] Thresh Shield	[사울레] 트레시 실드
+ETC_20260828_082592	[Saule] Sestas Shield	[사울레] 세스타스 실드
+ETC_20260828_082593	[Saule] Lethena Bow	[사울레] 레테나 보우
+ETC_20260828_082594	[Saule] Strong Bow	[사울레] 스트롱 보우
+ETC_20260828_082595	[Saule] Soldier's Short Bow	[사울레] 병사의 숏 보우
+ETC_20260828_082596	[Saule] Panto Rod	[사울레] 판토 로드
+ETC_20260828_082597	[Saule] Krag Rod	[사울레] 크래그 로드
+ETC_20260828_082598	[Saule] Pilgrim Rod	[사울레] 필그림 로드
+ETC_20260828_082599	[Saule] Istora Rod	[사울레] 이스토라 로드
+ETC_20260828_082600	[Saule] Magi Alter Rod	[사울레] 마기 알터 로드
+ETC_20260828_082601	[Saule] Artie Nald Rod	[사울레] 아티 날드 로드
+ETC_20260828_082602	[Saule] Schipell Meteor Rod	[사울레] 시펠 엘더 로드
+ETC_20260828_082603	[Saule] Panto Sword	[사울레] 판토 소드
+ETC_20260828_082604	[Saule] Aras' Falchion	[사울레] 아라스의 폴쳔
+ETC_20260828_082605	[Saule] Smith Sword	[사울레] 스미스 소드
+ETC_20260828_082606	[Saule] Klavis Sword	[사울레] 클라비스 소드
+ETC_20260828_082607	[Saule] Pokubu Armor	[사울레] 포쿠부 아머
+ETC_20260828_082608	[Saule] Zalia Leather Armor	[사울레] 잘리아 레더 아머
+ETC_20260828_082609	[Saule] Aston Robe	[사울레] 아스턴 로브
+ETC_20260828_082610	[Saule] Aston Leather Armor	[사울레] 아스턴 레더 아머
+ETC_20260828_082611	[Saule] Aston Plate Armor	[사울레] 아스턴 플레이트 아머
+ETC_20260828_082612	[Saule] Devi Greaves	[사울레] 데비 로브
+ETC_20260828_082613	[Saule] Devi Leather Armor	[사울레] 데비 레더 아머
+ETC_20260828_082614	[Saule] Devi Plate Armor	[사울레] 데비 플레이트 아머
+ETC_20260828_082615	[Saule] Prima Greaves	[사울레] 프리마 로브
+ETC_20260828_082616	[Saule] Electra Necklace	[사울레] 일렉트라 네클리스
+ETC_20260828_082617	[Saule] Ledas Necklace	[사울레] 레다스 네클리스
+ETC_20260828_082618	[Saule] Fyrmes Necklace	[사울레] 피르메스 네클리스
+ETC_20260828_082619	[Saule] Predji Necklace	[사울레] 프레디 네클리스
+ETC_20260828_082620	[Saule] Zemej Necklace	[사울레] 제메이 네클리스
+ETC_20260828_082621	[Saule] Conqueror	[사울레] 퀀커러
+ETC_20260828_082622	[Saule] Petamion	[사울레] 페타미온
+ETC_20260828_082623	[Saule] Electus	[사울레] 일렉투스
+ETC_20260828_082624	[Saule] Saphie Necklace	[사울레] 사피에 네클리스
+ETC_20260828_082625	[Saule] Grooved Bangle	[사울레] 홈 파인 뱅글
+ETC_20260828_082626	[Saule] Rune Bracelet	[사울레] 룬 브레이슬릿
+ETC_20260828_082627	[Saule] Superior Rune Bracelet	[사울레] 슈페리어 룬 브레이슬릿
+ETC_20260828_082628	[Saule] Star Bracelet	[사울레] 스타 브레이슬릿
+ETC_20260828_082629	[Saule] Superior Star Bracelet	[사울레] 슈페리어 스타 브레이슬릿
+ETC_20260828_082630	[Saule] Gem Bracelet	[사울레] 젬 브레이슬릿
+ETC_20260828_082631	[Saule] Superior Gem Bracelet	[사울레] 슈페리어 젬 브레이슬릿
+ETC_20260828_082632	[Saule] Broken Anti-Dark Property Bracelet	[사울레] 망가진 안티 다크 브레이슬릿
+ETC_20260828_082633	[Saule] Broken Anti-Cold Property Bracelet	[사울레] 망가진 안티 콜드 브레이슬릿
+ETC_20260828_082634	El's Costume (Male)	엘의 코스튬 (남)
+ETC_20260828_082635	An outfit that reimagines El's costume into a sleek uniform style tailored for male characters.{nl}It retains El's iconic features, including the red tie and asymmetrical long boots.	엘의 코스튬을 남성 체형에 맞춰 세련된 제복 스타일로 재구현한 의상입니다.{nl}붉은색 넥타이와 언밸런스 롱부츠 등 엘의 상징적인 포인트는 그대로 살렸습니다.
+ETC_20260828_082636	El's Costume (Female)	엘의 코스튬 (여)
+ETC_20260828_082637	The black-and-white asymmetrical design, paired with a red tie and leather straps, exudes a sophisticated ambiance.{nl}It faithfully recreates El's costume, complete with asymmetrical long boots featuring ornate gold accents.	흑백 비대칭 디자인에 붉은색 넥타이와 가죽 스트랩이 어우러져 한층 세련된 분위기를 자아냅니다.{nl}화려한 금장 장식의 언밸런스 롱부츠까지 엘의 코스튬을 완벽하게 재현했습니다.
+ETC_20260828_082638	El's Checkered Beret	엘의 체크 베레
+ETC_20260828_082639	A beret featuring an alternating black-and-white chessboard pattern.{nl}To El, traveling with you was mere amusement, and to her, you were nothing more than a foolish pawn on a chessboard.	흑백이 교차하는 체스판 무늬의 베레모입니다.{nl}엘에게 당신과의 동행은 그저 유흥이었고, 그녀에게 당신은 체스판 위의 멍청한 폰(Pawn)일 뿐이었습니다.
+ETC_20260828_082640	El's Cat Ears	엘의 고양이 귀
+ETC_20260828_082641	The small cat that guided you was actually El's disguise used to deceive others.	당신을 인도하던 작은 고양이는 사실 상대를 기만하기 위한 엘의 변장이었습니다.
+ETC_20260828_082642	El's Jet-Black Eyepatch	엘의 칠흑 안대
+ETC_20260828_082643	An eyepatch used to suppress El's wildly surging magic that grew beyond control.{nl}In the pitch-black darkness, one's senses become sharpened all the more.	감당할 수 없을 만큼 폭주하는 엘의 마력을 잠재우기 위해 사용했던 안대입니다.{nl}칠흑같은 어둠 속에서 감각은 오히려 더욱 날카롭게 벼려집니다.
+ETC_20260828_082644	El's Hair (Male)	엘의 헤어 (남)
+ETC_20260828_082645	Faithfully replicates El's locks, blending radiant gold with deep darkness.{nl}Immeasurable magic dwells within every single strand of her hair.	찬란한 금빛과 짙은 어둠이 섞인 엘의 머릿결을 그대로 재현했습니다.{nl}그녀의 머리카락 한 올 한 올에는 가늠할 수 없는 마력이 깃들어 있습니다.
+ETC_20260828_082646	El's Hair (Female)	엘의 헤어 (여)
+ETC_20260828_082647	El's Flame Sword	엘의 플레임 소드
+ETC_20260828_082648	El's Bloody Gold Wings	엘의 블러디 골드 윙
+ETC_20260828_082649	El's wings, which used to put others at ease with their radiant and holy golden light.{nl}The gruesome blood-red wings hidden beneath prove that she was deceiving and driving her opponents toward ruin from the very beginning.	찬란하고 성스러운 금빛으로 상대를 안심시키던 엘의 날개입니다.{nl}이면에 감추고 있던 참혹한 핏빛 날개는 그녀가 처음부터 상대를 기만하며 파멸로 몰아넣고 있었음을 증명합니다.
+ETC_20260828_082650	El's Twisted Halo	엘의 뒤틀린 광배
+ETC_20260828_082651	A fake halo that once shone benevolently as El claimed to protect the Goddess.{nl}Though it emits a holy light on the outside, the blood-red thorny vines binding it merely reveal El's heinous and twisted true nature.	엘이 여신을 수호하겠다며 자애롭게 빛나던 가짜 광배입니다.{nl}겉으로는 성스러운 빛을 내뿜지만 이를 얽매고 있는 핏빛 가시덩굴은 엘의 흉악하고 뒤틀린 본성을 보여줄 뿐입니다.
+ETC_20260828_082652	[Event] Festival Lucky Pouch	[이벤트] 대축제 복주머니
+ETC_20260828_082653	Lucky Pouch obtained from Fedimian Jar Investigation.{nl}When used, obtain one of the following items in certain probability.{nl}- Goddess Token(Saule) : 10,000{nl}- Mercenary Badge : 10,000- Advanced Enchant Scroll{nl}- [Lv.560] Enhance Aid{nl}- [Lv.560] Advanced Goddess Ichor (Weapon) Fragment II x2{nl}- [Lv.560] Advanced Goddess Ichor (Armor) Fragment II x2	항아리 대박 수색전에서 획득한 복주머니입니다.{nl}사용 시 정해진 확률에 따라 아래 아이템 중 1종을 획득합니다.{nl}- 여신의 증표(사울레) : 10,000{nl}- 용병단 증표 : 10,000{nl}- 고급 마법 부여 스크롤{nl}- [Lv.560] 강화 보조제(거래불가){nl}- [Lv.560] 상급 가디스 아이커(무기) 파편 II(귀속) 2개{nl}- [Lv.560] 상급 가디스 아이커(방어구) 파편 II(귀속) 2개
+ETC_20260828_082654	Exchange for various items from event NPC.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	이벤트 NPC를 통해 다양한 보상과 교환할 수 있습니다.{nl}{#ff0000}2026년 10월 1일 정기점검 시 일괄 삭제됩니다.{/}
+ETC_20260828_082655	Coin used to spin the Popo Roulette. {nl}{#ff0000}Will be automatically deleted at the end of the event period.{/} 	포포 룰렛에서 사용되는 주화입니다.{nl}{#ff0000}11월 24일 정기점검 시 삭제됩니다.{/}
+ETC_20260828_082656	[TOS] [Lv.560] Challenge Mode: [Lv.560] Division Singularity One Entry Voucher	[TOS] [Lv.560] 챌린지 모드 : [Lv.560] 분열 특이점 1회 입장권
+ETC_20260828_082657	Increases 1 entry count of Challenge Mode : [Lv.560] Division Singularity.{nl}{#ff0000}Caution! - It can only be used when the remaining entry count of Challenge Mode : [Lv.560] Division Singularity is 0.{nl}{#ff0000}Item will be automatically deleted 14 days after the purchased date.{/}	챌린지 모드 : [Lv.560] 분열 특이점 입장 가능 횟수를 1회 증가시킵니다.{nl}{#ff0000}주의! - 챌린지 모드 : [Lv.560] 분열 특이점 입장 가능횟수가 0 인 경우에만 사용가능합니다.{nl}{#ff0000}구매 후 14일이 지나면 아이템이 삭제됩니다.{/}
+ETC_20260828_082658	[TOS] [Lv.560] Challenge Mode One Entry Voucher 	[TOS] [Lv.560] 챌린지 모드 1회 입장권
+ETC_20260828_082659	Use to allow one extra entry in [Lv.560] Challenge Mode.{nl}{#ff0000}Item will be automatically deleted 14 days after the purchased date.{/}	[Lv.560] 챌린지 모드 입장 횟수를 1회 획득합니다.{nl}{#ff0000}구매 후 14일이 지나면 아이템이 삭제됩니다.{/}
+ETC_20260828_082660	Fanatic Blaze Gem	파나틱 블레이즈 젬
+ETC_20260828_082661	Fulminatio Gem	풀미나티오 젬
+ETC_20260828_082662	Blind Chase Gem	블라인드 체이스 젬
+ETC_20260828_082663	Compassio Gem	콤파시오 젬
+ETC_20260828_082664	Martyrdom Gem	마티어돔 젬
+ETC_20260828_082665	Divine Fanaticism	디바인 파나티시즘 젬
+ETC_20260828_082666	Ruin Cleave Gem[A]	루인 클리브 젬[A]
+ETC_20260828_082667	Phantom Charge Gem[A]	팬텀 차지 젬[A]
+ETC_20260828_082668	Grim Shackle Gem[A]	그림 섀클 젬[A]
+ETC_20260828_082669	Death Sentence Gem[A]	데스 센텐스 젬[A]
+ETC_20260828_082670	Abyssal Flurry Gem[A]	어비셜 플러리 젬[A]
+ETC_20260828_082671	Abyssal Oculus Gem[A]	어비셜 오큘러스 젬[A]
+ETC_20260828_082672	[Lv.560] Aether Gem - STR	[Lv.560] 에테르 젬 - 힘
+ETC_20260828_082673	It can be enhanced up to level 270.	최대 270레벨까지 강화할 수 있습니다.
+ETC_20260828_082674	[Lv.560] Aether Gem - INT	[Lv.560] 에테르 젬 - 지능
+ETC_20260828_082675	[Lv.560] Aether Gem - DEX	[Lv.560] 에테르 젬 - 민첩
+ETC_20260828_082676	[Lv.560] Aether Gem - SPR	[Lv.560] 에테르 젬 - 정신
+ETC_20260828_082677	[Lv.560] Aether Gem - CON	[Lv.560] 에테르 젬 - 체력
+ETC_20260828_082678	Arts Reset Potion - Fanaticus	아츠 초기화 포션 - 파나티쿠스
+ETC_20260828_082679	Resets the Fanaticus Arts obtained by the character. 	캐릭터에 적용된 파나티쿠스 아츠를 초기화 합니다.
+ETC_20260828_082680	Arts Reset Potion - Fanaticus (1 Day)	아츠 초기화 포션 - 파나티쿠스 (1일)
+ETC_20260828_082681	Arts Reset Potion - Executor[A]	아츠 초기화 포션 - 엑시큐터[A]
+ETC_20260828_082682	Resets the Executor[A] Arts obtained by the character. 	캐릭터에 적용된 엑시큐터[A] 아츠를 초기화 합니다.
+ETC_20260828_082683	Arts Reset Potion - Executor[A] (1 Day)	아츠 초기화 포션 - 엑시큐터[A] (1일)
+ETC_20260828_082684	Use to unlock the Premium Rewards of the Popo Boost Event.{nl}{#FF0000}If redeemed after the Popo Boost event ends, you will receive the following rewards{/}{nl}- Emote Plus Package: El Ⅱ x1{nl} - Class Unlock Achievement Selection Box x1{nl} - Friendship Token x8{nl} - [Lv.540] Aether Gem Socket Key (Untradable) x4{nl} - [Lv.540] Aether Gem Fragment x4{nl} - [Lv.540] Aether Gem LV UP Scroll (+100) x4{nl}{#FF0000}※  Popo Boost Event End Date: During the scheduled maintenance on November 24, 2026{/}	사용 시 포포 부스트 이벤트의 프리미엄 보상이 해금됩니다.{nl}{#FF0000}포포 부스트 이벤트가 종료된 이후에 사용 시, 아래의 보상이 지급됩니다.{/}{nl}- 이모티콘 플러스 패키지 : 엘Ⅱ x1{nl} - 클래스 해금 업적 선택 상자 x1{nl} - 우정의 증표 8개{nl} - [Lv.540] 에테르 젬 소켓 열쇠(거래불가) x4{nl} - [Lv.540] 에테르 젬 파편 x4{nl} - [Lv.540] 에테르 젬 레벨업 스크롤(+100) x4{nl}{#FF0000}※ 포포 부스트 이벤트 종료일: 2026년 11월 24일(화) 정기점검 시{/}
+ETC_20260828_082685	Emote Plus Package: El Ⅱ	이모티콘 플러스 패키지 : 엘Ⅱ
+ETC_20260828_082686	You can add the chat emotes below to quick slots.  Right-click to use.{nl}{img emoticonItem_2609_191 50 50}{img emoticonItem_2609_192 50 50}	아래와 같은 채팅 이모티콘을 등록할 수 있습니다.  마우스 오른쪽 클릭으로 사용합니다.{nl}{img emoticonItem_2609_191 50 50}{img emoticonItem_2609_192 50 50}
+ETC_20260828_082687	Archer - Executor[A] Special Class Unlock Voucher	아처 계열 - 엑시큐터[A] 스페셜 클래스 해금권
+ETC_20260828_082688	Use to unlock the Archer - Executor class.{nl} Right-click to use.	사용 시 아처 계열 - 엑시큐터 클래스를 선택할 수 있습니다.{nl}마우스 오른쪽 클릭으로 사용합니다.
+ETC_20260828_082689	Archer - Executor[A] Special Class Unlock Voucher (Untradable)	아처 계열 - 엑시큐터[A] 스페셜 클래스 해금권(거래불가)
+ETC_20260828_082690	Cleric - Fanaticus Special Class Unlock Voucher	클레릭 계열 - 파나티쿠스 스페셜 클래스 해금권
+ETC_20260828_082691	Use to unlock the Cleric- Fanaticus class.{nl}Right-click to use. 	사용 시 클레릭 계열 - 파나티쿠스 클래스를 선택할 수 있습니다.{nl}마우스 오른쪽 클릭으로 사용합니다.
+ETC_20260828_082692	Cleric - Fanaticus Special Class Unlock Voucher (Untradable)	클레릭 계열 - 파나티쿠스 스페셜 클래스 해금권(거래불가)
+ETC_20260828_082693	Executor[A]	엑시큐터[A]
+ETC_20260828_082694	{#ff0000}[Requires Special Class Unlock]{/}{nl}{/}{nl}Fanaticus is a melee physical class that boosts firepower at the cost of their own blood.{nl}Wreathed in the flames and lightning of fanaticism, they burn HP to fight, unleashing everything upon reaching [Ecstasy]. (Cannot advance simultaneously with the Zealot class)	{#ff0000}[스페셜 클래스 해금 필요]{/}{nl}{/}{nl}파나티쿠스는 자신의 피를 대가로 화력을 끌어올리는 근접 물리 딜러 클래스입니다.{nl}몸에 광신의 불꽃과 번개를 두른 채 체력을 태워 싸우며, [황홀]에 이르러 모든 것을 쏟아붓는 광신자입니다. (질럿 클래스와 동시 전직 불가)
+ETC_20260828_082695	Revenge Hauberk	리벤지 하우벅
+ETC_20260828_082696	Sweet Gothic Nebulas	스위트 고딕 네뷸라스
+ETC_20260828_082697	Scaleburn Velcoffer	스케일번 벨코퍼
+ETC_20260828_082698	ep18 Cemetery	ep18 묘지
+ETC_20260828_082699	Dragonkin Egg	용족의 알
+ETC_20260828_082700	Class Advancement Complete	클래스 전직 완료
+ETC_20260828_082701	In Tree of Savior, you can play up to 3 classes with a single character.{nl}Use Class EXP Cards in your inventory and click the [Class Advancement Information] icon at the bottom right to advance classes.{nl}{nl}※ You can also change an already selected class to another class in the [Class Advancement Infomation] window.{nl}※ If a character is not at the maximum level, class change points will not be consumed when changing classes.	트리 오브 세이비어는 1개의 캐릭터로 3개의 클래스를 플레이할 수 있습니다.{nl}인벤토리에서 클래스 경험치 카드를 사용하고, 오른쪽 하단의 [전직 정보] 아이콘을 눌러 전직을 해보세요.{nl}{nl}※ 이미 선택한 클래스를 다른 클래스로 변경하는 경우에도 [전직 정보] 창에서 변경이 가능합니다.{nl}※ 최대 레벨이 아닌 캐릭터는 클래스 변경 시, 클래스 변경 포인트가 소모되지 않습니다.
+ETC_20260828_082702	In order to participate in raid content, you must have 100% attribution achievement rate.{nl}The attribution achievement rate will increase when you raise the attribution level in the Skills and attribution (F3) window.{nl}{nl}※ The attribution achievement rate can be checked in the Character Information (F1) window.	레이드 콘텐츠에 참여하기 위해서는 특성 달성률을 100%로 맞춰야 합니다.{nl}스킬과 특성(F3) 창에서 특성 레벨을 올리면 특성 달성률이 올라갑니다.{nl}{nl}※ 특성 달성률은 캐릭터 정보(F1) 창에서 확인할 수 있습니다.
+ETC_20260828_082703	Goddess Raid: Silent Forest - Belliora Clear	가디스 레이드: 침묵의 숲 - 벨리오라 클리어
+ETC_20260828_082704	In order to obtain the reinforcement materials for Onyx Fang Armor, you must clear the Silent Forest - Belliora Raid.{nl}You can participate in this content through the Contents Status Board (F10).{nl}{nl}{#ffff00}※ Contents Status Board (F10) - Raid - Goddess: Silent Forest - Belliora{/}	검은 독니의 방어구의 강화 재료를 획득하기 위해서는 침묵의 숲 - 벨리오라 레이드를 클리어해야 합니다.{nl}콘텐츠 현황판(F10)을 통해 해당 콘텐츠에 참여할 수 있습니다.{nl}{nl}{#ffff00}※ 콘텐츠 현황판(F10) - 레이드 - 가디스: 침묵의 숲 - 벨리오라{/}
+ETC_20260828_082705	Goddess Raid: Silent Forest - Laimara Clear	가디스 레이드: 침묵의 숲 - 라이마라 클리어
+ETC_20260828_082706	In order to obtain the reinforcement materials for Onyx Fang Weapon, you must clear the Silent Forest - Laimara Raid.{nl}You can participate in this content through the Contents Status Board (F10).{nl}{nl}{#ffff00}※ Contents Status Board (F10) - Raid - Goddess: Silent Forest - Laimara{/}	검은 독니의 무기의 강화 재료를 획득하기 위해서는 침묵의 숲 - 라이마라 레이드를 클리어해야 합니다.{nl}콘텐츠 현황판(F10)을 통해 해당 콘텐츠에 참여할 수 있습니다.{nl}{nl}{#ffff00}※ 콘텐츠 현황판(F10) - 레이드 - 가디스: 침묵의 숲 - 라이마라{/}
+ETC_20260828_082707	In order to obtain the reinforcement materials for the Kalentis accessory, you must clear the Brutal Ledania Raid. {nl}You can participate in the content through the Contents Status Board (F10). {nl}{nl}{#ffff00}※ Contents Status Board (F10) - Raid - Goddess: Brutal Ledania{/}	칼렌티스 액세서리의 강화 재료를 획득하기 위해서는 잔혹한 레다니아 레이드를 클리어해야 합니다.{nl}콘텐츠 현황판(F10)을 통해 해당 콘텐츠에 참여할 수 있습니다.{nl}{nl}{#ffff00}※ 콘텐츠 현황판(F10) - 레이드 - 가디스: 잔혹한 레다니아{/}
+ETC_20260828_082708	In order to inherit Popo Boost Seasonal equipment, the equipment must be reinforced above 20.{nl} Popo Boost Seasonal equipment reinforcement can be done through the Goddess equipment management UI.{nl}{nl}{#ffff00}※ Only Popo Boost Equipment is possible.{nl}※ Inventory (F2) - Goddess equipment management icon - Forge{/}	포포부스트 시즌 장비를 계승하기 위해서는 장비의 강화 수치가 20강 이상이어야 합니다.{nl}포포부스트 시즌 장비 강화는 가디스 장비 관리 UI에서 진행할 수 있습니다.{nl}{nl}{#ffff00}※ 포포부스트 시즌 장비만 가능합니다.{nl}※ 인벤토리(F2) - 가디스 장비 관리 아이콘 - 재련{/}
+ETC_20260828_082709	You may success Popo Boost Seasonal equipments reinforced above 20.{nl}Popo Boost Seasonal equipment succession can be done through the Goddess equipment Management UI.{nl}{nl}{#ffff00}※ Only Popo Boost Equipment is possible.{nl}※ Inventory(F2) - Goddess equipment management icon - Succession{/}	20강을 달성한 포포부스트 시즌 장비는 다음 장비로 계승할 수 있습니다.{nl}포포부스트 시즌 장비 계승은 가디스 장비 관리 UI에서 진행할 수 있습니다.{nl}{nl}{#ffff00}※ 포포부스트 시즌 장비만 가능합니다.{nl}※ 인벤토리(F2) - 가디스 장비 관리 아이콘 - 계승{/}
+ETC_20260828_082710	Clear the quest "What Giltine Left Behind" and obtain Giltine's Crown of Thorns. {nl}Giltine's Crown of Thorns can be equipped with the relic of the Demon Goddess Giltine to unleash powerful forces. {nl}{nl}{#ffff00}※ Go to Laima's Sanctuary Map - Talk to Laima NPC{/}	"길티네가 남긴 것" 퀘스트를 클리어하고 길티네의 면류관을 획득해 보세요.{nl}길티네의 면류관은 마신 길티네의 성물로 장착하여 강력한 힘을 발휘할 수 있습니다.{nl}{nl}{#ffff00}※ 라이마의 성소 맵으로 이동 - 라이마 NPC와 대화{/}
+ETC_20260828_082711	[Lv.540] Onyx Fang Armor	[Lv.540] 검은 독니의 방어구
+ETC_20260828_082712	Success Armor{nl}- 1 Armor Succession Complete{nl} {nl}---------------------------------{nl} {nl}Recommended Content{nl} - Goddess Raid: Silent Forest - Belliora{nl} {nl}Content Entry Conditions{nl} - Solo : Gear Score 30,500 or above{nl} - Auto Match: Gear Score 33,300 or above{nl} - Common: Attribution Achievement Rate 100%	방어구 계승하기{nl} - 방어구 1부위 계승 완료{nl} {nl}--------------------------------------------------------{nl} {nl}추천 콘텐츠{nl} - 가디스 레이드: 침묵의 숲 - 벨리오라{nl} {nl}콘텐츠 입장조건{nl} - 1인 : 기어스코어 30,500 이상{nl} - 자동매칭 : 기어스코어 33,000 이상{nl} - 공통 : 특성 달성률 100%
+ETC_20260828_082713	Success Armor{nl}- 4 Armor Succession Complete{nl} {nl}---------------------------------{nl} {nl}Recommended Content{nl} - Goddess Raid: Silent Forest - Belliora{nl} {nl}Content Entry Conditions{nl} - Solo : Gear Score 30,500 or above{nl} - Auto Match: Gear Score 33,300 or above{nl} - Common: Attribution Achievement Rate 100%	방어구 계승하기{nl} - 방어구 4부위 모두 계승 완료{nl} {nl}--------------------------------------------------------{nl} {nl}추천 콘텐츠{nl} - 가디스 레이드: 침묵의 숲 - 벨리오라{nl} {nl}콘텐츠 입장조건{nl} - 1인 : 기어스코어 30,500 이상{nl} - 자동매칭 : 기어스코어 33,000 이상{nl} - 공통 : 특성 달성률 100%
+ETC_20260828_082714	[Lv.540] Onyx Fang Weapon	[Lv.540] 검은 독니의 무기
+ETC_20260828_082715	Success Armor{nl}- 4 Weapon Succession Complete{nl} {nl}---------------------------------{nl} {nl}Recommended Content{nl} - Goddess Raid: Silent Forest - Laimara{nl} {nl}Content Entry Conditions{nl} - Solo : Gear Score 30,500 or above{nl} - Auto Match: Gear Score 33,300 or above{nl} - Common: Attribution Achievement Rate 100%	무기 계승하기{nl} - 무기 4부위 모두 계승 완료{nl} {nl}--------------------------------------------------------{nl} {nl}추천 콘텐츠{nl} - 가디스 레이드: 침묵의 숲 - 라이마라{nl} {nl}콘텐츠 입장조건{nl} - 1인 : 기어스코어 30,500 이상{nl} - 자동매칭 : 기어스코어 33,000 이상{nl} - 공통 : 특성 달성률 100%
+ETC_20260828_082716	[Lv.530] Kalentis Accessory	[Lv.530] 칼렌티스 액세서리
+ETC_20260828_082717	Success Accessories{nl} - 3 Accessory Part Succession Complete{nl} {nl}----------------------------------{nl} {nl}Recommended Content{nl} - Goddess Raid: Brutal Ledania{nl}{nl}Content Entry Conditions{nl} - Solo: Gear Score 28,500 or above{nl} - Auto Match: Gear Score 30,000 or above{nl} - Common: 100% Attribution Achievement Rate	액세서리 계승하기{nl} - 액세서리 3부위 모두 계승 완료{nl} {nl}--------------------------------------------------------{nl} {nl}추천 콘텐츠{nl} - 가디스 레이드: 잔혹한 레다니아{nl} {nl}콘텐츠 입장조건{nl} - 1인 : 기어스코어 28,500 이상{nl} - 자동매칭 : 기어스코어 30,000 이상{nl} - 공통 : 특성 달성률 100%
+ETC_20260828_082718	[2026] September Attendance Check Rewards	[2026] 9월 출석 보상
+ETC_20260828_082719	[2026] October Attendance Check Rewards	[2026] 10월 출석 보상
+ETC_20260828_082720	[2026] November Attendance Check Rewards	[2026] 11월 출석 보상
+ETC_20260828_082721	[2026] December Attendance Check Rewards	[2026] 12월 출석 보상
+ETC_20260828_082722	[2027] January Attendance Check Rewards	[2027] 1월 출석 보상
+ETC_20260828_082723	[2027] February Attendance Check Rewards	[2027] 2월 출석 보상
+ETC_20260828_082724	[2027] March Attendance Check Rewards	[2027] 3월 출석 보상
+ETC_20260828_082725	[2027] April Attendance Check Rewards	[2027] 4월 출석 보상
+ETC_20260828_082726	[2027] May Attendance Check Rewards	[2027] 5월 출석 보상
+ETC_20260828_082727	[2027] June Attendance Check Rewards	[2027] 6월 출석 보상
+ETC_20260828_082728	[2027] July Attendance Check Rewards	[2027] 7월 출석 보상
+ETC_20260828_082729	[2027] August Attendance Check Rewards	[2027] 8월 출석 보상
+ETC_20260828_082730	[2026] September Max Level Special Attendance	[2026] 만랩 특별 출석부 9월
+ETC_20260828_082731	[2026] October Max Level Special Attendance	[2026] 만랩 특별 출석부 10월
+ETC_20260828_082732	[2026] November Max Level Special Attendance	[2026] 만랩 특별 출석부 11월
+ETC_20260828_082733	[2026] December Max Level Special Attendance 	[2026] 만랩 특별 출석부 12월
+ETC_20260828_082734	[2027] January Max Level Special Attendance	[2027] 만랩 특별 출석부 1월
+ETC_20260828_082735	[2027] February Max Level Special Attendance	[2027] 만랩 특별 출석부 2월
+ETC_20260828_082736	[2027] March Max Level Special Attendance	[2027] 만랩 특별 출석부 3월
+ETC_20260828_082737	[2027] April Max Level Special Attendance	[2027] 만랩 특별 출석부 4월
+ETC_20260828_082738	[2027] May Max Level Special Attendance	[2027] 만랩 특별 출석부 5월
+ETC_20260828_082739	[2027] June Max Level Special Attendance	[2027] 만랩 특별 출석부 6월
+ETC_20260828_082740	[2027] July Max Level Special Attendance	[2027] 만랩 특별 출석부 7월
+ETC_20260828_082741	[2027] August Max Level Special Attendance	[2027] 만랩 특별 출석부 8월
+ETC_20260828_082742	Inspect Runestone	문양석 살펴보기
+ETC_20260828_082743	Defeat El	엘 처치
+ETC_20260828_082744	Resonance Skill slots	공명 스킬 슬롯 갯수
+ETC_20260828_082745	Chariot: Resonance	체리엇: 레조넌스
+ETC_20260828_082746	Generates a number of flame pillars equal to the enhancement stage at the designated location. The flame pillars converge at the center and then explode.{nl}[Zmei Specialization]{nl}Grants Burn removal, Burn immunity, a party cleansing zone, and increased damage against Zmei's main body based on the enhancement stage.	지정한 위치에 강화 단계와 같은 수의 화염 기둥을 생성합니다. 화염 기둥은 중앙으로 수렴한 뒤 폭발합니다.{nl}[즈메이 특화]{nl}강화 단계에 따라 화상 제거, 화상 면역, 파티 정화 영역 및 즈메이 본체 피해 증가 효과를 부여합니다.
+ETC_20260828_082747	Total Skill Factor #{SkillFactor}#% x 10 x #{CaptionRatio}#{nl}flame pillar damage 70% / Center Convergence Explosion Damage 30%	총 스킬 계수 #{SkillFactor}#% x 10 x #{CaptionRatio}#{nl}불기둥 피해 70% / 중앙 수렴 폭발 피해 30%
+ETC_20260828_082748	Fanatic Blaze Skill Level + 1	파나틱 블레이즈 스킬 레벨 + 1
+ETC_20260828_082749	OptDesc/Fanatic Blaze Skill Level + 1	OptDesc/파나틱 블레이즈 스킬 레벨 + 1
+ETC_20260828_082750	Fulminatio Skill Level + 1	풀미나티오 스킬 레벨 + 1
+ETC_20260828_082751	OptDesc/Fulminatio Skill Level + 1	OptDesc/풀미나티오 스킬 레벨 + 1
+ETC_20260828_082752	Blind Chase Skill Level + 1	블라인드 체이스 스킬 레벨 + 1
+ETC_20260828_082753	OptDesc/Blind Chase Skill Level + 1	OptDesc/블라인드 체이스 스킬 레벨 + 1
+ETC_20260828_082754	Compassio Skill Level + 1	콤파시오 스킬 레벨 + 1
+ETC_20260828_082755	OptDesc/Compassio Skill Level + 1	OptDesc/콤파시오 스킬 레벨 + 1
+ETC_20260828_082756	Martyrdom Skill Level + 1	마티어돔 스킬 레벨 + 1
+ETC_20260828_082757	OptDesc/Martyrdom Skill Level + 1	OptDesc/마티어돔 스킬 레벨 + 1
+ETC_20260828_082758	Divine Fanaticism Skill Level + 1	디바인 파나티시즘 스킬 레벨 + 1
+ETC_20260828_082759	OptDesc/Divine Fanaticism Skill Level + 1	OptDesc/디바인 파나티시즘 스킬 레벨 + 1
+ETC_20260828_082760	Ruin Cleave[A] Skill Level +1	루인 클리브[A] 스킬 레벨 + 1
+ETC_20260828_082761	OptDesc/Ruin Cleave[A] Skill Level + 1	OptDesc/루인 클리브[A] 스킬 레벨 + 1
+ETC_20260828_082762	Phantom Charge[A] Skill Level +1	팬텀 차지[A] 스킬 레벨 + 1
+ETC_20260828_082763	OptDesc/Phantom Charge[A] Skill Level + 1	OptDesc/팬텀 차지[A] 스킬 레벨 + 1
+ETC_20260828_082764	Grim Shackle[A] Skill Level +1	그림 섀클[A] 스킬 레벨 + 1
+ETC_20260828_082765	OptDesc/Grim Shackle[A] Skill Level +1	OptDesc/그림 섀클[A] 스킬 레벨 + 1
+ETC_20260828_082766	Death Sentence[A] Skill Level + 1	데스 센텐스[A] 스킬 레벨 + 1
+ETC_20260828_082767	OptDesc/Death Sentence[A] Skill Level + 1	OptDesc/데스 센텐스[A] 스킬 레벨 + 1
+ETC_20260828_082768	Abyssal Flurry[A] Skill Level + 1	어비셜 플러리[A] 스킬 레벨 + 1
+ETC_20260828_082769	OptDesc/Abyssal Flurry[A] Skill Level + 1	OptDesc/어비셜 플러리[A] 스킬 레벨 + 1
+ETC_20260828_082770	Abyssal Oculus[A] Skill Level + 1	어비셜 오큘러스[A] 스킬 레벨 + 1
+ETC_20260828_082771	OptDesc/Abyssal Oculus[A] Skill Level + 1	OptDesc/어비셜 오큘러스[A] 스킬 레벨 + 1
+ETC_20260828_082772	[2026] New/Returning Saviors Settling Support	[2026] 신규/복귀 유저 정착 지원
+ETC_20260828_082773	Recipe - Sanctuary of Resonance: Zaura One Entry Voucher (Untradable)	제작서 - 공명의 성소: 자우라 1회 입장권(거래불가)
+ETC_20260828_082774	Wings of False Radiance (Auto/Solo) One Entry Voucher (Untradable)	거짓된 광휘의 날개(자동 매칭, 1인) 1회 입장권(거래불가)
+ETC_20260828_082775	Wings of Fallen Judgement (Auto/Solo) One Entry Voucher (Untradable)	타락한 심판의 날개(자동 매칭, 1인) 1회 입장권(거래불가)
+ETC_20260828_082776	Recipe - [Saule] Raid Portal Stone (x10)	제작서 - [사울레] 레이드 포탈 스톤 10개
+ETC_20260828_082777	Recipe - [Saule] Raid Portal Stone (Untradable) x10	제작서 - [사울레] 레이드 포탈 스톤(거래불가) 10개
+ETC_20260828_082778	World's Edge	세상의 경계
+ETC_20260828_082779	You can check Skill and Attribute about the character.	캐릭터의 스킬과 특성을 확인할 수 있습니다.
+ETC_20260828_082780	Goddess' Memoir	여신의 회상록
+ETC_20260828_082781	You can manage and enhance Resonance Skills acquired through the Sanctuary of Resonance.	공명의 성소로 획득할 수 있는 공명 스킬을 관리 및 강화 할 수 있습니다.
+ETC_20260828_082782	[Lv.540] Aether Gem LV UP Scroll	[Lv.540] 에테르젬 레벨업 스크롤
+ETC_20260828_082783	Goddess Token (Saule) Shop	여신의 증표(사울레) 상점
+ETC_20260828_082784	[Lv.560] Saule's Blessing Reset Scroll	[Lv.560] 사울레의 축복 초기화 스크롤
+ETC_20260828_082785	Goddess Token (Saule) : {count1} → {count2}	여신의 증표(사울레) : {count1} → {count2}
+ETC_20260828_082786	Kupole Preset Edit	큐폴 프리셋 편집
+ETC_20260828_082787	 - All Fanaticus Skill Level {img green_up_arrow 16 16}1{nl} {nl}{@st66d}{s15} - Compassio Final Damage {img green_up_arrow 16 16}50%{nl}{@st66d}{s15} - Martyrdom Final Damage {img green_up_arrow 16 16}50%	 - 파나티쿠스 모든 스킬 레벨 {img green_up_arrow 16 16}1{nl} {nl}{@st66d}{s15} - 콤파시오 최종 대미지 {img green_up_arrow 16 16}50%{nl}{@st66d}{s15} - 마티어돔 최종 대미지 {img green_up_arrow 16 16}50%
+ETC_20260828_082788	{nl} {nl}{@st66d}{s15}- Divine Fanaticism Final Damage{img green_up_arrow 16 16}100%	{nl} {nl}{@st66d}{s15}- 디바인 파나티시즘 최종 대미지{img green_up_arrow 16 16}100%
+ETC_20260828_082789	{@st47}{s15}{#FFFFEE}[Saule's Blessing]{/}{/}{/}	{@st47}{s15}{#FFFFEE}[사울레의 축복]{/}{/}{/}
+ETC_20260828_082790	{@st47}{s15}{#FFFFEE}The above options are only valid during the Saule season.{/}{/}{/}	{@st47}{s15}{#FFFFEE}위의 옵션은 사울레 시즌에서만 유효한 옵션입니다.{/}{/}{/}
+ETC_20260828_082791	Luminous Attribute Scroll - [Saule's Blessing]	빛나는 속성 주문서 - [사울레의 축복]
+ETC_20260828_082792	Skill Unlock	스킬 해금
+ETC_20260828_082793	Require Skill Unlock	스킬 해금 필요
+ETC_20260828_082794	{@st59}The rewards for this Episode will be released later.{nl}{#FFFF00}[Episode18-2]{/}The quest can be started at {#FFFF00}Laima's Sanctuary{/} by talking to {#FFFF00}NPC Laima{/}.	{@st59}해당 에피소드의 클리어 보상은 추후 공개될 예정입니다.{nl}{#FFFF00}[Episode18-2]{/}의 퀘스트 시작은 {#FFFF00}라이마의 성소{/}의 {#FFFF00}라이마 NPC{/}로부터 시작할 수 있습니다.
+ETC_20260828_082795	Set 1 (Main Weapon)	세트1(주무기)
+ETC_20260828_082796	Set 1 (Sub-Weapon)	세트1(보조무기)
+ETC_20260828_082797	Set 2 (Main Weapon)	세트2(주무기)
+ETC_20260828_082798	Set 2 (Sub-Weapon)	세트2(보조무기)
+ETC_20260828_082799	Unlocked Class	해금된 클래스
+ETC_20260828_082800	This difficulty level is not yet unlocked.	아직 해금되지 않은 난이도 단계입니다.
+ETC_20260828_082801	{Name} Open x 10	{Name} 열기 x 10
+ETC_20260828_082802	Sanctuary of Resonance Zaura	공명의 성소 자우라
+ETC_20260828_082803	[Memory of El] Theme Item Dismantle Shop	[엘의 기억] 테마 상품 분해 상점
+ETC_20260828_082804	[Memory of El Piece] Exchange Shop	[엘의 기억조각] 교환 상점
+ETC_20260828_082805	Tell that Kaldra that you're ready.	칼드라에게 준비됐다고 말한다.
+ETC_20260828_082806	Tell the Kaldra to wait a moment.	칼드라에게 잠시 기다리라고 한다.
+ETC_20260828_082807	{#ffff00}Upon joining the event, your character will jump to level 540 and all episode quests through 14-2 will be completed.{nl}The character will move in front of Inesa Hamondale in the town of Orsha.{nl}Some of the items will be retrieved besides PopoSpecial Equipment Box.{/}	{#ffff00}이벤트 참여 즉시 캐릭터가 540레벨로 점핑되며 14-2까지의 에피소드 퀘스트가 전부 클리어됩니다.{nl}해당 캐릭터는 오르샤 마을의 이네사 해먼데일 앞으로 이동합니다.{nl}포포 스페셜 장비 상자 이외의 일부 아이템은 회수됩니다.{/}
+ETC_20260828_082808	[Start] Push forward through the flames.	[시작] 불길을 뚫고 나아가겠다.
+ETC_20260828_082809	[Cancel] Not right now	[취소] 지금은 아닌것 같다.
+ETC_20260828_082810	Not enough enhancement materials.	강화 재료가 부족합니다.
+ETC_20260828_082811	Currently Max Level.	현재 최대 레벨입니다.
+ETC_20260828_082812	This skill is already registered.	이미 등록된 스킬입니다.
+ETC_20260828_082813	Please select a Resonance Skill to register first.	등록할 공명 스킬을 먼저 선택해 주세요.
+ETC_20260828_082814	Skill Slot	스킬 슬롯
+ETC_20260828_082815	This skill is locked.	이 스킬은 잠겨 있습니다.
+ETC_20260828_082816	How to Obtain:	획득 방법 :
+ETC_20260828_082817	Clear [{DIFFICULTY}] {CATEGORY}{nl}to unlock this skill.	[{DIFFICULTY}] {CATEGORY}를 클리어하면{nl}스킬 해금이 가능합니다.
+ETC_20260828_082818	Please unregister the currently registered skill first.	이미 등록된 스킬을 먼저 해제해 주세요.
+ETC_20260828_082819	Currently unavailable.	현재는 사용 불가능합니다.
+ETC_20260828_082820	Bring the Seal of Resonance close to the stele.	공명의 인장을 비석 가까이 가져간다.
+ETC_20260828_082821	Can only be used when the entry count of [{Name}] is less than 5.	[{Name}] 입장 가능 횟수가 5미만 인 경우에만 사용 가능합니다.
+ETC_20260828_082822	You can enter [Sanctuary of Resonance] Dungeon	[공명의 성소] 던전에 입장할 수 있습니다.
+ETC_20260828_082823	[Raid Specialized Effect]	[레이드 특화 효과]
+ETC_20260828_082824	Removes your own Burn effect.	자신의 화상 효과를 제거합니다.
+ETC_20260828_082825	Grants immunity to Burn for {VALUE1_SEC} seconds.	자신이 {VALUE1_SEC}초 동안 화상에 면역이 됩니다.
+ETC_20260828_082826	Creates a party cleansing zone for {VALUE1_SEC} seconds. Removes Burn from party members inside the zone and refreshes their Burn immunity duration.	{VALUE1_SEC}초 동안 파티 정화 영역을 생성합니다. 영역 내 파티원의 화상을 제거하고 화상 면역 시간을 갱신합니다.
+ETC_20260828_082827	When the cleansing zone ends, damage taken by Zmei's main body increases by {VALUE1}%. Duration is {VALUE2_SEC} seconds and does not apply to Chariot damage.	정화 영역 종료 시 즈메이 본체가 받는 피해가 {VALUE1}% 증가합니다. 지속시간은 {VALUE2_SEC}초이며 체리엇 피해에는 적용되지 않습니다.
+ETC_20260828_082828	Cooldown {TIME}	재사용 대기시간 {TIME}
+ETC_20260828_082829	※ When registering a Resonance Skill, it is automatically placed in an empty quick slot. If quick slots are full, please drag and register it manually.	※공명 스킬 등록 시 자동으로 빈 퀵슬롯에 배치됩니다. 퀵슬롯이 가득 차 있다면 직접 드래그하여 등록해 주세요.
+ETC_20260828_082830	{#003399}Fedimian Jar Investigation{/} Guide	{#003399}항아리 대박 수색전{/} 안내
+ETC_20260828_082831	Enter {#003399}Fedimian Jar Investigation{/}	{#003399}항아리 대박 수색전{/} 입장
+ETC_20260828_082832	Open {#003399}Fedimian Jar Investigation{/} Shop	{#003399}항아리 대박 수색전{/} 상점 열기
+ETC_20260828_082833	You have obtained all available {ITEMNAME} for this week.	이번 주 획득 가능한 {ITEMNAME}을(를) 모두 획득하셨습니다.
+ETC_20260828_082834	You cannot obtain rewards if you remain inactive for a certain period of time.{nl}If you remain inactive after 30 seconds, you cannot obtain rewards until the content ends.	일정 시간 움직임이 없으면 보상을 획득할 수 없습니다.{nl}30초 후에도 움직임이 없으면 종료 시까지 보상을 획득할 수 없습니다.
+ETC_20260828_082835	You can no longer obtain rewards.	더 이상 보상을 획득할 수 없습니다.
+ETC_20260828_082836	Would you like to overwrite Preset number{PRESET} with your current setup?	프리셋 {PRESET}번을 현재 편성으로 덮어쓰시겠습니까?
+ETC_20260828_082837	Saved Kupole Preset number{PRESET}.	큐폴 프리셋 {PRESET}번을 저장했습니다.
+ETC_20260828_082838	Applied Kupole Preset number{PRESET}.	큐폴 프리셋 {PRESET}번을 적용했습니다.
+ETC_20260828_082839	Please set a Main Kupole before saving.	대표 큐폴을 편성한 뒤 저장해 주세요.
+ETC_20260828_082840	There are no saved presets.	저장된 프리셋이 없습니다.
+ETC_20260828_082841	Invalid preset number.	올바르지 않은 프리셋 번호입니다.
+ETC_20260828_082842	The preset contains a Kupole that cannot be used.	프리셋에 사용할 수 없는 큐폴이 포함되어 있습니다.
+ETC_20260828_082843	The preset contains a Kupole you do not own.	보유하지 않은 큐폴이 프리셋에 포함되어 있습니다.
+ETC_20260828_082844	You cannot set the same Kupole in two slots.	같은 큐폴을 두 슬롯에 편성할 수 없습니다.
+ETC_20260828_082845	Failed to process the Kupole preset.	큐폴 프리셋을 처리하지 못했습니다.
+ETC_20260828_082846	Board Management	보드 관리
+ETC_20260828_082847	Minimize Board	보드 최소화
+ETC_20260828_082848	Expand Board	보드 펼치기
+ETC_20260828_082849	Close Board	보드 닫기
+ETC_20260828_082850	{BOARD}{nl}{SCOPE}{nl}Board Menu	{BOARD}{nl}{SCOPE}{nl}보드 메뉴
+ETC_20260828_082851	{BOARD}{nl}{SCOPE}{nl}Board Management	{BOARD}{nl}{SCOPE}{nl}보드 관리
+ETC_20260828_082852	Edit Preset number{PRESET}	프리셋 {PRESET} 편집
+ETC_20260828_082853	{nl}{nl}{#D0B060}{ol}Event Status{/}{/}{nl}{nl}Entry Limit: None{nl}Total Grand Festival Voucher Obtained: {TICKET_TOTAL} / {TICKET_LIMIT}{nl}Weekly Grand Festival Voucher Obtained: {WEEK_TICKET} / {WEEK_LIMIT}{nl}Total Lucky Pouch Obtained: {POUCH_TOTAL} / {POUCH_LIMIT}	{nl}{nl}{#D0B060}{ol}이벤트 현황{/}{/}{nl}{nl}입장 제한 : 없음{nl}대축제 교환권 누적 획득 : {TICKET_TOTAL} / {TICKET_LIMIT}{nl}대축제 교환권 주간 획득 : {WEEK_TICKET} / {WEEK_LIMIT}{nl}복주머니 누적 획득 : {POUCH_TOTAL} / {POUCH_LIMIT}
+ETC_20260828_082854	[Lv.{level}] Luminous Attribute Scroll - Advanced Belt of Insight	[Lv.{level}] 빛나는 속성 주문서 - 상급 통찰의 허리띠
+ETC_20260828_082855	[Lv.{level}] Luminous Attribute Scroll II- Advanced Belt of Insight	[Lv.{level}] 빛나는 속성 주문서 II - 상급 통찰의 허리띠
+ETC_20260828_082856	[Lv.{level}] Attribute Reset Scroll - Advanced Belt of Insight	[Lv.{level}] 속성 초기화 주문서 - 상급 통찰의 허리띠
+ETC_20260828_082857	[Lv.{level}] Luminous Attribute Scroll - Advanced Spaulder of Ferocity	[Lv.{level}] 빛나는 속성 주문서 - 상급 맹렬의 어깨보호구
+ETC_20260828_082858	[Lv.{level}] Luminous Attribute Scroll II - Advanced Spaulder of Ferocity	[Lv.{level}] 빛나는 속성 주문서 II - 상급 맹렬의 어깨보호구
+ETC_20260828_082859	[Lv.{level}] Attribute Reset Scroll - Advanced Spaulder of Ferocity	[Lv.{level}] 속성 초기화 주문서 - 상급 맹렬의 어깨보호구
+ETC_20260828_082860	{#ffffff}Normal Jar	{#ffffff}일반 항아리
+ETC_20260828_082861	{#ffd700}Golden Jar	{#ffd700}황금 항아리
+ETC_20260828_082862	{#ba55d3}Suspicious Jar	{#ba55d3}수상한 항아리
+ETC_20260828_082863	{#00ced1}Blessed Jar	{#00ced1}축복 항아리
+ETC_20260828_082864	[Fedimian Jar Investigation] Party Score +{GAIN} ({COMBO} Personal Combo)	[항아리 대박 수색전] 파티 점수 +{GAIN}점 (개인 {COMBO} 콤보)
+ETC_20260828_082865	[Fedimian Jar Investigation] You fell for a Suspicious Jar's trick.	[항아리 대박 수색전] 수상한 항아리의 장난에 걸렸습니다.
+ETC_20260828_082866	[Fedimian Jar Investigation] Final Party Score: {SCORE}	[항아리 대박 수색전] 최종 파티 점수 {SCORE}점
+ETC_20260828_082867	[Fedimian Jar Investigation] Rewards will not be distributed due to extended inactivity.	[항아리 대박 수색전] 장시간 미이동으로 보상이 지급되지 않습니다.
+ETC_20260828_082868	[Fedimian Jar Investigation] Please check the event period.	[항아리 대박 수색전] 이벤트 기간을 확인해 주세요.
+ETC_20260828_082869	[Fedimian Jar Investigation] Failed to initiate reward transaction.	[항아리 대박 수색전] 보상 트랜잭션을 시작하지 못했습니다.
+ETC_20260828_082870	[Fedimian Jar Investigation] Reached total reward limit. ({COUNT}/{LIMIT})	[항아리 대박 수색전] 누적 보상 한도에 도달했습니다. ({COUNT}/{LIMIT})
+ETC_20260828_082871	[Fedimian Jar Investigation] Obtained {ITEMNAME} x{COUNT}.	[항아리 대박 수색전] {ITEMNAME} {COUNT}개를 획득했습니다.
+ETC_20260828_082872	[Fedimian Jar Investigation] Failed to distribute rewards. ({RESULT})	[항아리 대박 수색전] 보상 지급에 실패했습니다. ({RESULT})
+ETC_20260828_082873	Are you sure you want to quit Fedimian Jar Investigation?{nl}If you quit, you will not receive rewards.	항아리 대박 수색전을 그만두시겠습니까?{nl}그만두면 보상을 받을 수 없습니다.
+ETC_20260828_082874	Open {Name}	{Name} 개봉
+ETC_20260828_082875	Open {Name} x10	{Name} x10 개봉
+ETC_20260828_082876	[Event] Fedimian Jar Investigation Exchange Shop	[이벤트] 항아리 대박 수색전 교환 상점
+ETC_20260828_082877	[Fedimian Jar Investigation]{nl}Points earned through personal combos are added to the party score.{nl}To receive end rewards, you must personally destroy at least 1 jar. You will be excluded from rewards if inactive for an extended period.	[항아리 대박 수색전]{nl}개인 콤보로 획득한 점수는 파티 점수에 합산됩니다.{nl}종료 보상을 받으려면 항아리를 1회 이상 직접 파괴해야 하며, 장시간 움직이지 않으면 보상 대상에서 제외됩니다.
+ETC_20260828_082878	[Fedimian Jar Investigation] Rewards were not distributed because you did not personally destroy any jars.	[항아리 대박 수색전] 항아리를 직접 파괴하지 않아 보상이 지급되지 않습니다.
+ETC_20260828_082879	Items obtained from this shop can only be moved to Team Storage.	본 상점에서 획득하는 아이템은 팀 창고 이동만 가능합니다.
+ETC_20260828_082880	[Event] Fedimian Jar Investigation	[이벤트] 항아리 대박 수색전
+ETC_20260828_082881	Reinas	레이나스
+ETC_20260828_082882	Wings of False Radiance	거짓된 광휘의 날개
+ETC_20260828_082883	Wings of Fallen Judgement	타락한 심판의 날개
+ETC_20260828_082884	Unidentified Stele	정체불명의 비석
+ETC_20260828_082885	Explorer	탐사대원
+ETC_20260828_082886	EP18 The Last Nest	EP18 최후의 둥지
+ETC_20260828_082887	Unidentified Tomb	정체불명의 무덤
+ETC_20260828_082888	 [You cannot obtain rewards if you remain inactive for a certain period of time or fail to break at least 1 jar.]	 [일정 시간 움직임이 없거나 항아리를 최소 1개 부수지 않으면 보상을 획득할 수 없습니다.]
+ETC_20260828_082889	Party Score	파티 점수
+ETC_20260828_082890	Resonance Complete!{nl}Returning in 60 seconds.	공명 성공!{nl}60초 뒤, 입장한 곳으로 돌아갑니다.
+ETC_20260828_082891	Resonance Failed!{nl}Returning in 30 seconds.	공명의 성소 실패!{nl}30초 뒤, 입장한 곳으로 돌아갑니다.
+ETC_20260828_082892	Resonance failed in Sanctuary of Resonance due to the time limit of 18 minutes.{nl}Returning in 30 seconds. 	제한 시간 18분이 경과되어 공명의 성소에서 공명을 실패하였습니다.{nl}30초 후 입장 지역으로 이동됩니다.
+ETC_20260828_082893	Resonance failed in Sanctuary of Resonance because of all users are incapable of combat.{nl}Returning in 30 seconds. 	모든 PC가 전투 불능상태가 되어 공명의 성소에서 공명을 실패하였습니다.{nl}30초 후 입장 지역으로 돌아갑니다.
+ETC_20260831_082894	Use to obtain the following item.{nl} - Memory of El x5{nl} - Bright Enchant Scroll (Untradable) x5	사용 시 아래의 구성물을 획득할 수 있습니다.{nl} - 엘의 기억 5개{nl} - 영롱한 마법 부여 스크롤(거래불가) 5개
+ETC_20260831_082895	Badge Supply Box	증표 보급 상자
+ETC_20260831_082896	Superior Construction Lucky Box	최고급 축조 보급 상자
+ETC_20260831_082897	Armor Ichor Supply Box	방어구 아이커 보급 상자
+ETC_20260831_082898	Weapon Ichor Supply Box	무기 아이커 보급 상자
+ETC_20260831_082899	The Memory of Liberation	해방의 기억
+ETC_20260831_082900	The Memory of Magic	마법의 기억
+ETC_20260831_082901	Austeja Armor Collection Box	아우스테야 장비 컬렉션 상자
+ETC_20260831_082902	Generates a number of flame pillars equal to the enhancement level. The flame pillars converge at the center and then explode.{nl}[Zmei Specialization]{nl}Grants Burn removal and immunity to the caster, and increased damage against Zmei's main body to nearby party members based on the enhancement level.	지정한 위치에 강화 단계와 같은 수의 화염 기둥을 생성합니다. 화염 기둥은 중앙으로 수렴한 뒤 폭발합니다.{nl}[즈메이 특화]{nl}강화 단계에 따라 시전자의 화상 제거·면역과, 주변 파티원에게 즈메이 본체 피해 증가 효과를 부여합니다.
+ETC_20260831_082903	Memory of El Shop	엘의 기억 상점
+ETC_20260831_082904	Party members near the location where the Chariot exploded deal {VALUE1}% increased damage to Zmei's main body for {VALUE2_SEC} seconds.	체리엇이 폭발한 지점 근처에 있는 파티원은 즈메이 본체에 주는 피해 {VALUE1}% 증가 {VALUE2_SEC}초 동안 적용됩니다.
+ETC_20260831_082905	Costume Ⅰ	코스튬Ⅰ
+ETC_20260831_082906	Costume Ⅱ	코스튬Ⅱ
+ETC_20260831_082907	Item Ⅰ	아이템Ⅰ
+ETC_20260831_082908	Item Ⅱ	아이템Ⅱ
+ETC_20260901_082909	Flame Steed	화마
+ETC_20260901_082910	{@st66d_y}{s18}Flame Steed{/}{/}{nl}- Physical/Magic ATK{img green_up_arrow 16 16}999{nl} - Movement Speed{img green_up_arrow 16 16}3	{@st66d_y}{s18}화마{/}{/}{nl}- 물리/마법 공격력{img green_up_arrow 16 16}999{nl} - 이동 속도{img green_up_arrow 16 16}3
+ETC_20260901_082911	The CP calculation script re-read itself and entered an infinite recursion (Blocked, returned 0). Please check the CP function and property cycle in the call stack.	CP 계산 스크립트가 자기 자신을 다시 읽어 무한 재귀에 빠졌습니다(차단됨, 0 반환). 콜스택의 CP 함수와 프로퍼티 순환을 확인하세요.
+ETC_20260901_082912	Native IES property index out of range (falling back to name-based path). Access occurred after owner detachment (SetOwner), so please check the destruction order of the object.	네이티브 IES 프로퍼티 인덱스가 범위를 벗어났습니다(이름 기반 경로로 폴백). 소유자 분리(SetOwner) 후 접근이 발생한 것이므로 해당 객체의 소멸 순서를 확인하세요.
+ETC_20260901_082913	Core of Resonance - Zaura[Chariot: Resonance]	공명의 핵 - 자우라[체리엇: 레조넌스]
+ETC_20260901_082914	Material used to unlock or upgrade Resonance Skill [Chariot: Resonance].	공명 스킬 [체리엇: 레조넌스] 를 해금 또는 강화 할 수 있는 재료입니다.
+ETC_20260901_082915	Core of Resonance - Zaura[Chariot: Resonance] (Untradable)	공명의 핵 - 자우라[체리엇: 레조넌스](거래불가)
+ETC_20260901_082916	Core of Resonance - Zaura[Chariot: Resonance] Box	공명의 핵 - 자우라[체리엇: 레조넌스] 상자
+ETC_20260901_082917	Use to add mount.{nl}※You can select the mount from the Companion(F9).{nl}Summon the mount by the Mounted skill in the common tab of Skills & Attributes(F3).{nl} - Physical/Magic ATK +999, Movement Speed +3 will be given when you select the Mount.	사용 시, 탈 것이 추가됩니다.{nl}※탈 것은 컴패니언(F9)을 통해 확인 및 선택할 수 있습니다.{nl}탈 것 선택 후 스킬과 특성(F3)의 공용 탭에서 탈 것 탑승 스킬을 이용하여 소환할 수 있습니다.{nl} - 탈 것 선택 시 물리/마법 공격력 +999, 이동속도 +3 효과를 얻습니다.
+ETC_20260901_082918	Use to obtain the following item.{nl} - Memory of El x5{nl} - Bright Enchant Scroll (Untradable) x5{nl} - Memory of El Piece x5	사용 시 아래의 구성물을 획득할 수 있습니다.{nl} - 엘의 기억 5개{nl} - 영롱한 마법 부여 스크롤(거래불가) 5개{nl} - 엘의 기억조각 5개
+ETC_20260901_082919	Use to obtain the following items.{nl} - Memory of El x10{nl} - Memory of El Piece x5	사용 시 아래의 구성물을 획득할 수 있습니다.{nl} - 엘의 기억 x 10 1개{nl} - 엘의 기억조각 5개
+ETC_20260901_082920	Lucky Pouch obtained from Fedimian Jar Investigation.{nl}When used, obtain one of the following items in certain probability.{nl}- Goddess Token(Saule) : 10,000{nl}- Mercenary Badge : 10,000{nl}- Advanced Enchant Scroll{nl}- [Lv.560] Enhance Aid(Untradable){nl}- [Lv.560] Advanced Goddess Ichor (Weapon) Fragment II x2{nl}- [Lv.560] Advanced Goddess Ichor (Armor) Fragment II x2{nl}{#ff0000}{nl}Will be automatically deleted at the end of the event period.{nl}	항아리 대박 수색전에서 획득한 복주머니입니다.{nl}사용 시 정해진 확률에 따라 아래 아이템 중 1종을 획득합니다.{nl}- 여신의 증표(사울레) : 10,000{nl}- 용병단 증표 : 10,000{nl}- 고급 마법 부여 스크롤{nl}- [Lv.560] 강화 보조제(거래불가){nl}- [Lv.560] 상급 가디스 아이커(무기) 파편 II(귀속) 2개{nl}- [Lv.560] 상급 가디스 아이커(방어구) 파편 II(귀속) 2개{nl}{#ff0000}2026년 10월 6일 정기점검 시 일괄 삭제됩니다.{/}
+ETC_20260901_082921	Exchange for various items from event NPC.{nl}{#ff0000}Item will be deleted upon the announced date.{/}	이벤트 NPC를 통해 다양한 보상과 교환할 수 있습니다.{nl}{#ff0000}2026년 10월 6일 정기점검 시 일괄 삭제됩니다.{/}
+ETC_20260901_082922	Movement Speed{img green_up_arrow 16 16}8{nl}{@st66d_y}{s14} - Flame Steed	이동 속도{img green_up_arrow 16 16}8{nl}{@st66d_y}{s14} - 화마
+ETC_20260901_082923	- Physical/Magic ATK{img green_up_arrow 16 16}999{nl} - Movement Speed{img green_up_arrow 16 16}3	- 물리/마법 공격력{img green_up_arrow 16 16}999{nl} - 이동 속도{img green_up_arrow 16 16}3
+ETC_20260901_082924	Generates 1~3 flame pillars based on the enhancement level. The flame pillars converge at the center and then explode.{nl}[Zmei Specialization]{nl}Grants Burn removal and immunity to the caster, and increased damage against Zmei's main body to nearby party members based on the enhancement level.	지정한 위치에 강화 단계에 따라 1~3개의 화염 기둥을 생성합니다. 화염 기둥은 중앙으로 수렴한 뒤 폭발합니다.{nl}[즈메이 특화]{nl}강화 단계에 따라 시전자의 화상 제거·면역과, 주변 파티원에게 즈메이 본체 피해 증가 효과를 부여합니다.
+ETC_20260901_082925	Skill Factor per Pillar #{CaptionRatio3}#%{nl}Total Skill Factor #{CaptionRatio}#%{nl}#{CaptionRatio2}# Flame Pillars, 10 hits per pillar{nl}Flame Pillar Damage: 70% of Total Factor{nl}Center Convergence Explosion Damage: 30% of Total Factor	기둥당 스킬 계수 #{CaptionRatio3}#%{nl}총 스킬 계수 #{CaptionRatio}#%{nl}불기둥 #{CaptionRatio2}#개, 기둥당 10회 타격{nl}불기둥 피해 총 계수의 70%{nl}중앙 수렴 폭발 피해 총 계수의 30%
+ETC_20260901_082926	Fedimian Jar Investigation	페디미안 항아리 수색전
+ETC_20260901_082927	Additional Reward : +{COUNT}	추가 보상 : +{COUNT}개
+ETC_20260901_082928	Close Goddess' Memoir.	여신의 회상록 창을 닫습니다.
+ETC_20260901_082929	By Level	레벨 순
+ETC_20260901_082930	By Resonance Completion	공명 완성 순
+ETC_20260901_082931	Skill Management	스킬 관리
+ETC_20260901_082932	Skill Register	스킬 등록
+ETC_20260901_082933	Add the material to this slot.	재료 아이템을 슬롯에 추가합니다.
+ETC_20260901_082934	Enhancement Rate : {RATE}%	강화 확률 : {RATE}%
+ETC_20260901_082935	Current Amount : {COUNT}	현재 보유량 : {COUNT}
+ETC_20260901_082936	You can change the registered slot after the Resonance Skill cooldown ends.	공명 스킬의 재사용 대기시간이 끝난 뒤에 등록 슬롯을 변경할 수 있습니다.
+ETC_20260901_082937	Current Reward {REWARD} / Reached Max Reward	현재 보상 {REWARD}개 / 최고 보상 달성
+ETC_20260901_082938	Current Reward {REWARD} / {Score}pts to next Reward	현재 보상 {REWARD}개 / 다음 보상까지 {SCORE}점
+ETC_20260901_082939	Current Combo x{COMBO}	현재 콤보 x{COMBO}
+ETC_20260901_082940	{SECOND} sec	{SECOND}초
+ETC_20260904_082941	Cannot be unbound	귀속 해제 불가능
+ETC_20260907_082942	Blocked death transfer for GM Invincible(//safe on) PCs (Path/HP)	GM 무적(//safe on) PC의 사망 전이를 차단함 (경로/HP 기록)
+ETC_20260907_082943	Core of Resonance - Zaura [Inferno Wave: Resonance]	공명의 핵 - 자우라[인페르노 웨이브: 레조넌스]
+ETC_20260907_082944	Material used to unlock or upgrade Resonance Skill [Inferno Wave: Resonance].	공명 스킬 [인페르노 웨이브: 레조넌스] 를 해금 또는 강화 할 수 있는 재료입니다.
+ETC_20260907_082945	Core of Resonance - Zaura [Inferno Wave: Resonance] (Untradable)	공명의 핵 - 자우라[인페르노 웨이브: 레조넌스](거래불가)
+ETC_20260907_082946	Core of Resonance - Zaura [Inferno Wave: Resonance] Box	공명의 핵 - 자우라[인페르노 웨이브: 레조넌스] 상자
+ETC_20260907_082947	Inferno Wave: Resonance	인페르노 웨이브: 레조넌스
+ETC_20260907_082948	Upon casting, Zaura 50 units ahead fires 2 flame arrow attacks, then unleashes a forward-moving flame field.	시전 순간 전방 50 거리의 자우라가 2회의 화염 화살표 공격을 발사한 후, 전방으로 이동하는 화염 장판을 방출합니다.
+ETC_20260907_082949	Total Skill Factor #{CaptionRatio}#%	총 스킬 계수 #{CaptionRatio}#%
+ETC_20260907_082950	Not affected by Cooldown Reduction effects.	재사용 대기시간 감소 효과를 받지 않습니다.
+ETC_20260907_082951	Reduces continuous damage taken from Zmei's Burn by {VALUE1}% for 6 seconds.	6초 동안 즈메이 화상으로 받는 지속 피해가 {VALUE1}% 감소합니다.
+ETC_20260907_082952	Resonance Points ({PERCENT}%)	공명 포인트 ({PERCENT}%)
+ETC_20260907_082953	[Frontal Range]	[전방 범위]

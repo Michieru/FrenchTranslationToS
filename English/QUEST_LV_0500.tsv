@@ -3335,3 +3335,177 @@ QUEST_LV_0500_20260206_003334	Battle with Zmei	즈메이와 전투
 QUEST_LV_0500_20260206_003335	The sealed dragon has awakened. Stop it before it regains its power and threatens the world.	오랫동안 봉인되어 있던 무시무시한 용이 깨어났습니다. 이대로 놔두었다가는 힘을 회복하고 엄청난 재앙이 되어 세상을 위협할 겁니다.				
 QUEST_LV_0500_20260206_003336	Secret conversation between El and Baubas	엘과 바우바스의 밀담				
 QUEST_LV_0500_20260206_003337	Left alone, El reveals his true nature and mocks the fallen Zmei.	홀로 남은 엘은 본색을 드러내며 죽은 즈메이를 비웃습니다.				
+QUEST_LV_0500_20260828_003338	Revelator, an anomaly has been detected at the place known as the World's Edge after the Zmei was defeated.	계시자, 즈메이 토벌 이후 세계의 경계라 불리는 곳에서 이상현상이 감지되고 있습니다.
+QUEST_LV_0500_20260828_003339	Though it is a barren land with no notable features, the aura leaking from it is far from ordinary. It is an unfamiliar and ancient magic—one that even the eyes of us Goddesses cannot clearly peer into.	비록 별 다른 특징이 없는 척박한 땅이긴 하지만, 그곳에서 새어 나오는 기운은 결코 예사롭지 않습니다. 우리 여신들의 시선으로도 그 정체를 또렷이 들여다볼 수 없는, 낯설고 아득히 오래된 마력입니다.
+QUEST_LV_0500_20260828_003340	It is as if something long veiled from the world has finally awakened with Zmei's death. The massive surge of magic released upon his defeat must have shaken that barren land from its ancient slumber.	마치 오랜 세월 무언가에 가려져 있던 것이, 즈메이의 죽음과 함께 비로소 깨어난 듯합니다. 그를 쓰러뜨릴 때 터져 나온 거대한 마력의 파동이 그 척박한 땅의 오랜 잠을 흔들어 깨운 것이겠지요.
+QUEST_LV_0500_20260828_003341	We have already dispatched an expedition team to begin an investigation, but their strength alone will reach its limits. To be frank... even I, who peer into fate, cannot easily fathom what awaits at the end of this anomaly.	이미 그곳에는 탐사대를 보내 조사를 시작했습니다만, 그들의 힘만으로는 한계가 있을 것입니다. 솔직히 고백하자면… 운명을 살피는 나조차도 이 이상현상의 끝에 무엇이 기다리고 있을지 쉬이 가늠할 수가 없군요.
+QUEST_LV_0500_20260828_003342	Please head to that land and uncover the source of this anomaly.	부디 그 땅으로 가, 이상현상의 근원을 밝혀 주십시오.
+QUEST_LV_0500_20260828_003343	Explorer Belion	탐사대원 벨리온
+QUEST_LV_0500_20260828_003344	Revelator! I've been waiting for you. I am Belion, a member of the expedition investigating this area.	계시자님! 기다리고 있었습니다. 저는 이곳을 조사하는 탐사 대원 벨리온이라고 합니다.
+QUEST_LV_0500_20260828_003345	Could you fill me in on the situation here?	이곳의 상황을 바로 들을 수 있을까요?
+QUEST_LV_0500_20260828_003346	Right after Zmei was slain, a faint yet unidentified aura began to be detected in this region.	즈메이가 처치된 직후, 이 지역에서 희미하지만 정체불명의 기운이 감지되기 시작했습니다.
+QUEST_LV_0500_20260828_003347	An unidentified aura...?	정체불명의 기운이라면…?
+QUEST_LV_0500_20260828_003348	We can't be certain just yet... but according to the analysis of the dispatched mages, astonishingly,  	아직 확신할 순 없지만… 파견된 마법사들의 분석에 따르면 놀랍게도 
+QUEST_LV_0500_20260828_003349	Dragon Aura	용의 기운
+QUEST_LV_0500_20260828_003350	is spotted.	이라고 하더군요.
+QUEST_LV_0500_20260828_003351	A dragon? Could it be related to Zmei, whom we recently defeated?	용? 혹시 최근에 쓰러뜨린 즈메이와 관련이 있는 겁니까?
+QUEST_LV_0500_20260828_003352	Yes. Zmei's death triggered a massive surge of magic, which seems to have set off a chain reaction of sorts.	예. 즈메이의 죽음으로 인해 거대한 마력의 파동이 발생했고, 그것이 모종의 연쇄 반응을 일으킨 것 같습니다.
+QUEST_LV_0500_20260828_003353	But what connection could Zmei possibly have with this barren wasteland?	하지만 즈메이와 이 척박한 벌판이 무슨 관계가 있는 거죠?
+QUEST_LV_0500_20260828_003354	After combing through ancient texts... I found records stating that when the Alliance of Gods and Demons wiped out the Dragonkin in the past, a tiny fraction of them were driven to this region.	고문헌을 샅샅이 조사해 본 결과… 과거 신마 연합이 용족을 말살할 당시, 극히 일부의 용족이 이 지역으로 쫓겨났다는 기록을 찾았습니다.
+QUEST_LV_0500_20260828_003355	I thought it was merely a legend... Could they still be surviving here? Revelator, would you be able to assist our expedition team in this investigation?	그저 전설 속 이야기인 줄로만 알았는데... 혹시 그들이 아직 이곳에 살아남아 있는 걸까요? 계시자님, 저희 탐사대와 함께 조사에 협력해 주실 수 있겠습니까?
+QUEST_LV_0500_20260828_003356	Revelator, this time we intend to investigate the eastern part of the wasteland. However, it is swarming with monsters, making it difficult to push forward. Could you clear out the monsters so our exploration goes more smoothly?	계시자님. 이번에는 황야 동쪽을 조사해보려고 합니다. 다만 몬스터들이 득실거려 전진이 어렵습니다. 혹시 탐사가 수월해질 수 있도록 몬스터들을 정리해주실 수 있습니까?
+QUEST_LV_0500_20260828_003357	As expected of you, Revelator. I will head to the area ahead. Please follow me when you are ready.	역시 계시자님은 대단하시군요. 저는 먼저 해당 구역으로 이동하겠습니다. 준비가 되시면 따라와 주십시오.
+QUEST_LV_0500_20260828_003358	Look at that pattern stone! It's an ancient form of script. It certainly wasn't there during our recent expedition... Could the traces long veiled by magic be revealing themselves to the surface with Zmei's death?	보세요, 저 문양석! 아주 오래된 형태의 문자입니다. 분명 최근에 진행했던 탐사에서는 발견된 적이 없던 것인데... 즈메이의 죽음으로 오랫동안 마력에 가려져 있던 흔적들이 지상으로 드러나기 시작한 걸까요?
+QUEST_LV_0500_20260828_003359	Long time no see, meow!	오랜만에 본다냥!
+QUEST_LV_0500_20260828_003360	Meow~ Revelator, it's been a while, meow! Fancy meeting you again in a grim place like this, meow?	야옹~ 계시자, 오랜만이다냥! 어쩌다 보니 이런 험악한 곳에서 또 만났네냥?
+QUEST_LV_0500_20260828_003361	...A talking cat? Revelator, what on earth is going on here?	…고양이가 말을 합니까? 계시자님, 도대체 이게 어떻게 된 일이죠?
+QUEST_LV_0500_20260828_003362	(A familiar reaction—I've seen this one before.)	(저번에도 겪은 익숙한 반응이다.)
+QUEST_LV_0500_20260828_003363	...A talking cat. Truly, the world is vast and full of strange beings.	…말하는 고양이라. 확실히 세상은 넓고 기이한 존재는 많군요.
+QUEST_LV_0500_20260828_003364	I understand that it assisted you in your previous mission, but... there is one point I must address. Do you have a moment?	이전 임무에서 계시자님을 도왔다는 사실은 알겠습니다만... 한 가지 짚고 넘어가야 할 점이 있습니다. 잠시 괜찮으시겠습니까?
+QUEST_LV_0500_20260828_003365	Our expedition team has combed through this area for a long time, yet we've never seen a beast like that, nor found the slightest trace of it.	저희 탐사대가 이 일대를 오랜 시간 샅샅이 조사해 왔지만, 저런 짐승은 본 적도, 그 어떤 흔적을 발견한 적도 없습니다.
+QUEST_LV_0500_20260828_003366	...What exactly are you getting at?	…정확히 하고 싶은 말이 뭡니까?
+QUEST_LV_0500_20260828_003367	In short, it appeared out of nowhere at the exact moment you arrived here, Revelator. Isn't that a little too convenient to be a mere coincidence?	즉, 계시자님이 이곳에 도착하는 타이밍에 정확히 맞춰 어딘가에서 나타났다는 뜻이죠. 우연 치고는 너무 딱 들어맞지 않습니까?
+QUEST_LV_0500_20260828_003368	El. Why on earth are you here? When Zmei was defeated, you vanished without a word instead of returning.	엘. 네가 도대체 왜 여기에 있는 거야? 즈메이를 처치했을 때는 돌아오지 않고 아무 말 없이 홀연히 사라지더니.
+QUEST_LV_0500_20260828_003369	Meow? I just happened to be nearby and sensed your aura, so I came to check it out, meow!	냥? 마침 이 근처에 있었는데, 계시자 기운이 느껴져서 와 봤다냥!
+QUEST_LV_0500_20260828_003370	Isn't this all destiny woven by the Goddess of Luck, meow? By the way, what brings you all the way out here, Revelator, meow?	이게 다 행운의 여신이 맺어 준 인연 아니겠냥? 그나저나, 계시자야말로 이런 데까지 웬일이냥?
+QUEST_LV_0500_20260828_003371	A suspicious aura was detected near here. I'm tracking it down.	이 근처에서 수상한 기운이 감지된다고 해서. 그걸 쫓는 중이야.
+QUEST_LV_0500_20260828_003372	A suspicious aura? Meow... nothing's picking up on my meow-sensors, meow! Are you sure you're not imagining things, meow?	수상한 기운? 냥… 내 냥센서엔 아무것도 안 걸린다냥! 혹시 착각한 거 아니냥?
+QUEST_LV_0500_20260828_003373	We'll see. That's what I'm about to find out.	글쎄. 그건 이제부터 알아봐야지.
+QUEST_LV_0500_20260828_003374	Nya, Revelator. Don't you trust me, meow? There's no way anything could be in a barren land like this, meow!	냐, 계시자. 내 말을 못 믿는 거냥? 이런 척박한 땅에 뭔가 있을 리 없다냥!
+QUEST_LV_0500_20260828_003375	(...Strange. El seems rather reluctant about me exploring this area.)	(…묘하군. 엘은 내가 이 주변을 탐사하는 게 영 내키지 않는 모양이다.)
+QUEST_LV_0500_20260828_003376	Revelator, this time we plan to investigate the northern area. Would that be alright with you?	계시자님. 이번에는 북쪽 지역을 탐사해보려고 합니다. 혹시 괜찮겠습니까?
+QUEST_LV_0500_20260828_003377	Revelator, just ahead lies a place known as the 	계시자님. 저 앞부터는 
+QUEST_LV_0500_20260828_003378	Canyon of Oblivion.	망각의 협곡
+QUEST_LV_0500_20260828_003379	It is a completely uncharted region—not even our expedition team has records of it.	이라 불리는 곳입니다. 탐사대 기록조차 존재하지 않는, 완전한 미식별 지역이죠.
+QUEST_LV_0500_20260828_003380	A place even the expedition team couldn't enter?	탐사대도 진입하지 못한 곳인가요?
+QUEST_LV_0500_20260828_003381	Yes. With our forces alone, we couldn't break through the swarming monsters and were forced to turn back every time. However... with you here, Revelator, that may be a different story.	예. 저희 전력만으론 들끓는 몬스터를 뚫지 못해 번번이 발길을 돌려야 했던 곳입니다. 허나… 계시자님이라면 이야기가 다르겠지요.
+QUEST_LV_0500_20260828_003382	No, I mean, we could just not go in, meow... Eek-nya?! Don't just dash off on your own like that, meow! Wait for me, meow!	아니, 그러니까 그냥 안 들어가면 그만이잖냥… 으냐앗?! 혼자 휙 가 버리면 어떡하냥! 같이 가자냥!
+QUEST_LV_0500_20260828_003383	I've heard rumors about you, Revelator, but I never imagined you were this capable. To subdue those ferocious monsters so easily... truly remarkable.	계시자님에 대한 소문을 듣긴 했지만, 이 정도일 줄은 몰랐습니다. 그 흉폭한 마물들을 이렇게 간단히 제압하시다니… 정말 대단하시군요.
+QUEST_LV_0500_20260828_003384	I took a quick look around during combat... and found something quite interesting.	전투 중에 잠시 주변을 살펴봤는데… 아주 흥미로운 걸 발견했습니다.
+QUEST_LV_0500_20260828_003385	Something interesting?	흥미로운 거라면?
+QUEST_LV_0500_20260828_003386	Come take a look over here.	이쪽으로 와 보시죠.
+QUEST_LV_0500_20260828_003387	Would you take a look at this?	이걸 한 번 봐주시겠습니까?
+QUEST_LV_0500_20260828_003388	May I tell you a story of the distant past?	옛날 이야기를 좀 해도 되겠는가?
+QUEST_LV_0500_20260828_003389	Revelator. Do you know of  	계시자여. 그대는, 수천 년 전에 있었던 
+QUEST_LV_0500_20260828_003390	the Alliance of Gods and Demons	신마 연합
+QUEST_LV_0500_20260828_003391	that existed thousands of years ago?	에 대해 아는가?
+QUEST_LV_0500_20260828_003392	The Alliance of Gods and Demons...?	신마 연합… 말입니까?
+QUEST_LV_0500_20260828_003393	Judging by your reaction, you do not seem to know. ...The ones you serve 	보아하니, 모르는 모양이군. …자네가 섬기는 
+QUEST_LV_0500_20260828_003394	,the ones who want to destroy the world. 	들과, 세상을 파괴하려는 
+QUEST_LV_0500_20260828_003395	There was an era when the two temporarily joined forces. We call them the Alliance of Gods and Demons.	들. 그 둘이 일시적으로 손을 잡았던 시대가 있었다. 우리는 그들을 신마 연합이라 부르네.
+QUEST_LV_0500_20260828_003396	The Goddesses and Demon Gods joining hands... It's hard to imagine nowadays. But what does that have to do with anything?	여신과 마신이 손을 잡았다니… 지금으로선 상상하기 어렵군요. 한데, 그게 어쨌다는 겁니까?
+QUEST_LV_0500_20260828_003397	They turned our homeworld dimension into a living hell. And they slaughtered my kin who escaped to this world, down to the very last one.	그들은 우리 용족의 고향 차원을 지옥으로 바꿔 놓았네. 그리고 그곳을 빠져나와 이쪽 세계로 도망쳐 온 내 동족들을, 한 마리도 남김없이 도륙했지.
+QUEST_LV_0500_20260828_003398	...For no reason at all?	…아무런 이유도 없이 말입니까?
+QUEST_LV_0500_20260828_003399	It was not without reason. Regrettably, back then among our Dragonkin, there was a radical faction that preached ruling over humans underfoot, and the Goddesses and Demon Gods used that as a pretext. 	이유가 없지는 않았네. 안타깝게도 그 시절 우리 용족 가운데엔, 인간들을 발아래 두고 지배해야 한다 외치던 과격한 무리가 있었고, 여신과 마신은 그것을 빌미로 삼았지. 
+QUEST_LV_0500_20260828_003400	Under the guise of protecting the world	세상을 지킨다
+QUEST_LV_0500_20260828_003401	—they turned their blades against the entire Dragonkin	는 명분으로, 용족 전체에게 칼을 겨눈 게야.
+QUEST_LV_0500_20260828_003402	Of course, even among them, opinions were divided. While Goddess Austeja argued that we should be given a chance, there were those like Giltine who clamored for nothing but destruction and slaughter.	물론 그들 안에서도 뜻은 갈렸지. 우리에게 기회를 주어야 한다던 아우스테야 여신이 있었는가 하면, 오직 파괴와 살육만을 부르짖던 길티네 같은 자도 있었으니.
+QUEST_LV_0500_20260828_003403	And so, right before our Dragonkin were completely eradicated by the blades of that ruthless Alliance of Gods and Demons... Demon God Baubas secretly approached and offered us his hand. And we, in our folly, took it.	그렇게 그 무자비한 신마 연합의 칼날 앞에 우리 용족이 완전히 말살당하기 직전… 마신 바우바스가 은밀히 다가와 손을 내밀었네. 그리고 우리는 어리석게도, 그 손을 잡고 말았지.
+QUEST_LV_0500_20260828_003404	Naturally, Baubas had no intention of actually helping us.	당연하지만 바우바스에게 우리를 진정으로 도울 마음 따위 있을 리 없었지.
+QUEST_LV_0500_20260828_003405	He confined us survivors here. We resisted time and again, but all was in vain, and those of our kin who barely survived the slaughter only perished one by one. Thus, this place became our last nest, and at the same time, an inescapable prison.	그자는 살아남은 우리를 이곳에 가두었네. 몇 번이고 항거해 보았지만 모두 부질없었고, 도리어 그 학살에서 겨우 살아남은 동족들만 하나둘 스러져 갈 뿐이었지. 하여 이곳은 우리의 마지막 둥지이자, 동시에 벗어날 수 없는 감옥이 되었네.
+QUEST_LV_0500_20260828_003406	Yet... do you know why he did not slay us outright, but went through the trouble of keeping us caged here?	한데… 그자가 어찌하여 우리를 단번에 죽이지 않고, 굳이 이리 가둬 길렀는지 아는가?
+QUEST_LV_0500_20260828_003407	Because the despair Baubas covets must be pure despair, unadulterated by even a single speck of hope.	바우바스가 탐하는 절망이란, 한 점의 희망조차 섞이지 않은 순수한 절망이어야 하거든.
+QUEST_LV_0500_20260828_003408	Revelator, let me ask you one thing. Do you believe Baubas's scheme... and this entire tale of us offering our despair as nourishment for two thousand years? 	계시자, 한 가지만 묻겠네. 바우바스의 음모를… 우리가 2000년 동안 절망을 먹이로 바쳐 왔다는 이 모든 이야기를, 그대는 믿는가? 
+QUEST_LV_0500_20260828_003409	If you believe us, please help us.	믿어 준다면, 부디 우리를 도와다오.
+QUEST_LV_0500_20260828_003410	...Your eyes tell me you believe. Very well. If you are ready, follow us.	…믿는다는 눈빛이군. 좋네. 준비가 되었다면, 우리를 따라오게.
+QUEST_LV_0500_20260828_003411	You've come.	왔나?
+QUEST_LV_0500_20260828_003412	 This is where we have lived all this time. As you can see, there is nothing grand. Just... what was necessary to survive.	 여기가 그동안 우리가 살아온 곳이다. 보다시피 거창한 건 없다. 그저... 살아남기 위한 것들뿐이지.
+QUEST_LV_0500_20260828_003413	...Are those graves over there?	...저기 보이는 건 무덤인가요?
+QUEST_LV_0500_20260828_003414	Yes. The graves of my kin who perished in this unfamiliar land.	그래. 이 낯선 땅에서 죽어간 동족들의 무덤이지.
+QUEST_LV_0500_20260828_003415	Don't look at us with those eyes. Even if we agreed to accept your help, I have no desire to receive pity from a servant of the Goddesses.	그런 눈으로 보지 마라. 아무리 도움을 받기로 했다 해도, 여신의 하수인에게서 동정 어린 눈빛을 받고 싶진 않으니.
+QUEST_LV_0500_20260828_003416	Anyway, since you offered to help, I'll get straight to the point. I don't know what scheme Baubas is pulling lately, but the surrounding monsters are multiplying beyond what we can handle. Mind showing us what you're made of?	어쨌든 돕겠다 했으니, 단도직입적으로 말하지. 요즘 바우바스가 무슨 수작을 부리는 건지, 주변 몬스터들이 우리가 감당하던 범위를 넘어설 만큼 불어나고 있다. 실력 좀 보여주겠나?
+QUEST_LV_0500_20260828_003417	Impressive. So defeating Zmei wasn't just sheer luck after all.	훌륭하군. 역시 즈메이를 쓰러뜨린 건 운이 아니라는 건가.
+QUEST_LV_0500_20260828_003418	The Elder is looking for you. Could you head over to him?	장로님이 찾으신다. 그쪽으로 가주겠나?
+QUEST_LV_0500_20260828_003419	Ah, you've arrived.	왔는가?
+QUEST_LV_0500_20260828_003420	I have something to tell you. Have you ever pondered how Zmei broke free from that long seal?	자네에게 들려줄 이야기가 하나 있네. 자네는 즈메이가 그 오랜 봉인에서 어떻게 풀려났는지, 생각해 본 적 있나?
+QUEST_LV_0500_20260828_003421	...I did find it puzzling. Do you happen to know something?	…의아하긴 했습니다. 혹시 뭔가 알고 계신 겁니까?
+QUEST_LV_0500_20260828_003422	As expected, you do not know. The culprit who awakened Zmei was Baubas. He loosened the seal and laid him before you like bait.	역시 모르는 모양이군. 즈메이를 깨운 범인은 바우바스네. 그자가 봉인을 느슨히 풀어, 자네 앞에 미끼처럼 놓아둔 게지.
+QUEST_LV_0500_20260828_003423	Why would Baubas do such a thing?	바우바스가 어째서 그런 짓을 한 거죠?
+QUEST_LV_0500_20260828_003424	Likely to reap the despair Zmei would spew forth in his death throes. So without even knowing it, you ended up playing right into his hands.	아마도, 즈메이가 죽어 가며 토해 낼 절망을 거두기 위해서였겠지. 그러니 자네는 자기도 모르는 사이, 그자의 손이 되어 준 셈이야.
+QUEST_LV_0500_20260828_003425	(...If what he says is true, one thing keeps weighing on my mind.)	(…만약 저 말이 사실이라면. 한 가지, 자꾸 마음에 걸리는 게 있다.)
+QUEST_LV_0500_20260828_003426	(If everything involving Zmei was truly Baubas's scheme, was El appearing before me and helping me that day really just a coincidence?)	(즈메이와 관련된 일이 정말 바우바스의 계략이었다면, 그날 엘이 하필 내 앞에 나타나 날 도왔던 건, 과연 우연이었을까.)
+QUEST_LV_0500_20260828_003427	You look grim. But it is not your fault. Being used without even realizing it... that is simply how Baubas operates. While we are at it, I shall tell you his true objective as well.	표정이 좋지 않군. 허나 자네 탓이 아니야. 그렇게 자기도 모르게 이용당하는 것... 그것이 바로 바우바스가 일을 꾸미는 방식이니까. 이참에, 그자의 진짜 목적까지 들려주지.
+QUEST_LV_0500_20260828_003428	What Baubas is targeting right now are the last remaining eggs of our Dragonkin.	현재 바우바스가 노리는 건 우리 용족의 마지막 알들이네.
+QUEST_LV_0500_20260828_003429	...Did you say eggs?	…알이라고 하셨습니까?
+QUEST_LV_0500_20260828_003430	Indeed. Seven in total. They are what we barely kept safe at the cost of our lives on that day when gods and demon gods joined hands to eradicate our kind.	그렇네. 총 일곱. 신과 마신이 손을 잡고 우리 종족을 멸절시키던 그날, 목숨과 맞바꿔 겨우 품어 낸 것들이지.
+QUEST_LV_0500_20260828_003431	However, those eggs... ultimately failed to hatch. Due to the curse Baubas placed upon them, they have spent two thousand years trapped—neither dying nor awakening.	하지만 그 알들은… 끝내 부화하지 못했네. 바우바스가 걸어 둔 저주 탓에 죽지도, 깨어나지도 못한 채로 2000년을 보내는 중이지.
+QUEST_LV_0500_20260828_003432	And now he seeks to crush even those final eggs, forever breaking the single ray of hope we have left.	그리고 이제 그자는, 그 마지막 알들마저 부수어 우리에게 남은 단 하나의 희망까지 영원히 꺾으려 하네.
+QUEST_LV_0500_20260828_003433	Pure despair... for that is the very sustenance Baubas craves.	순수한 절망… 그것이 바로 바우바스가 원하는 먹이거든.
+QUEST_LV_0500_20260828_003434	As expected of the Revelator, meow! Numbers like this don't bother you one bit, meow!	역시 계시자다냥. 이 정도 숫자로는 끄떡도 없다냥.
+QUEST_LV_0500_20260828_003435	Asking what I did? That hurts my feelings, meow! I'm the one who noticed these guys swarming in first and tipped off Belion, meow!	뭘 했냐니, 섭섭하다냥. 이 녀석들이 몰려오는 걸 제일 먼저 알아채고 벨리온한테 귀띔해 준 게 바로 나라고냥!
+QUEST_LV_0500_20260828_003436	Nya? What's with that look, meow? Did I do something wrong, meow?	냥? 그 눈빛은 뭐라냥. 내가 뭐 잘못이라도 했다냥?
+QUEST_LV_0500_20260828_003437	...No. It's nothing.	...아니. 아무것도 아니야.
+QUEST_LV_0500_20260828_003438	By the way, where did the others go, meow?	그나저나, 다른 일행들은 다 어디 갔다냥?
+QUEST_LV_0500_20260828_003439	I'm not sure. ...I should probably go look for them soon.	글쎄. ...나도 슬슬 찾아봐야겠는데.
+QUEST_LV_0500_20260828_003440	Then you'd better go find them quickly, meow. More monsters keep swarming in, meow!	그러면 빨리 찾아보는 게 좋겠다냥. 다른 몬스터들이 계속 몰려오고 있다냥!
+QUEST_LV_0500_20260828_003441	You've arrived, Revelator.	왔는가, 계시자.
+QUEST_LV_0500_20260828_003442	Think of it as a sort of shelter we Dragonkin built long ago when we first arrived in this land.	오래전에 우리 용족들이 이쪽 땅에 처음 도착했을 무렵 만든, 일종의 대피소라 생각해 두게.
+QUEST_LV_0500_20260828_003443	I have opened the path leading inside, so follow me.	안으로 통하는 길은 열어 두었으니, 따라오게.
+QUEST_LV_0500_20260828_003444	It will take time to make preparations. Could you buy us just a little more time?	채비를 하는 데에는 시간이 필요하네. 혹시 조금만 더 시간을 벌어 줄 수 있겠나?
+QUEST_LV_0500_20260828_003445	Thank you. At this point, having called you 	고맙군. 이쯤되니 자네를 
+QUEST_LV_0500_20260828_003446	Servant of the Goddesses	여신의 하수인
+QUEST_LV_0500_20260828_003447	is quite embarrassing.	이라 불렀던 게, 영 부끄럽군.
+QUEST_LV_0500_20260828_003448	Thank you. Kaldra must be waiting for you, so go on ahead.	고맙네. 칼드라가 자네를 기다리고 있을 테니 가보게.
+QUEST_LV_0500_20260828_003449	Monsters keep swarming in—are we really going to be alright like this, meow?	계속 몬스터들이 몰려오는데, 이대로 괜찮겠다냥?
+QUEST_LV_0500_20260828_003450	Lord Baubas. Is your work finished? The Revelator will arrive shortly.	바우바스님. 일은 끝나셨나요? 이제 곧 계시자가 도착할 겁니다.
+QUEST_LV_0500_20260828_003451	I tried to stall for a bit more time, but it was too much for me after all.	좀 더 시간을 끌어 보려 했지만, 역시 저로서는 무리였네요.
+QUEST_LV_0500_20260828_003452	There isn't even time to grieve.	슬퍼할 겨를도 없군.
+QUEST_LV_0500_20260828_003453	These are what the Elder sacrificed his life to protect. Until these eggs hatch safely, I will protect them. ...That is the duty of a survivor.	장로님이 목숨과 맞바꿔 지켜 낸 것들이다. 이 알들이 무사히 깨어날 때까지, 내가 지킨다. ……그게, 살아남은 자가 할 일이겠지.
+QUEST_LV_0500_20260828_003454	To think she was hiding such an identity...!	설마... 이런 정체를 숨기고 있을 줄이야...!
+QUEST_LV_0500_20260828_003455	Contract of Eternal Punishment	영벌의 계약
+QUEST_LV_0500_20260828_003456	The Elder's Request	장로의 부탁
+QUEST_LV_0500_20260828_003457	It doesn't seem like Reinas is lying.	레이나스가 거짓을 말하는 것 같지는 않다.
+QUEST_LV_0500_20260828_003458	Dragonkin Town	용족의 마을
+QUEST_LV_0500_20260828_003459	The Seven Seeds	일곱 개의 씨앗
+QUEST_LV_0500_20260828_003460	Gathering Shadows	몰려오는 그림자
+QUEST_LV_0500_20260828_003461	To The Last Nest	최후의 둥지로
+QUEST_LV_0500_20260828_003462	A Single Sacrifice	하나의 제물
+QUEST_LV_0500_20260828_003463	Our Choice	우리의 선택
+QUEST_LV_0500_20260828_003464	Revealed Claws	드러난 발톱
+QUEST_LV_0500_20260828_003465	Ominous Tremors	불길한 진동
+QUEST_LV_0500_20260828_003466	Laima's Oracle	라이마의 신탁
+QUEST_LV_0500_20260828_003467	Field of Ashes Expedition	재의 벌판의 탐사대
+QUEST_LV_0500_20260828_003468	Those Blocking the Path	길을 막는 것들
+QUEST_LV_0500_20260828_003469	Those Who Refuse to Be Forgotten	잊히기를 거부한 자들
+QUEST_LV_0500_20260828_003470	Approach the runestone.	문양석에 다가간다.
+QUEST_LV_0500_20260828_003471	A Suspicious Companion	수상한 동행자
+QUEST_LV_0500_20260828_003472	Before the Canyon of Oblivion	망각의 협곡 앞에서
+QUEST_LV_0500_20260828_003473	Severed Air	단절된 공기
+QUEST_LV_0500_20260828_003474	The Dragonkin Beyond the Barrier	결계 너머의 용족
+QUEST_LV_0500_20260828_003475	Talk to Dragonkin Elder Reinas	용족 장로 레이나스와 대화하기
+QUEST_LV_0500_20260828_003476	Elder Reinas reveals the truth 	레이나스 장로가 2000년 전 
+QUEST_LV_0500_20260828_003477	from 2000 years ago, and speak of the curse that Demon God Baubas 	의 진실을 들려줍니다. 그리고 마신 바우바스가 건 
+QUEST_LV_0500_20260828_003478	. You must listen to the story of how the Dragonkin were raised like livestock to yield despair.	. 용족이 어떻게 절망을 생산하는 가축으로 길러져 왔는지, 그 사연에 귀 기울여야 합니다.
+QUEST_LV_0500_20260828_003479	Talk to Dragonkin Guardian Kaldra	용족 수호자 칼드라와 대화하기
+QUEST_LV_0500_20260828_003480	Kaldra guides the Revelator to the village where the Dragonkin have lived.	칼드라가 계시자를 용족이 살아온 마을로 안내합니다.
+QUEST_LV_0500_20260828_003481	Reinas says he has something to tell the Revelator.	레이나스가 계시자에게 할 이야기가 있다고 합니다.
+QUEST_LV_0500_20260828_003482	A massive horde of hundreds of monsters is swarming toward this location.	수백 마리에 달하는 몬스터 대군이 이쪽으로 몰려옵니다.
+QUEST_LV_0500_20260828_003483	Once all the swarming monsters are defeated, El—who had vanished—calmly reappears. El reveals that it was they who alerted Belion about the monster attack, but the Revelator finds the impeccable timing rather suspicious.	몰려든 몬스터를 모두 물리치자, 자취를 감췄던 엘이 태연히 다시 나타납니다. 엘은 몬스터의 습격을 벨리온에게 알린 것이 자신이라 밝히지만, 계시자는 그 절묘한 타이밍이 어딘가 미심쩍습니다.
+QUEST_LV_0500_20260828_003484	Talk to Kaldra	칼드라와 대화하기
+QUEST_LV_0500_20260828_003485	Reinas is waiting for the Revelator in the Last Nest.	최후의 둥지 안에서 레이나스가 계시자를 기다리고 있습니다.
+QUEST_LV_0500_20260828_003486	El, who was blocked at the entrance, nonchalantly steps into the nest. You must fight El, who has shed her cat guise.	입구에서 막혔던 엘이 태연히 둥지 안으로 들어옵니다. 고양이의 탈을 벗은 엘과 맞서 싸워야 합니다.
+QUEST_LV_0500_20260828_003487	Battle with El	엘과 전투
+QUEST_LV_0500_20260828_003488	Unable to deliver the final blow at the last moment, Uriel barely manages to escape. Just as you take a breath, an ominous vibration reverberates from deep within the nest.	우리엘은 마지막 순간 숨통을 끊지 못해 가까스로 달아났습니다. 한숨 돌리려는 순간, 둥지 깊은 곳에서 불길한 진동이 전해집니다.
+QUEST_LV_0500_20260828_003489	Talk to Dragonkin Guardian Kaldra	용족 수호자 칼드라와 대화
+QUEST_LV_0500_20260828_003490	You received an oracle from Goddess Laima. Following the defeat of Zmei, 	라이마 여신의 신탁을 받았습니다. 즈메이 토벌 이후, 
+QUEST_LV_0500_20260828_003491	World's Edge	세계의 경계
+QUEST_LV_0500_20260828_003492	,an unidentified anomaly is being detected in this barren land. To uncover the origin of this phenomenon, which even the Goddess cannot fathom, you must first join the expedition team dispatched to the area	라 불리는 척박한 땅에서 정체불명의 이상현상이 감지되고 있습니다. 여신조차 그 정체를 가늠하지 못하는 이 현상의 근원을 밝히기 위해, 먼저 현지에 파견된 탐사대와 합류해야 합니다.
+QUEST_LV_0500_20260828_003493	Talk to Explorer Belion	탐사대원 벨리온과 대화하기
+QUEST_LV_0500_20260828_003494	You arrived at the Ash Wasteland and joined Belion of the expedition team. He reports that immediately after Zmei fell, surprisingly 	재의 벌판에 도착해 탐사대원 벨리온과 합류했습니다. 그는 즈메이가 쓰러진 직후 이 일대에서 놀랍게도 
+QUEST_LV_0500_20260828_003495	Dragon	용
+QUEST_LV_0500_20260828_003496	aura began to be detected in this area. According to ancient records, a portion of the Dragonkin were driven here to escape the slaughter by the Alliance of Gods and Demons in the past. You must investigate the east with the expedition team to confirm if they still survive.	의 기운이 감지되기 시작했다고 전합니다. 고문헌에 따르면 과거 신마 연합의 학살을 피해 일부 용족이 이곳으로 쫓겨났다고 합니다. 탐사대와 함께 동쪽을 조사해 그들이 아직 살아남아 있는지 확인해야 합니다.
+QUEST_LV_0500_20260828_003497	You try to push forward to the east of the wasteland, but swarming monsters block the way. At Belion's request, you must clear out the monsters in the area to help the expedition advance.	황야 동쪽으로 나아가려 하지만, 들끓는 몬스터들이 길을 가로막고 있습니다. 탐사대의 전진을 돕기 위해, 벨리온의 요청에 따라 일대의 몬스터를 정리해야 합니다.
+QUEST_LV_0500_20260828_003498	Defeat 50 Monsters in Field of Ashes	재의 벌판 몬스터 50마리 처치
+QUEST_LV_0500_20260828_003499	While advancing and defeating contaminated monsters, you discover a runestone inscribed with ancient script. Belion interprets that it is the language of ancient Dragonkin and it might mean  	오염된 몬스터들을 처치하며 나아가던 중, 아주 오래된 문자가 새겨진 문양석을 발견했습니다. 벨리온은 그것이 고대 용족의 언어이며, 
+QUEST_LV_0500_20260828_003500	The Dragonkin might still be surviving somewhere in this land. You must hurry and search the next area.	는 뜻일지도 모른다고 해석합니다. 이 땅 어딘가에 용족이 살아남아 있을지도 모릅니다. 다음 구역을 서둘러 탐색해야 합니다.
+QUEST_LV_0500_20260828_003501	The cat El, who had vanished after Zmei's defeat, reappears in this grim land. While surprised by the talking cat, Belion finds it suspicious that a beast unseen even by the expedition team after long investigation appeared at the exact moment the Revelator arrived.	즈메이 토벌 이후 자취를 감췄던 고양이 엘이 이 험악한 땅에 다시 나타났습니다. 벨리온은 말하는 고양이에 놀라면서도, 오랜 시간 이 일대를 조사해온 탐사대조차 본 적 없는 짐승이 하필 계시자가 도착하는 순간에 맞춰 나타난 점을 미심쩍어합니다.
+QUEST_LV_0500_20260828_003502	Talk to Belion	벨리온과 대화하기
+QUEST_LV_0500_20260828_003503	Just as with Zmei, El claims that her 	엘은 즈메이 때와 마찬가지로 자신의 
+QUEST_LV_0500_20260828_003504	meow-sensor	냥센서
+QUEST_LV_0500_20260828_003505	is reacting strongly and offers to guide the way. While the timing is suspiciously convenient, it is better to pursue the clues with El leading the way since they know the path. You must follow El.	가 강하게 반응한다며 길을 안내하겠다고 나섭니다. 타이밍이 너무 절묘해 찜찜하지만, 길을 아는 엘을 앞세워 단서를 쫓는 편이 낫겠습니다. 엘을 따라 이동해야 합니다.
+QUEST_LV_0500_20260828_003506	Ahead lies an uncharted area that even the expedition team failed to breach,  	눈앞은 탐사대조차 끝내 뚫지 못한 미식별 지역, 
+QUEST_LV_0500_20260828_003507	Belion says you must investigate the interior, but for some reason, El adamantly discourages entering,  	입니다. 벨리온은 이 안을 조사해야 한다지만, 엘은 어쩐 일인지 
+QUEST_LV_0500_20260828_003508	claiming	위험하다
+QUEST_LV_0500_20260828_003509	 it is dangerous.	며 한사코 진입을 말립니다.
+QUEST_LV_0500_20260828_003510	The interior of the Canyon of Oblivion is a space steeped in thousands of years of silence, seemingly severed entirely from the outside world. Upon entering, a horde of monsters pours out from the darkness as if they had been waiting. You must order Belion back and carve out the path yourself.	망각의 협곡 내부는 바깥 세계와 완전히 단절된 듯한, 수천 년의 침묵이 쌓인 공간입니다. 진입하자마자 마치 기다렸다는 듯 어둠 속에서 몬스터 무리가 일제히 쏟아져 나옵니다. 벨리온을 뒤로 물리고 직접 길을 뚫어야 합니다.
+QUEST_LV_0500_20260828_003511	After subduing the monsters, Belion discovers the runestone that forms the barrier surrounding the canyon.	마물들을 제압한 뒤, 벨리온이 협곡을 감싼 결계를 이루는 문양석을 발견합니다.

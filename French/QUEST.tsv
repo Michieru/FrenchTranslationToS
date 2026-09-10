@@ -15214,3 +15214,162 @@ QUEST_20260713_015363	{@st66d_y}{s25}[Avertissement]{/}{/}{nl}La limite d'acquis
 QUEST_20260713_015364	Félicitations ! Vous avez terminé la Roulette de la Déesse Par-delà l'arc-en-ciel !	무지개 다리 완주를 축하합니다!				[이벤트] 완주 성공!
 QUEST_20260730_015365	[Maître Exécuteur] Mort	[엑시큐터 마스터] 모르트				
 QUEST_20260730_015366	Rejette toute émotion. Seule l'exécution résolue est notre mission.	감정은 버려라. 오직 확실한 처형만이 우리의 임무다.				[엑시큐터 마스터] 모르트
+QUEST_20260828_015367	Sélectionnez un monstre à libérer.{nl}{#003399}Astuce !{/}{nl}Vous ne pouvez libérer qu'un monstre à la fois.{nl}Une fois libéré, 50 % de l'Énergie de monstre utilisée pour sa croissance de niveau vous sera remboursée.{nl}Le nouveau monstre capturé grandira à partir du Niv.1	방생할 몬스터를 선택해주세요.{nl}{#003399}Tip!{/}{nl}한 번에 1마리의 몬스터만 방생할 수 있습니다.{nl}방생 시 레벨 성장에 사용한 몬스터의 기운의 50%를 돌려받습니다.{nl}새로운 몬스터는 Lv.1부터 성장합니다.
+QUEST_20260828_015368	Libérer un monstre remboursera 50 % de l'Énergie de monstre utilisée pour sa croissance de niveau.{nl}Voulez-vous continuer ?	몬스터를 방생하면 레벨 성장에 사용한 몬스터의 기운의 50%를 돌려받습니다.{nl}진행하시겠습니까?
+QUEST_20260828_015369	Brisez les chaînes... contemplez l'essence. Sauveur, votre résonance a atteint mon cœur.	사슬을 끊고... 본질을 보라. 구원자여, 그대의 공명이 나의 심장에 닿았도다.
+QUEST_20260828_015370	La porte s'est ouverte ! Entrez dans le 	문이 열렸군! 이제 
+QUEST_20260828_015371	Sanctuaire de Résonance	공명의 성소
+QUEST_20260828_015372	 maintenant.	 로 들어가게나.
+QUEST_20260828_015373	À l'intérieur, vous ferez face à un pouvoir véritable.	그 안에서 진정한 힘과 마주하게 될 거야.
+QUEST_20260828_015374	L'écho de la Déesse, endormi au fond de ma Nature Sauvage... mettra votre âme à l'épreuve.	나의 야성 속에 잠든 여신의 메아리가... 그대의 영혼을 시험하리라.
+QUEST_20260828_015375	Inferno Zaura	인페르노 자우라
+QUEST_20260828_015376	La fausse enveloppe s'est réduite en cendres. Résonnez à présent, ne faisant plus qu'un avec ma véritable essence !	거짓된 껍데기는 모두 타버렸노라. 이제 나의 진정한 본질과 하나 되어 공명하라!
+QUEST_20260828_015377	...Ce n'est pas une écriture que je connais. Sauriez-vous, par hasard, la déchiffrer ?	…제가 아는 문자가 아니군요. 혹시 해독이 가능합니까?
+QUEST_20260828_015378	...Je n'en suis pas entièrement certain, mais il pourrait s'agir de la langue des anciens Draconides. Ses inscriptions ressemblent fortement aux archives des vieux textes que j'ai étudiés.	…확실하지는 않지만, 어쩌면 고대 용족의 언어일지도 모릅니다. 제가 봤던 고문헌에 남겨진 기록과 형태가 매우 유사하군요.
+QUEST_20260828_015379	...Traduit approximativement, cela donnerait à peu près : 	…어렴풋하게나마 해석해 보자면, 
+QUEST_20260828_015380	Nous refusons d'être oubliés.	우리는 잊히기를 거부한다
+QUEST_20260828_015381	ou quelque chose de similaire.	라는 뜻 같습니다.
+QUEST_20260828_015382	Il doit sûrement rester des Draconides quelque part dans cette zone. Dépêchons-nous d'explorer la zone suivante aussi.	어쩌면 이 지역 어딘가에 용족이 남아 있는 게 분명합니다. 서둘러 다음 구역도 탐색해 봅시다.
+QUEST_20260828_015383	El... ?	엘…?
+QUEST_20260828_015384	Expliquer El à Belion.	벨리온에게 엘에 대해 설명해 준다.
+QUEST_20260828_015385	(Rédigé dans une écriture illisible.)	(읽을 수 없는 문자가 적혀 있다)
+QUEST_20260828_015386	Miaou, Révélateur. On doit vraiment aller dans un endroit pareil, miaou ? Mon miaou-senseur me prévient d'un danger depuis un moment déjà, miaou.	냐, 계시자. 굳이 저런 데를 들어가야겠냥? 내 냥센서가 아까부터 위험하다고 경고하고 있다냥.
+QUEST_20260828_015387	Dangereux... ? Au contraire, ça ressemble plutôt à un signe qu'il y a quelque chose là-dedans.	위험하다…? 그건 반대로, 저 안에 뭔가 있다는 소리로 들리는데.
+QUEST_20260828_015388	Je viens de dire que c'est dangereux, pourquoi tu as l'air encore plus intéressé, miaou ?!	위험하다니까 왜 더 흥미롭다는 얼굴이 되는 거냥?!
+QUEST_20260828_015389	Je veux dire, y a-t-il une seule raison de risquer notre peau pour entrer là-dedans, miaou ?! Une odeur vraiment sinistre empeste depuis l'intérieur, miaou !	내 말은, 굳이 위험을 무릅쓰고 들어갈 까닭이 있냐는 거다냥. 저 안쪽에서 아주 흉악한 냄새가 짙게 풍긴다냥!
+QUEST_20260828_015390	D'accord, alors préviens-moi dès que tu sens que c'est dangereux, et on se retire aussitôt.	그럼 위험하다 느껴지면 바로 빠져나오는 걸로 하자.
+QUEST_20260828_015391	Donc voici... 	여기가... 
+QUEST_20260828_015392	 l'intérieur. L'air lui-même semble radicalement différent — comme complètement coupé du monde extérieur... Un silence immense, accumulé couche par couche pendant des milliers d'années.	 내부군요. 공기부터가 확연히 다릅니다. 바깥 세계와 완전히 단절된 듯한 느낌... 수천 년의 시간이 켜켜이 쌓여 만든 거대한 침묵이라고 해야 할까요.
+QUEST_20260828_015393	Argh, on dirait qu'il n'attendait que le moment où nous entrerions pour apparaître !	큭, 마치 우리가 진입하기만을 기다리고 있었다는 듯이 나타나는군요!
+QUEST_20260828_015394	Révélateur... Cet endroit est vraiment trop dangereux, je crois, miaou. Avant d'aller plus loin, on devrait peut-être chercher ailleurs d'abord, miaou...	계시자. 아무래도 여긴 역시 위험한 것 같다냥. 더 깊이 들어가기 전에, 차라리 다른 곳부터 찾아보는 게…
+QUEST_20260828_015395	Ceci, c'est... la pierre runique que nous avions vue aux Champs de Cendres. Au beau milieu de cette mêlée, comment avez-vous réussi à la trouver ?	이건… 재의 벌판에서 봤던 그 문양석이군요. 방금 그 난전 와중에, 이걸 어떻게 찾아내셨습니까?
+QUEST_20260828_015396	Ce n'est pas moi qui l'ai trouvée. El, ce chat, rôdait juste devant.	제가 찾아낸 게 아닙니다. 엘, 그 고양이가 이 앞을 어슬렁거리더군요.
+QUEST_20260828_015397	El ? ...D'ailleurs, où est donc passé ce chat ?	엘이요? …그런데 정작 그 녀석은 어디 갔습니까?
+QUEST_20260828_015398	Eh bien... il a disparu en disant qu'il allait jeter un œil aux alentours.	글쎄요. 주변을 좀 더 둘러보고 오겠다며 사라졌습니다.
+QUEST_20260828_015399	...Ah bon ? Quoi qu'il en soit, une énergie magique inconnue semble parcourir la surface de cette pierre runique.	…그런가요? 그나저나 이 문양석의 겉면에 알 수 없는 마력이 흐르는 것 같네요.
+QUEST_20260828_015400	Oui. Je n'en suis pas encore tout à fait certain... mais il semble que cette pierre runique forme 	네. 아직 확언할 순 없지만… 이 문양석이 협곡 전체를 감싸는 
+QUEST_20260828_015401	qui enveloppe tout le canyon. Comme si quelqu'un l'avait créée pour protéger ce qui se trouve à l'intérieur...	를 형성하고 있는 것 같습니다. 마치 누군가 이 안쪽을 보호하기 위해...
+QUEST_20260828_015402	Kaldra, Gardien des Draconides	용족 수호자 칼드라
+QUEST_20260828_015403	Recule ! Dire que les sbires de Baubas ont fini par nous traquer jusqu'ici ! Moi, Kaldra, je vais te réduire en pièces de mes propres mains !	물러서라! 바우바스의 앞잡이들이 끝내 여기까지 찾아오다니! 이 칼드라가 직접 찢어발겨 주마!
+QUEST_20260828_015404	 ...Baubas ? Je ne suis en rien son sbire.	 …바우바스? 저는 그자의 앞잡이가 아닙니다.
+QUEST_20260828_015405	Ha ! Et pourtant, un humain se pointe ici à un moment pareil !? Tu crois vraiment que je vais gober ça !	하! 그런데 인간이 이 시기에 이곳에 찾아왔다고!? 그걸 내가 믿을 것 같나!
+QUEST_20260828_015406	Reinas, Aînée des Draconides	용족 장로 레이나스
+QUEST_20260828_015407	Ça suffit, Kaldra. Il semble bien que celui-ci ne soit pas un sbire de Baubas.	그만해라, 칼드라. 정말로 바우바스의 앞잡이는 아닌 듯 하구나.
+QUEST_20260828_015408	Aînée ! Comment pouvez-vous croire cela si facilement !	장로님! 그 말을 어찌 믿어주시는 것입니까!
+QUEST_20260828_015409	Ne le sens-tu pas, Kaldra ? L'aura qui émane de cet être. Elle a la même texture que cette onde immense qui a atteint le fond de cette vallée voici quelques jours.	느껴지지 않느냐, 칼드라. 이 자에게서 흐르는 기운. 며칠 전 이 깊은 계곡까지 전해진 그 거대한 파문과 같은 결이다.
+QUEST_20260828_015410	C'est sans doute lui, le Révélateur qui a vaincu Zmei.	아마, 이 자가 바로 즈메이를 쓰러뜨린 계시자겠지
+QUEST_20260828_015411	Vraiment... ? Cet humain serait-il réellement le Révélateur qui a terrassé Zmei ?	정말… 이 인간이 즈메이를 쓰러뜨린 그 계시자란 말입니까?
+QUEST_20260828_015412	En effet. Alors recule, Kaldra. De toute façon, nous n'avons pas la force de l'arrêter. Et puis... c'est justement maintenant que nous avons besoin de cette force. Un humain qui suit la Déesse devrait être capable d'arrêter Baubas.	그래. 그러니 물러나거라, 칼드라. 어차피 우리에겐 저자를 막을 여력도 없다. 그리고… 지금은 오히려 그 힘이 필요한 때지. 여신을 따르는 인간이라면, 바우바스를 막아 세울 수 있을 테니.
+QUEST_20260828_015413	Étranger. Pardonnez notre impolitesse d'avoir pointé nos lances sur vous. Nous avons... une très longue histoire à vous raconter.	외부인이여. 창을 겨눈 무례는 용서하게. 우리에겐 그대에게 들려주어야 할… 아주 긴 이야기가 있다.
+QUEST_20260828_015414	Kaldra m'en a parlé. Y a-t-il quelque chose que vous souhaitiez me dire ?	칼드라에게 들었습니다. 무슨 하실 말씀이라도?
+QUEST_20260828_015415	Nous avons un problème ! Une horde massive de monstres déferle sur nous ! Il y en a facilement plusieurs centaines !	큰일 났습니다! 몬스터 대군이 이쪽으로 몰려오고 있습니다! 수백 마리는 족히 됩니다!
+QUEST_20260828_015416	...Plus tôt que prévu. 	...예상보다 빠르군. 
+QUEST_20260828_015417	Quoi ? Vous vous attendiez à cette situation ?	네? 지금 이 상황을 예상하고 있던 겁니까?
+QUEST_20260828_015418	En effet. Quoi qu'il en soit, merci de nous avoir prévenus, mais nous ne pouvons abandonner ce lieu pour fuir.	그렇네. 아무튼, 이렇게 소식을 알려준 건 고맙지만, 이곳을 버리고 달아날 수는 없네.
+QUEST_20260828_015419	Mais nous n'avons pas de temps à perdre ! Si nous restons ici, nous allons être encerclés !	하지만 머뭇거릴 시간이 없습니다! 이대로 있다간 포위당하고 맙니다!
+QUEST_20260828_015420	Calme-toi, humain. Nous ne pouvons quitter cette terre. Même si nous devions y laisser la vie aujourd'hui.	진정해라, 인간. 우리는 이 땅을 떠날 수 없다. 설령 오늘 죽더라도.
+QUEST_20260828_015421	Qu'est-ce que vous ...	그게 무슨...
+QUEST_20260828_015422	Aînée, nous devons nous rendre au Dernier Nid sur-le-champ.	장로님, 어서 최후의 둥지로 이동하시죠.
+QUEST_20260828_015423	En effet. Nous devons protéger les œufs. Révélateur, je suis désolé, mais pourrais-tu nous faire gagner un peu de temps ?	그래야겠지. 알들을 지켜야 하니. 계시자, 미안하지만 시간 좀 끌어 줄 수 있겠나?
+QUEST_20260828_015424	El. Où étais-tu, et qu'est-ce que tu faisais tout ce temps ?	엘. 그동안 어디서 뭘 하고 있었어?
+QUEST_20260828_015425	Tu es revenu vivant. ...Alors tu es vraiment l'humain qui a vaincu Zmei.	살아서 돌아왔군. ...역시 즈메이를 쓰러뜨린 인간이라는 건가.
+QUEST_20260828_015426	Où est l'Aînée ?	장로 님은요?
+QUEST_20260828_015427	Elle est à l'intérieur. Je montais la garde à l'entrée pour te guider. ...Mais, qu'est-ce que c'est que cette bête à tes côtés ?	안에 계신다. 나는 자넬 안내하려 입구를 지키고 있었지. ...한데, 곁에 있는 그 짐승은 뭐지?
+QUEST_20260828_015428	Enchanté de te rencontrer, miaou ! Je suis El, miaou. Je pourrais entrer aussi, miaou ?	반갑다냥! 나는 엘이라고 한다냥. 혹시 나도 같이 들어가도 될까냥?
+QUEST_20260828_015429	Non.	안 된다.
+QUEST_20260828_015430	Miaou ?! Pourquoi pas, miaou ?! Le Révélateur et moi, on est les meilleurs amis du monde, miaou !	냥?! 어째서다냥? 나는 계시자랑 아주 친한 사이다냥!
+QUEST_20260828_015431	À mes yeux, tu n'es rien de plus qu'une bête d'origine inconnue. Nous n'avons pas la marge de laisser entrer dans notre nid ce qui a surgi de nulle part.	내 눈에 너는 그저 정체 모를 짐승일 뿐이다. 어디서 솟아났는지도 모를 것을 둥지에 들일 만큼, 우리에게 여유는 없다.
+QUEST_20260828_015432	Révélateur ! Dis quelque chose pour m'aider, miaou !	계시자! 너도 뭐라고 말 좀 해보라냥!
+QUEST_20260828_015433	...Révélateur ?	...계시자?
+QUEST_20260828_015434	El, reste en retrait un moment. Le maître de ce lieu a dit non, alors je ne peux pas vraiment insister.	엘. 잠시 떨어져 있어. 이곳의 주인이 안 된다는데, 내가 억지로 밀어붙일 수는 없잖아.
+QUEST_20260828_015435	Miaaaou...? 	냐아앙...? 
+QUEST_20260828_015436	Belion ?	벨리온?
+QUEST_20260828_015437	Où sommes-nous ?	여기는 어딘가요?
+QUEST_20260828_015438	Comme tu peux le voir, nos œufs de Draconide dorment ici. Ils n'ont pas éclos depuis plus de deux mille ans, comme je te l'ai dit.	자네도 보다시피, 이곳엔 우리 용족의 알이 잠들어 있네. 말했듯 2000년이 넘도록 끝내 부화하지 못한 채로 말이야.
+QUEST_20260828_015439	Nous savions qu'un jour comme celui-ci viendrait. Aussi, si nous étions acculés, Kaldra et moi avions l'intention de sacrifier nos vies pour sceller tout cet espace avec les œufs — hors de portée de Baubas.	언젠가 이런 날이 오리란 걸, 우린 알고 있었네. 하여 막다른 순간이 오면 나와 칼드라, 두 목숨을 바쳐 이 공간째 알들을 봉인할 작정이었지. 바우바스의 손이 닿지 않도록.
+QUEST_20260828_015440	...Mais tu es venu, Révélateur.	...허나 자네가 왔어, 계시자.
+QUEST_20260828_015441	Avec ta force, tu pourrais bien être capable de protéger les derniers œufs des Draconides de la malveillance de Baubas — même sans recourir à un scellement.	자네라면 봉인을 하지 않더라도 용족의 마지막 알들을 바우바스의 악의로부터 지켜 줄 수 있겠지.
+QUEST_20260828_015442	Grâce à toi, j'ai changé d'avis. Plutôt que de perdre Kaldra en vain, j'offrirai ma propre vie en sacrifice pour briser cette malédiction.	덕분에 마음을 바꿨네. 칼드라까지 헛되이 잃느니, 내 한 목숨을 제물로 저 저주를 풀어 보려 하네.
+QUEST_20260828_015443	En êtes-vous vraiment certain ?	정말로 괜찮겠습니까?
+QUEST_20260828_015444	Qui sait ? C'est un chemin que je n'ai encore jamais parcouru.	모르지. 한 번도 가 보지 못한 길이니.
+QUEST_20260828_015445	De toute façon, Baubas n'a aucune intention de nous laisser en vie. Tout comme il a recueilli le dernier souffle de désespoir de Zmei, c'est maintenant notre tour.	어차피 바우바스는 더는 우리를 살려 둘 마음이 없네. 즈메이에게서 마지막 절망까지 거둬 갔듯, 이제 우리 차례인 게지.
+QUEST_20260828_015446	Alors, si cette vie doit s'éteindre de toute façon... je veux consacrer ses derniers instants à ces petits.	그러니 어차피 스러질 목숨이라면... 그 마지막 순간만은, 저 아이들을 위해 쓰고 싶군.
+QUEST_20260828_015447	Alors je te demande ceci, Révélateur.	그러니 부탁하네, 계시자.
+QUEST_20260828_015448	Si ma tentative réussit, levant la malédiction et réveillant les œufs... je t'en prie, protège ces derniers enfants de la malveillance de Baubas.	혹시라도 내 시도가 성공하여 저주가 풀려 알들이 깨어나거든 바우바스의 악의로부터, 부디 저 마지막 아이들을 지켜 주게.
+QUEST_20260828_015449	Êtes-vous en train de me dire que vous me faites confiance, maintenant ?	지금, 저를 믿으시겠다는 겁니까?
+QUEST_20260828_015450	En effet. S'il s'agit d'un humain qui suit les Déesses que j'ai connues... ne mériterait-il pas qu'on lui confie notre fin ?	그렇다네. 적어도 내가 알던 그 여신들을 따르는 인간이라면... 마지막을 맡겨 볼 만하지 않겠나.
+QUEST_20260828_015451	Kaldra ignore tout de ceci, n'est-ce pas ?	칼드라는 이 사실을 모르고 있는 거죠?
+QUEST_20260828_015452	Ne lui dis rien. Il essaierait sûrement de m'en empêcher.	그 녀석에게는 말하지 말게나. 분명 하지 말라 할 테니.
+QUEST_20260828_015453	Alors voilà où cela nous mène, en fin de compte. Mais peut-être est-ce mieux ainsi — plutôt que de s'accrocher à la vie comme un jouet entre les mains de Baubas...	결국, 이렇게 되는군. 하지만 차라리 이편이 나을지도 모르지. 바우바스의 장난감 노릇이나 하며 목숨을 잇느니...
+QUEST_20260828_015454	Ne me regarde pas comme ça. Ceci aussi, c'est un chemin que nous avons choisi nous-mêmes.	그렇게 쳐다보지 마라. 이것 역시 우리가 스스로 택한 길이니.
+QUEST_20260828_015455	...À bien y penser, où est passé Belion ?	...그러고 보니, 벨리온은 어디로 갔습니까?
+QUEST_20260828_015456	J'ai envoyé cet humain dehors. S'il était resté ici, il se serait fait prendre dans les combats et tué.	그 인간은 밖으로 내보냈다. 여기 남았다간 싸움에 휘말려 죽을 테니까.
+QUEST_20260828_015457	Heureusement, il y avait un passage pour faire sortir un humain discrètement, alors je l'ai envoyé par là.	다행히 인간 하나쯤 몰래 빼낼 통로는 있어, 그리로 보냈지.
+QUEST_20260828_015458	Les voilà qui arrivent.	녀석들이 왔군.
+QUEST_20260828_015459	El ?	엘?
+QUEST_20260828_015460	On va faire ce qu'on peut. Au fait, pourquoi es-tu entré ici ?	할 수 있는 데까진 해봐야지. 그나저나 여긴 왜 들어왔어.
+QUEST_20260828_015461	Ben, pour aider, bien sûr, miaou !	그야, 도와주러 왔다냥!
+QUEST_20260828_015462	Pour aider ? Qu'est-ce qu'un simple chat comme toi pourrait bien faire ?	도와주러 왔다? 한낱 고양이 따위가 무얼 돕겠다는 거지.
+QUEST_20260828_015463	Retourne d'où tu viens, tout de suite. Ce n'est pas un endroit pour toi. 	어서 돌아가라. 이곳은 네가 있을 곳이 아니다. 
+QUEST_20260828_015464	Tu n'as pas entendu ? En cas d'urgence, on a besoin de toutes les mains — ou pattes — disponibles, miaou !	급할 땐 고양이 손이라도 빌린다는 말, 모르냥?
+QUEST_20260828_015465	 Arrête tes jeux de mots, bête. Je ne t'ai jamais permis de mettre un pied ici, dès le départ	 말장난 집어치워라, 짐승. 애초에 나는 네가 이 안에 드는 걸 허락한 적 없다.
+QUEST_20260828_015466	Han, han ! Révélateur ! Quelque chose de terrible est arrivé !	헉, 헉! 계시자님! 큰일 났습니다!
+QUEST_20260828_015467	Belion ? Je pensais que tu étais sorti d'ici... Pourquoi es-tu revenu ?	벨리온? 분명 이곳을 빠져나갔을 텐데, 어째서?
+QUEST_20260828_015468	Vous devez m'écouter ! Vous ne pouvez faire confiance à un seul mot de ce que dit ce chat !	드릴 말씀이 있습니다! 지금, 저 고양이의 말을 믿어선 안 됩니다!
+QUEST_20260828_015469	Je l'ai vu de mes propres yeux ! El — cette créature mène les monstres droit jusqu'à nous — !	제가 두 눈으로 똑똑히 봤습니다! 엘, 저것이 몬스터들을 이쪽으로—!
+QUEST_20260828_015470	La ferme, miaou. Je me demandais où tu avais disparu... alors il y avait bien un autre passage, miaou ? 	시끄럽다냥. 그새 어디로 사라졌나 했더니, 역시 다른 통로가 있었던 거다냥? 
+QUEST_20260828_015471	El. Alors tu manigançais bien quelque chose, en fin de compte.	엘. 역시, 뭔가 꿍꿍이가 있었구나?
+QUEST_20260828_015472	Toi aussi tu avais des soupçons, Révélateur, miaou ? 	역시 계시자도 짐작하고 있었다냥? 
+QUEST_20260828_015473	À la base, je comptais te duper bien tranquillement, miaou. Je ne m'attendais pas à ce que le Révélateur me suive jusqu'ici, miaou. Grâce à toi, mes plans sont complètement ruinés, miaou.	원래는 좀 더 얌전히 속여 넘길 생각이었는데. 계시자가 이런 곳까지 따라 들어올 줄은 몰랐다냥. 덕분에 계획이 다 틀어졌다냥.
+QUEST_20260828_015474	C'est donc ça, ta vraie forme ?	그게 네 본모습이야?
+QUEST_20260828_015475	C'est ça, mia— Ah, inutile de continuer cette comédie. C'est exact. Voici ma véritable forme.	맞다냥— 아, 이젠 이럴 필요 없지. 맞아요. 이게 제 진짜 모습이죠.
+QUEST_20260828_015476	...Est-ce que Baubas est derrière tout ça ?	...이러는 이유는 역시 바우바스 때문이겠지?
+QUEST_20260828_015477	Qui sait ? Je suppose que c'est à vous de le découvrir par vous-même, désormais, Révélateur.	글쎄요? 그건 이제부터 계시자가 직접 알아봐야겠죠?
+QUEST_20260828_015478	...Tu l'as achevé ?	...해치운 건가?
+QUEST_20260828_015479	Non. Malheureusement, il semble qu'il nous ait échappé à la toute dernière seconde.	아니요. 아쉽지만, 마지막에 놓친 것 같습니다.
+QUEST_20260828_015480	Dire que ce chat cachait un tel pouvoir...	설마 그 고양이가, 저런 힘을 숨기고 있었을 줄이야.
+QUEST_20260828_015481	Quoi qu'il en soit, nous avons déjoué son plan pour l'instant, alors on peut pousser un soupir de—	그래도 일단 녀석의 계략은 막았으니, 그나마 한시름—
+QUEST_20260828_015482	C'est... ! Ne me dis pas— !	이건...! 설마—!
+QUEST_20260828_015483	Ancien—!	장로님—!
+QUEST_20260828_015484	Quel dommage, El.	아쉽게 되었구나, 엘.
+QUEST_20260828_015485	Quelque chose ne va pas ?	무언가 잘못되었나요?
+QUEST_20260828_015486	Le désespoir que nous avons extrait est incomplet. Après avoir attendu deux mille ans... ne recevoir qu'une pitance à moitié faite.	뽑아낸 절망이 불완전하다. 기껏 2000년을 기다렸거늘... 고작 이런 반쪽짜리 양식이라니.
+QUEST_20260828_015487	Est-ce aussi à cause du Révélateur... ?	그것도 역시 계시자 때문이겠죠...?
+QUEST_20260828_015488	Sans doute. Ce n'est guère satisfaisant, mais je m'en contenterai pour aujourd'hui et me retirerai.	아마 그렇겠지. 마음에 차진 않지만, 오늘은 이걸로 만족하고 물러나야겠다.
+QUEST_20260828_015489	Que ferez-vous des œufs restants ici ?	여기 남은 알들은 어찌하시겠습니까?
+QUEST_20260828_015490	Laisse-les. Quoi qu'ait fait Reinas juste avant de mourir, ils sont dans un état qu'on ne peut manipuler à la légère. Une lutte vaine, de toute façon.	놔두어라. 레이나스가 죽기 직전까지 무슨 짓을 해 놓았는지, 함부로 건드릴 수 없는 상태다. 어차피 쓸모없는 발버둥이었지만.
+QUEST_20260828_015491	En effet, du moment qu'ils sont frappés par la malédiction du Seigneur Baubas, ce sont pratiquement des œufs morts de toute façon.	하기야, 바우바스님의 저주에 걸린 이상 사실상 죽은 알들이나 다름없으니까요.
+QUEST_20260828_015492	S'accrocher tout ce temps sans jamais renoncer, pour protéger ce qui est déjà perdu... Quelle bêtise.	이미 끝난 것들을 지키겠다고 그 오랜 세월을 포기하지 않고 버티다니. 어리석군요.
+QUEST_20260828_015493	C-Ce n'est pas possible...! Ancien !	이, 이럴 수가! 장로님!
+QUEST_20260828_015494	...El n'était qu'un leurre depuis le début. 	...엘은 미끼였군요. 
+QUEST_20260828_015495	Argh...! Baubas...!	크윽...! 바우바스...!
+QUEST_20260828_015496	Qu'est-ce que c'est, à la fin... ?	이건 도대체?
+QUEST_20260828_015497	Pourquoi une malédiction qui n'avait pas bougé depuis des milliers d'années le ferait-elle soudain... ?	수천 년 동안 꿈쩍도 않던 저주가 갑자기 왜...?
+QUEST_20260828_015498	...Tu savais, n'est-ce pas ? Ce que l'Ancien s'apprêtait à faire.	...자네는, 알고 있었군. 장로님이 무엇을 하려 하셨는지.
+QUEST_20260828_015499	...Plutôt qu'un sceau, l'Ancien a choisi de briser la malédiction au prix de sa propre vie. Pour vous garder en vie, et pour réveiller ces enfants.	...장로님은 봉인 대신, 자신의 목숨으로 저주를 푸는 길을 택하셨습니다. 당신을 살리고, 이 아이들을 깨우기 위해서.
+QUEST_20260828_015500	...C'est donc pour ça qu'il m'a retenu à l'extérieur. Avec l'intention de tout porter seul depuis le début.	...그래서 나를 바깥에 묶어 두셨던 건가. 처음부터, 혼자 짊어질 작정으로.
+QUEST_20260828_015501	(Il semble avoir perdu sa couleur d'origine, teinté de noir absolu par la malédiction de Baubas.)	(바우바스의 저주로 인해 본래 색을 잃고 검게 물들어버린 듯한 모습이다)
+QUEST_20260828_015502	(Le sacrifice de Reinas ne semble pas avoir été totalement vain...)	(레이나스의 희생이 의미가 없지는 않은 듯하다...)
+QUEST_20260828_015503	Je n'ai rien à dire aux humains...	인간과 할 말은 없다...
+QUEST_20260828_015504	Message d'Entrée Ailes de la Fausse Radiance	거짓된 광휘의 날개 입장 메세지
+QUEST_20260828_015505	Les membres du groupe ou les joueurs ayant utilisé la Correspondance Auto peuvent entrer ensemble dans Ailes de la Fausse Radiance : Déesse (Niveau recommandé : Niv. 560).	거짓된 광휘의 날개: 가디스 레이드 (권장레벨:560)는 자동 매칭이나 당신과 파티를 맺은 플레이어와 함께 입장할 수 있습니다.
+QUEST_20260828_015506	Message d'Entrée Ailes du Jugement Déchu	타락한 심판의 날개 입장 메세지
+QUEST_20260828_015507	Les membres du groupe ou les joueurs ayant utilisé la Correspondance Auto peuvent entrer ensemble dans Ailes du Jugement Déchu : Déesse (Niveau recommandé : Niv. 560).	타락한 심판의 날개: 가디스 레이드 (권장레벨:560)는 자동 매칭이나 당신과 파티를 맺은 플레이어와 함께 입장할 수 있습니다.
+QUEST_20260828_015508	Kaldra	칼드라
+QUEST_20260828_015509	Je sens une présence puissante... Révélateur, es-tu prêt ?	강력한 기운이 느껴진다... 계시자, 준비는 되었나?
+QUEST_20260828_015510	Vous êtes entré(e) dans l'Enquête des Jarres de Fedimian.{nl}Détruisez des jarres pendant 2 minutes pour gagner du score de groupe.{nl}Les points obtenus varient selon le type de jarre et le combo personnel.	항아리 대박 수색전에 입장하셨습니다.{nl}2분 동안 항아리를 파괴해 파티 점수를 획득하세요.{nl}항아리 종류와 개인 콤보에 따라 획득 점수가 달라집니다.
+QUEST_20260828_015511	{#003399}Enquête des Jarres de Fedimian{/} !{nl}Visez le meilleur score de groupe pendant 2 minutes, sans limite d'entrées.	{#003399}항아리 대박 수색전{/}!{nl}입장 횟수 제한 없이 2분 동안 파티 점수에 도전하세요.
+QUEST_20260828_015512	{#003399}Enquête des Jarres de Fedimian{/} organisée à Fedimian !{nl}Trouvez des jarres seul(e) ou en groupe pendant 2 minutes pour accumuler du score de groupe.	페디미안에서 열리는 {#003399}항아리 대박 수색전{/}!{nl}혼자 또는 파티와 함께 2분 동안 항아리를 찾아 파티 점수를 쌓으세요.
+QUEST_20260828_015513	[Guide des Jarres]{nl}- {#ffffff}{ol}Jarre Normale{/}{/} : points de base et maintient le combo personnel{nl}- {#ffd700}{ol}Jarre Dorée{/}{/} : plus longue à détruire, mais rapporte de nombreux points et une Bourse Porte-bonheur{nl}- {#ba55d3}{ol}Jarre Suspecte{/}{/} : accorde des récompenses, ou réinitialise le combo personnel et ralentit{nl}- {#00ced1}{ol}Jarre Bénie{/}{/} : buff de Vitesse de Déplacement et points	[항아리 안내]{nl}- {#ffffff}{ol}일반 항아리{/}{/}: 기본 점수와 개인 콤보 유지{nl}- {#ffd700}{ol}황금 항아리{/}{/}: 파괴 시간이 길지만 높은 점수와 복주머니{nl}- {#ba55d3}{ol}수상한 항아리{/}{/}: 보상 또는 개인 콤보 초기화와 감속{nl}- {#00ced1}{ol}축복 항아리{/}{/}: 이동 속도 버프와 점수
+QUEST_20260828_015514	Si chaque personnage détruit la prochaine jarre dans les 8 secondes, son combo personnel augmente, et les points gagnés s'ajoutent au score de groupe.{nl}Les récompenses de score de groupe accordent 15/30/50/70/90/120 Bons de Grand Festival selon 0/200/400/600/800/1 000 points.{nl}Les récompenses ne sont distribuées qu'aux personnages ayant personnellement détruit au moins 1 jarre et n'étant pas restés inactifs pendant une durée prolongée.	각 캐릭터가 8초 안에 다음 항아리를 파괴하면 개인 콤보가 올라가며, 획득 점수는 파티 점수에 합산됩니다.{nl}파티 점수 보상은 0/200/400/600/800/1000점을 기준으로 대축제 교환권 15/30/50/70/90/120개입니다.{nl}항아리를 1회 이상 직접 파괴하고 장시간 미이동 상태가 아닌 캐릭터에게만 지급됩니다.
+QUEST_20260828_015515	[Limite d'Obtention]{nl}- Bon de Grand Festival : Hebdomadaire 2 500{nl}- Bon de Grand Festival : Total 7 000{nl}- Bourse Porte-bonheur : Max. 100{nl}※ Les limites d'obtention hebdomadaires se réinitialisent chaque lundi à 6 h.{nl}※ Les défis d'entrée et de score restent disponibles après avoir atteint les limites.	[획득 제한]{nl}- 대축제 교환권 주간 2,500개{nl}- 대축제 교환권 이벤트 전체 7,000개{nl}- 복주머니 최대 100개{nl}※ 주간 획득량은 매주 월요일 오전 6시에 초기화됩니다.{nl}※ 한도 달성 후에도 입장과 점수 도전은 가능합니다.
+QUEST_20260828_015516	Entrée dans {#003399}l'Enquête des Jarres de Fedimian{/}.{nl}Il n'y a pas de limite d'entrées, et vous pouvez entrer immédiatement seul(e) ou avec votre groupe actuel.	{#003399}항아리 대박 수색전{/}에 입장합니다.{nl}입장 횟수 제한이 없으며 혼자 또는 현재 파티와 즉시 입장할 수 있습니다.
+QUEST_20260828_015517	La limite de temps est de 2 minutes. Détruisez des jarres en continu pour maintenir votre combo personnel, et visez les Jarres Dorées/Bénies pour augmenter votre score de groupe.{nl}À la fin, des Bons de Grand Festival sont distribués selon le score de groupe, et vous devez détruire personnellement au moins 1 jarre pour recevoir des récompenses.{nl}Les défis d'entrée et de score restent disponibles après avoir atteint les limites d'obtention.	제한 시간은 2분입니다. 항아리를 연속으로 파괴해 개인 콤보를 유지하고, 황금·축복 항아리를 노려 파티 점수를 올리세요.{nl}종료 시 파티 점수에 따라 대축제 교환권이 지급되며, 항아리를 1회 이상 직접 파괴해야 보상을 받을 수 있습니다.{nl}획득 한도 달성 후에도 입장과 점수 도전은 가능합니다.
+QUEST_20260828_015518	Participez à {#003399}l'Enquête des Jarres de Fedimian{/} !{nl}{#FF0000}※ Les personnages de moins de Niv. 50 ne peuvent pas participer.{/}	{#003399}항아리 대박 수색전{/}에 참여하세요!{nl}{#FF0000}※50레벨 미만의 캐릭터는 참여할 수 없습니다.{/}
+QUEST_20260828_015519	Ouvrir la Boutique d'Échange de {#003399}l'Enquête des Jarres de Fedimian{/}.	{#003399}항아리 대박 수색전{/} 교환 상점을 엽니다.
+QUEST_20260828_015520	L'ardeur guerrière qui bouillonne en toi est-elle prête à résonner avec l'entité qui se trouve au-delà ? Si tu es prêt à ne pas reculer même devant les flammes qui consument la chair, frappe aux portes du sanctuaire.	네 안의 끓어오르는 투기가 저 너머의 존재와 공명할 준비가 되었는가? 육신을 태우는 불꽃 앞에서도 물러서지 않을 각오가 섰다면, 성소의 문을 두드려라.
+QUEST_20260828_015521	[Sanctuaire de Résonance]{nl}1.  Vaincre Zaura dans le Sanctuaire de Résonance pour résonner avec lui.{nl}  - Le boss est renforcé selon le niveau de difficulté défini. La difficulté peut être réglée du Niveau 1 au Niveau 10.{nl}2.  L'entrée est possible à partir du Niv.550.{nl}3.  La quantité de récompenses fournies varie selon le nombre de Points de Résonance obtenus.	[공명의 성소 - 자우라]{nl}1.  공명의 성소에 등장한 자우라를 처치하여서 자우라와 공명하세요.{nl}  - 설정 난이도 단계에 따라 보스가 강화됩니다. 단계는 1단계부터 10단계까지 설정할 수 있습니다.{nl}2.  입장은 Lv.550 부터 가능합니다.{nl}3.  공명 포인트를 획득량에 따라 제공되는 보상 수량이 변경됩니다.
+QUEST_20260828_015522	[Événement] PNJ Mémoire d'El	[이벤트] 엘의 기억 NPC
+QUEST_20260828_015523	. Comme tu peux le voir, un être vraiment spécial.{nl}Si on mettait notre combat en pause pour l'instant ?	. 보다시피 아주 특별한 존재지.{nl}싸움은 잠시 미루도록 할까.
+QUEST_20260828_015524	Le regard de l'Unlocker suit la cible.	언낙커의 시선이 대상을 쫓습니다.
+QUEST_20260831_015525	{@st66d_y}{s25}[Infos de l'Événement]{/}{/}{nl}{nl}1.  Vous pouvez échanger des Fragments de Mémoire d'El contre d'autres objets dans la boutique.{nl}2.  Les objets obtenus dans cette boutique ne peuvent être déplacés que vers le Coffre d'Équipe.{nl}3.  Dans l'onglet Démantèlement de Costume, vous pouvez démanteler les Costumes Mémoire d'El pour obtenir des Fragments de Mémoire.{nl}4.  Une fois la période de l'événement terminée, utiliser des Fragments de Mémoire accordera Insigne de Mercenaire : 10 000.	{@st66d_y}{s25}[이벤트 안내]{/}{/}{nl}{nl}1.  엘의 기억조각을 상점 내 다른 아이템으로 교환할 수 있습니다.{nl}2.  본 상점에서 획득하는 아이템은 팀 창고 이동만 가능합니다.{nl}3.  코스튬 분해 탭에서는 엘의 기억 코스튬을 분해하여 기억조각을 획득할 수 있습니다.{nl}4.  기억조각은 이벤트 기간이 종료되면 사용 시 용병단 증표 : 10,000을 획득합니다.

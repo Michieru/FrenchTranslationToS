@@ -26381,3 +26381,125 @@ SKILL_20260730_026380	[Grim Shackle: Enhance] Attribute Lv.65	[그림 섀클: �
 SKILL_20260730_026381	[Death Sentence: Enhance] Attribute Lv. 65	[데스 센텐스: 강화] 특성 65 레벨 달성				
 SKILL_20260730_026382	[Abyssal Flurry: Enhance] Attribute Lv. 65	[어비셜 플러리: 강화] 특성 65 레벨 달성				
 SKILL_20260730_026383	[Abyssal Oculus: Enhance] Attribute Lv. 65	[어비셜 오큘러스: 강화] 특성 65 레벨 달성				
+SKILL_20260828_026384	Weapon Swing 1	무기 휘두르기 1
+SKILL_20260828_026385	Weapon Swing 2	무기 휘두르기 2
+SKILL_20260828_026386	Weapon Slam	무기 내려찍기
+SKILL_20260828_026387	Backstep	후방 이동
+SKILL_20260828_026388	Falling Ray of Light	추락하는 빛줄기
+SKILL_20260828_026389	Light of Judgement	심판의 빛
+SKILL_20260828_026390	Wings of Light and Darkness	빛과 어둠의 날개
+SKILL_20260828_026391	Halo	헤일로
+SKILL_20260828_026392	Soul Shackle	영혼 속박
+SKILL_20260828_026393	Soul Collapse	영붕괴
+SKILL_20260828_026394	Homing Ray of Light	추적하는 빛줄기
+SKILL_20260828_026395	Revolving Ray of Light	회전하는 빛줄기
+SKILL_20260828_026396	Ring of Light and Darkness	빛과 어둠의 고리
+SKILL_20260828_026397	Border of Light and Darkness	빛과 어둠의 경계
+SKILL_20260828_026398	Falling Ray of Light 2	추락하는 빛줄기2
+SKILL_20260828_026399	Tide of Light	빛의 해일
+SKILL_20260828_026400	Summon Ray of Light	빛줄기 소환
+SKILL_20260828_026401	Genesis	제네시스
+SKILL_20260828_026402	Disc of Judgement	심판의 원반
+SKILL_20260828_026403	Eye of Darkness	어둠의 눈
+SKILL_20260828_026404	Apocalypse	아포칼립스
+SKILL_20260828_026405	Terra Shatter	대지 파쇄
+SKILL_20260828_026406	Roar of Steel	강철의 포효
+SKILL_20260828_026407	Steel Slash	강철 분쇄
+SKILL_20260828_026408	Leap of Destruction	파괴의 도약
+SKILL_20260828_026409	Super Flare	슈퍼 플레어
+SKILL_20260828_026410	Flame Whirlwind	플레임 휠윈드
+SKILL_20260828_026411	Chariot of Fire	채리엇 오브 파이어
+SKILL_20260828_026412	Warcry Explosion	워크라이 익스플로전
+SKILL_20260828_026413	Inferno Berserker	인페르노 버서커
+SKILL_20260828_026414	Hellfire Burst	헬 파이어 버스트
+SKILL_20260828_026415	Seir's Wail	세이르의 통곡
+SKILL_20260828_026416	Mark of Purification	정화의 낙인
+SKILL_20260828_026417	Inferno Judgement	인페르노 저지먼트
+SKILL_20260828_026418	Fanatic Blaze	파나틱 블레이즈
+SKILL_20260828_026419	Envelops your body in flames of fanaticism, dealing continuous Fire damage to nearby enemies. Consumes HP upon use.	자신의 몸에 광신의 불꽃을 둘러 주변 적에게 지속적인 화염 피해를 줍니다. 사용 시 HP를 소모합니다.
+SKILL_20260828_026420	Skill Factor #{SkillFactor}#% x 10{nl}Consumes 1% Max HP{nl}Duration 5 seconds{nl}Number of Targets #{CaptionRatio}#	스킬 계수 #{SkillFactor}#% x 10회{nl}최대 HP의 1% 소모{nl}지속 시간 5초{nl}대상 수 #{CaptionRatio}#
+SKILL_20260828_026421	Fulminatio	풀미나티오
+SKILL_20260828_026422	Envelops your body in lightning of fanaticism, dealing continuous Lightning damage to nearby enemies. Decreases Movement Speed of enemies within range.	몸에 광신의 번개를 둘러 주변 적에게 지속적인 전기 피해를 줍니다. 범위 내 적의 이동 속도가 감소합니다.
+SKILL_20260828_026423	Skill Factor #{SkillFactor}#% x 10{nl}Target Movement Speed -5{nl}Duration 5 seconds{nl}Number of Targets #{CaptionRatio}#	스킬 계수 #{SkillFactor}#% x 10회{nl}대상 이동 속도 5 감소{nl}지속 시간 5초{nl}대상 수 #{CaptionRatio}#
+SKILL_20260828_026424	Blind Chase	블라인드 체이스
+SKILL_20260828_026425	Teleports behind an enemy and delivers a heavy blow, dealing damage to the target enemy and nearby enemies. Consumes HP upon use.	적의 뒤로 순간이동한 뒤 강타를 내리꽂아 지정된 적과 주변 적에게 피해를 줍니다. 사용 시 HP를 소모합니다.
+SKILL_20260828_026426	Skill Factor #{SkillFactor}#% x 5{nl}Consumes 1% Max HP{nl}Number of Targets #{CaptionRatio}#	스킬 계수 #{SkillFactor}#% x 5회{nl}최대 HP의 1% 소모{nl}대상 수 #{CaptionRatio}#
+SKILL_20260828_026427	Compassio	콤파시오
+SKILL_20260828_026428	Deals damage to nearby enemies. Affected enemies take increased damage from the caster's Fanaticus skills for a certain period of time. Consumes more HP than other skills.	주변 적에게 피해를 주고, 피해를 입은 적은 일정 시간 동안 시전자의 파나티쿠스 스킬에 받는 피해가 증가합니다. 다른 스킬보다 많은 HP를 소모합니다.
+SKILL_20260828_026429	Skill Factor #{SkillFactor}#% x 5{nl}Consumes 2% Max HP{nl}[Compassio] Target damage taken increases by #{CaptionRatio2}#%{nl}Duration 10 seconds{nl}Number of Targets #{CaptionRatio}#	스킬 계수 #{SkillFactor}#% x 5회{nl}최대 HP의 2% 소모{nl}[콤파시오] 대상이 받는 피해 #{CaptionRatio2}#% 증가{nl}지속 시간 10초{nl}대상 수 #{CaptionRatio}#
+SKILL_20260828_026430	Martyrdom	마티어돔
+SKILL_20260828_026431	Deploys a Martyr's Altar on the ground. Enemies within the altar's range take continuous Holy damage. Decreases damage taken while standing on the altar. Consumes HP upon use.	지면에 순교자의 제단을 펼칩니다. 제단 범위 내 적은 지속적으로 신성 피해를 입습니다. 제단 위에 있는 동안 자신이 받는 피해가 감소합니다. 사용 시 HP를 소모합니다.
+SKILL_20260828_026432	Skill Factor #{SkillFactor}#% x 10{nl}Consumes 1% Max HP{nl}Damage taken reduced by 20% on the altar{nl}Duration 5 seconds{nl}Number of Targets #{CaptionRatio}#	스킬 계수 #{SkillFactor}#% x 10회{nl}최대 HP의 1% 소모{nl}제단 위에서 받는 피해 20% 감소{nl}지속 시간 5초{nl}대상 수 #{CaptionRatio}#
+SKILL_20260828_026433	Divine Fanaticism	디바인 파나티시즘
+SKILL_20260828_026434	Consumes [Ecstasy] to deal heavy damage to nearby enemies.	[황홀]을 소모하여 주변 적에게 강력한 피해를 줍니다.
+SKILL_20260828_026435	Skill Factor #{SkillFactor}#% x 14{nl}Number of Targets #{CaptionRatio}#{nl}Can be used while in [Ecstasy] state	스킬 계수 #{SkillFactor}#% x 14회{nl}대상 수 #{CaptionRatio}#{nl}[황홀] 상태 시 사용 가능
+SKILL_20260828_026436	Flame of Resonance	공명의 불꽃
+SKILL_20260828_026437	Increases damage dealt to Zmei's main body.	즈메이 본체에 주는 피해가 증가합니다.
+SKILL_20260828_026438	Cruor	크루오르
+SKILL_20260828_026439	Fanaticus skill Final Damage +0.75% per stack, Movement Speed +1 per stack (Max 10). Triggers Ecstasy at 20 stacks.	파나티쿠스 스킬 최종 대미지 스택당 0.75% 증가, 이동속도 스택당 1 증가(최대 10). 20중첩 시 황홀 발동
+SKILL_20260828_026440	Ecstasy	황홀
+SKILL_20260828_026441	Reached max Cruor stacks. Divine Fanaticism can now be used.	크루오르 최대 중첩 달성. 디바인 파나티시즘을 사용할 수 있습니다.
+SKILL_20260828_026442	Continuous Fire damage to nearby enemies	주변 적에게 지속적인 화염 피해
+SKILL_20260828_026443	Continuous Lightning damage to nearby enemies. Decreases Movement Speed of enemies within range	주변 적에게 지속적인 전기 피해. 범위 내 적 이동속도 감소
+SKILL_20260828_026444	Takes increased damage from the caster's Fanaticus skills	시전자의 파나티쿠스 스킬에 받는 피해 증가
+SKILL_20260828_026445	Crown of Thorns	가시관
+SKILL_20260828_026446	Increases Compassio effect. Increases damage taken by self	콤파시오 효과 상승. 자신이 받는 피해 증가
+SKILL_20260828_026447	Reduced damage taken on the altar	제단 위에서 받는 피해 감소
+SKILL_20260828_026448	Condemnation	정죄
+SKILL_20260828_026449	Fanaticus skill Minimum Critical Rate increase	파나티쿠스 스킬 최소 치명타 확률 증가
+SKILL_20260828_026450	[Lv.560] Arcanum of STR	[Lv.560] 힘의 비약
+SKILL_20260828_026451	- STR and DEX increase by 5,000.{nl}- The buff cannot be applied in Team Battle League, and you cannot enter the Team Battle League during the buff.{nl}- You can remove the buff by right-clicking on it.	- 힘과 민첩이 5,000 증가합니다.{nl}- 해당 버프는 팀 배틀리그에서 효과를 받을 수 없으며, 버프 효과를 받는 중에는 팀 배틀리그에 입장할 수 없습니다.{nl}- 우클릭으로 해당 버프를 지울 수 있습니다.
+SKILL_20260828_026452	[Lv.560] Arcanum of INT	[Lv.560] 지능의 비약
+SKILL_20260828_026453	- INT and SPR increase by 5,000.{nl}- The buff cannot be applied in Team Battle League, and you cannot enter the Team Battle League during the buff.{nl}- You can remove the buff by right-clicking on it.	- 지능과 정신이 5,000 증가합니다.{nl}- 해당 버프는 팀 배틀리그에서 효과를 받을 수 없으며, 버프 효과를 받는 중에는 팀 배틀리그에 입장할 수 없습니다.{nl}- 우클릭으로 해당 버프를 지울 수 있습니다.
+SKILL_20260828_026454	[Lv.560] Arcanum of CON	[Lv.560] 체력의 비약
+SKILL_20260828_026455	-CON increases by 2,500.{nl}- The buff cannot be applied in Team Battle League, and you cannot enter the Team Battle League during the buff.{nl}- You can remove the buff by right-clicking on it.	- 체력이 2,500 증가합니다.{nl}- 해당 버프는 팀 배틀리그에서 효과를 받을 수 없으며, 버프 효과를 받는 중에는 팀 배틀리그에 입장할 수 없습니다.{nl}- 우클릭으로 해당 버프를 지울 수 있습니다.
+SKILL_20260828_026456	Goddess' Stigma Resistance Elixir	여신의 낙인 저항 영약
+SKILL_20260828_026457	- Damage taken from El -20%{nl}{nl}- Stigma duration -50%{nl}{nl}- Movement Speed +3{nl}{nl}- Buff applied only in Wings of Fallen Judgment and Wings of False Radiance raids.	- 엘한테 받는 피해 -20%{nl}{nl}- 낙인 지속시간 감소 -50%{nl}{nl}- 이동속도 +3{nl}{nl}- 타락한 심판의 날개, 거짓된 광휘의 날개 레이드에서만 적용되는 버프입니다.
+SKILL_20260828_026458	Goddess' Fierce Elixir	여신의 예리한 영약
+SKILL_20260828_026459	- Final Damage against El +10%{nl}{nl}- Stigma duration -50%{nl}{nl}- Movement Speed +3{nl}{nl}- Buff applied only in Wings of Fallen Judgment and Wings of False Radiance raids.	- 엘한테 최종 대미지 +10%{nl}{nl}- 낙인 지속시간 감소 -50%{nl}{nl}- 이동속도 +3{nl}{nl}- 타락한 심판의 날개, 거짓된 광휘의 날개 레이드에서만 적용되는 버프입니다.
+SKILL_20260828_026460	[Wings of False Radiance: Goddess (Party)] In Progress	[거짓된 광휘의 날개 : 가디스(파티)] 진행중
+SKILL_20260828_026461	- [Wings of False Radiance : Goddess(Party)] raid is in progress.{nl}  * You can only enter and re-enter the [Wings of False Radiance : Goddess(Party)] raid that is currently in progress.	- [거짓된 광휘의 날개 : 가디스(파티)] 레이드를 진행중입니다.{nl}  * 현재 진행중인 [거짓된 광휘의 날개 : 가디스(파티)] 레이드에만 입장 및 재입장 가능합니다.
+SKILL_20260828_026462	[Wings of False Radiance] Auto Clear	[거짓된 광휘의 날개] 자동 소탕
+SKILL_20260828_026463	- Auto Clear count of [Wings of False Radiance] obtained.{nl}  * Obtain the reward by consuming 1 entry count/Auto Clear count.	- [거짓된 광휘의 날개] 자동 소탕 횟수를 획득한 상태입니다.{nl}  * 입장횟수와 자동소탕 횟수를 1회 소모하고 보상을 획득합니다.
+SKILL_20260828_026464	[Wings of Fallen Judgement: Goddess (Party)] In Progress	[타락한 심판의 날개 : 가디스(파티)] 진행중
+SKILL_20260828_026465	- [Wings of Fallen Judgement : Goddess(Party)] raid is in progress.{nl}  * You can only enter and re-enter the [Wings of Fallen Judgement : Goddess(Party)] raid that is currently in progress.	- [타락한 심판의 날개 : 가디스(파티)] 레이드를 진행중입니다.{nl}  * 현재 진행중인 [타락한 심판의 날개 : 가디스(파티)] 레이드에만 입장 및 재입장 가능합니다.
+SKILL_20260828_026466	[Wings of Fallen Judgement] Auto Clear	[타락한 심판의 날개] 자동 소탕
+SKILL_20260828_026467	- Auto Clear count of [Wings of Fallen Judgement] obtained.{nl}  * Obtain the reward by consuming 1 entry count/Auto Clear count.	- [타락한 심판의 날개] 자동 소탕 횟수를 획득한 상태입니다.{nl}  * 입장횟수와 자동소탕 횟수를 1회 소모하고 보상을 획득합니다.
+SKILL_20260828_026468	※ Some Fanaticus skills consume HP instead of SP, gaining 1 stack of [Cruor] for every 1% of Max HP consumed{nl}* Consumption will not reduce HP below 50% of Max HP; SP is consumed instead when reaching this threshold{nl}* Cruor{nl}- Max 20 stacks{nl}- Fanaticus skill Final Damage +0.75% per stack{nl}- Movement Speed +1 per stack (Max 10){nl}- Grants [Ecstasy] upon reaching 20 stacks{nl}- Duration: 60 seconds{nl}* Ecstasy{nl}- Granted after removing Cruor{nl}- Fanaticus skill Final Damage fixed at 20%, HP consumption stops{nl}- Enables Divine Fanaticism{nl}- Duration: 10 seconds	* 파나티쿠스 일부 스킬은 SP 대신 HP를 소모하며, 최대 HP의 1% 소모마다 [크루오르] 1스택 획득{nl}* HP가 최대 HP의 50% 미만이 되는 소모는 발생하지 않으며, 이때는 SP를 소모{nl}* 크루오르{nl}- 최대 20 중첩{nl}- 스택당 파나티쿠스 스킬 최종 대미지 0.75% 증가{nl}- 스택당 이동속도 1 증가 (최대 10){nl}- 20스택 도달 시 [황홀] 부여{nl}- 지속시간 : 60초{nl}* 황홀{nl}- 크루오르 제거 후 부여{nl}- 파나티쿠스 스킬 최종 대미지 20%로 고정, HP 소모 중단{nl}- 디바인 파나티시즘 사용 가능{nl}- 지속시간 : 10초
+SKILL_20260828_026469	Fanatic Blaze: Enhance	파나틱 블레이즈: 강화
+SKILL_20260828_026470	Fulminatio: Enhance	풀미나티오: 강화
+SKILL_20260828_026471	Blind Chase: Enhance	블라인드 체이스: 강화
+SKILL_20260828_026472	Compassio: Enhance	콤파시오: 강화
+SKILL_20260828_026473	Martyrdom: Enhance	마티어돔: 강화
+SKILL_20260828_026474	Divine Fanaticism: Enhance	디바인 파나티시즘: 강화
+SKILL_20260828_026475	[Arts] Fanatic Blaze: Enhanced Upgrade	[아츠] 파나틱 블레이즈: 상급 강화
+SKILL_20260828_026476	[Arts] Fulminatio: Enhanced Upgrade	[아츠] 풀미나티오: 상급 강화
+SKILL_20260828_026477	[Arts] Blind Chase: Enhanced Upgrade	[아츠] 블라인드 체이스: 상급 강화
+SKILL_20260828_026478	[Arts] Compassio: Enhanced Upgrade	[아츠] 콤파시오: 상급 강화
+SKILL_20260828_026479	[Arts] Martyrdom: Enhanced Upgrade	[아츠] 마티어돔: 상급 강화
+SKILL_20260828_026480	[Arts] Divine Fanaticism: Enhanced Upgrade	[아츠] 디바인 파나티시즘: 상급 강화
+SKILL_20260828_026481	Fulminatio: Dedication	풀미나티오: 봉헌
+SKILL_20260828_026482	※ When using Fulminatio, consumes 2% Max HP instead of SP to gain 2 stacks of [Cruor]{nl}* Normal SP is consumed if in [Ecstasy] state or if HP is insufficient.{nl}* Can only be changed in town.	* 풀미나티오 사용 시 SP 대신 최대 HP의 2%를 소모하고 [크루오르] 2스택 획득{nl}* [황홀] 중이거나 HP가 부족해 소모할 수 없으면 SP를 정상 소모함{nl}* 마을에서만 변경 가능합니다.
+SKILL_20260828_026483	[Arts] Blind Chase: Condemnation	[아츠] 블라인드 체이스: 정죄
+SKILL_20260828_026484	※ When using Blind Chase, increases Fanaticus skill Minimum Critical Rate by 10% for 5 seconds{nl}* Cooldown increases by 1 second.{nl}* Can only be changed in town.	* 블라인드 체이스 사용 시 5초 동안 파나티쿠스 스킬의 최소 치명타 확률이 10% 증가{nl}* 재사용 대기시간 1초 증가{nl}* 마을에서만 변경 가능합니다.
+SKILL_20260828_026485	[Arts] Compassio: Crown of Thorns	[아츠] 콤파시오: 가시관
+SKILL_20260828_026486	※ The damage taken increase effect applied by Compassio increases by an additional 10%{nl}* Increases damage taken by self by 10% during the debuff duration.{nl}* Can only be changed in town.	* 콤파시오가 부여하는 받는 피해 증가 효과가 10% 추가로 상승함{nl}* 디버프 지속시간 동안 자신이 받는 피해도 10% 증가함{nl}* 마을에서만 변경 가능합니다.
+SKILL_20260828_026487	Fanatic Blaze Lv 1 and above	파나틱 블레이즈 1레벨 이상
+SKILL_20260828_026488	Fulminatio Lv 1 and above	풀미나티오 1레벨 이상
+SKILL_20260828_026489	Blind Chase Lv 1 and above	블라인드 체이스 1레벨 이상
+SKILL_20260828_026490	Compassio Lv 1 and above	콤파시오 1레벨 이상
+SKILL_20260828_026491	Martyrdom Lv 1 and above	마티어돔 1레벨 이상
+SKILL_20260828_026492	Divine Fanaticism Lv 1 and above	디바인 파나티시즘 1레벨 이상
+SKILL_20260828_026493	[Fanatic Blaze: Enhance] Attribute Lv. 65	[파나틱 블레이즈: 강화] 특성 65 레벨 달성
+SKILL_20260828_026494	[Fulminatio: Enhance] Attribute Lv. 65	[풀미나티오: 강화] 특성 65 레벨 달성
+SKILL_20260828_026495	[Blind Chase: Enhance] Attribute Lv. 65	[블라인드 체이스: 강화] 특성 65 레벨 달성
+SKILL_20260828_026496	[Compassio: Enhance] Attribute Lv. 65	[콤파시오: 강화] 특성 65 레벨 달성
+SKILL_20260828_026497	[Martyrdom: Enhance] Attribute Lv. 65	[마티어돔: 강화] 특성 65 레벨 달성
+SKILL_20260828_026498	[Divine Fanaticism: Enhance] Attribute Lv. 65	[디바인 파나티시즘: 강화] 특성 65 레벨 달성
+SKILL_20260907_026499	Jumps high into the air and slams down to deal damage to enemies. Upon use, grants the {@st66_y}{#22B14C}[Sledger: Fighting Spirit]{/}{/} buff, which increases the Final Damage of all Sledger skills except Big Bang.	공중으로 높게 점프한 뒤 내려찍으며 적에게 피해를 줍니다. 사용 시 빅뱅을 제외한 모든 슬레저 스킬의 최종 대미지가 증가하는 {@st66_y}{#22B14C}[슬레저: 투지]{/}{/} 버프가 부여됩니다.
+SKILL_20260907_026500	Upon casting, stacks the [Spark] buff for a certain period of time.{nl}When the [Spark] buff applied by [Electric Drive] ends, cooldown is applied to [Electric Drive] for the duration that was not applied.	시전 시 일정 시간 동안 [스파크] 버프가 중첩됩니다.{nl}[일렉트릭 드라이브]로 걸린 [스파크] 버프가 끝나면, 재사용 대기 시간이 적용되지 않은 만큼 [일렉트릭 드라이브]에 재사용 대기 시간이 적용됩니다.
+SKILL_20260907_026501	Resets the cooldown of Musketeer attack skills and removes the [Sniper Exposed] buff.{nl} {nl}{#005060}When used in PVP zones, 1 second of charging time is applied.{/}	머스킷티어의 공격 스킬 재사용 대기시간을 초기화하고, [저격 위치 노출] 버프를 제거합니다.{nl} {nl}{#005060}PVP존에서 사용 시 차징 시간 1초가 적용됩니다.{/}
+SKILL_20260907_026502	Inferno Resonance	인페르노 공명
+SKILL_20260907_026503	Reduces continuous damage taken from Burn in Zmei Raid.	즈메이 레이드에서 화상으로 받는 지속 피해가 감소합니다.
+SKILL_20260908_026504	※ Some Fanaticus skills consume HP instead of SP, gaining 1 stack of [Cruor] for every 1% of Max HP consumed{nl}* HP consumption will not reduce HP below 50% of Max HP, SP is consumed instead and stacks are gained as normal{nl}* Cruor{nl}- Max 20 stacks{nl}- Fanaticus skill Final Damage +0.75% per stack{nl}- Movement Speed +1 per stack (Max 10){nl}- Grants [Ecstasy] upon reaching 20 stacks{nl}- Duration: 60 seconds{nl}* Ecstasy{nl}- Granted after removing Cruor{nl}- Fanaticus skill Final Damage fixed at 20%, HP consumption stops{nl}- Enables Divine Fanaticism{nl}- Duration: 10 seconds	* 파나티쿠스 일부 스킬은 SP 대신 HP를 소모하며, 최대 HP의 1% 소모마다 [크루오르] 1스택 획득{nl}* HP가 최대 HP의 50% 미만이 되는 소모는 발생하지 않으며, 이때는 SP를 소모하고 스택은 동일하게 획득{nl}* 크루오르{nl}- 최대 20 중첩{nl}- 스택당 파나티쿠스 스킬 최종 대미지 0.75% 증가{nl}- 스택당 이동속도 1 증가 (최대 10){nl}- 20스택 도달 시 [황홀] 부여{nl}- 지속시간 : 60초{nl}* 황홀{nl}- 크루오르 제거 후 부여{nl}- 파나티쿠스 스킬 최종 대미지 20%로 고정, HP 소모 중단{nl}- 디바인 파나티시즘 사용 가능{nl}- 지속시간 : 10초
+SKILL_20260908_026505	※ When using Fulminatio, consumes 2% Max HP instead of SP to gain 2 stacks of [Cruor]{nl}* If HP is insufficient, consumes SP instead and gains 2 stacks of [Cruor] as normal. While in [Ecstasy], consumes SP and does not gain stacks{nl}* Can only be changed in town.	* 풀미나티오 사용 시 SP 대신 최대 HP의 2%를 소모하고 [크루오르] 2스택 획득{nl}* HP가 부족하면 SP를 소모하되 [크루오르] 2스택은 그대로 획득{nl}* [황홀] 중에는 SP를 소모하며 스택을 획득하지 않음{nl}* 마을에서만 변경 가능합니다.

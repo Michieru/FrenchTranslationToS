@@ -29239,3 +29239,32 @@ ITEM_20260413_029238	Commodore Musketeer	코모도어 머스킷티어
 ITEM_20260413_029239	Gesture: Bunny Bunny	제스처 : 바니바니				
 ITEM_20260413_029240	You can add Bunny Bunny gesture to quick slots. Right-click to use.{nl}{#ff0000}Gestures cannot be used when mounting a companion.{/}	바니바니 제스처를 등록할 수 있습니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}{#ff0000}컴패니언 탑승 시 해당 제스처를 사용할 수 없습니다.{/}				
 ITEM_20260730_029241	Executor Great Sword	엑시큐터 대검				
+ITEM_20260828_029242	El's Armband	엘의 암밴드
+ITEM_20260828_029243	The faded number XII is engraved upon a pitch-black background.{nl}No one knows its meaning, and the truth will remain forever hidden behind El's shadow.	칠흑의 바탕 위에 빛바랜 숫자 XII가 새겨져 있습니다.{nl}누구도 그 의미를 알지 못하며 진실은 엘의 그림자 뒤에 영원히 감춰져 있을 것입니다.
+ITEM_20260828_029244	El's Fiery Golden Eyes	엘의 화안금정
+ITEM_20260828_029245	The warmth that once gazed affectionately upon you is nowhere to be found, leaving behind eyes that burn with a destructive sneer.{nl}From the very beginning, these eyes viewed you as prey to be slain at any moment.	다정하게 당신을 바라보던 온기는 온데간데없고 이제는 파괴적인 조소만이 타오르는 눈동자입니다.{nl}처음부터 이 눈은 당신을 언제든 처치할 사냥감으로 바라보고 있었습니다.
+ITEM_20260828_029246	El Card	엘 카드
+ITEM_20260828_029247	[Card Equip Effect] Damage to bosses increased by [{img star_mark 20 20} * 4.5]%, Damage from bosses decreased by [{img star_mark 20 20} * 3]%, Move SPD increased by [{img star_mark 20 20} * 1]	[슬롯 장착 효과] 보스 몬스터에게 주는 대미지 [★ * 4.5]% 증가, 보스 몬스터에게 받는 대미지 [★ * 3]% 감소, 이동 속도 [★ * 1] 증가
+ITEM_20260828_029248	Selas Powder	셀라스 가루
+ITEM_20260828_029249	Increases EXP gains, movement speed and maximum HP according to the number of stacks for 30 minutes. Maximum 5 stacks. This item will be automatically deleted after the event period.	30분간 중첩에 따라 경험치, 이동속도, 최대HP가 증가하며, 최대 5중첩까지 가능합니다. 10월 1일 점검 시, 일괄 삭제됩니다.
+ITEM_20260828_029250	Archaeology HUD Skin	고고학 HUD 스킨
+ITEM_20260828_029251	Permanently activate Archaeology HUD Skin.{nl}Right-click to use.	고고학 HUD 스킨을 영구적으로 활성화합니다.{nl}마우스 오른쪽 클릭으로 사용합니다.
+ITEM_20260828_029252	Sanctuary of Resonance Zaura HUD Skin	공명의 성소 자우라 HUD 스킨
+ITEM_20260828_029253	Permanently activate Sanctuary of Resonance Zaura HUD Skin.{nl}Right-click to use.	공명의 성소 자우라 HUD 스킨을 영구적으로 활성화합니다.{nl}마우스 오른쪽 클릭으로 사용합니다.
+ITEM_20260828_029254	Memory of El Piece	엘의 기억조각
+ITEM_20260828_029255	You can exchange with other items from the Memory of El exclusive NPC.	엘의 기억 전용 NPC를 통해 다른 아이템으로 교환할 수 있습니다.
+ITEM_20260828_029256	[Saule] Raid Portal Stone	[사울레] 레이드 포탈 스톤
+ITEM_20260828_029257	[Saule] Raid Portal Stone (Untradable)	[사울레] 레이드 포탈 스톤(거래불가)
+ITEM_20260828_029258	Item needed to craft entry voucher of certain raids or dungeons.{nl}{@st16}{#00bbff}Can be converted by consuming 3 [Austeja] Raid Portal Stone.{/}{/}	특정 레이드 및 던전 입장권 제작에 필요한 아이템입니다.{nl}{@st16}{#00bbff}[아우스테야] 레이드 포탈 스톤 3개{/}{/}를 합성하여 변환 가능합니다.
+ITEM_20260828_029259	Sanctuary of Resonance Zaura Raid	공명의 성소 자우라 레이드
+ITEM_20260828_029260	Wings of False Radiance Goddess Raid	거짓된 광휘의 날개 가디스 레이드
+ITEM_20260828_029261	Wings of False Radiance Auto Match Raid	거짓된 광휘의 날개 자동매칭 레이드
+ITEM_20260828_029262	Wings of False Radiance Solo Raid	거짓된 광휘의 날개 1인 레이드
+ITEM_20260828_029263	Wings of Fallen Judgement Goddess Raid	타락한 심판의 날개 가디스 레이드
+ITEM_20260828_029264	Wings of Fallen Judgement Auto Match Raid	타락한 심판의 날개 자동매칭 레이드
+ITEM_20260828_029265	Wings of Fallen Judgement Solo Raid	타락한 심판의 날개 1인 레이드
+ITEM_20260828_029266	Memory of El	엘의 기억
+ITEM_20260828_029267	Right-click to use and obtain the Memory of El theme item in certain probability.	마우스 우클릭으로 사용 가능하며, 사용 시 확률에 따라 엘의 기억 테마 상품을 획득할 수 있습니다.
+ITEM_20260828_029268	A seal required to enter the Sanctuary of Resonance.	공명의 성소에 진입하기 위해 필요한 인장입니다.
+ITEM_20260831_029269	Can be exchanged for other items via Memory of El NPC.{nl} {nl}{@st66d}After the October 13th maintenance, items can be used with a right-click.{nl}- Use to obtain Mercenary Badge : 10,000.	엘의 기억 전용 NPC를 통해 다른 아이템으로 교환할 수 있습니다.{nl} {nl}{@st66d}10월 13일 정기점검 이후에는 마우스 우클릭으로 아이템을 사용할 수 있습니다.{nl}- 사용 시 용병단 증표 : 10,000을 획득합니다.
+ITEM_20260831_029270	Memory of El x 10	엘의 기억 x 10

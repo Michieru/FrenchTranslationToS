@@ -5883,3 +5883,236 @@ UI_20260504_005882	Veuillez placer la coiffure sur laquelle appliquer les statis
 UI_20260511_005883	{b}{#000000}Sélectionnez le costume dont vous voulez extraire les statistiques. {nl}Les statistiques du costume suivant seront extraites {#ff0000}et détruites.	{b}{#000000}옵션을 추출할 헤어 코스튬을 올려주세요. {nl}해당 코스튬은 {#ff0000}옵션이 추출되고 소멸됩니다.			
 UI_20260511_005884	{b}{#000000}Sélectionnez le costume sur lequel vous voulez appliquer les statistiques. {nl}Les statistiques seront{#ff0000}{b}appliquées au costume suivant.	{b}{#000000}옵션을 이전할 헤어 코스튬을 올려주세요. {nl}해당 코스튬으로 {#ff0000}{b}추출된 옵션이 이전됩니다.			
 UI_20260529_005885	{s14}※Accumule jusqu'à %s points et se réinitialise chaque trimestre (1er janvier, 1er avril, 1er juillet, 1er octobre à 00h00).	{s14}※최대 %s포인트까지 누적되며, 매 분기(1,4,7,10월 1일 00시)마다 초기화 됩니다.				
+UI_20260828_005886	{@st59}Mémoires de la Déesse (Alt + F3){/}	{@st59}여신의 회상록 (Alt + F3){/}
+UI_20260828_005887	{@st43}{#FFF1C7}{s24}Kupole	{@st43}{#FFF1C7}{s24}큐폴
+UI_20260828_005888	{@st66d}{#173E50}{s17}Liste des Kupoles	{@st66d}{#173E50}{s17}큐폴 목록
+UI_20260828_005889	{@st66d}{#173E50}{s17}Préréglage	{@st66d}{#173E50}{s17}프리셋
+UI_20260828_005890	{@st66d}{#F2DEB1}{s14}Préréglage 1	{@st66d}{#F2DEB1}{s14}프리셋 1
+UI_20260828_005891	{@st66d}{#C8BFAE}{s13}Vide	{@st66d}{#C8BFAE}{s13}비어 있음
+UI_20260828_005892	{@st66d}{#F0C86D}{s11}Appliqué	{@st66d}{#F0C86D}{s11}적용 중
+UI_20260828_005893	{@st66d}{s12}Appliquer	{@st66d}{s12}적용
+UI_20260828_005894	{@st66d}{s12}Modifier	{@st66d}{s12}편집
+UI_20260828_005895	{@st66d}{s11}Écraser	{@st66d}{s11}덮어쓰기
+UI_20260828_005896	{@st66d}{s10}Enregistrer la Configuration Actuelle	{@st66d}{s10}현재 편성 저장
+UI_20260828_005897	Enregistre la configuration actuelle dans ce préréglage.	현재 편성을 이 프리셋에 저장합니다.
+UI_20260828_005898	{@st66d}{s11}Créer Nouveau	{@st66d}{s11}새로 만들기
+UI_20260828_005899	Sélectionnez manuellement des Kupoles pour configurer un nouveau préréglage.	큐폴을 직접 선택해 새 프리셋을 구성합니다.
+UI_20260828_005900	{@st66d}{#F2DEB1}{s14}Préréglage 2	{@st66d}{#F2DEB1}{s14}프리셋 2
+UI_20260828_005901	{@st66d}{#F2DEB1}{s14}Préréglage 3	{@st66d}{#F2DEB1}{s14}프리셋 3
+UI_20260828_005902	{@st66d}{#F2DEB1}{s14}Préréglage 4	{@st66d}{#F2DEB1}{s14}프리셋 4
+UI_20260828_005903	{@st66d}{#F2DEB1}{s14}Préréglage 5	{@st66d}{#F2DEB1}{s14}프리셋 5
+UI_20260828_005904	{@st66d}{#173E50}{s16}Effet d'Accompagnement	{@st66d}{#173E50}{s16}동행 효과
+UI_20260828_005905	{@st66d}{#173E50}{s16}Effet Possédé	{@st66d}{#173E50}{s16}보유 효과
+UI_20260828_005906	{@st66d}{#173E50}{s16}Skill Passif	{@st66d}{#173E50}{s16}패시브 스킬
+UI_20260828_005907	{@st66d}{#173E50}{s16}Skill Actif	{@st66d}{#173E50}{s16}액티브 스킬
+UI_20260828_005908	{@st66d}{#EBD9B5}{s18}Total des Effets Possédés	{@st66d}{#EBD9B5}{s18}총 보유 효과
+UI_20260828_005909	{@st66d}{#173E50}{s18}Gestion des Kupoles	{@st66d}{#173E50}{s18}큐폴 관리
+UI_20260828_005910	{@st66d}{#173E50}{s18}Recruter un Kupole	{@st66d}{#173E50}{s18}큐폴 영입
+UI_20260828_005911	Accompagner	동행
+UI_20260828_005912	{@st66d}{s20}Enregistrer la Configuration	{@st66d}{s20}구성 저장
+UI_20260828_005913	{@st66d}{#173E50}{s18}Skill	{@st66d}{#173E50}{s18}스킬
+UI_20260828_005914	{@st66d}{#173E50}{s18}Effet	{@st66d}{#173E50}{s18}효과
+UI_20260828_005915	{@st66d}{#173E50}{s18}Infos de l'Objet	{@st66d}{#173E50}{s18}아이템 정보
+UI_20260828_005916	{@st66d}{#173E50}{s18}Effet d'Accompagnement	{@st66d}{#173E50}{s18}동행 효과
+UI_20260828_005917	{@st66d}{#173E50}{s18}Effet Possédé	{@st66d}{#173E50}{s18}보유 효과
+UI_20260828_005918	{@st66d}{s18}Recruter	{@st66d}{s18}영입
+UI_20260828_005919	{@st43}{#FFF1C7}{s22}Recrutement Garanti de Kupole	{@st43}{#FFF1C7}{s22}큐폴 확정 영입
+UI_20260828_005920	{@st43}{#FFF1C7}{s22}Augmenter l'Amitié du Kupole	{@st43}{#FFF1C7}{s22}큐폴 호감도 상승
+UI_20260828_005921	{@st66d}{#762C3D}{s15}Amitié Actuelle : %s	{@st66d}{#762C3D}{s15}현재 호감도 %s
+UI_20260828_005922	{@st66d}{#173E50}{s15}Matériaux Requis	{@st66d}{#173E50}{s15}필요 재료
+UI_20260828_005923	{@st66d}{#355F56}{s15}Amitié Après Augmentation : %s	{@st66d}{#355F56}{s15}상승 후 호감도 %s
+UI_20260828_005924	{@st66d}{#762C3D}{s18}Effet Actuel	{@st66d}{#762C3D}{s18}현재 효과
+UI_20260828_005925	{@st66d}{#173E50}{s15}Effet d'Accompagnement{/}{nl}{@st66d}{#314A55}{s14}%s	{@st66d}{#173E50}{s15}동행 효과{/}{nl}{@st66d}{#314A55}{s14}%s
+UI_20260828_005926	{@st66d}{#173E50}{s15}Effet Possédé{/}{nl}{@st66d}{#314A55}{s14}%s	{@st66d}{#173E50}{s15}보유 효과{/}{nl}{@st66d}{#314A55}{s14}%s
+UI_20260828_005927	{@st66d}{#173E50}{s16}Skill{/}{nl}{@st66d}{#314A55}{s14}%s	{@st66d}{#173E50}{s16}스킬{/}{nl}{@st66d}{#314A55}{s14}%s
+UI_20260828_005928	{@st66d}{#355F56}{s18}Effet Après Augmentation	{@st66d}{#355F56}{s18}상승 후 효과
+UI_20260828_005929	{@st66d}{#173E50}{s15}Effet d'Accompagnement{/}{nl}{@st66d}{#355F56}{s14}%s	{@st66d}{#173E50}{s15}동행 효과{/}{nl}{@st66d}{#355F56}{s14}%s
+UI_20260828_005930	{@st66d}{#173E50}{s15}Effet Possédé{/}{nl}{@st66d}{#355F56}{s14}%s	{@st66d}{#173E50}{s15}보유 효과{/}{nl}{@st66d}{#355F56}{s14}%s
+UI_20260828_005931	{@st66d}{#173E50}{s16}Skill{/}{nl}{@st66d}{#355F56}{s14}%s	{@st66d}{#173E50}{s16}스킬{/}{nl}{@st66d}{#355F56}{s14}%s
+UI_20260828_005932	{@st66d}{s18}Augmenter l'Amitié	{@st66d}{s18}호감도 상승
+UI_20260828_005933	{@st66d}{s18}Annuler	{@st66d}{s18}취소
+UI_20260828_005934	Ferme la fenêtre d'augmentation de l'amitié.	호감도 상승 UI를 닫습니다.
+UI_20260828_005935	{@st43}{s24}Marché Noir - Token de la Déesse	{@st43}{s24}블랙 마켓 - 여신의 증표
+UI_20260828_005936	Historique d'Objets Trouvés sur le Terrain	필드 획득 기록
+UI_20260828_005937	{@st43b}{s14}État des Objets	{@st43b}{s14}아이템 현황
+UI_20260828_005938	Glisser pour déplacer la position	드래그해서 위치 이동
+UI_20260828_005939	{@st42}{s12}{#AAB1BC}●{/} En attente	{@st42}{s12}{#AAB1BC}●{/} 대기
+UI_20260828_005940	{@st42}{s12}{#6DD89C}●{/} Enregistrement	{@st42}{s12}{#6DD89C}●{/} 기록 중
+UI_20260828_005941	{@st42}{s11}{#F2A65A}●{/} En pause	{@st42}{s11}{#F2A65A}●{/} 일시정지
+UI_20260828_005942	Mettre en Pause l'Enregistrement	기록 일시정지
+UI_20260828_005943	Reprendre l'Enregistrement	기록 다시 시작
+UI_20260828_005944	{@st42b}{s11}Verrouiller	{@st42b}{s11}고정
+UI_20260828_005945	Verrouiller à la position actuelle	현재 위치에 고정
+UI_20260828_005946	{@st42b}{s11}Déplacer	{@st42b}{s11}이동
+UI_20260828_005947	Démarrer le déplacement	위치 이동 시작
+UI_20260828_005948	Réduire le Suivi	트래커 접기
+UI_20260828_005949	Déplier le Suivi	트래커 펼치기
+UI_20260828_005950	Cliquer pour ouvrir la liste des objets obtenus	클릭해서 획득 아이템 목록 열기
+UI_20260828_005951	{@st42}{#AAB1BC}{s13}Temps de Farming	{@st42}{#AAB1BC}{s13}파밍 시간
+UI_20260828_005952	{@st42}{#AAB1BC}{s13}Objets Obtenus	{@st42}{#AAB1BC}{s13}획득 아이템
+UI_20260828_005953	{@st42b}{s14}%s / %s Types	{@st42b}{s14}%s개 / %s종
+UI_20260828_005954	{@st42}{#AAB1BC}{s13}Argent	{@st42}{#AAB1BC}{s13}실버
+UI_20260828_005955	{@st42b}{#AAB1BC}{s12}Obtenu Récemment	{@st42b}{#AAB1BC}{s12}최근 획득
+UI_20260828_005956	Les 6 derniers objets obtenus	최근 획득한 아이템 6종
+UI_20260828_005957	{@st42b}{s13}Voir la Liste des Objets Obtenus 〉	{@st42b}{s13}획득 목록 보기 〉
+UI_20260828_005958	Ouvrir la liste complète des objets obtenus	전체 획득 아이템 목록 열기
+UI_20260828_005959	{@st43b}{s20}Historique d'Objets Trouvés sur le Terrain	{@st43b}{s20}필드 획득 기록
+UI_20260828_005960	{@st42}{#AAB1BC}{s12}Portée de l'Historique	{@st42}{#AAB1BC}{s12}집계 범위
+UI_20260828_005961	{@st42b}{s14}Session Totale	{@st42b}{s14}전체 세션
+UI_20260828_005962	{@st42b}{s14}Pas d'Infos de Carte	{@st42b}{s14}맵 정보 없음
+UI_20260828_005963	{@st42}{#AAB1BC}{s12}Temps de Farming	{@st42}{#AAB1BC}{s12}파밍 시간
+UI_20260828_005964	{@st42}{#AAB1BC}{s12}Objets / Types	{@st42}{#AAB1BC}{s12}아이템 / 종류
+UI_20260828_005965	{@st42b}{s14}%s / %s Types	{@st42b}{s14}%s / %s종
+UI_20260828_005966	{@st42}{#AAB1BC}{s12}Argent	{@st42}{#AAB1BC}{s12}실버
+UI_20260828_005967	{@st42}{#AAB1BC}{s11}Insigne de Mercenaire	{@st42}{#AAB1BC}{s11}용병단 증표
+UI_20260828_005968	{@st42b}{s12}Vue : Session Totale	{@st42b}{s12}보기: 전체 세션
+UI_20260828_005969	{@st42b}{s12}Vue : Carte Actuelle	{@st42b}{s12}보기: 현재 맵
+UI_20260828_005970	{@st42b}{s12}Rareté : Tout	{@st42b}{s12}희귀: 전체
+UI_20260828_005971	Afficher uniquement à partir de la rareté 5	등급 5 이상만 표시
+UI_20260828_005972	{@st42b}{s12}Rareté : Activée	{@st42b}{s12}희귀: 켬
+UI_20260828_005973	Afficher toutes les raretés	모든 등급 표시
+UI_20260828_005974	{@st42b}{s12}Trier : Quantité	{@st42b}{s12}정렬: 획득량
+UI_20260828_005975	{@st42b}{s12}Trier : Obtenu Récemment	{@st42b}{s12}정렬: 최근 획득
+UI_20260828_005976	{@st42b}{s12}Trier : Rareté	{@st42b}{s12}정렬: 등급
+UI_20260828_005977	{@st42b}{s12}Réinitialiser la Session	{@st42b}{s12}세션 초기화
+UI_20260828_005978	{@st42b}{#AAB1BC}{s12}Objet	{@st42b}{#AAB1BC}{s12}아이템
+UI_20260828_005979	{@st42b}{#AAB1BC}{s12}Quantité Obtenue	{@st42b}{#AAB1BC}{s12}획득 수량
+UI_20260828_005980	{@st42}{#AAB1BC}{s15}Aucun objet obtenu pour l'instant.	{@st42}{#AAB1BC}{s15}아직 획득한 아이템이 없습니다.
+UI_20260828_005981	Voulez-vous réinitialiser le temps et l'historique d'objets obtenus de la session de farming actuelle ?	현재 파밍 세션의 시간과 획득 기록을 모두 초기화할까요?
+UI_20260828_005982	{@st42}{#AAB1BC}{s12}Seuls les objets ramassés directement sur le terrain sont affichés.	{@st42}{#AAB1BC}{s12}필드에서 직접 주운 아이템만 표시됩니다.
+UI_20260828_005983	{@st59}Legacy (Enchantement/Transcendance/Sauvegarde de Gravure){/}	{@st59}Legacy (인챈트/초월/각인 저장){/}
+UI_20260828_005984	{@st66b}Transmutation de Skill	{@st66b}스킬 연성
+UI_20260828_005985	Changement d'Option	옵션 변화
+UI_20260828_005986	{@st43b}{s18}Actuel	{@st43b}{s18}기존
+UI_20260828_005987	{@st42}{s24}Rang d'Amélioration : {#ffff11}%s{/} / 20{/}	{@st42}{s24}업그레이드 랭크 : {#ffff11}%s{/} / 20{/}
+UI_20260828_005988	Matériaux Requis	요구 재료
+UI_20260828_005989	Skill Transmué	연성 스킬
+UI_20260828_005990	{@st43b}{s18}Skill Actuel	{@st43b}{s18}현재 스킬
+UI_20260828_005991	{@st43b}{s18}Skill Candidat	{@st43b}{s18}후보 스킬
+UI_20260828_005992	Conserver le Skill Actuel	기존 스킬 유지
+UI_20260828_005993	Remplacer par le Nouveau Skill	새 스킬로 교체
+UI_20260828_005994	{@sti1c}{s16} - Les Skills peuvent être transmutés sur une {#aa9911}Armure de grade Déesse de Niv. 480 ou plus et Amélioration +21 ou plus{/}(Haut/Bas/Gants/Chaussures).{nl} {nl}  - Pour un équipement possédant déjà un skill transmué, un {#aa9911}Skill Candidat{/} sera proposé lors d'une nouvelle transmutation, et vous pourrez choisir de conserver le skill actuel ou de le remplacer.{/}	{@sti1c}{s16} - {#aa9911}Lv.480 이상, 21강 이상의 가디스 등급 방어구{/}(상의/하의/장갑/신발)에 스킬을 연성할 수 있습니다.{nl} {nl}  - 이미 연성된 스킬이 있는 장비는 재연성 시 {#aa9911}후보 스킬{/}이 제시되며, 기존 스킬 유지와 교체 중 선택할 수 있습니다.{/}
+UI_20260828_005995	{@st43}Mémoires de la Déesse{/}	{@st43}여신의 회상록{/}
+UI_20260828_005996	{@st59b}Mémoires de la Déesse{nl}{@st59s}Gérez les skills et les informations sur le Sanctuaire de Résonance pour acquérir des Skills de Résonance.{nl} - Cliquez sur l'icône d'un boss apparaissant dans le Sanctuaire de Résonance pour voir les informations détaillées.{nl} - Vous pouvez améliorer ou enregistrer les skills pouvant résonner de chaque boss.{nl} - Les skills enregistrés sont automatiquement placés dans un emplacement rapide vide. Si les emplacements rapides sont pleins, vous devez les faire glisser et les enregistrer manuellement.{/}	{@st59b}여신의 회상록{nl}{@st59s}공명 스킬을 획득하기 위한 공명의 성소에 대한 정보와 스킬을 관리.{nl} - 공명의 성소에 등장하는 보스 아이콘 클릭을 통하여서 상세 정보를 볼 수 있다.{nl} - 각각의 보스에서 공명할 수 있는 스킬들을 강화 또는 등록 할 수 있다.{nl} - 등록한 스킬은 자동으로 빈 퀵슬롯에 등록되며, 퀵슬롯이 가득 찼다면 직접 드래그하여 등록해야 한다.{/}
+UI_20260828_005997	{@st59}Fermer les Mémoires de la Déesse{/}	{@st59}여신의 회상록 창을 닫습니다{/}
+UI_20260828_005998	{@st59}Par nom{/}	{@st59}이름 순{/}
+UI_20260828_005999	{@st59}Par niveau{/}	{@st59}레벨 순{/}
+UI_20260828_006000	{@st59}Par Complétion de Résonance{/}	{@st59}공명 완성 순{/}
+UI_20260828_006001	{@st66b}{s20}Gestion des Skills{/}	{@st66b}{s20}스킬 관리{/}
+UI_20260828_006002	{@st66b}{s20}Enregistrement de Skill{/}	{@st66b}{s20}스킬 등록{/}
+UI_20260828_006003	Temps de Recharge %s	재사용 대기시간 %s
+UI_20260828_006004	{@st71orbd16}{s18}Taux de Réussite d'Amélioration  -  %s%{/}{/}	{@st71orbd16}{s18}강화 확률  -  %s%{/}{/}
+UI_20260828_006005	Effet Actuel	현재 효과
+UI_20260828_006006	Effet Après Amélioration	강화 후 효과
+UI_20260828_006007	Noyau de Résonance - Zaura	공명의 핵 - 자우라
+UI_20260828_006008	{@st71orbd16}{s20}Quantité Actuelle : %s{/}	{@st71orbd16}{s20}현재 보유량 : %s{/}
+UI_20260828_006009	{@st66e}{s22}Amélioration de Skill{/}	{@st66e}{s22}스킬 강화{/}
+UI_20260828_006010	Emplacement de Skill de Résonance	공명 스킬 슬롯
+UI_20260828_006011	Sélectionner le Niveau de Difficulté	난이도 단계 선택
+UI_20260828_006012	{@st42b}{s16}Palier %s{/}	{@st42b}{s16}%s단계{/}
+UI_20260828_006013	{@st42b}{s18}Score d'Équipement Recommandé : %s{/}	{@st42b}{s18}권장 기어 스코어 : %s{/}
+UI_20260828_006014	{@st100orange_16}{s18}Quantité de Récompense +%s%{/}	{@st100orange_16}{s18}보상 획득량 +%s%{/}
+UI_20260828_006015	{@st41b}{s16}Entrer maintenant%s{/}	{@st41b}{s16}바로입장%s{/}
+UI_20260828_006016	{@st66b}{s16}Correspondance Auto{nl}Re-entrer{/}{/}	{@st66b}{s16}자동매칭{nl}재입장{/}{/}
+UI_20260828_006017	{@st41b}{s16}Entrée à 4 Joueurs Max.{/}	{@st41b}{s16}4인 이하 입장{/}
+UI_20260828_006018	Participants Actuels : %s	현재 입장 인원: %s
+UI_20260828_006019	Raccourci Infos de la Zone	지역 정보 바로가기
+UI_20260828_006020	{@st59}Infos du Monstre{/}	{@st59}몬스터 정보{/}
+UI_20260828_006021	{@st59}Collection de la Zone{/}	{@st59}지역 컬렉션{/}
+UI_20260828_006022	{@st59}Infos du PNJ{/}	{@st59}NPC 정보{/}
+UI_20260828_006023	{@st59}Infos de la Quête{/}	{@st59}퀘스트 정보{/}
+UI_20260828_006024	{@st59}Réduire le Menu Infos de la Zone{/}	{@st59}지역 정보 메뉴 최소화{/}
+UI_20260828_006025	{@st59}Agrandir le Menu Infos de la Zone{/}	{@st59}지역 정보 메뉴 최대화{/}
+UI_20260828_006026	Infos de la Zone	지역 정보
+UI_20260828_006027	{@st42b}{s16}Monstres{/}	{@st42b}{s16}몬스터{/}
+UI_20260828_006028	{@st42b}{s16}Collections{/}	{@st42b}{s16}컬렉션{/}
+UI_20260828_006029	{@st42b}{s16}Quêtes{/}	{@st42b}{s16}퀘스트{/}
+UI_20260828_006030	{@st59}Fermer{/}	{@st59}닫기{/}
+UI_20260828_006031	{@st42}{#C8BFB5}{s12}Apparus : %s types · Non enregistrés : %s types{/}	{@st42}{#C8BFB5}{s12}등장 %s종 · 미등록 %s종{/}
+UI_20260828_006032	{@st42}{#C8BFB5}{s12}Collections Liées à la Zone : %s{/}	{@st42}{#C8BFB5}{s12}지역 연관 컬렉션 %s개{/}
+UI_20260828_006033	{@st42}{#C8BFB5}{s12}PNJ Disponibles : %s{/}	{@st42}{#C8BFB5}{s12}확인 가능한 NPC %s명{/}
+UI_20260828_006034	{@st42}{#C8BFB5}{s12}Quêtes Actuelles de la Zone : %s{/}	{@st42}{#C8BFB5}{s12}현재 지역 퀘스트 %s개{/}
+UI_20260828_006035	{@st42}{#A9A097}{s13}Aucune information de zone à afficher.{/}	{@st42}{#A9A097}{s13}표시할 지역 정보가 없습니다.{/}
+UI_20260828_006036	{@st42b}Voir uniquement les objets achetables{/}	{@st42b}구매 가능 아이템만 보기{/}
+UI_20260828_006037	Tableau d'Actions Rapides	퀵 액션 보드
+UI_20260828_006038	Tableau %d	보드 %d
+UI_20260828_006039	Exclusif au Personnage	캐릭터 전용
+UI_20260828_006040	Partagé par l'Équipe	계정 공용
+UI_20260828_006041	Le nombre maximum de tableaux pouvant être créés a été dépassé.	생성 가능한 보드 수를 초과했습니다.
+UI_20260828_006042	Le nombre total maximum d'emplacements disponibles a été dépassé.	사용 가능한 전체 슬롯 수를 초과했습니다.
+UI_20260828_006043	Veuillez vérifier la plage des valeurs définies.	설정값의 범위를 확인해 주세요.
+UI_20260828_006044	Le nombre d'actions assignées dépasse la nouvelle capacité d'emplacements. Veuillez d'abord vider les actions.	배치된 동작 수가 새 슬롯 수보다 많습니다. 동작을 먼저 비워 주세요.
+UI_20260828_006045	Le personnage actuel ne peut pas utiliser cette action.	현재 캐릭터는 이 동작을 사용할 수 없습니다.
+UI_20260828_006046	Cette action ne peut pas être enregistrée.	등록할 수 없는 동작입니다.
+UI_20260828_006047	Échec de l'enregistrement des paramètres du Tableau d'Actions Rapides.	퀵 액션 보드 설정을 저장하지 못했습니다.
+UI_20260828_006048	Voulez-vous vraiment supprimer le tableau sélectionné ?	선택한 보드를 삭제하시겠습니까?
+UI_20260828_006049	Veuillez créer un nouveau tableau.	새 보드를 만들어 주세요.
+UI_20260828_006050	Lorsqu'il est déverrouillé, Alt + Clic droit pour vider un emplacement.	잠금 해제 상태에서 Alt+우클릭하면 슬롯을 비울 수 있습니다.
+UI_20260828_006051	Abandonner les changements ?	적용하지 않은 변경 내용을 버리시겠습니까?
+UI_20260828_006052	Déplier les Paramètres Détaillés	상세 설정 펼치기
+UI_20260828_006053	Replier les Paramètres Détaillés	상세 설정 접기
+UI_20260828_006054	{@st43}{s24}Tableau d'Actions Rapides{/}	{@st43}{s24}퀵 액션 보드{/}
+UI_20260828_006055	{@st45tb2}{s18}Liste des Tableaux{/}	{@st45tb2}{s18}보드 목록{/}
+UI_20260828_006056	{@st45tw4}Veuillez créer{nl}un nouveau tableau.{/}	{@st45tw4}새 보드를{nl}만들어 주세요.{/}
+UI_20260828_006057	{@st59}Ajouter un Tableau{/}	{@st59}보드 추가{/}
+UI_20260828_006058	{@st59}Supprimer le Tableau Sélectionné{/}	{@st59}선택한 보드 삭제{/}
+UI_20260828_006059	Affichage	표시
+UI_20260828_006060	Verrou	잠금
+UI_20260828_006061	Paramètres du Tableau	보드 설정
+UI_20260828_006062	Ajouter une Action	동작 추가
+UI_20260828_006063	{@st45tw2}Disposition{/}	{@st45tw2}배치{/}
+UI_20260828_006064	{@st45tw5}Aperçu{/}	{@st45tw5}미리보기{/}
+UI_20260828_006065	{@st45tw2}Portée de la Sauvegarde{/}	{@st45tw2}저장 범위{/}
+UI_20260828_006066	{@st45tw2}Échelle (%){/}	{@st45tw2}배율(%){/}
+UI_20260828_006067	{@st45tw2}Opacité (%){/}	{@st45tw2}투명도(%){/}
+UI_20260828_006068	{@st45tw5}Lignes/Colonnes 1–8 · Échelle 50–150 · Opacité 10–100{nl}Déverrouillé - Déposer hors de l'emplacement /{nl}Alt+Clic droit pour vider{/}	{@st45tw5}행·열 1~8 · 배율 50~150 · 투명도 10~100{nl}해제 - 슬롯 밖 드롭/Alt+우클릭으로 비우기{/}
+UI_20260828_006069	{@st45tw2}Glissez l'icône vers l'emplacement voulu.{/}	{@st45tw2}아이콘을 원하는 보드 슬롯으로 드래그하세요.{/}
+UI_20260828_006070	Émote	감정표현
+UI_20260828_006071	Warp de Quête	퀘스트 워프
+UI_20260828_006072	Tableau	보드
+UI_20260828_006073	{@st59}Gestion du Tableau d'Actions Rapides{/}	{@st59}퀵 액션 보드 관리{/}
+UI_20260828_006074	{@st59}Réduire le Tableau{/}	{@st59}보드 최소화{/}
+UI_20260828_006075	{@st59}Déplier le Tableau{/}	{@st59}보드 펼치기{/}
+UI_20260828_006076	{@st59}Fermer le Tableau{/}	{@st59}보드 닫기{/}
+UI_20260828_006077	{@st59}Basculer l'Affichage du Tableau d'Actions Rapides{/}	{@st59}퀵 액션 보드 표시 전환{/}
+UI_20260828_006078	{@st42b}{ds}{s14}Point de Résonance (%s%){/}	{@st42b}{ds}{s14}공명 포인트 (%s%){/}
+UI_20260828_006079	{@st42b}{s14}Palier de Récompense Additionnelle : Palier %s{/}	{@st42b}{s14}추가 보상 획득 단계: %s단계{/}
+UI_20260828_006080	{@st66b}[Récompense de Complétion]{nl}Vous pouvez améliorer la {#003997}"Gemme d'Éther"{/} via le PNJ Kupole qui apparaît à la complétion.{nl}Plus le palier est élevé, plus le taux de réussite d'amélioration est élevé.{nl} {nl}[Récompense de Saison]{nl}Pour les Sauveurs classés dans le TOP 3 par Arbre de Classe,{nl}{#003997}"Brûle-encens Dimensionnel"{/} sera distribué ainsi que {#003997}"Récompense de Saison ([Niv.560] Fragment II d'Ichor Avancé de la Déesse (Armure), [Niv.560] Fragment II d'Ichor Avancé de la Déesse (Arme), Cube Aléatoire Béni [Saule] A)"{/} en récompenses de classement de la saison précédente, et les Sauveurs ayant participé à la saison recevront des {#003997}"Insignes de Mercenaire"{/}{nl}en quantités proportionnelles à leurs résultats, en récompense.{nl} {nl}{s13}Les saisons se réinitialisent chaque lundi à 6 h (heure du serveur){nl}{nl}{s13}{#003997}L'entrée est restreinte chaque lundi de 5 h à 6 h (heure du serveur){/}{nl} {nl}{s13}{#8e0000}Si un Sauveur classé dans le TOP 3 d'un Arbre de Classe entre également dans le TOP 3 d'un autre Arbre de Classe, il ne recevra qu'une seule fois la récompense de son classement le plus élevé.{nl} {nl}Dans un tel cas, le Sauveur suivant le mieux classé de cet Arbre de Classe recevra la récompense de classement à la place du Sauveur exclu.	{@st66b}[클리어 보상]{nl}클리어 시 생성되는 큐폴 NPC를 통해 {#003997}"에테르 젬"{/}을 강화할 수 있습니다.{nl}스테이지가 높을 수록 강화 확률이 증가합니다.{nl} {nl}[시즌 보상]{nl}직업군별 랭킹 TOP 3 구원자분들에게는{nl}{#003997} "차원의 향로"{/}아이템과 {#003997} "시즌 보상([Lv.560] 상급 가디스 아이커(방어구) 파편 II, [Lv.560] 상급 가디스 아이커(무기) 파편 II, 축복받은 [사울레]의 랜덤 큐브 A)"{/}아이템을 전 시즌 랭킹 보상으로 지급하며 시즌에 참여한 구원자 분들께는 자신의 기록에 비례한 수량의{nl}{#003997} "용병단 증표"{/}{nl}를 보상으로 지급합니다.{nl} {nl}{s13}시즌은 매주 월요일 06시에 초기화 됩니다{nl}{nl}{s13}{#003997}매주 월요일 05시~06시 입장이 제한됩니다{/}{nl} {nl}{s13}{#8e0000}각 직업군 TOP3 순위에 오른 구원자분이 다른 직업군 TOP3 순위에도 오른 경우 가장 높은 순위의 보상 1회만 받게 됩니다.{nl} {nl}위와 같은 상황에서 제외된 구원자분을 대신하여 해당 직업군의 다음 순위의 구원자분이 랭킹 보상을 지급받게 됩니다.
+UI_20260828_006081	{@st59}Skill du Personnage{/}	{@st59}캐릭터 스킬{/}
+UI_20260828_006082	{@st43}Fonctionnalités de Confort{/}	{@st43}편의 기능{/}
+UI_20260828_006083	{@st66b}Utiliser le Tableau d'Actions Rapides{/}	{@st66b}퀵 액션 보드 사용{/}
+UI_20260828_006084	{@st66b}Gérer{/}	{@st66b}관리{/}
+UI_20260828_006085	{@st66b}Utiliser le Suivi de Butin de Terrain{/}	{@st66b}필드 루팅 트래커 사용{/}
+UI_20260828_006086	{@st66b}Utiliser les Infos de Zone de la Minimap{/}	{@st66b}미니맵 지역 정보 사용{/}
+UI_20260828_006087	{@st41b}Total de %s Obtenu : {/}	{@st41b}총 %s 획득량: {/}
+UI_20260828_006088	Fragment de Mémoire	기억조각
+UI_20260828_006089	Voulez-vous démonter l'objet sélectionné en %s ?	선택한 아이템을 %s(으)로 분해하시겠습니까?
+UI_20260828_006090	{@st43}{s24}[%s] Boutique de Démontage d'Objets à Thème{/}{/}	{@st43}{s24}[%s] 테마 상품 분해 상점{/}{/}
+UI_20260828_006091	Thème	테마
+UI_20260828_006092	  Après Démontage [%s]{/}	  분해 후 [%s]{/}
+UI_20260828_006093	Lors du Démontage [%s]	분해 시 [%s]
+UI_20260828_006094	[%s] Objet à Thème Possédé	보유 중인 [%s] 테마 상품
+UI_20260828_006095	{@st59}Set 1 (Arme Principale){/}	{@st59}세트1(주무기){/}
+UI_20260828_006096	{@st59}Set 1 (Arme Secondaire){/}	{@st59}세트1(보조무기){/}
+UI_20260828_006097	{@st59}Set 2 (Arme Principale){/}	{@st59}세트2(주무기){/}
+UI_20260828_006098	{@st59}Set 2 (Arme Secondaire){/}	{@st59}세트2(보조무기){/}
+UI_20260828_006099	Skill de Résonance	공명 스킬
+UI_20260828_006100	{@st42}{#AAB1BC}{s12}À l'instant	{@st42}{#AAB1BC}{s12}방금
+UI_20260828_006101	{@st42}{#AAB1BC}{s12}Il y a %s s	{@st42}{#AAB1BC}{s12}%s초 전
+UI_20260828_006102	{@st42}{#AAB1BC}{s12}Il y a %s min	{@st42}{#AAB1BC}{s12}%s분 전
+UI_20260828_006103	{@st42}{#AAB1BC}{s12}Il y a %s h	{@st42}{#AAB1BC}{s12}%s시간 전
+UI_20260828_006104	{@st42}{#9D9489}{s12}Max %s · %s s · Journal %s/%s{/}	{@st42}{#9D9489}{s12}최대 %s · %s초 · 도감 %s/%s{/}
+UI_20260828_006105	{@st42}{#B7AEA4}{s13}Emplacements Confirmés : %s{/}	{@st42}{#B7AEA4}{s13}확인 위치 %s곳{/}
+UI_20260828_006106	{@st42}{#B7AEA4}{s13}Collecté %s/%s · Objets de la Zone : %s{/}	{@st42}{#B7AEA4}{s13}수집 %s/%s · 지역 아이템 %s개{/}
+UI_20260828_006107	{@st42}{s12}Emplacement{/}	{@st42}{s12}위치{/}
+UI_20260828_006108	{@st59}Afficher l'Emplacement sur la Minimap{/}	{@st59}미니맵에 위치 표시{/}
+UI_20260828_006109	{@st42}{s12}Emplacement d'Apparition{/}	{@st42}{s12}출현지{/}
+UI_20260828_006110	{@st59}Afficher les emplacements d'apparition candidats des monstres sur la minimap{/}	{@st59}몬스터 생성 후보 지점을 미니맵에 표시{/}
+UI_20260901_006111	{@st59s}Gestion des Skills{/}	{@st59s}스킬 관리{/}
+UI_20260901_006112	{@st59s}Enregistrement de Skill{/}	{@st59s}스킬 등록{/}
+UI_20260901_006113	Temps de Recharge 3:00	재사용 대기시간 3:00
+UI_20260901_006114	Taux d'Amélioration : 100 %	강화 확률 : 100%
+UI_20260901_006115	Quantité Actuelle : 20	현재 보유량 : 20
+UI_20260901_006116	{@st45tw2}Échelle(%%){/}	{@st45tw2}배율(%%){/}
+UI_20260901_006117	{@st45tw2}Opacité(%%){/}	{@st45tw2}투명도(%%){/}
+UI_20260901_006118	{@st45tw5}Lignes/Colonnes 1~8 · Échelle 50~150 · Opacité 10~100{nl}Une fois déverrouillé, déposer hors de l'emplacement /{nl}Alt+Clic droit pour vider{/}	{@st45tw5}행·열 1~8 · 배율 50~150 · 투명도 10~100{nl}해제 후 슬롯 밖 드롭/Alt+우클릭으로 비우기{/}
