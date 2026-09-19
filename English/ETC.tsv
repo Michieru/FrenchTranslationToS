@@ -82970,3 +82970,5 @@ ETC_20260907_082950	Not affected by Cooldown Reduction effects.	재사용 대기
 ETC_20260907_082951	Reduces continuous damage taken from Zmei's Burn by {VALUE1}% for 6 seconds.	6초 동안 즈메이 화상으로 받는 지속 피해가 {VALUE1}% 감소합니다.
 ETC_20260907_082952	Resonance Points ({PERCENT}%)	공명 포인트 ({PERCENT}%)
 ETC_20260907_082953	[Frontal Range]	[전방 범위]
+ETC_20260914_082954	Not affected by Cooldown Reduction from skill effects(Pass, Cyan Gem).	스킬 효과(패스, 시안 젬)로 인한 재사용 대기시간 감소를 받지 않습니다.
+ETC_20260914_082955	Not affected by Cooldown Reduction from items, buffs, cards, etc.	아이템, 버프, 카드 등으로 인한 재사용 대기시간 감소를 받지 않습니다.
