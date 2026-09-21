@@ -2404,7 +2404,7 @@ QUEST_LV_0500_20230130_002403	Je ne peux pas bouger à cause des Vubbe...	부베
 QUEST_LV_0500_20230130_002404	Je dois arriver à Orsha....	오르샤로 가야 하는데....				고립된 학자
 QUEST_LV_0500_20230130_002405	Vraiment... !	정말인가...!				고립된 학자
 QUEST_LV_0500_20230130_002406	Merci !	고맙네!				고립된 학자
-QUEST_LV_0500_20230130_002407	Ce livre, il n'était pas là avant.{nl}Devrais-je le lire ?	이곳을 지나갔을 때는 못 봤던 책이다.{nl}읽어볼까?				
+QUEST_LV_0500_20230130_002407	Ce livre, il n'était pas là avant. Devrais-je le lire ?	이곳을 지나갔을 때는 못 봤던 책이다.{nl}읽어볼까?				
 QUEST_LV_0500_20230130_002408	Garde du Seigneur d'Orsha	오르샤 영주 호위병				
 QUEST_LV_0500_20230130_002409	Ah, Révélateur. En quoi puis-je vous être utile	아, 계시자님. 어서 오십시오.{nl}무슨 일로 찾아오셨나요?				오르샤 영주 호위병
 QUEST_LV_0500_20230130_002410	Journal d'expériences ?	실험 일지요?				오르샤 영주 호위병
@@ -3266,8 +3266,8 @@ QUEST_LV_0500_20260206_003265	 Le sceau vient à peine de se briser, et pourtant
 QUEST_LV_0500_20260206_003266	Les villageois sont en danger !	이대로라면 주민들이 위험합니다!				마을 사제 아른타스
 QUEST_LV_0500_20260206_003267	Révélateur, nous devons nous rendre au village et mettre les gens en sécurité. Voulez-vous me{nl}prêter votre force une fois de plus pour aider à les évacuer ?	계시자님, 저와 함께 서둘러 마을로 돌아가 사람들을 대피시켜야 할 것 같습니다. 도와주시겠습니까?				마을 사제 아른타스
 QUEST_LV_0500_20260206_003268	Quoi ?! Vous comptez rester dans cet endroit dangereux tout seul ?	네?! 이 위험한 곳에 홀로 남으시겠다고요?				마을 사제 아른타스
-QUEST_LV_0500_20260206_003269	Comme Arntas l'a dit, si Zmei vient à peine de se libérer du sceau, il n'a probablement pas encore retrouvé toute sa force.	아른타스 님 말씀대로 즈메이가 막 봉인에서 풀려난 상태라면, 놈은 아직 온전한 힘을 찾지 못했을 겁니다.				
-QUEST_LV_0500_20260206_003270	C'est la seule chance de l'abattre. Pendant que j'affronte Zmei, je laisse la sécurité des villageois entre vos mains, Prêtre.	지금이 놈을 쓰러뜨릴 유일한 기회입니다. 제가 즈메이를 붙잡아 두는 동안, 사제님은 주민들을 부탁합니다.				
+QUEST_LV_0500_20260206_003269	Comme Arntas l'a dit, si Zmei vient à peine de se libérer du sceau, il n'a probablement pas{nl}encore retrouvé toute sa force.	아른타스 님 말씀대로 즈메이가 막 봉인에서 풀려난 상태라면, 놈은 아직 온전한 힘을 찾지 못했을 겁니다.				
+QUEST_LV_0500_20260206_003270	C'est la seule chance de l'abattre. Pendant que j'affronte Zmei, je laisse la sécurité des villageois{nl}entre vos mains, Prêtre.	지금이 놈을 쓰러뜨릴 유일한 기회입니다. 제가 즈메이를 붙잡아 두는 동안, 사제님은 주민들을 부탁합니다.				
 QUEST_LV_0500_20260206_003271	Ah... Révélateur... Vous êtes vraiment...	아... 계시자님... 당신은 진정...				마을 사제 아른타스
 QUEST_LV_0500_20260206_003272	...D'accord. J'étais si dévoré par la terreur que j'ai failli laisser filer notre seule chance. Quelle{nl}sottise de ma part. 	...알겠습니다. 제가 어리석었습니다. 눈앞의 공포에 질려 가장 중요한 기회를 놓칠 뻔했군요.				마을 사제 아른타스
 QUEST_LV_0500_20260206_003273	Je défendrai le village même au prix de ma vie. Je suis désolé, mais... je confie le sort de cette{nl}terre entre vos mains. Je vous en prie, revenez-nous sain et sauf !	마을은 제 목숨을 걸고 지키겠습니다. 염치없지만... 이곳을, 이 땅의 운명을 부디 부탁드립니다! 무사하십시오!				마을 사제 아른타스
@@ -3335,53 +3335,53 @@ QUEST_LV_0500_20260206_003334	Combat Contre Zmei	즈메이와 전투
 QUEST_LV_0500_20260206_003335	Le dragon scellé s'est éveillé. Arrêtez-le avant qu'il ne retrouve son pouvoir et menace le monde.	오랫동안 봉인되어 있던 무시무시한 용이 깨어났습니다. 이대로 놔두었다가는 힘을 회복하고 엄청난 재앙이 되어 세상을 위협할 겁니다.				
 QUEST_LV_0500_20260206_003336	Conversation secrète entre El et Baubas	엘과 바우바스의 밀담				
 QUEST_LV_0500_20260206_003337	Resté seul, El révèle sa véritable nature et se moque de Zmei tombé.	홀로 남은 엘은 본색을 드러내며 죽은 즈메이를 비웃습니다.				
-QUEST_LV_0500_20260828_003338	Révélateur, une anomalie a été détectée à l'endroit connu sous le nom de Frontière du Monde après la défaite de Zmei.	계시자, 즈메이 토벌 이후 세계의 경계라 불리는 곳에서 이상현상이 감지되고 있습니다.
-QUEST_LV_0500_20260828_003339	Bien que ce soit une terre aride sans traits notables, l'aura qui en émane est loin d'être ordinaire. C'est une magie inconnue et ancienne — que même les yeux de nous autres Déesses ne peuvent clairement percer.	비록 별 다른 특징이 없는 척박한 땅이긴 하지만, 그곳에서 새어 나오는 기운은 결코 예사롭지 않습니다. 우리 여신들의 시선으로도 그 정체를 또렷이 들여다볼 수 없는, 낯설고 아득히 오래된 마력입니다.
-QUEST_LV_0500_20260828_003340	C'est comme si quelque chose de longtemps voilé au monde s'était enfin réveillé avec la mort de Zmei. La déferlante de magie libérée lors de sa défaite a dû arracher cette terre aride à son antique sommeil.	마치 오랜 세월 무언가에 가려져 있던 것이, 즈메이의 죽음과 함께 비로소 깨어난 듯합니다. 그를 쓰러뜨릴 때 터져 나온 거대한 마력의 파동이 그 척박한 땅의 오랜 잠을 흔들어 깨운 것이겠지요.
-QUEST_LV_0500_20260828_003341	Nous avons déjà envoyé une équipe d'expédition pour commencer l'investigation, mais leur seule force atteindra ses limites. Pour être franche... même moi, qui scrute le destin, je ne peux aisément deviner ce qui attend au bout de cette anomalie.	이미 그곳에는 탐사대를 보내 조사를 시작했습니다만, 그들의 힘만으로는 한계가 있을 것입니다. 솔직히 고백하자면… 운명을 살피는 나조차도 이 이상현상의 끝에 무엇이 기다리고 있을지 쉬이 가늠할 수가 없군요.
+QUEST_LV_0500_20260828_003338	Révélateur, une anomalie a été détectée à l'endroit connu sous le nom de Frontière du Monde{nl}après la défaite de Zmei.	계시자, 즈메이 토벌 이후 세계의 경계라 불리는 곳에서 이상현상이 감지되고 있습니다.
+QUEST_LV_0500_20260828_003339	Bien que ce soit une terre aride sans traits notables, l'aura qui en émane est loin d'être ordinaire.{nl}C'est une magie inconnue et ancienne — que même les yeux de nous autres Déesses ne peuvent{nl}clairement percer.	비록 별 다른 특징이 없는 척박한 땅이긴 하지만, 그곳에서 새어 나오는 기운은 결코 예사롭지 않습니다. 우리 여신들의 시선으로도 그 정체를 또렷이 들여다볼 수 없는, 낯설고 아득히 오래된 마력입니다.
+QUEST_LV_0500_20260828_003340	C'est comme si quelque chose de longtemps voilé au monde s'était enfin réveillé avec la mort de{nl}Zmei. La déferlante de magie libérée lors de sa défaite a dû arracher cette terre aride à son{nl}antique sommeil.	마치 오랜 세월 무언가에 가려져 있던 것이, 즈메이의 죽음과 함께 비로소 깨어난 듯합니다. 그를 쓰러뜨릴 때 터져 나온 거대한 마력의 파동이 그 척박한 땅의 오랜 잠을 흔들어 깨운 것이겠지요.
+QUEST_LV_0500_20260828_003341	Nous avons déjà envoyé une équipe d'expédition pour commencer l'investigation, mais leur{nl}seule force atteindra ses limites. Pour être franche... même moi, qui scrute le destin, je ne peux{nl}aisément deviner ce qui attend au bout de cette anomalie.	이미 그곳에는 탐사대를 보내 조사를 시작했습니다만, 그들의 힘만으로는 한계가 있을 것입니다. 솔직히 고백하자면… 운명을 살피는 나조차도 이 이상현상의 끝에 무엇이 기다리고 있을지 쉬이 가늠할 수가 없군요.
 QUEST_LV_0500_20260828_003342	Je vous en prie, rendez-vous en cette terre et découvrez la source de cette anomalie.	부디 그 땅으로 가, 이상현상의 근원을 밝혀 주십시오.
 QUEST_LV_0500_20260828_003343	Belion, Membre de l'Expédition	탐사대원 벨리온
 QUEST_LV_0500_20260828_003344	Révélateur ! Je vous attendais. Je suis Belion, membre de l'expédition qui enquête sur cette zone.	계시자님! 기다리고 있었습니다. 저는 이곳을 조사하는 탐사 대원 벨리온이라고 합니다.
 QUEST_LV_0500_20260828_003345	Pourriez-vous me mettre au courant de la situation ici ?	이곳의 상황을 바로 들을 수 있을까요?
-QUEST_LV_0500_20260828_003346	Juste après la mort de Zmei, on a commencé à détecter dans cette région une aura faible mais non identifiée.	즈메이가 처치된 직후, 이 지역에서 희미하지만 정체불명의 기운이 감지되기 시작했습니다.
+QUEST_LV_0500_20260828_003346	Juste après la mort de Zmei, on a commencé à détecter dans cette région une aura faible mais{nl}non identifiée.	즈메이가 처치된 직후, 이 지역에서 희미하지만 정체불명의 기운이 감지되기 시작했습니다.
 QUEST_LV_0500_20260828_003347	Une aura non identifiée... ?	정체불명의 기운이라면…?
-QUEST_LV_0500_20260828_003348	Nous ne pouvons pas encore en être certains... mais selon l'analyse des mages envoyés, étonnamment,  	아직 확신할 순 없지만… 파견된 마법사들의 분석에 따르면 놀랍게도 
+QUEST_LV_0500_20260828_003348	Nous ne pouvons pas encore en être certains... mais selon l'analyse des mages envoyés,{nl}étonnamment,  	아직 확신할 순 없지만… 파견된 마법사들의 분석에 따르면 놀랍게도 
 QUEST_LV_0500_20260828_003349	une Aura de Dragon	용의 기운
 QUEST_LV_0500_20260828_003350	a été repérée.	이라고 하더군요.
 QUEST_LV_0500_20260828_003351	Un dragon ? Cela pourrait-il être lié à Zmei, que nous avons vaincu récemment ?	용? 혹시 최근에 쓰러뜨린 즈메이와 관련이 있는 겁니까?
-QUEST_LV_0500_20260828_003352	Oui. La mort de Zmei a déclenché une immense déferlante de magie, qui semble avoir provoqué une sorte de réaction en chaîne.	예. 즈메이의 죽음으로 인해 거대한 마력의 파동이 발생했고, 그것이 모종의 연쇄 반응을 일으킨 것 같습니다.
+QUEST_LV_0500_20260828_003352	Oui. La mort de Zmei a déclenché une immense déferlante de magie, qui semble avoir provoqué{nl}une sorte de réaction en chaîne.	예. 즈메이의 죽음으로 인해 거대한 마력의 파동이 발생했고, 그것이 모종의 연쇄 반응을 일으킨 것 같습니다.
 QUEST_LV_0500_20260828_003353	Mais quel lien Zmei pourrait-il bien avoir avec cette lande aride ?	하지만 즈메이와 이 척박한 벌판이 무슨 관계가 있는 거죠?
-QUEST_LV_0500_20260828_003354	Après avoir passé au crible des textes anciens... j'ai trouvé des archives indiquant que lorsque l'Alliance des Dieux et Démons a exterminé les Draconides par le passé, une infime fraction d'entre eux a été chassée vers cette région.	고문헌을 샅샅이 조사해 본 결과… 과거 신마 연합이 용족을 말살할 당시, 극히 일부의 용족이 이 지역으로 쫓겨났다는 기록을 찾았습니다.
-QUEST_LV_0500_20260828_003355	Je pensais que ce n'était qu'une légende... Pourraient-ils survivre encore ici ? Révélateur, pourriez-vous aider notre équipe d'expédition dans cette investigation ?	그저 전설 속 이야기인 줄로만 알았는데... 혹시 그들이 아직 이곳에 살아남아 있는 걸까요? 계시자님, 저희 탐사대와 함께 조사에 협력해 주실 수 있겠습니까?
-QUEST_LV_0500_20260828_003356	Révélateur, cette fois-ci, nous comptons explorer la partie orientale de la lande. Cependant, elle grouille de monstres, ce qui rend la progression difficile. Pourriez-vous nettoyer les monstres pour que notre exploration se déroule plus facilement ?	계시자님. 이번에는 황야 동쪽을 조사해보려고 합니다. 다만 몬스터들이 득실거려 전진이 어렵습니다. 혹시 탐사가 수월해질 수 있도록 몬스터들을 정리해주실 수 있습니까?
-QUEST_LV_0500_20260828_003357	On reconnaît bien là le Révélateur. Je vais avancer vers la zone. Suivez-moi lorsque vous serez prêt.	역시 계시자님은 대단하시군요. 저는 먼저 해당 구역으로 이동하겠습니다. 준비가 되시면 따라와 주십시오.
-QUEST_LV_0500_20260828_003358	Regardez cette pierre gravée ! C'est une forme d'écriture très ancienne. Elle n'était certainement pas là lors de notre récente expédition... Les traces longtemps voilées par la magie commenceraient-elles à remonter à la surface avec la mort de Zmei ?	보세요, 저 문양석! 아주 오래된 형태의 문자입니다. 분명 최근에 진행했던 탐사에서는 발견된 적이 없던 것인데... 즈메이의 죽음으로 오랫동안 마력에 가려져 있던 흔적들이 지상으로 드러나기 시작한 걸까요?
+QUEST_LV_0500_20260828_003354	Après avoir passé au crible des textes anciens... j'ai trouvé des archives indiquant que lorsque{nl}l'Alliance des Dieux et Démons a exterminé les Draconides par le passé, une infime fraction{nl}d'entre eux a été chassée vers cette région.	고문헌을 샅샅이 조사해 본 결과… 과거 신마 연합이 용족을 말살할 당시, 극히 일부의 용족이 이 지역으로 쫓겨났다는 기록을 찾았습니다.
+QUEST_LV_0500_20260828_003355	Je pensais que ce n'était qu'une légende... Pourraient-ils survivre encore ici ? Révélateur,{nl}pourriez-vous aider notre équipe d'expédition dans cette investigation ?	그저 전설 속 이야기인 줄로만 알았는데... 혹시 그들이 아직 이곳에 살아남아 있는 걸까요? 계시자님, 저희 탐사대와 함께 조사에 협력해 주실 수 있겠습니까?
+QUEST_LV_0500_20260828_003356	Révélateur, cette fois-ci, nous comptons explorer la partie orientale de la lande. Cependant, elle{nl}grouille de monstres, ce qui rend la progression difficile. Pourriez-vous nettoyer les monstres{nl}pour que notre exploration se déroule plus facilement ?	계시자님. 이번에는 황야 동쪽을 조사해보려고 합니다. 다만 몬스터들이 득실거려 전진이 어렵습니다. 혹시 탐사가 수월해질 수 있도록 몬스터들을 정리해주실 수 있습니까?
+QUEST_LV_0500_20260828_003357	On reconnaît bien là le Révélateur. Je vais avancer vers la zone. Suivez-moi lorsque vous serez{nl}prêt.	역시 계시자님은 대단하시군요. 저는 먼저 해당 구역으로 이동하겠습니다. 준비가 되시면 따라와 주십시오.
+QUEST_LV_0500_20260828_003358	Regardez cette pierre gravée ! C'est une forme d'écriture très ancienne. Elle n'était certainement{nl}pas là lors de notre récente expédition... Les traces longtemps voilées par la magie{nl}commenceraient-elles à remonter à la surface avec la mort de Zmei ?	보세요, 저 문양석! 아주 오래된 형태의 문자입니다. 분명 최근에 진행했던 탐사에서는 발견된 적이 없던 것인데... 즈메이의 죽음으로 오랫동안 마력에 가려져 있던 흔적들이 지상으로 드러나기 시작한 걸까요?
 QUEST_LV_0500_20260828_003359	Ça faisait longtemps, miaou !	오랜만에 본다냥!
-QUEST_LV_0500_20260828_003360	Miaou~ Révélateur, ça faisait un bail, miaou ! On se recroise dans un endroit aussi sinistre, quelle coïncidence, miaou ?	야옹~ 계시자, 오랜만이다냥! 어쩌다 보니 이런 험악한 곳에서 또 만났네냥?
+QUEST_LV_0500_20260828_003360	Miaou~ Révélateur, ça faisait un bail, miaou ! On se recroise dans un endroit aussi sinistre, quelle{nl}coïncidence, miaou ?	야옹~ 계시자, 오랜만이다냥! 어쩌다 보니 이런 험악한 곳에서 또 만났네냥?
 QUEST_LV_0500_20260828_003361	...Un chat qui parle ? Révélateur, que se passe-t-il donc ici ?	…고양이가 말을 합니까? 계시자님, 도대체 이게 어떻게 된 일이죠?
 QUEST_LV_0500_20260828_003362	(Une réaction familière — je l'ai déjà vue.)	(저번에도 겪은 익숙한 반응이다.)
 QUEST_LV_0500_20260828_003363	...Un chat qui parle. Décidément, le monde est vaste et regorge d'êtres étranges.	…말하는 고양이라. 확실히 세상은 넓고 기이한 존재는 많군요.
-QUEST_LV_0500_20260828_003364	Je comprends qu'il vous a aidé dans votre précédente mission, mais... il y a un point que je dois soulever. Avez-vous un instant ?	이전 임무에서 계시자님을 도왔다는 사실은 알겠습니다만... 한 가지 짚고 넘어가야 할 점이 있습니다. 잠시 괜찮으시겠습니까?
-QUEST_LV_0500_20260828_003365	Notre équipe d'expédition a passé cette zone au crible pendant longtemps, et pourtant nous n'avons jamais vu une bête pareille, ni trouvé la moindre trace d'elle.	저희 탐사대가 이 일대를 오랜 시간 샅샅이 조사해 왔지만, 저런 짐승은 본 적도, 그 어떤 흔적을 발견한 적도 없습니다.
+QUEST_LV_0500_20260828_003364	Je comprends qu'il vous a aidé dans votre précédente mission, mais... il y a un point que je dois{nl}soulever. Avez-vous un instant ?	이전 임무에서 계시자님을 도왔다는 사실은 알겠습니다만... 한 가지 짚고 넘어가야 할 점이 있습니다. 잠시 괜찮으시겠습니까?
+QUEST_LV_0500_20260828_003365	Notre équipe d'expédition a passé cette zone au crible pendant longtemps, et pourtant nous{nl}n'avons jamais vu une bête pareille, ni trouvé la moindre trace d'elle.	저희 탐사대가 이 일대를 오랜 시간 샅샅이 조사해 왔지만, 저런 짐승은 본 적도, 그 어떤 흔적을 발견한 적도 없습니다.
 QUEST_LV_0500_20260828_003366	...Où voulez-vous en venir exactement ?	…정확히 하고 싶은 말이 뭡니까?
-QUEST_LV_0500_20260828_003367	En bref, il a surgi de nulle part au moment précis de votre arrivée ici, Révélateur. N'est-ce pas un peu trop pratique pour n'être qu'une simple coïncidence ?	즉, 계시자님이 이곳에 도착하는 타이밍에 정확히 맞춰 어딘가에서 나타났다는 뜻이죠. 우연 치고는 너무 딱 들어맞지 않습니까?
-QUEST_LV_0500_20260828_003368	El. Pourquoi diable es-tu ici ? Quand Zmei a été vaincu, tu as disparu sans un mot au lieu de revenir.	엘. 네가 도대체 왜 여기에 있는 거야? 즈메이를 처치했을 때는 돌아오지 않고 아무 말 없이 홀연히 사라지더니.
-QUEST_LV_0500_20260828_003369	Miaou ? Je me trouvais justement dans le coin et j'ai senti ton aura, alors je suis venu voir, miaou !	냥? 마침 이 근처에 있었는데, 계시자 기운이 느껴져서 와 봤다냥!
-QUEST_LV_0500_20260828_003370	Tout ça, c'est le destin tissé par la Déesse de la Chance, non, miaou ? Au fait, qu'est-ce qui t'amène jusqu'ici, Révélateur, miaou ?	이게 다 행운의 여신이 맺어 준 인연 아니겠냥? 그나저나, 계시자야말로 이런 데까지 웬일이냥?
+QUEST_LV_0500_20260828_003367	En bref, il a surgi de nulle part au moment précis de votre arrivée ici, Révélateur. N'est-ce pas un{nl}peu trop pratique pour n'être qu'une simple coïncidence ?	즉, 계시자님이 이곳에 도착하는 타이밍에 정확히 맞춰 어딘가에서 나타났다는 뜻이죠. 우연 치고는 너무 딱 들어맞지 않습니까?
+QUEST_LV_0500_20260828_003368	El. Pourquoi diable es-tu ici ? Quand Zmei a été vaincu, tu as disparu sans un mot au lieu de{nl}revenir.	엘. 네가 도대체 왜 여기에 있는 거야? 즈메이를 처치했을 때는 돌아오지 않고 아무 말 없이 홀연히 사라지더니.
+QUEST_LV_0500_20260828_003369	Miaou ? Je me trouvais justement dans le coin et j'ai senti ton aura, alors je suis venu voir, miaou{nl}!	냥? 마침 이 근처에 있었는데, 계시자 기운이 느껴져서 와 봤다냥!
+QUEST_LV_0500_20260828_003370	Tout ça, c'est le destin tissé par la Déesse de la Chance, non, miaou ? Au fait, qu'est-ce qui{nl}t'amène jusqu'ici, Révélateur, miaou ?	이게 다 행운의 여신이 맺어 준 인연 아니겠냥? 그나저나, 계시자야말로 이런 데까지 웬일이냥?
 QUEST_LV_0500_20260828_003371	Une aura suspecte a été détectée près d'ici. Je suis en train de la traquer.	이 근처에서 수상한 기운이 감지된다고 해서. 그걸 쫓는 중이야.
-QUEST_LV_0500_20260828_003372	Une aura suspecte ? Miaou... mes miaou-senseurs ne captent rien, miaou ! Tu es sûr de ne pas te faire des idées, miaou ?	수상한 기운? 냥… 내 냥센서엔 아무것도 안 걸린다냥! 혹시 착각한 거 아니냥?
+QUEST_LV_0500_20260828_003372	Une aura suspecte ? Miaou... mes miaou-senseurs ne captent rien, miaou ! Tu es sûr de ne pas te{nl}faire des idées, miaou ?	수상한 기운? 냥… 내 냥센서엔 아무것도 안 걸린다냥! 혹시 착각한 거 아니냥?
 QUEST_LV_0500_20260828_003373	On verra bien. C'est justement ce que je m'apprête à découvrir.	글쎄. 그건 이제부터 알아봐야지.
-QUEST_LV_0500_20260828_003374	Nya, Révélateur. Tu ne me fais pas confiance, miaou ? Il n'y a aucune chance qu'il y ait quoi que ce soit dans une terre aussi aride, miaou !	냐, 계시자. 내 말을 못 믿는 거냥? 이런 척박한 땅에 뭔가 있을 리 없다냥!
+QUEST_LV_0500_20260828_003374	Nya, Révélateur. Tu ne me fais pas confiance, miaou ? Il n'y a aucune chance qu'il y ait quoi que{nl}ce soit dans une terre aussi aride, miaou !	냐, 계시자. 내 말을 못 믿는 거냥? 이런 척박한 땅에 뭔가 있을 리 없다냥!
 QUEST_LV_0500_20260828_003375	(...Étrange. El semble plutôt réticent à me voir explorer cette zone.)	(…묘하군. 엘은 내가 이 주변을 탐사하는 게 영 내키지 않는 모양이다.)
-QUEST_LV_0500_20260828_003376	Révélateur, cette fois-ci, nous prévoyons d'explorer la zone nord. Est-ce que cela vous conviendrait ?	계시자님. 이번에는 북쪽 지역을 탐사해보려고 합니다. 혹시 괜찮겠습니까?
+QUEST_LV_0500_20260828_003376	Révélateur, cette fois-ci, nous prévoyons d'explorer la zone nord. Est-ce que cela vous{nl}conviendrait ?	계시자님. 이번에는 북쪽 지역을 탐사해보려고 합니다. 혹시 괜찮겠습니까?
 QUEST_LV_0500_20260828_003377	Révélateur. Juste devant se trouve un lieu connu sous le nom de 	계시자님. 저 앞부터는 
 QUEST_LV_0500_20260828_003378	Canyon de l'Oubli.	망각의 협곡
 QUEST_LV_0500_20260828_003379	C'est une région totalement inexplorée — même notre équipe d'expédition n'en a aucune trace.	이라 불리는 곳입니다. 탐사대 기록조차 존재하지 않는, 완전한 미식별 지역이죠.
 QUEST_LV_0500_20260828_003380	Un lieu où même l'équipe d'expédition n'a pas pu entrer ?	탐사대도 진입하지 못한 곳인가요?
-QUEST_LV_0500_20260828_003381	Oui. Avec nos seules forces, nous n'avons pas pu percer l'essaim de monstres et avons dû rebrousser chemin à chaque fois. Cependant... avec vous ici, Révélateur, l'histoire pourrait être différente.	예. 저희 전력만으론 들끓는 몬스터를 뚫지 못해 번번이 발길을 돌려야 했던 곳입니다. 허나… 계시자님이라면 이야기가 다르겠지요.
-QUEST_LV_0500_20260828_003382	Non, enfin, on pourrait tout simplement ne pas y entrer, miaou... Iiiaaah-nya ?! Ne fonce pas comme ça tout seul, miaou ! Attends-moi, miaou !	아니, 그러니까 그냥 안 들어가면 그만이잖냥… 으냐앗?! 혼자 휙 가 버리면 어떡하냥! 같이 가자냥!
-QUEST_LV_0500_20260828_003383	J'avais entendu des rumeurs à votre sujet, Révélateur, mais je n'aurais jamais imaginé que vous étiez aussi capable. Soumettre ces monstres féroces avec une telle aisance... c'est vraiment remarquable.	계시자님에 대한 소문을 듣긴 했지만, 이 정도일 줄은 몰랐습니다. 그 흉폭한 마물들을 이렇게 간단히 제압하시다니… 정말 대단하시군요.
-QUEST_LV_0500_20260828_003384	J'ai jeté un rapide coup d'œil autour de moi pendant le combat... et j'ai trouvé quelque chose de bien intéressant.	전투 중에 잠시 주변을 살펴봤는데… 아주 흥미로운 걸 발견했습니다.
+QUEST_LV_0500_20260828_003381	Oui. Avec nos seules forces, nous n'avons pas pu percer l'essaim de monstres et avons dû{nl}rebrousser chemin à chaque fois. Cependant... avec vous ici, Révélateur, l'histoire pourrait être{nl}différente.	예. 저희 전력만으론 들끓는 몬스터를 뚫지 못해 번번이 발길을 돌려야 했던 곳입니다. 허나… 계시자님이라면 이야기가 다르겠지요.
+QUEST_LV_0500_20260828_003382	Non, enfin, on pourrait tout simplement ne pas y entrer, miaou... Iiiaaah-nya ?! Ne fonce pas{nl}comme ça tout seul, miaou ! Attends-moi, miaou !	아니, 그러니까 그냥 안 들어가면 그만이잖냥… 으냐앗?! 혼자 휙 가 버리면 어떡하냥! 같이 가자냥!
+QUEST_LV_0500_20260828_003383	J'avais entendu des rumeurs à votre sujet, Révélateur, mais je n'aurais jamais imaginé que vous{nl}étiez aussi capable. Soumettre ces monstres féroces avec une telle aisance... c'est vraiment{nl}remarquable.	계시자님에 대한 소문을 듣긴 했지만, 이 정도일 줄은 몰랐습니다. 그 흉폭한 마물들을 이렇게 간단히 제압하시다니… 정말 대단하시군요.
+QUEST_LV_0500_20260828_003384	J'ai jeté un rapide coup d'œil autour de moi pendant le combat... et j'ai trouvé quelque chose de{nl}bien intéressant.	전투 중에 잠시 주변을 살펴봤는데… 아주 흥미로운 걸 발견했습니다.
 QUEST_LV_0500_20260828_003385	Quelque chose d'intéressant ?	흥미로운 거라면?
 QUEST_LV_0500_20260828_003386	Venez jeter un œil par ici.	이쪽으로 와 보시죠.
 QUEST_LV_0500_20260828_003387	Pourriez-vous jeter un œil à ceci ?	이걸 한 번 봐주시겠습니까?
@@ -3392,54 +3392,54 @@ QUEST_LV_0500_20260828_003391	qui existait il y a des milliers d'années ?	에 �
 QUEST_LV_0500_20260828_003392	L'Alliance des Dieux et Démons... ?	신마 연합… 말입니까?
 QUEST_LV_0500_20260828_003393	À voir ta réaction, tu ne sembles pas au courant. ...Ceux que tu sers 	보아하니, 모르는 모양이군. …자네가 섬기는 
 QUEST_LV_0500_20260828_003394	, et ceux qui veulent détruire le monde. 	들과, 세상을 파괴하려는 
-QUEST_LV_0500_20260828_003395	Il y eut une époque où les deux ont temporairement uni leurs forces. Nous les appelons l'Alliance des Dieux et Démons.	들. 그 둘이 일시적으로 손을 잡았던 시대가 있었다. 우리는 그들을 신마 연합이라 부르네.
-QUEST_LV_0500_20260828_003396	Les Déesses et les Dieux Démons unissant leurs mains... C'est difficile à imaginer de nos jours. Mais quel est le rapport avec tout ça ?	여신과 마신이 손을 잡았다니… 지금으로선 상상하기 어렵군요. 한데, 그게 어쨌다는 겁니까?
-QUEST_LV_0500_20260828_003397	Ils ont transformé la dimension de notre monde natal en un enfer vivant. Et ils ont massacré, jusqu'au dernier, les miens qui avaient fui vers ce monde.	그들은 우리 용족의 고향 차원을 지옥으로 바꿔 놓았네. 그리고 그곳을 빠져나와 이쪽 세계로 도망쳐 온 내 동족들을, 한 마리도 남김없이 도륙했지.
+QUEST_LV_0500_20260828_003395	Il y eut une époque où les deux ont temporairement uni leurs forces. Nous les appelons{nl}l'Alliance des Dieux et Démons.	들. 그 둘이 일시적으로 손을 잡았던 시대가 있었다. 우리는 그들을 신마 연합이라 부르네.
+QUEST_LV_0500_20260828_003396	Les Déesses et les Dieux Démons unissant leurs mains... C'est difficile à imaginer de nos jours.{nl}Mais quel est le rapport avec tout ça ?	여신과 마신이 손을 잡았다니… 지금으로선 상상하기 어렵군요. 한데, 그게 어쨌다는 겁니까?
+QUEST_LV_0500_20260828_003397	Ils ont transformé la dimension de notre monde natal en un enfer vivant. Et ils ont massacré,{nl}jusqu'au dernier, les miens qui avaient fui vers ce monde.	그들은 우리 용족의 고향 차원을 지옥으로 바꿔 놓았네. 그리고 그곳을 빠져나와 이쪽 세계로 도망쳐 온 내 동족들을, 한 마리도 남김없이 도륙했지.
 QUEST_LV_0500_20260828_003398	...Sans la moindre raison ?	…아무런 이유도 없이 말입니까?
-QUEST_LV_0500_20260828_003399	Ce n'était pas sans raison. Malheureusement, en ce temps-là, il existait parmi nous, les Draconides, une faction radicale qui prêchait qu'il fallait dominer les humains et les mettre à nos pieds, et les Déesses et les Dieux Démons s'en sont servis comme prétexte. 	이유가 없지는 않았네. 안타깝게도 그 시절 우리 용족 가운데엔, 인간들을 발아래 두고 지배해야 한다 외치던 과격한 무리가 있었고, 여신과 마신은 그것을 빌미로 삼았지. 
+QUEST_LV_0500_20260828_003399	Ce n'était pas sans raison. Malheureusement, en ce temps-là, il existait parmi nous, les{nl}Draconides, une faction radicale qui prêchait qu'il fallait dominer les humains et les mettre à{nl}nos pieds, et les Déesses et les Dieux Démons s'en sont servis comme prétexte. 	이유가 없지는 않았네. 안타깝게도 그 시절 우리 용족 가운데엔, 인간들을 발아래 두고 지배해야 한다 외치던 과격한 무리가 있었고, 여신과 마신은 그것을 빌미로 삼았지. 
 QUEST_LV_0500_20260828_003400	Sous couvert de protéger le monde	세상을 지킨다
 QUEST_LV_0500_20260828_003401	—ils ont pointé leurs lames sur tout le peuple draconide.	는 명분으로, 용족 전체에게 칼을 겨눈 게야.
-QUEST_LV_0500_20260828_003402	Bien sûr, même parmi eux, les avis étaient partagés. Il y avait la Déesse Austeja, qui soutenait qu'on devait nous donner une chance, tandis que d'autres, comme Giltine, ne réclamaient que destruction et massacre.	물론 그들 안에서도 뜻은 갈렸지. 우리에게 기회를 주어야 한다던 아우스테야 여신이 있었는가 하면, 오직 파괴와 살육만을 부르짖던 길티네 같은 자도 있었으니.
-QUEST_LV_0500_20260828_003403	Ainsi, juste avant que nous, les Draconides, ne soyons entièrement anéantis par les lames de cette impitoyable Alliance des Dieux et des Démons... le Dieu Démon Baubas s'est approché en secret et nous a tendu la main. Et nous, dans notre folie, nous l'avons saisie.	그렇게 그 무자비한 신마 연합의 칼날 앞에 우리 용족이 완전히 말살당하기 직전… 마신 바우바스가 은밀히 다가와 손을 내밀었네. 그리고 우리는 어리석게도, 그 손을 잡고 말았지.
+QUEST_LV_0500_20260828_003402	Bien sûr, même parmi eux, les avis étaient partagés. Il y avait la Déesse Austeja, qui soutenait{nl}qu'on devait nous donner une chance, tandis que d'autres, comme Giltine, ne réclamaient que{nl}destruction et massacre.	물론 그들 안에서도 뜻은 갈렸지. 우리에게 기회를 주어야 한다던 아우스테야 여신이 있었는가 하면, 오직 파괴와 살육만을 부르짖던 길티네 같은 자도 있었으니.
+QUEST_LV_0500_20260828_003403	Ainsi, juste avant que nous, les Draconides, ne soyons entièrement anéantis par les lames de{nl}cette impitoyable Alliance des Dieux et des Démons... le Dieu Démon Baubas s'est approché en{nl}secret et nous a tendu la main. Et nous, dans notre folie, nous l'avons saisie.	그렇게 그 무자비한 신마 연합의 칼날 앞에 우리 용족이 완전히 말살당하기 직전… 마신 바우바스가 은밀히 다가와 손을 내밀었네. 그리고 우리는 어리석게도, 그 손을 잡고 말았지.
 QUEST_LV_0500_20260828_003404	Naturellement, Baubas n'avait aucunement l'intention de nous aider pour de bon.	당연하지만 바우바스에게 우리를 진정으로 도울 마음 따위 있을 리 없었지.
-QUEST_LV_0500_20260828_003405	Il a enfermé ici ceux d'entre nous qui avaient survécu. Nous nous sommes rebellés à maintes reprises, mais tout fut vain, et nos proches qui avaient à peine survécu au massacre n'ont fait que s'éteindre les uns après les autres. Ainsi, ce lieu est devenu notre dernier nid, et en même temps, une prison dont on ne peut s'échapper.	그자는 살아남은 우리를 이곳에 가두었네. 몇 번이고 항거해 보았지만 모두 부질없었고, 도리어 그 학살에서 겨우 살아남은 동족들만 하나둘 스러져 갈 뿐이었지. 하여 이곳은 우리의 마지막 둥지이자, 동시에 벗어날 수 없는 감옥이 되었네.
-QUEST_LV_0500_20260828_003406	Pourtant... sais-tu pourquoi il ne nous a pas tués sur-le-champ, et a préféré nous enfermer et nous élever ainsi ?	한데… 그자가 어찌하여 우리를 단번에 죽이지 않고, 굳이 이리 가둬 길렀는지 아는가?
-QUEST_LV_0500_20260828_003407	Car le désespoir que convoite Baubas doit être un désespoir pur, sans le moindre grain d'espoir mêlé.	바우바스가 탐하는 절망이란, 한 점의 희망조차 섞이지 않은 순수한 절망이어야 하거든.
-QUEST_LV_0500_20260828_003408	Révélateur, laisse-moi te demander une chose. Le complot de Baubas... toute cette histoire comme quoi nous offrons notre désespoir en nourriture depuis 2 000 ans, y crois-tu ? 	계시자, 한 가지만 묻겠네. 바우바스의 음모를… 우리가 2000년 동안 절망을 먹이로 바쳐 왔다는 이 모든 이야기를, 그대는 믿는가? 
+QUEST_LV_0500_20260828_003405	Il a enfermé ici ceux d'entre nous qui avaient survécu. Nous nous sommes rebellés à maintes{nl}reprises, mais tout fut vain, et nos proches qui avaient à peine survécu au massacre n'ont fait{nl}que s'éteindre les uns après les autres. Ainsi, ce lieu est devenu notre dernier nid, et en même{nl}temps, une prison dont on ne peut s'échapper.	그자는 살아남은 우리를 이곳에 가두었네. 몇 번이고 항거해 보았지만 모두 부질없었고, 도리어 그 학살에서 겨우 살아남은 동족들만 하나둘 스러져 갈 뿐이었지. 하여 이곳은 우리의 마지막 둥지이자, 동시에 벗어날 수 없는 감옥이 되었네.
+QUEST_LV_0500_20260828_003406	Pourtant... sais-tu pourquoi il ne nous a pas tués sur-le-champ, et a préféré nous enfermer et{nl}nous élever ainsi ?	한데… 그자가 어찌하여 우리를 단번에 죽이지 않고, 굳이 이리 가둬 길렀는지 아는가?
+QUEST_LV_0500_20260828_003407	Car le désespoir que convoite Baubas doit être un désespoir pur, sans le moindre grain d'espoir{nl}mêlé.	바우바스가 탐하는 절망이란, 한 점의 희망조차 섞이지 않은 순수한 절망이어야 하거든.
+QUEST_LV_0500_20260828_003408	Révélateur, laisse-moi te demander une chose. Le complot de Baubas... toute cette histoire{nl}comme quoi nous offrons notre désespoir en nourriture depuis 2 000 ans, y crois-tu ? 	계시자, 한 가지만 묻겠네. 바우바스의 음모를… 우리가 2000년 동안 절망을 먹이로 바쳐 왔다는 이 모든 이야기를, 그대는 믿는가? 
 QUEST_LV_0500_20260828_003409	Si tu nous crois, je t'en prie, aide-nous.	믿어 준다면, 부디 우리를 도와다오.
 QUEST_LV_0500_20260828_003410	...Ton regard dit que tu me crois. Bien. Si tu es prêt, suis-nous.	…믿는다는 눈빛이군. 좋네. 준비가 되었다면, 우리를 따라오게.
 QUEST_LV_0500_20260828_003411	Tu es venu ?	왔나?
-QUEST_LV_0500_20260828_003412	 Voici l'endroit où nous avons vécu tout ce temps. Comme tu peux le voir, il n'y a rien de grandiose. Juste... ce qu'il fallait pour survivre.	 여기가 그동안 우리가 살아온 곳이다. 보다시피 거창한 건 없다. 그저... 살아남기 위한 것들뿐이지.
+QUEST_LV_0500_20260828_003412	 Voici l'endroit où nous avons vécu tout ce temps. Comme tu peux le voir, il n'y a rien de{nl}grandiose. Juste... ce qu'il fallait pour survivre.	 여기가 그동안 우리가 살아온 곳이다. 보다시피 거창한 건 없다. 그저... 살아남기 위한 것들뿐이지.
 QUEST_LV_0500_20260828_003413	...Ce sont des tombes, là-bas ?	...저기 보이는 건 무덤인가요?
 QUEST_LV_0500_20260828_003414	Oui. Les tombes de mes semblables, morts dans cette terre étrangère.	그래. 이 낯선 땅에서 죽어간 동족들의 무덤이지.
-QUEST_LV_0500_20260828_003415	Ne me regarde pas avec ces yeux-là. Même si nous avons accepté ton aide, je ne veux pas de la pitié d'un suppôt des Déesses.	그런 눈으로 보지 마라. 아무리 도움을 받기로 했다 해도, 여신의 하수인에게서 동정 어린 눈빛을 받고 싶진 않으니.
-QUEST_LV_0500_20260828_003416	Quoi qu'il en soit, puisque tu as proposé ton aide, j'irai droit au but. Je ne sais pas quel mauvais coup manigance Baubas ces derniers temps, mais les monstres alentour prolifèrent au-delà de ce que nous pouvons gérer. Ça te dirait de nous montrer ce que tu as dans le ventre ?	어쨌든 돕겠다 했으니, 단도직입적으로 말하지. 요즘 바우바스가 무슨 수작을 부리는 건지, 주변 몬스터들이 우리가 감당하던 범위를 넘어설 만큼 불어나고 있다. 실력 좀 보여주겠나?
+QUEST_LV_0500_20260828_003415	Ne me regarde pas avec ces yeux-là. Même si nous avons accepté ton aide, je ne veux pas de la{nl}pitié d'un suppôt des Déesses.	그런 눈으로 보지 마라. 아무리 도움을 받기로 했다 해도, 여신의 하수인에게서 동정 어린 눈빛을 받고 싶진 않으니.
+QUEST_LV_0500_20260828_003416	Quoi qu'il en soit, puisque tu as proposé ton aide, j'irai droit au but. Je ne sais pas quel mauvais{nl}coup manigance Baubas ces derniers temps, mais les monstres alentour prolifèrent au-delà de{nl}ce que nous pouvons gérer. Ça te dirait de nous montrer ce que tu as dans le ventre ?	어쨌든 돕겠다 했으니, 단도직입적으로 말하지. 요즘 바우바스가 무슨 수작을 부리는 건지, 주변 몬스터들이 우리가 감당하던 범위를 넘어설 만큼 불어나고 있다. 실력 좀 보여주겠나?
 QUEST_LV_0500_20260828_003417	Impressionnant. Alors, vaincre Zmei n'était donc pas qu'un coup de chance.	훌륭하군. 역시 즈메이를 쓰러뜨린 건 운이 아니라는 건가.
 QUEST_LV_0500_20260828_003418	L'Aînée te demande. Peux-tu aller la voir ?	장로님이 찾으신다. 그쪽으로 가주겠나?
 QUEST_LV_0500_20260828_003419	Ah, te voilà.	왔는가?
-QUEST_LV_0500_20260828_003420	J'ai une chose à te raconter. As-tu déjà songé à la manière dont Zmei s'est libéré de ce sceau si ancien ?	자네에게 들려줄 이야기가 하나 있네. 자네는 즈메이가 그 오랜 봉인에서 어떻게 풀려났는지, 생각해 본 적 있나?
+QUEST_LV_0500_20260828_003420	J'ai une chose à te raconter. As-tu déjà songé à la manière dont Zmei s'est libéré de ce sceau si{nl}ancien ?	자네에게 들려줄 이야기가 하나 있네. 자네는 즈메이가 그 오랜 봉인에서 어떻게 풀려났는지, 생각해 본 적 있나?
 QUEST_LV_0500_20260828_003421	...Cela m'a effectivement intrigué. Sauriez-vous quelque chose à ce sujet ?	…의아하긴 했습니다. 혹시 뭔가 알고 계신 겁니까?
-QUEST_LV_0500_20260828_003422	Comme je le pensais, tu ne sais pas. Le coupable qui a réveillé Zmei, c'est Baubas. Il a desserré le sceau et l'a placé devant toi comme un appât.	역시 모르는 모양이군. 즈메이를 깨운 범인은 바우바스네. 그자가 봉인을 느슨히 풀어, 자네 앞에 미끼처럼 놓아둔 게지.
+QUEST_LV_0500_20260828_003422	Comme je le pensais, tu ne sais pas. Le coupable qui a réveillé Zmei, c'est Baubas. Il a desserré le{nl}sceau et l'a placé devant toi comme un appât.	역시 모르는 모양이군. 즈메이를 깨운 범인은 바우바스네. 그자가 봉인을 느슨히 풀어, 자네 앞에 미끼처럼 놓아둔 게지.
 QUEST_LV_0500_20260828_003423	Pourquoi Baubas aurait-il fait une chose pareille ?	바우바스가 어째서 그런 짓을 한 거죠?
-QUEST_LV_0500_20260828_003424	Sans doute pour recueillir le désespoir que Zmei allait cracher en agonisant. Ainsi, sans même t'en rendre compte, tu es devenu sa main.	아마도, 즈메이가 죽어 가며 토해 낼 절망을 거두기 위해서였겠지. 그러니 자네는 자기도 모르는 사이, 그자의 손이 되어 준 셈이야.
+QUEST_LV_0500_20260828_003424	Sans doute pour recueillir le désespoir que Zmei allait cracher en agonisant. Ainsi, sans même{nl}t'en rendre compte, tu es devenu sa main.	아마도, 즈메이가 죽어 가며 토해 낼 절망을 거두기 위해서였겠지. 그러니 자네는 자기도 모르는 사이, 그자의 손이 되어 준 셈이야.
 QUEST_LV_0500_20260828_003425	(...Si ce qu'il dit est vrai. Il y a une chose qui ne cesse de me tracasser.)	(…만약 저 말이 사실이라면. 한 가지, 자꾸 마음에 걸리는 게 있다.)
-QUEST_LV_0500_20260828_003426	(Si tout ce qui touche à Zmei était vraiment un stratagème de Baubas, El apparaissant justement devant moi ce jour-là pour m'aider, était-ce vraiment une coïncidence ?)	(즈메이와 관련된 일이 정말 바우바스의 계략이었다면, 그날 엘이 하필 내 앞에 나타나 날 도왔던 건, 과연 우연이었을까.)
-QUEST_LV_0500_20260828_003427	Tu sembles sombre. Mais ce n'est pas ta faute. Être manipulé ainsi sans même le savoir... c'est justement la façon dont Baubas agit. Tant qu'on y est, je vais aussi te révéler son véritable objectif.	표정이 좋지 않군. 허나 자네 탓이 아니야. 그렇게 자기도 모르게 이용당하는 것... 그것이 바로 바우바스가 일을 꾸미는 방식이니까. 이참에, 그자의 진짜 목적까지 들려주지.
+QUEST_LV_0500_20260828_003426	(Si tout ce qui touche à Zmei était vraiment un stratagème de Baubas, El apparaissant justement{nl}devant moi ce jour-là pour m'aider, était-ce vraiment une coïncidence ?)	(즈메이와 관련된 일이 정말 바우바스의 계략이었다면, 그날 엘이 하필 내 앞에 나타나 날 도왔던 건, 과연 우연이었을까.)
+QUEST_LV_0500_20260828_003427	Tu sembles sombre. Mais ce n'est pas ta faute. Être manipulé ainsi sans même le savoir... c'est{nl}justement la façon dont Baubas agit. Tant qu'on y est, je vais aussi te révéler son véritable{nl}objectif.	표정이 좋지 않군. 허나 자네 탓이 아니야. 그렇게 자기도 모르게 이용당하는 것... 그것이 바로 바우바스가 일을 꾸미는 방식이니까. 이참에, 그자의 진짜 목적까지 들려주지.
 QUEST_LV_0500_20260828_003428	Ce que Baubas convoite en ce moment, ce sont les derniers œufs de notre peuple draconide.	현재 바우바스가 노리는 건 우리 용족의 마지막 알들이네.
 QUEST_LV_0500_20260828_003429	...Vous avez dit des œufs ?	…알이라고 하셨습니까?
-QUEST_LV_0500_20260828_003430	En effet. Sept au total. Ce sont ceux que nous avons à peine réussi à préserver au prix de nos vies, le jour où les dieux et les démons se sont unis pour exterminer notre race.	그렇네. 총 일곱. 신과 마신이 손을 잡고 우리 종족을 멸절시키던 그날, 목숨과 맞바꿔 겨우 품어 낸 것들이지.
-QUEST_LV_0500_20260828_003431	Mais ces œufs... n'ont finalement jamais éclos. À cause de la malédiction que Baubas y a jetée, ils passent 2 000 ans sans mourir ni s'éveiller.	하지만 그 알들은… 끝내 부화하지 못했네. 바우바스가 걸어 둔 저주 탓에 죽지도, 깨어나지도 못한 채로 2000년을 보내는 중이지.
-QUEST_LV_0500_20260828_003432	Et maintenant, il cherche à briser jusqu'à ces derniers œufs, pour anéantir à jamais le seul espoir qu'il nous reste.	그리고 이제 그자는, 그 마지막 알들마저 부수어 우리에게 남은 단 하나의 희망까지 영원히 꺾으려 하네.
+QUEST_LV_0500_20260828_003430	En effet. Sept au total. Ce sont ceux que nous avons à peine réussi à préserver au prix de nos vies,{nl}le jour où les dieux et les démons se sont unis pour exterminer notre race.	그렇네. 총 일곱. 신과 마신이 손을 잡고 우리 종족을 멸절시키던 그날, 목숨과 맞바꿔 겨우 품어 낸 것들이지.
+QUEST_LV_0500_20260828_003431	Mais ces œufs... n'ont finalement jamais éclos. À cause de la malédiction que Baubas y a jetée, ils{nl}passent 2 000 ans sans mourir ni s'éveiller.	하지만 그 알들은… 끝내 부화하지 못했네. 바우바스가 걸어 둔 저주 탓에 죽지도, 깨어나지도 못한 채로 2000년을 보내는 중이지.
+QUEST_LV_0500_20260828_003432	Et maintenant, il cherche à briser jusqu'à ces derniers œufs, pour anéantir à jamais le seul espoir{nl}qu'il nous reste.	그리고 이제 그자는, 그 마지막 알들마저 부수어 우리에게 남은 단 하나의 희망까지 영원히 꺾으려 하네.
 QUEST_LV_0500_20260828_003433	Un désespoir pur... voilà exactement la nourriture que désire Baubas.	순수한 절망… 그것이 바로 바우바스가 원하는 먹이거든.
-QUEST_LV_0500_20260828_003434	Comme on pouvait s'y attendre de la part du Révélateur, miaou ! Un nombre pareil, ça ne te fait ni chaud ni froid, miaou !	역시 계시자다냥. 이 정도 숫자로는 끄떡도 없다냥.
-QUEST_LV_0500_20260828_003435	Me demander ce que j'ai fait, ça me vexe, miaou ! C'est moi qui ai repéré ces types en premier et qui ai prévenu Belion, miaou !	뭘 했냐니, 섭섭하다냥. 이 녀석들이 몰려오는 걸 제일 먼저 알아채고 벨리온한테 귀띔해 준 게 바로 나라고냥!
+QUEST_LV_0500_20260828_003434	Comme on pouvait s'y attendre de la part du Révélateur, miaou ! Un nombre pareil, ça ne te fait{nl}ni chaud ni froid, miaou !	역시 계시자다냥. 이 정도 숫자로는 끄떡도 없다냥.
+QUEST_LV_0500_20260828_003435	Me demander ce que j'ai fait, ça me vexe, miaou ! C'est moi qui ai repéré ces types en premier et{nl}qui ai prévenu Belion, miaou !	뭘 했냐니, 섭섭하다냥. 이 녀석들이 몰려오는 걸 제일 먼저 알아채고 벨리온한테 귀띔해 준 게 바로 나라고냥!
 QUEST_LV_0500_20260828_003436	Miaou ? C'est quoi ce regard, miaou ? J'ai fait quelque chose de mal, miaou ?	냥? 그 눈빛은 뭐라냥. 내가 뭐 잘못이라도 했다냥?
 QUEST_LV_0500_20260828_003437	...Non. Ce n'est rien.	...아니. 아무것도 아니야.
 QUEST_LV_0500_20260828_003438	Au fait, ils sont tous passés où, les autres, miaou ?	그나저나, 다른 일행들은 다 어디 갔다냥?
 QUEST_LV_0500_20260828_003439	Aucune idée. ...Je devrais moi aussi commencer à les chercher.	글쎄. ...나도 슬슬 찾아봐야겠는데.
-QUEST_LV_0500_20260828_003440	Alors tu ferais mieux de les chercher vite, miaou. D'autres monstres continuent d'affluer, miaou !	그러면 빨리 찾아보는 게 좋겠다냥. 다른 몬스터들이 계속 몰려오고 있다냥!
+QUEST_LV_0500_20260828_003440	Alors tu ferais mieux de les chercher vite, miaou. D'autres monstres continuent d'affluer, miaou{nl}!	그러면 빨리 찾아보는 게 좋겠다냥. 다른 몬스터들이 계속 몰려오고 있다냥!
 QUEST_LV_0500_20260828_003441	Te voilà, Révélateur.	왔는가, 계시자.
-QUEST_LV_0500_20260828_003442	Considère cela comme une sorte d'abri, construit il y a longtemps, à l'époque où nous, les Draconides, sommes arrivés pour la première fois sur ces terres.	오래전에 우리 용족들이 이쪽 땅에 처음 도착했을 무렵 만든, 일종의 대피소라 생각해 두게.
+QUEST_LV_0500_20260828_003442	Considère cela comme une sorte d'abri, construit il y a longtemps, à l'époque où nous, les{nl}Draconides, sommes arrivés pour la première fois sur ces terres.	오래전에 우리 용족들이 이쪽 땅에 처음 도착했을 무렵 만든, 일종의 대피소라 생각해 두게.
 QUEST_LV_0500_20260828_003443	J'ai ouvert le chemin qui mène à l'intérieur, alors suis-moi.	안으로 통하는 길은 열어 두었으니, 따라오게.
 QUEST_LV_0500_20260828_003444	Les préparatifs demandent du temps. Pourrais-tu nous gagner encore un peu de temps ?	채비를 하는 데에는 시간이 필요하네. 혹시 조금만 더 시간을 벌어 줄 수 있겠나?
 QUEST_LV_0500_20260828_003445	Merci. À ce stade, t'avoir appelé 	고맙군. 이쯤되니 자네를 
@@ -3448,9 +3448,9 @@ QUEST_LV_0500_20260828_003447	me paraît franchement embarrassant.	이라 불렀
 QUEST_LV_0500_20260828_003448	Merci. Kaldra doit t'attendre, alors vas-y.	고맙네. 칼드라가 자네를 기다리고 있을 테니 가보게.
 QUEST_LV_0500_20260828_003449	Les monstres continuent d'affluer... ça va aller comme ça, miaou ?	계속 몬스터들이 몰려오는데, 이대로 괜찮겠다냥?
 QUEST_LV_0500_20260828_003450	Seigneur Baubas. Votre tâche est-elle achevée ? Le Révélateur va bientôt arriver.	바우바스님. 일은 끝나셨나요? 이제 곧 계시자가 도착할 겁니다.
-QUEST_LV_0500_20260828_003451	J'ai essayé de gagner un peu plus de temps, mais cela s'est révélé trop difficile pour moi, après tout.	좀 더 시간을 끌어 보려 했지만, 역시 저로서는 무리였네요.
+QUEST_LV_0500_20260828_003451	J'ai essayé de gagner un peu plus de temps, mais cela s'est révélé trop difficile pour moi, après{nl}tout.	좀 더 시간을 끌어 보려 했지만, 역시 저로서는 무리였네요.
 QUEST_LV_0500_20260828_003452	Je n'ai même pas le temps de m'attrister.	슬퍼할 겨를도 없군.
-QUEST_LV_0500_20260828_003453	Ce sont les choses que l'Aînée a protégées au prix de sa vie. Jusqu'à ce que ces œufs éclosent sains et saufs, c'est moi qui les protège. ...C'est ça, je suppose, le devoir de celui qui a survécu.	장로님이 목숨과 맞바꿔 지켜 낸 것들이다. 이 알들이 무사히 깨어날 때까지, 내가 지킨다. ……그게, 살아남은 자가 할 일이겠지.
+QUEST_LV_0500_20260828_003453	Ce sont les choses que l'Aînée a protégées au prix de sa vie. Jusqu'à ce que ces œufs éclosent sains{nl}et saufs, c'est moi qui les protège. ...C'est ça, je suppose, le devoir de celui qui a survécu.	장로님이 목숨과 맞바꿔 지켜 낸 것들이다. 이 알들이 무사히 깨어날 때까지, 내가 지킨다. ……그게, 살아남은 자가 할 일이겠지.
 QUEST_LV_0500_20260828_003454	Impossible... dire qu'elle cachait une telle identité...!	설마... 이런 정체를 숨기고 있을 줄이야...!
 QUEST_LV_0500_20260828_003455	Contrat du Châtiment Éternel	영벌의 계약
 QUEST_LV_0500_20260828_003456	La Requête de l'Aînée	장로의 부탁

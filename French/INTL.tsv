@@ -57,7 +57,7 @@ INTL_20171222_000056	Clic droit pour obtenir les objets suivants :{nl} - Album d
 INTL_20180102_000057	Titre - Bonne Année 2018	칭호 - 2018 Happy New Year				
 INTL_20180102_000058	Une clé donnée aux participants de l'événement 2018 Vœux de bonne année.{nl}Elle semble pouvoir ouvrir des Lingots d'or.	2018 Happy New Year Wishes Greetings 수상자에게 지급되는 열쇠입니다.{nl}금괴를 열 수 있을 것 같습니다.				
 INTL_20180108_000059	Une clé donnée aux participants de l'événement 2018 Vœux de bonne année.{nl}Elle semble pouvoir ouvrir une sorte de coffre-fort.	2018 Happy New Year Wishes Greetings 수상자에게 지급되는 열쇠입니다.{nl}금고를 열 수 있을 것 같습니다.				
-INTL_20180108_000060	Une Clé porte-bonheur reçue de l'événement Facebook !{nl}(du 28 décembre 2017 au 9 janvier 2018)	Lucky Key는 Facebook 이벤트에서 지급되었습니다.{nl}(2017년 12월 28일 ~ 2018년 1월 9일)				금괴
+INTL_20180108_000060	Une Clé porte-bonheur reçue de l'événement Facebook ! (du 28 décembre 2017 au 9 janvier{nl}2018)	Lucky Key는 Facebook 이벤트에서 지급되었습니다.{nl}(2017년 12월 28일 ~ 2018년 1월 9일)				금괴
 INTL_20180108_000061	Voûte	금고				
 INTL_20180115_000062	Titre décerné aux gagnants du festival de fanart Mise à jour du rang: 4 Édition nouvelles classes!.	Rank Update: 4 New Classes Edition! 수상자에게 지급되는 칭호입니다.				
 INTL_20180115_000063	Titre - Artiste de Nouvelle Classe	칭호 - New Class Artist				
@@ -81,8 +81,8 @@ INTL_20180214_000080	Utilisez-la pour ouvrir le Vault à Klaipeda.{nl}(Sera supp
 INTL_20180214_000081	Stalactite (14 Jours)	고드름(14일)				
 INTL_20180214_000082	Faites-le fondre près du feu et découvrez ce qu'il y a à l'intérieur !{nl}(Sera supprimé à la fin de l'événement.)	고드름을 녹이면 무엇이 들어있을까요?{nl}(고드름은 장작 주위에서만 사용 가능합니다.)				
 INTL_20180214_000083	Collectez 10 Clé d'hiver pour obtenir le nouveau compagnon Manchot d'hiver !	Winter Key 10개를 모으시면 "윈터펭" 을 드립니다.{nl}(Winter Key는 2월 20일 이벤트에서 획득할 수 있습니다.)				금고
-INTL_20180214_000084	L'événement L'hiver dernier est maintenant ouvert.{nl}Ne manquez pas le nouveau compagnon Manchot d'hiver et bien plus encore !	마지막 겨울 이벤트가 진행 중입니다.{nl}마지막 겨울 선물과 버프는 물론, 신규 컴패니언 윈터펭도 만나보세요.				이벤트 알림판
-INTL_20180214_000085	Collectez 10 Clé d'hiver pour obtenir le compagnon Manchot d'hiver.{nl}(Recevez les clés chaque jour depuis le tableau d'affichage de l'événement.)	Winter Key 10개를 모으시면 "윈터펭" 을 드립니다.{nl}(이벤트 알림판에서 마지막 겨울 선물을 받으세요.)				금고
+INTL_20180214_000084	L'événement L'hiver dernier est maintenant ouvert. Ne manquez pas le nouveau compagnon{nl}Manchot d'hiver et bien plus encore !	마지막 겨울 이벤트가 진행 중입니다.{nl}마지막 겨울 선물과 버프는 물론, 신규 컴패니언 윈터펭도 만나보세요.				이벤트 알림판
+INTL_20180214_000085	Collectez 10 Clé d'hiver pour obtenir le compagnon Manchot d'hiver. (Recevez les clés chaque{nl}jour depuis le tableau d'affichage de l'événement.)	Winter Key 10개를 모으시면 "윈터펭" 을 드립니다.{nl}(이벤트 알림판에서 마지막 겨울 선물을 받으세요.)				금고
 INTL_20180214_000086	Vous pouvez continuer à recevoir plus de récompenses chaque jour en utilisant les Clés d'hiver !{nl}Chaque clé utilisée pour ouvrir le Vault vous donne une nouvelle récompense.	Winter Key로 추가 보상을 받을 수 있습니다.{nl}(Winter Key 1개당 1회의 추가 보상이 주어집니다.)				금고
 INTL_20180214_000087	Vous utilisez déjà ce bonus.	이미 버프가 존재합니다.				이벤트 알림판
 INTL_20180214_000088	C'est trop tôt, revenez plus tard.	너무 이릅니다.				이벤트 알림판
@@ -174,7 +174,7 @@ INTL_20180615_000173	Propriétaire de l'Esprit Maudit	저주받은 혼 사용자
 INTL_20180615_000174	Esprit Maudit	저주받은 혼				
 INTL_20180615_000175	Montrez-le au Soldat dépêché pour entrer dans la zone du Autel maudit.{nl}Vous pouvez aussi l'utiliser pour augmenter la vitesse de déplacement de +2, l'attaque physique de +50 et l'attaque magique de +50 pendant 10 min.	저주받은 병사에게 보여주면 저주받은 지역으로 갈 수 있습니다.{nl}사용 시 10분 동안 이동속도 +2, 물리 공격력 +50, 마법 공격력 +50 증가합니다.				
 INTL_20180615_000176	Vous ne pouvez pas aller au-delà de ce point sans un Esprit maudit.	저주받은 혼이 없는 자는 이 앞을 지나갈 수 없다.				저주받은 병사
-INTL_20180615_000177	Les Esprit maudit proviennent des monstres qui rôdent dans cet endroit. Bonne chance pour en obtenir un.	저주받은 해안의 몬스터를 처치해야만 저주받은 혼을 구할 수 있는 것도 모르는 애송이로군.				저주받은 병사
+INTL_20180615_000177	Les Esprit maudit proviennent des monstres qui rôdent dans cet endroit. Bonne chance pour en{nl}obtenir un.	저주받은 해안의 몬스터를 처치해야만 저주받은 혼을 구할 수 있는 것도 모르는 애송이로군.				저주받은 병사
 INTL_20180615_000178	Une Voix au Loin	어디선가 들려오는 목소리				
 INTL_20180615_000179	Le Baleine de pierre ne peut être éveillé qu'à l'aide d'un Esprit maudit...	오직 저주받은 혼으로만 저주받은 석화 고래를 깨울 수 있지..				어디선가 들려오는 목소리
 INTL_20180615_000180	J'ai un Esprit maudit.	저주받은 혼을 보여준다.				
@@ -216,7 +216,7 @@ INTL_20180809_000215	[Événement] Bon de Déblocage de Nak Muay	[이벤트] 낙
 INTL_20180809_000216	Utilisez pour débloquer la classe Nak Muay après avoir atteint le Rang 7. Clic droit pour utiliser.{nl}Sera automatiquement supprimé à la fin de la période de l'événement.	사용 시 7랭크 달성 후 낙무아이 클래스를 선택할 수 있습니다. 마우스 오른쪽 클릭으로 사용합니다.{nl}(이벤트 종료 시 일괄 삭제됩니다.)				
 INTL_20180809_000217	Coffre au Trésor de Leticia 2018 (Saison 1)	2018 레티샤의 보물 상자(시즌1)				
 INTL_20180809_000218	Assistant de l'Événement Inviter un Ami	친구 추천 이벤트 도우미				
-INTL_20180809_000219	L'événement Invite a Friend est maintenant ouvert !{nl}Connectez-vous avec votre ami pour recevoir des bonus et des récompenses !	친구 추천 이벤트가 진행 중입니다.{nl}친구와 함께 접속 시 다양한 보상과 버프를 획득할 수 있습니다.				친구 추천 이벤트 도우미
+INTL_20180809_000219	L'événement Invite a Friend est maintenant ouvert ! Connectez-vous avec votre ami pour{nl}recevoir des bonus et des récompenses !	친구 추천 이벤트가 진행 중입니다.{nl}친구와 함께 접속 시 다양한 보상과 버프를 획득할 수 있습니다.				친구 추천 이벤트 도우미
 INTL_20180809_000220	Vous n'êtes pas éligible à l'événement.	이벤트 참여 대상이 아닙니다.				
 INTL_20180809_000221	L'équipe {#003399}{team}{/} ne contient aucun personnage de niveau 50 ou plus.	{#003399}{team}{/}팀 내에 50레벨 이상인 캐릭터가 없습니다.				
 INTL_20180809_000222	Recevoir le Soutien de {#003399}{team}{/}	{#003399}{team}{/}의 성장 지원 받기				
@@ -301,11 +301,11 @@ INTL_20190228_000300	Costume de Festival Masculin (30 Jours)	남성용 축제 �
 INTL_20190228_000301	Une tenue élégante à porter pour un festival. Utilisez pour changer votre apparence.	축제에 입고가기 무난한 정장입니다. 착용하면 외형이 변경 됩니다.				
 INTL_20190228_000302	Costume de Festival Féminin (30 Jours)	여성용 축제 의상 코스튬(30일)				
 INTL_20190228_000303	Une tenue élégante à porter pour un festival. Utilisez pour changer votre apparence.	축제에서 입기 무난한 드레스입니다. 착용하면 외형이 변경 됩니다.				
-INTL_20190228_000304	Portez votre Costume de festival pendant la période de l'événement et vainquez des monstres pour récolter des Pétards du festival.{nl}Ensuite, apportez-moi les pétards et échangez-les contre d'autres objets !{nl}Vous pouvez aussi utiliser les pétards près de moi pour obtenir le bonus Des feux d'artifice pour tous.	이벤트 기간 동안 축제 의상을 입고 몬스터를 처치하면 축제 폭죽을 획득할 수 있습니다.{nl}축제 폭죽을 저에게 가져오시면 다양한 아이템으로도 교환할 수 있습니다.{nl}(제 주변에서 축제 폭죽을 사용하면 "모두의 불꽃 축제" 버프를 추가로 획득할 수 있습니다.)				Ninot
+INTL_20190228_000304	Portez votre Costume de festival pendant la période de l'événement et vainquez des monstres{nl}pour récolter des Pétards du festival. Ensuite, apportez-moi les pétards et échangez-les contre{nl}d'autres objets ! Vous pouvez aussi utiliser les pétards près de moi pour obtenir le bonus Des{nl}feux d'artifice pour tous.	이벤트 기간 동안 축제 의상을 입고 몬스터를 처치하면 축제 폭죽을 획득할 수 있습니다.{nl}축제 폭죽을 저에게 가져오시면 다양한 아이템으로도 교환할 수 있습니다.{nl}(제 주변에서 축제 폭죽을 사용하면 "모두의 불꽃 축제" 버프를 추가로 획득할 수 있습니다.)				Ninot
 INTL_20190228_000305	Application du bonus Des feux d'artifice pour tous dans {SEC} seconde(s).	{SEC}초 후 "모두의 불꽃 축제" 버프가 발동 됩니다.				
 INTL_20190228_000306	Des feux d'artifice pour tous est maintenant actif !	"모두의 불꽃 축제" 버프가 발동합니다!				
 INTL_20190228_000307	Portez votre Costume de festival et utilisez un Pétard du festival pour appliquer également le bonus Des feux d'artifice pour tous.	축제 의상을 입고 축제 폭죽을 사용하면{nl}"모두의 불꽃 축제"{nl}버프를 추가로 획득할 수 있습니다.				
-INTL_20190305_000308	Recevez des objets spéciaux et des bonus pendant la{nl}période de l'événement !{nl}Récompenses d'assiduité : du 13 au 17 mars 2019{nl}Bonus de 24h le week-end : les 16-17 et 23-24 mars 2019	이벤트 기간동안 특별한 아이템과 버프를 획득할 수 있습니다.{nl}특별 접속 보상: 3월13일 ~ 3월17일{nl}주말 핫타임 24시간 버프: 3월16일 ~ 3월 17일, 3월23일 ~ 3월 24일				특별 접속 보상 이벤트 도우미
+INTL_20190305_000308	Recevez des objets spéciaux et des bonus pendant la période de l'événement ! Récompenses{nl}d'assiduité : du 13 au 17 mars 2019 Bonus de 24h le week-end : les 16-17 et 23-24 mars 2019	이벤트 기간동안 특별한 아이템과 버프를 획득할 수 있습니다.{nl}특별 접속 보상: 3월13일 ~ 3월17일{nl}주말 핫타임 24시간 버프: 3월16일 ~ 3월 17일, 3월23일 ~ 3월 24일				특별 접속 보상 이벤트 도우미
 INTL_20190309_000309	Cube Boule à Neige	3월 특판 큐브				
 INTL_20190309_000310	Cube boule à neige x10+1	3월 특판 큐브 x10+1				
 INTL_20190316_000311	Recevoir des Chocolats	달콤한 초콜릿 받기				
@@ -318,7 +318,7 @@ INTL_20190405_000317	Cube de la Route Fleurie	꽃길 큐브
 INTL_20190405_000318	Coffre de Sélection Fée à Ornement à Volants	프릴 장식 페어리 코스튬 선택 상자				
 INTL_20190405_000319	Une boîte contenant un Costume de fée à ornements à volants de votre choix (Homme ou Femme). Clic droit pour utiliser.	프릴 장식 페어리 코스튬이 들어있는 상자입니다. 마우스 오른쪽 버튼 클릭으로 사용합니다.				
 INTL_20190405_000320	Vous avez besoin de Pétale de fleur x5.	꽃잎은 5개가 필요합니다.				이벤트 알림판
-INTL_20190405_000321	Vous pouvez recevoir une Barrette fleur de cerisier pour vos cinq premières Pétale de fleur. Pour vos cinq Pétale de fleur suivantes, vous pouvez recevoir une Barrette friandise tricolore.	이벤트 기간동안 최초 꽃잎 5개는 삼색 경단 머리핀, 이후 꽃잎 5개는 벚꽃 머리핀으로 교환할 수 있습니다.				이벤트 알림판
+INTL_20190405_000321	Vous pouvez recevoir une Barrette fleur de cerisier pour vos cinq premières Pétale de fleur.{nl}Pour vos cinq Pétale de fleur suivantes, vous pouvez recevoir une Barrette friandise tricolore.	이벤트 기간동안 최초 꽃잎 5개는 삼색 경단 머리핀, 이후 꽃잎 5개는 벚꽃 머리핀으로 교환할 수 있습니다.				이벤트 알림판
 INTL_20190405_000322	Événement de la Route Fleurie	꽃길 이벤트				
 INTL_20190419_000323	Vérifier l'Usage de Speedhack	스피드핵 체크 사용 여부				
 INTL_20190501_000324	Un titre décerné aux gagnants de l'événement Maître guide. Clic droit pour utiliser.	Guide Master 수상자에게 지급되는 칭호입니다. 마우스 오른쪽 클릭으로 사용합니다.				
@@ -326,16 +326,16 @@ INTL_20190611_000325	Cube Mystère (Homme)	Mystery Cube(남자)
 INTL_20190611_000326	Cube Mystère (Femme)	Mystery Cube(여자)				
 INTL_20190611_000327	Cube mystère (Homme) x10+1	Mystery Cube(남자) x10+1				
 INTL_20190611_000328	Cube mystère (Femme) x10+1	Mystery Cube(여자) x10+1				
-INTL_20190628_000329	Bon de changement de classe niv. 4 (1 jour){nl}Potion de réinitialisation de stats (1 jour){nl}Vous pouvez recevoir 3 de chacun chaque jour pendant la période de l'événement.	클래스 변경권 Lv.4 (1일){nl}스탯 초기화 포션 (1일){nl}이벤트 기간 동안 매일 3개씩 지원해드리고 있습니다.	QUEST_20181207_010528	Bon de réinitialisation de rang (1 jour){nl}Potion de réinitialisation de stats (1 jour){nl}Vous pouvez recevoir 3 de chacun chaque jour pendant la période de l'événement.	랭크 초기화권 (1일){nl}스탯 초기화 포션 (1일){nl}이벤트 기간 동안 매일 3개씩 지원해드리고 있습니다.	초기화 지원 도우미
+INTL_20190628_000329	Bon de changement de classe niv. 4 (1 jour) Potion de réinitialisation de stats (1 jour) Vous pouvez{nl}recevoir 3 de chacun chaque jour pendant la période de l'événement.	클래스 변경권 Lv.4 (1일){nl}스탯 초기화 포션 (1일){nl}이벤트 기간 동안 매일 3개씩 지원해드리고 있습니다.	QUEST_20181207_010528	Bon de réinitialisation de rang (1 jour) Potion de réinitialisation de stats (1 jour) Vous pouvez{nl}recevoir 3 de chacun chaque jour pendant la période de l'événement.	랭크 초기화권 (1일){nl}스탯 초기화 포션 (1일){nl}이벤트 기간 동안 매일 3개씩 지원해드리고 있습니다.	초기화 지원 도우미
 INTL_20190715_000330	Titre - Mon Pote Chupacabra	Title - 내친구 츄파카브라				
 INTL_20190715_000331	Un titre offert aux participants de l'événement Mon copain Chupacabra. Clic droit pour utiliser.	사막 츄파카브라 성장 시 지급되는 칭호입니다. 마우스 오른쪽 클릭으로 사용합니다.				
-INTL_20190715_000332	Obtenez des objets spéciaux pendant la période de l'événement.{nl}Consultez la bannière de l'événement pour plus de détails.	이벤트 기간동안 특별한 아이템을 획득할 수 있습니다.{nl}이벤트 배너를 참고해주세요.	INTL_20190305_000308	Recevez des objets spéciaux et des bonus pendant la{nl}période de l'événement !{nl}Récompenses d'assiduité : du 13 au 17 mars 2019{nl}Bonus de 24h le week-end : les 16-17 et 23-24 mars 2019	이벤트 기간동안 특별한 아이템과 버프를 획득할 수 있습니다.{nl}특별 접속 보상: 3월13일 ~ 3월17일{nl}주말 핫타임 24시간 버프: 3월16일 ~ 3월 17일, 3월23일 ~ 3월 24일	특별 접속 보상 이벤트 도우미
+INTL_20190715_000332	Obtenez des objets spéciaux pendant la période de l'événement. Consultez la bannière de{nl}l'événement pour plus de détails.	이벤트 기간동안 특별한 아이템을 획득할 수 있습니다.{nl}이벤트 배너를 참고해주세요.	INTL_20190305_000308	Recevez des objets spéciaux et des bonus pendant la période de l'événement ! Récompenses{nl}d'assiduité : du 13 au 17 mars 2019 Bonus de 24h le week-end : les 16-17 et 23-24 mars 2019	이벤트 기간동안 특별한 아이템과 버프를 획득할 수 있습니다.{nl}특별 접속 보상: 3월13일 ~ 3월17일{nl}주말 핫타임 24시간 버프: 3월16일 ~ 3월 17일, 3월23일 ~ 3월 24일	특별 접속 보상 이벤트 도우미
 INTL_20190723_000333	Un type d'appât spécial utilisé pour la pêche. L'utiliser comme appât vous donne une chance d'attraper un [Événement] Coffre au trésor caché, un Poisson d'argent ou un Small Poisson d'argent.	낚시에 사용하는 특별한 미끼입니다. 미끼로 사용할 경우 [이벤트]연못에 숨겨진 보물 상자, 은빛 물고기, 작은 은빛 물고기를 각기 다른 확률로 획득 할 수 있습니다.				
 INTL_20190820_000334	[Week-end Brûlant] EXP	[주말 버닝] 경험치 증가				
 INTL_20190820_000335	XP +100 %	경험치 증가 + 100%				
 INTL_20190820_000336	[Week-end Brûlant] Vitesse de Déplacement	[주말 버닝] 이동 속도 증가				
 INTL_20190820_000337	Un matériau demandé par le forgeron Teliavelis de Fedimian, utilisé pour produire un équipement spécial.{nl}Peut être obtenu en terminant Nid de Velcoffer, Tombe de la Légende du Corbeau blanc et les raids uniques, le palier 5 du mode Défi, les missions Saalus et les donjons de niveau.{nl} Cet objet sera supprimé lors de la maintenance du 11 avril.	페디미안의 대장장이 테리아베리스가 요청한 특별한 장비를 만들기 위한 특별한 재료입니다.{nl}벨코퍼의 둥지, 흰 까마귀의 영면지: 레전드, 흰 까마귀의 영면지: 유니크, 챌린지 5단계, 수녀원 미션, 레벨 던전 클리어 시 획득할 수 있습니다.{nl}4월 11일 점검 시, 일괄 삭제 됩니다				
-INTL_20190820_000338	L'événement Summer 2019 est en cours !{nl}{#003399}Nous échangeons actuellement des [Événement]Pièce Vasalos{/} et soutenons les adhésions de guilde.	2019년 여름을 기념하는 이벤트가 진행 중입니다.{nl}{#003399}[이벤트] 바살로스 주화{/}  교환과 길드 활동 보상을 지원해드립니다.				이벤트 도우미
+INTL_20190820_000338	L'événement Summer 2019 est en cours !{nl}{#003399}Nous échangeons actuellement des [Événement]Pièce Vasalos{/} et soutenons les adhésions de{nl}guilde.	2019년 여름을 기념하는 이벤트가 진행 중입니다.{nl}{#003399}[이벤트] 바살로스 주화{/}  교환과 길드 활동 보상을 지원해드립니다.				이벤트 도우미
 INTL_20190820_000339	Échange de récompenses {#003399}[Festa d'été] Vacances d'été à Klaipeda{/}	2. {#003399}[Summer Festa] 클라페다에서 여름 나기 이벤트{/}의 보상 교환				이벤트 도우미
 INTL_20190820_000340	 Terminé : 5{nl}- Raids uniques 	 클리어 : 5개{nl}- 유니크 레이드 				대장장이 테리아베리스
 INTL_20190820_000341	 Terminé : 5{nl}- Mode Défi palier 5 : 2{nl}- Mission Saalus : 1{nl}- Donjon de niveau : 1	 클리어 : 5개{nl}- 챌린지 5단계 이상 클리어 : 2개{nl}- 수녀원 미션 클리어 : 1개{nl}- 레벨던전 클리어 : 1개				대장장이 테리아베리스
@@ -380,7 +380,7 @@ INTL_20191230_000379	Accessible uniquement les vendredis, samedis et dimanches.	
 INTL_20200114_000380	Route vers le Printemps 	봄으로 가는 길 				
 INTL_20200114_000381	Cube du Printemps	봄 큐브	INTL_20190405_000317	Cube de la Route Fleurie	꽃길 큐브	
 INTL_20200114_000382	Mission Route vers le Printemps	봄으로 가는 길 이벤트 미션				
-INTL_20200114_000383	Vous pouvez recevoir une Barrette fleur de cerisier pour vos cinq premières {#661199}Pétale de fleur{/}. Pour vos cinq {#661199}Pétale de fleur{/} suivantes, vous pouvez recevoir 25 Cube du printemps.	이벤트 기간동안 최초 {#661199}꽃잎{/} 5개는 삼색 경단 머리핀, 이후 {#661199}꽃잎{/} 5개는 봄 큐브 25개로 교환할 수 있습니다.	INTL_20190405_000321	Vous pouvez recevoir une Barrette fleur de cerisier pour vos cinq premières Pétale de fleur. Pour vos cinq Pétale de fleur suivantes, vous pouvez recevoir une Barrette friandise tricolore.	이벤트 기간동안 최초 꽃잎 5개는 삼색 경단 머리핀, 이후 꽃잎 5개는 벚꽃 머리핀으로 교환할 수 있습니다.	이벤트 알림판
+INTL_20200114_000383	Vous pouvez recevoir une Barrette fleur de cerisier pour vos cinq premières {#661199}Pétale de fleur{/}.{nl}Pour vos cinq {#661199}Pétale de fleur{/} suivantes, vous pouvez recevoir 25 Cube du printemps.	이벤트 기간동안 최초 {#661199}꽃잎{/} 5개는 삼색 경단 머리핀, 이후 {#661199}꽃잎{/} 5개는 봄 큐브 25개로 교환할 수 있습니다.	INTL_20190405_000321	Vous pouvez recevoir une Barrette fleur de cerisier pour vos cinq premières Pétale de fleur.{nl}Pour vos cinq Pétale de fleur suivantes, vous pouvez recevoir une Barrette friandise tricolore.	이벤트 기간동안 최초 꽃잎 5개는 삼색 경단 머리핀, 이후 꽃잎 5개는 벚꽃 머리핀으로 교환할 수 있습니다.	이벤트 알림판
 INTL_20200114_000384	{#661199}Informations Route vers le Printemps	{#661199}봄으로 가는 길 이벤트 안내	INTL_20190405_000322	Événement de la Route Fleurie	꽃길 이벤트	
 INTL_20200206_000385	{@st66d_y}{s14}Bénédiction{nl}De la Déesse	{@st66d_y}{s14}여신의{nl}축복				
 INTL_20200214_000386	 : x5{nl}- Raids légendaires : Casual : x2{nl}- Raids uniques : x5{nl}- Raids uniques : Casual : x2{nl}- Mode Défi palier 5+ : x2{nl}- Donjons de niveau : x1	 클리어 : 5개{nl}- 레전드 레이드:캐주얼 클리어 : 2개{nl}- 유니크 레이드 클리어 : 5개{nl}- 유니크 레이드:캐주얼 클리어 : 2개{nl}- 챌린지 5단계 이상 클리어 : 2개{nl}- 레벨던전 클리어 : 1개				대장장이 테리아베리스

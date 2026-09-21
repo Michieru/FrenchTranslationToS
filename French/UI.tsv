@@ -328,7 +328,7 @@ UI_20150317_000327	Résistance Magique	마법저항력
 UI_20150317_000328	Taux d'Attaque Critique	치명타율				
 UI_20150317_000329	{@st43}Emplacement{/}	{@st43}소켓 관리{/}				
 UI_20150317_000330	{@st59}Fermer{/}	{@st59}소켓 관리를 닫습니다{/}				
-UI_20150317_000331	Veuillez insérer vos objets	아이템을 올려주세요				
+UI_20150317_000331	Insérez vos objets	아이템을 올려주세요				
 UI_20150317_000332	Potentiel	포텐셜				
 UI_20150317_000333	Coût d'emplacement supplémentaire : {#ff9933}%s{/}{nl}Coût d'extraction de gemme : {#ff9933}%s{/}	소켓 추가 비용 : {#ff9933}%s{/}{nl}젬 추출 비용 : {#ff9933}%s{/}				
 UI_20150317_000334	{@st41b}Ajouter un Emplacement	{@st41b}소켓 추가				
@@ -1486,7 +1486,7 @@ UI_20150414_001485	{@st59b} Déplacer la Carte {/}	{@st59b}  맵이동  {/}
 UI_20150414_001486	{@st59b} Commande de Combat {/}	{@st59b}  전투명령  {/}				
 UI_20150414_001487	{s26}{b}	{s26}{b}개				
 UI_20150414_001488	{s26}{b}Niveau	{s26}{b}레벨				
-UI_20150414_001489	{@st44}{s26}Niveau	{@st44}{s26}레벨				
+UI_20150414_001489	{@st44}{s26}Niv.	{@st44}{s26}레벨				
 UI_20150414_001490	{@st59b}{s26}pc	{@st59b}{s26}마리				
 UI_20150414_001491	{@st41b}Cuisine	{@st41b}조리				
 UI_20150414_001492	{@st41b}Nourriture	{@st41b}음식				
@@ -2923,7 +2923,7 @@ UI_20170925_002922	{img icon_item_tospoint 24 24}{@st41b}Consomme 0 TP{nl}Désé
 UI_20170925_002923	File d'attente totale : %s	총 대기인원: %s	UI_20161121_002465	File d'attente totale : %s	총 대기인원: %s명	
 UI_20170925_002924	Réception des informations.	정보를 요청 중 입니다.				
 UI_20171128_002925	Fermer l'interface.	출석 UI를 닫습니다.				
-UI_20171128_002926	Période de Vérification	출석 체크 기간				
+UI_20171128_002926	Période d'appel	출석 체크 기간				
 UI_20171128_002927	* Les récompenses de connexion quotidienne seront automatiquement envoyées une fois par jour dans l'inventaire du premier personnage à accéder au jeu.{nl}* Parchemin d'enchantement (14 jours).{nl}* Les récompenses ne peuvent être reçues que pendant la période de vérification de connexion. Après cette période, aucune récompense supplémentaire ne sera envoyée.{nl}	* 출석 보상은 1일 1회, 당일 첫 접속한 캐릭터 인벤토리로 자동 지급됩니다.{nl}* 마법 부여 스크롤(14일)을 제외한 모든 아이템은 팀 창고로 이동할 수 있습니다.{nl}* 출석 체크 기간 동안에만 출석 보상을 받을 수 있으며, 기간 경과 시 더 이상 지급되지 않습니다.{nl}				
 UI_20171128_002928	{@st66b18}※ Les changements de nom avec TP ne sont pas remboursables.{/}	{@st66b18}※이름 변경에 사용된 TP는 환불되지 않습니다.{/}	UI_20151224_001847	{@st66b18}※ Les achats effectués avec des TP ne sont pas remboursables.{/}	{@st66b18}※구매에 사용된 TP는 환불되지 않습니다.{/}	
 UI_20171128_002929	Taille %s	크기: %s				
@@ -4036,7 +4036,7 @@ UI_20191024_004035	{@st66b}{s18}Type{/}	{@st66b}{s18}종류{/}
 UI_20191024_004036	{@st59}Lecteur de Musique{/}	{@st59}BGM 플레이어{/}				
 UI_20191024_004037	{@st66b}Onglet 1	{@st66b}텝1				
 UI_20191024_004038	{@st66b}Onglet 2	{@st66b}텝2				
-UI_20191024_004039	{@st43b}{s16}Objectifs de Mission Uniquement	{@st43b}{s16}미션 목표만 보기				
+UI_20191024_004039	{@st43b}{s16}Objectifs de mission seuls	{@st43b}{s16}미션 목표만 보기				
 UI_20191024_004040	* Les attributs déjà investis{nl}seront remboursés en points d'attribut après le changement d'arbre de classe.{nl}(Les arts appris seront aussi réinitialisés.{nl}Les points d'attribut seront remboursés mais pas les tomes mystiques.)	* 계열 변경 전 올린 특성의 레벨은{nl}계열 변경 후 특성 포인트를 돌려드립니다.{nl}(아츠도 초기화 되며, 특성 포인트는 복구되지만,{nl}신비한 서는 복구되지 않습니다.)				
 UI_20191024_004041	* Les classes retirées suite à ce changement{nl}verront leurs attributs et Skills rendus sous forme de points.{nl}{#FF1122}Les arts ne sont pas réinitialisés avec le changement de classe.{nl}Pensez à utiliser une potion de réinitialisation des arts avant de changer de classe.{/}	* 변경으로 인해 삭제 되는 클래스는 스킬과{nl}특성을 초기화 후 포인트로 반환됩니다.{nl}{#FF1122}클래스 변경으로는 아츠가 초기화 되지 않습니다.{nl}변경 전에 해당 클래스의 아츠 초기화 포션을 먼저{nl}사용하신 후 클래스를 변경하시기 바랍니다.{/}	UI_20190104_003728	* Les Skills et attributs des{nl}classes supprimées{nl}seront rendus sous forme de{nl}points.	* 변경으로 인해 삭제 되는 클래스는 스킬과{nl}특성을 초기화 후 포인트로 반환됩니다.	
 UI_20191024_004042	{@st66b}Conserver l'Interface de Skill Ciblé{/}	{@st66b}대상 지정 스킬 UI 유지{/}				
@@ -5049,7 +5049,7 @@ UI_20211021_005048	Équipe 1	1 팀
 UI_20211021_005049	Équipe 2	2 팀				
 UI_20211021_005050	{@st41}Détail	{@st41}세부 사항				
 UI_20211021_005051	{@st41b}Vous retournerez à la zone d'entrée dans %s seconde(s)...{/}	{@st41b}%s초 후 입장 지역으로 돌아갑니다...{/}				
-UI_20211021_005052	{@st43}Détails du Résultat{/}	{@st43}결과 세부 정보{/}				
+UI_20211021_005052	{@st43}Résultat détaillé{/}	{@st43}결과 세부 정보{/}				
 UI_20211021_005053	Équipe 1	1팀				
 UI_20211021_005054	Dégâts Infligés	준 피해량				
 UI_20211021_005055	Dégâts Reçus	받은 피해량				
@@ -5173,7 +5173,7 @@ UI_20220204_005172	{@ps1_1}{s20}Rechercher	{@ps1_1}{s20}조회
 UI_20220204_005173	{@st106_lbr}{s20}Enregistrer	{@st106_lbr}{s20}등록				
 UI_20220204_005174	Nom du Groupe	파티이름				
 UI_20220204_005175	{@st43b}{s20}Demander à Participer	{@st43b}{s20}참가신청				
-UI_20220204_005176	{@ps1_1}{s16}Condition pour Rejoindre le Groupe	{@ps1_1}{s16}파티 참가 조건				
+UI_20220204_005176	{@ps1_1}{s16}Conditions pour rejoindre	{@ps1_1}{s16}파티 참가 조건				
 UI_20220204_005177	{@sti1c}{s16}Taux d'haut fait d'attribut (%)	{@sti1c}{s16}특성 달성률(%)				
 UI_20220204_005178	{@sti1c}{s16}Score d'Équipement	{@sti1c}{s16}기어 스코어				
 UI_20220204_005179	{@sti1c}{s16}Niveau Res Sacrae	{@sti1c}{s16}성물 레벨				
@@ -5656,7 +5656,7 @@ UI_20240701_005655	{@st66d}{s20}Confirmer	{@st66d}{s20}확인
 UI_20240701_005656	{@st66d}{s20}UR	{@st66d}{s20}UR등급				
 UI_20240701_005657	{@st66d}{s20}SR	{@st66d}{s20}SR등급				
 UI_20240701_005658	{@st66d}{s20}R	{@st66d}{s20}R등급				
-UI_20240701_005659	{@st66d}{s24}Afficher le Taux de Recrutement	{@st66d}{s24}영입 확률 표시				
+UI_20240701_005659	{@st66d}{s24}Taux de Recrut.	{@st66d}{s24}영입 확률 표시				
 UI_20240701_005660	Fermer.	확률 UI를 닫습니다.				
 UI_20240701_005661	{@st66d}{s20}Cadeau à la Main	{@st66d}{s20}선물 주기				
 UI_20240701_005662	{@st66d}{s20}Annuler	{@st66d}{s20}취소				
