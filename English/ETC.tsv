@@ -82972,3 +82972,20 @@ ETC_20260907_082952	Resonance Points ({PERCENT}%)	공명 포인트 ({PERCENT}%)
 ETC_20260907_082953	[Frontal Range]	[전방 범위]
 ETC_20260914_082954	Not affected by Cooldown Reduction from skill effects(Pass, Cyan Gem).	스킬 효과(패스, 시안 젬)로 인한 재사용 대기시간 감소를 받지 않습니다.
 ETC_20260914_082955	Not affected by Cooldown Reduction from items, buffs, cards, etc.	아이템, 버프, 카드 등으로 인한 재사용 대기시간 감소를 받지 않습니다.
+ETC_20260928_082956	Try on advance items	고급 상품 입어보기
+ETC_20260928_082957	Candywool Sheep	솜사탕양
+ETC_20260928_082958	{@st66d_y}{s18}Candywool Sheep{/}{/}{nl}- Physical/Magic Defense{img green_up_arrow 16 16}12000{nl} - Attack against Medium-Type Target Offsetting{img green_up_arrow 16 16}2400{nl} - Block{img green_up_arrow 16 16}600	{@st66d_y}{s18}솜사탕양{/}{/}{nl}- 물리/마법 방어력{img green_up_arrow 16 16}12000{nl} - 중형 대상 공격력 상쇄{img green_up_arrow 16 16}2400{nl} - 블록{img green_up_arrow 16 16}600
+ETC_20260928_082959	Dreaming Sheep Costume (Male)	꿈꾸는 양 코스튬 (남)
+ETC_20260928_082960	Dreaming Sheep Costume (Female)	꿈꾸는 양 코스튬 (여)
+ETC_20260928_082961	Collection: Candywool Sheep	컬렉션: 솜사탕양
+ETC_20260928_082962	Chipmunk Package	다람쥐 패키지
+ETC_20260928_082963	Use to obtain all of the following items.{nl} - Perky Chipmunk Ear x1{nl} - Fluffy Chipmunk Tail x1	사용 시 아래의 구성물을 획득할 수 있습니다.{nl} - 다람 쫑긋 귀 1개{nl} - 다람 빵실 꼬리
+ETC_20260928_082964	[S] Collapsing Mines Recipe Selection Box	시즌 무너지는 광산 제작서 선택상자
+ETC_20260928_082965	When used, you may obtain one of the following items:{nl} - Recipe - [S] Collapsing Mines - Party (Easy) One Entry Voucher x1{nl} - Recipe - [S] Collapsing Mines - Party (Normal) One Entry Voucher x1{nl} - Recipe - [S] Collapsing Mines - Party (Hard) One Entry Voucher x1{nl} {nl}{#ff0000}Caution! Once the item is given, you cannot revert it.{/}	사용 시 다음 아이템 중 1개를 선택하여 획득할 수 있습니다.{nl} - 제작서 - 시즌 무너지는 광산 - 파티(Easy) 1회 입장권 1개{nl} - 제작서 - 시즌 무너지는 광산 - 파티(Normal) 1회 입장권 1개{nl} - 제작서 - 시즌 무너지는 광산 - 파티(Hard) 1회 입장권 1개{nl} {nl}{#ff0000}주의! 아이템 지급 후 되돌릴 수 없습니다.{/}
+ETC_20260928_082966	Mount Voucher - Candywool Sheep	탈 것 등록증 - 솜사탕양
+ETC_20260928_082967	Use to add mount.{nl}※You can select the mount from the Companion(F9).{nl}Summon the mount by the Mounted skill in the common tab of Skills & Attributes(F3).{nl} - Physical/Magic Defense +12000, Attack against Medium-type Target Offsetting +2400, Block +600 will be given when you select the Mount.	사용 시, 탈 것이 추가됩니다.{nl}※탈 것은 컴패니언(F9)을 통해 확인 및 선택할 수 있습니다.{nl}탈 것 선택 후 스킬과 특성(F3)의 공용 탭에서 탈 것 탑승 스킬을 이용하여 소환할 수 있습니다.{nl} - 탈 것 선택 시 물리/마법 방어력 +12000, 중형 대상 공격력 상쇄 +2400, 블록 +600 효과를 얻습니다.
+ETC_20260928_082968	Dreaming Sheep Costume Selection Box	꿈꾸는 양 코스튬 선택 상자
+ETC_20260928_082969	Cozy Ram Horns	포근한 수양의 뿔
+ETC_20260928_082970	Cozy Ribbon Sheep Horns	포근한 리본 양뿔
+ETC_20260928_082971	Movement Speed{img green_up_arrow 16 16}8{nl}{@st66d_y}{s14} - Candywool Sheep	이동 속도{img green_up_arrow 16 16}8{nl}{@st66d_y}{s14} - 솜사탕양
+ETC_20260928_082972	- Physical/Magic Defense {img green_up_arrow 16 16}12000{nl} - Attack against Medium-type Target Offsetting{img green_up_arrow 16 16}2400 {nl} - Block{img green_up_arrow 16 16}600	- 물리/마법 방어력{img green_up_arrow 16 16}12000{nl} - 중형 대상 공격력 상쇄{img green_up_arrow 16 16}2400{nl} - 블록{img green_up_arrow 16 16}600
