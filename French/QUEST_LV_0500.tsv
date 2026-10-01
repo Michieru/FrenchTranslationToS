@@ -170,7 +170,7 @@ QUEST_LV_0500_20200710_000169	Récolter des plantes.	식물을 채집하기.
 QUEST_LV_0500_20200710_000170	Le Croisé a ordonné une enquête sur les objets trouvés lors de l'exploration de la forêt de la sorcière blanche.{nl}Rendez-vous auprès du Maître Médecin de peste et demandez une analyse du Liquide Rouge Recouvert d'une Glace Mince.	크루세이더 파견원은 하얀 마녀의 숲을 탐사 중 발견한 물건에 대해 조사를 맡겼습니다.{nl}플레이그 닥터 마스터에게 찾아가 살얼음 띈 붉은 액체의 분석을 의뢰하세요.				
 QUEST_LV_0500_20200710_000171	Retourner Voir le Maître Médecin de Peste	플레이그 닥터 마스터에게 돌아가기.				
 QUEST_LV_0500_20200710_000172	Vous avez acquis la plante que le Maître Médecin de peste a demandée.{nl}Retournez voir le Maître Médecin de peste et remettez-lui la plante pour terminer l'analyse de la solution.	플레이그 닥터 마스터가 말한 식물을 구했습니다.{nl}플레이그 닥터 마스터에게 돌아가 의뢰를 용액 분석을 마무리할 수 있도록 식물을 전해주세요.				
-QUEST_LV_0500_20200710_000173	Recevoir le résultat de l'enquête du Maître Médecin de peste	플레이그 닥터 마스터에게 조사 결과를 받기				
+QUEST_LV_0500_20200710_000173	Recevoir le résultat de{nl}l'enquête du Maître Médecin{nl}de peste	플레이그 닥터 마스터에게 조사 결과를 받기				
 QUEST_LV_0500_20200710_000174	Reparler au Médecin de peste.	플레이그 닥터와 다시 이야기 하기.				
 QUEST_LV_0500_20200710_000175	Le Maître Médecin de peste s'est inquiété que la nature de la solution soit du liquide de Kruvina.{nl}Il semble avoir une requête, alors reparlez au Maître Médecin de peste.	플레이그 닥터 마스터는 용액의 정체가 크루비나 용액이라는 사실을 알고 우려를 표했습니다.{nl}그가 당부할 것이 있는 것 같으니 다시 플레이그 닥터 마스터와 대화하세요.				
 QUEST_LV_0500_20200710_000176	Retourner voir l'envoyé Croisé.	크루세이더 파견원에게 돌아가기.				
@@ -647,7 +647,7 @@ QUEST_LV_0500_20210115_000646	Examiner la crevasse non identifiée de la Zone ab
 QUEST_LV_0500_20210115_000647	D'un autre côté, la déesse Lada a dit avoir vu une étrange crevasse dans la mémoire du démon{nl}Comme la déesse Lada est partie la première vers les Bois des ponts reliés, si vous trouvez quoi que ce soit après avoir examiné la Zone abattue de Malkos, rendez-vous aux Bois du pont relié et{nl}remettez-le à la déesse Lada.	라다 여신은 한편으로, 마족의 기억으로부터 낯선 균열을 목격했다고 한다{nl}라다 여신은 먼저 덧댄다리 숲으로 향했으니 말코스 벌목지를 조사 후 무엇이든 발견하면 덧댄다리 숲에서 라다 여신을 만나 건네주자				
 QUEST_LV_0500_20210115_000648	Rencontrer la Déesse Lada dans les Bois des Ponts Reliés	덧댄다리 숲에서 라다 여신을 만나기				
 QUEST_LV_0500_20210115_000649	Le Firebug Liepsna apparu pendant l'examen de la crevasse a été vaincu, et une partie du cristal de sa tête a été arrachée{nl}Rendez-vous auprès de la Déesse Lada et montrez-le-lui	정체불명의 균열을 조사 중 나타난 리프스나 파이어버그를 처치했고, 리프스나 파이어버그의 머리에 솟아난 수정을 일부 떼어냈습니다{nl}라다 여신에게 가져가 보여주는 게 좋겠습니다				
-QUEST_LV_0500_20210115_000650	Preuve obtenue après avoir examiné la Zone abattue de Malkos	말코스 벌목지 조사 후 증거 획득				
+QUEST_LV_0500_20210115_000650	Preuve obtenue après avoir{nl}examiné la Zone abattue de{nl}Malkos	말코스 벌목지 조사 후 증거 획득				
 QUEST_LV_0500_20210115_000651	%s envahissant vaincu 	습격한 %s 처치				
 QUEST_LV_0500_20210115_000652	Entendre de la Déesse Lada les plans concernant les Bois du pont relié	라다 여신에게 덧댄 다리 숲에서의 계획을 듣기				
 QUEST_LV_0500_20210115_000653	Arrivé sain et sauf dans les Bois des ponts reliés{nl}Il semble que la Déesse Lada soit venue plus tôt et ait observé la situation des Bois des ponts reliés{nl}Interrogez la Déesse Lada sur le morceau de cristal que vous avez apporté et sur ce qu'elle a vu	무사히 덧댄다리 숲에 도착했습니다{nl}라다 여신은 앞서 이곳에 와서 덧댄다리 숲의 정황을 살핀 듯합니다{nl}당신이 가져온 수정 조각에 대한 것과 라다 여신이 무엇을 봤는지 물어보세요				
@@ -697,12 +697,12 @@ QUEST_LV_0500_20210115_000696	Les démons s'affrontent à Croisement de Paupys{n
 QUEST_LV_0500_20210115_000697	La Déesse Lada a parlé de la situation à Croisement de Paupys {nl}Parlez à la Déesse Lada de ce que chacun de vous devrait faire	파우피스 나루의 상황을 라다 여신으로부터 들었습니다{nl}여기서부터 각자 할 일이 무엇일지 라다 여신과 이야기하세요				
 QUEST_LV_0500_20210115_000698	Vaincre les démons du carrefour désert et obtenir le symbole du supérieur	인적없는 나루터에서 마족들을 처치하고 상급자의 증표 획득하기				
 QUEST_LV_0500_20210115_000699	Nous devons vérifier qui contrôle les subordonnés de Kartas{nl}Vainquez le Gardien de la Biblioteca et récupérez le symbole du supérieur qu'il{nl}possède.	카르타스의 부하를 움직이는 존재가 누구인지 확인해야 합니다{nl}비블리오테카 키퍼를 처치하고 그들이 가지고 있는 상급자의 증표를 회수하세요				
-QUEST_LV_0500_20210115_000700	Vaincre le Gardien de la Biblioteca et obtenir le symbole du supérieur	비블리오테카 키퍼를 처치하고 상급자의 증표 획득				
+QUEST_LV_0500_20210115_000700	Vaincre le Gardien de la{nl}Biblioteca et obtenir le{nl}symbole du supérieur	비블리오테카 키퍼를 처치하고 상급자의 증표 획득				
 QUEST_LV_0500_20210115_000701	Vaincre les démons du Repaire de Paslaptis et obtenir le symbole du supérieur	파슬랍 은거지에서 마족들을 처치하고 상급자의 징표를 얻기				
 QUEST_LV_0500_20210115_000702	Démons vaincus au croisement vacant et symbole du supérieur récolté{nl}Vainquez les démons qui occupent le Repaire de Paslaptis et récoltez le symbole du supérieur des démons du{nl}Repaire de Paslaptis	인적 없는 나루터에서 마족들을 처치하고 상급자의 징표를 모았습니다{nl}파슬랍 은거지를 점거하고 있는 마족들을 처치하고 파슬랍 은거지 마족들의 상급자 징표를 모으세요				
 QUEST_LV_0500_20210115_000703	Parler à la Déesse Lada venue au Repaire de Paslaptis	파슬랍 은거지로 온 라다 여신과 이야기하세요				
 QUEST_LV_0500_20210115_000704	Vous avez récolté assez de symboles du supérieur des deux forces{nl}Parlez à la Déesse Lada qui vient d'arriver au Repaire de Paslaptis au bon moment.	두 세력의 상급자 징표를 충분히 모았습니다{nl}마침 파슬랍 은거지로 온 라다 여신과 이야기하세요				
-QUEST_LV_0500_20210115_000705	Vynmedis vaincus et symbole du supérieur obtenu	빈미디스를 처치하고 상급자의 징표 획득				
+QUEST_LV_0500_20210115_000705	Vynmedis vaincus et symbole{nl}du supérieur obtenu	빈미디스를 처치하고 상급자의 징표 획득				
 QUEST_LV_0500_20210115_000706	La Déesse Lada a vérifié que le roi démon Baiga et le dieu démon Ragana sont ceux qui contrôlent les démons{nl}Continuez à parler à la Déesse Lada 	라다 여신으로부터 마족들을 움직이고 있는 건 각각 마왕 바이가와 마신 라가나임을 확인했습니다{nl}라다 여신과 계속 이야기하세요				
 QUEST_LV_0500_20210115_000707	Enquêter sur la Falaise de Rohonsa	로혼사 절벽을 조사하기				
 QUEST_LV_0500_20210115_000708	Quel que soit le but de Ragana et Baiga, nous ne devons pas laisser le Mirtinas tomber entre{nl}les mains des démons{nl}Nous devrions enquêter à Croisement de Paupys pour trouver l'entrepôt Mirtinas au plus vite{nl}Enquêtez sur la Falaise de Rohonsa	라가나와 바이가가 어떤 목적이든 머티니스가 마족의 손에 넘어가는 건 막아야 할 일입니다{nl}서둘러 머티니스 저장소를 찾기 위해 파우피스 나루를 조사해야 합니다{nl}로혼사 절벽을 조사하세요				
@@ -1086,7 +1086,7 @@ QUEST_LV_0500_20210809_001085	Chercher Paulius	파울루스를 찾으세요
 QUEST_LV_0500_20210809_001086	Examiner les Données de Recherche	연구 자료를 조사하기				
 QUEST_LV_0500_20210809_001087	Les données de recherche des Mokslas sont importantes, mais il existe un document distinct qui contient le cœur même des recherches.{nl}Trouvez les données sur l'étagère.	모크슬라들의 연구 자료는 중요한 자료이지만, 정작 중요한 핵심적인 연구의 성과를 이룰 수 있는 연구에 대해 적힌 자료는 따로 있다고 합니다{nl}책장에서 자료를 찾아야합니다				
 QUEST_LV_0500_20210809_001088	Vous avez trouvé un livre relatant la transaction entre le Beholder et le Quipmage.{nl}Montrez le livre à Paulius	주시자와 퀩 메이지의 거래에 관한 이야기가 적힌 서적을 찾았습니다{nl}파울루스에게 서적을 보여주세요				
-QUEST_LV_0500_20210809_001089	Données de recherche importantes acquises{nl}Les données de recherche importantes ne sont pas{nl}partagées avec le groupe	중요한 연구 자료 획득{nl}중요한 연구 자료는 파티 공유로 획득되지 않습니다.				
+QUEST_LV_0500_20210809_001089	Données de recherche{nl}importantes acquises{nl}Les données de recherche{nl}importantes ne sont pas{nl}partagées avec le groupe	중요한 연구 자료 획득{nl}중요한 연구 자료는 파티 공유로 획득되지 않습니다.				
 QUEST_LV_0500_20210809_001090	Parler à Paulius	파울루스와 대화하기				
 QUEST_LV_0500_20210809_001091	Vous avez la preuve du type de recherches que vise le Beholder.{nl}Parlez à Paulius du prochain objectif	주시자가 어떤 연구를 목표로하는 지에 대한 증거를 확보했습니다{nl}파울루스와 다음 할 일에 대해 이야기하세요				
 QUEST_LV_0500_20210809_001092	Récupérer les affaires laissées par les Mokslas	모크슬라들이 떨어뜨린 분실물 회수				
@@ -1203,12 +1203,12 @@ QUEST_LV_0500_20210809_001202	Vaincre les démons à la Zone abattue de Malkos	�
 QUEST_LV_0500_20210809_001203	Aller à l'Étang de Lemprasa et vaincre les démons à la Zone abattue de Malkos	렘파라사 연못으로 이동 후 말코스 벌목지의 마족을 처치하세요				
 QUEST_LV_0500_20210809_001204	L'équipe de réparation des dégâts d'Orsha vous attend dans les Bois des Ponts reliés.	덧댄다리 숲에서 오르샤 피해복구반 단원이 당신을 기다리고 있습니다				
 QUEST_LV_0500_20210809_001205	Pajauta vous attend aux Bois des Ponts reliés	덧댄다리 숲에서 파야우타가 당신을 기다리고 있습니다				
-QUEST_LV_0500_20210809_001206	Prendre la Pelle au Porteur Darbas	다르바스 캐리어에게 삽 빼앗기				
+QUEST_LV_0500_20210809_001206	Prendre la Pelle au Porteur{nl}Darbas	다르바스 캐리어에게 삽 빼앗기				
 QUEST_LV_0500_20210809_001207	Vaincre le Porteur Darbas aux Bois des Ponts reliés, prendre la pelle, et la remettre à Pajauta.	덧댄다리 숲에서 다르바스 캐리어를 처치하고 삽을 빼앗아 파야우타에게 건네주세요				
 QUEST_LV_0500_20210809_001208	Prendre la Pioche au Porteur Darbas	다르바스 캐리어에게 곡괭이 빼앗기				
 QUEST_LV_0500_20210809_001209	Vaincre le Mineur Darbas aux Bois des Ponts reliés, prendre la pioche, et la remettre à Pajauta.	덧댄다리 숲에서 다르바스 캐리어를 처치하고 곡괭이를 빼앗아 파야우타에게 건네주세요				
-QUEST_LV_0500_20210809_001210	Prendre la Pioche au Mineur Darbas	다르바스 마이너에게 곡괭이 빼앗기				
-QUEST_LV_0500_20210809_001211	Prendre les Pierres au Chargeur Darbas	다르바스 로더에게 석재 빼앗기				
+QUEST_LV_0500_20210809_001210	Prendre la Pioche au Mineur{nl}Darbas	다르바스 마이너에게 곡괭이 빼앗기				
+QUEST_LV_0500_20210809_001211	Prendre les Pierres au{nl}Chargeur Darbas	다르바스 로더에게 석재 빼앗기				
 QUEST_LV_0500_20210809_001212	Vaincre le Chargeur Darbas aux Bois des Ponts reliés, prendre la pierre, et la remettre à Pajauta.	덧댄다리 숲에서 다르바스 로더를 처치하고 석재를 빼앗아 파야우타에게 건네주세요				
 QUEST_LV_0500_20210809_001213	L'équipe de réparation des dégâts d'Orsha vous attend à Croisement de Paupys.	파우피스 나루에서 오르샤 피해복구반 단원이 당신을 기다리고 있습니다				
 QUEST_LV_0500_20210809_001214	Pajauta vous attend à Croisement de Paupys.	파우피스 나루에서 파야우타가 당신을 기다리고 있습니다				
@@ -1740,9 +1740,9 @@ QUEST_LV_0500_20220204_001739	Récolter les vivres que les soldats corrompus ont
 QUEST_LV_0500_20220204_001740	Le général Ramin a dit que nous devrions encourager les soldats épuisés avant le début de la bataille.{nl}Puisque les soldats corrompus qui errent dans le Jardin de Delmore ont jeté les armes dont ils se servaient de leur vivant, il a donné l'ordre d'aider à la réorganisation{nl} Examinez les fournitures abandonnées pour la réorganisation et installez le drapeau pour le discours du général Ramin.	라민 대장군은 전투에 앞서 많은 피로감이 누적된 병사들을 독려해야한다고 합니다{nl}델무어 정원을 활보하는 변질된 병사들이 생전에 사용하던 무기들을 버려두었으니, 재정비를 도우라는 명령 하달했습니다{nl}재정비를 위해 버려진 보급품을 확인하고, 라민 대장군의 연설을 위해 깃발을 설치하세요				
 QUEST_LV_0500_20220204_001741	Rapporter au général Ramin que les préparatifs sont terminés.	라민 대장군에게 준비가 끝났음을 보고하기				
 QUEST_LV_0500_20220204_001742	Les vivres sont sécurisés et le drapeau est installé{nl}Allez voir le général Ramin et rapportez que les{nl}préparatifs sont terminés	보급품을 확보 했고 깃발을 설치했습니다{nl}라민 대장군에게 준비가 끝났음을 보고하세요				
-QUEST_LV_0500_20220204_001743	Prendre l'arme dans les vivres abandonnés	방치된 보급품에서 무기 회수				
-QUEST_LV_0500_20220204_001744	Prendre le kit de réparation d'urgence dans les vivres abandonnés	방치된 보급품에서 긴급 구급 키트 회수				
-QUEST_LV_0500_20220204_001745	Récupérer le Drapeau d'Orsha Brisé	부러진 오르샤 깃발 회수				
+QUEST_LV_0500_20220204_001743	Prendre l'arme dans les vivres{nl}abandonnés	방치된 보급품에서 무기 회수				
+QUEST_LV_0500_20220204_001744	Prendre le kit de réparation{nl}d'urgence dans les vivres{nl}abandonnés	방치된 보급품에서 긴급 구급 키트 회수				
+QUEST_LV_0500_20220204_001745	Récupérer le Drapeau d'Orsha{nl}Brisé	부러진 오르샤 깃발 회수				
 QUEST_LV_0500_20220204_001746	Parler au Général Ramin	라민 대장군과 대화하기				
 QUEST_LV_0500_20220204_001747	Le discours du général Ramin va commencer{nl}Parlez au général Ramin	라민 대장군의 연설이 곧 시작됩니다{nl}라민 대장군과 이야기하세요				
 QUEST_LV_0500_20220204_001748	Se Rendre à Destination	목표 지점으로 이동하기				
@@ -2110,7 +2110,7 @@ QUEST_LV_0500_20220823_002109	Vous n'avez pas pu briser la barrière.{nl}Parlons
 QUEST_LV_0500_20220823_002110	Trouver le Parchemin de Retrait de Barrière	결계 해제 스크롤 찾기				
 QUEST_LV_0500_20220823_002111	Ramin dit que Delmor Rephaim a laissé un parchemin pour retirer la barrière quelque part dans la Zone d'attente. {nl}Vainquez les monstres du laboratoire pour trouver le Parchemin de suppression de barrière.	라민은 대합실 어딘가에 델무어 르하임이 결계를 해제할 스크롤을 남겨놨다고 한다.{nl}실험실 쪽의 몬스터들을 처치해 결계 해제 스크롤을 찾자.				
 QUEST_LV_0500_20220823_002112	J'ai trouvé l'indice dont Ramin a parlé.{nl}Parlez à Ramin.	라민이 말했던 단서를 찾은 거 같다.{nl}라민과 이야기를 해보자.				
-QUEST_LV_0500_20220823_002113	Recevoir %s en vainquant les Blickferret	블릭페릿을 처치해 %s 획득				
+QUEST_LV_0500_20220823_002113	Recevoir %s en vainquant les{nl}Blickferret	블릭페릿을 처치해 %s 획득				
 QUEST_LV_0500_20220823_002114	Parler à Ramin	라민과 이야기하기				
 QUEST_LV_0500_20220823_002115	Parchemin de retrait de barrière obtenu.{nl}Allez voir Ramin et découvrez si le parchemin est authentique.	결계 해제 스크롤을 획득했다.{nl}라민에게 스크롤의 진위여부를 파악하자.				
 QUEST_LV_0500_20220823_002116	Retirer la Barrière	결계를 해제하기				
@@ -2527,7 +2527,7 @@ QUEST_LV_0500_20230130_002526	Rose semble malade.{nl}Pouvez-vous faire quelque c
 QUEST_LV_0500_20230130_002527	Vaincre les Vubbe et reprendre ce qu'ils ont pillé 	부베를 처치하고, 약탈한 물건들 가져오기				
 QUEST_LV_0500_20230130_002528	La santé de Rose semble décliner. En regardant autour, vous avez vu un tas d'objets volés par les Vubbe.{nl}Fouillons le tas pour voir s'il y a quelque chose qui puisse aider Rose.	로제의 상태가 좋지 않아, 주변을 보니 부베들이 약탈한 물건들이 쌓여있는 것을 보았다.{nl}물건들을 확인해서 로제에게 도움이 될만한 것이 있는지 찾아보자.				
 QUEST_LV_0500_20230130_002529	Vous avez trouvé de quoi nourrir Rose dans le butin des Vubbe.{nl}Retournons voir Rose.	부베가 약탈한 물건에서 로제에게 먹일 만한 것들이 발견되었다.{nl}로제에게 돌아가자.				
-QUEST_LV_0500_20230130_002530	Prendre quelque chose pour Rose dans la voiture	마차 안에서 로제가 먹을 만한 것을 가져오기				
+QUEST_LV_0500_20230130_002530	Prendre quelque chose pour{nl}Rose dans la voiture	마차 안에서 로제가 먹을 만한 것을 가져오기				
 QUEST_LV_0500_20230130_002531	Rose semble avoir repris des forces après avoir mangé ce que vous avez apporté.{nl}Parlez à Rose.	로제가 가져온 것을 먹고 힘이 난 모양이다.{nl}로제와 이야기를 해보자.				
 QUEST_LV_0500_20230130_002532	Vaincre les Vubbe embusqués	습격한 부베 처치하기				
 QUEST_LV_0500_20230130_002533	Les Vubbe ont soudain attaqué alors que Rose tentait de vous guider.{nl}Vainquez tous les Vubbe.	로제가 안내하려고 하던 중에 갑자기 부베들이 습격했다.{nl}부베들을 모두 처치하자.				
@@ -2597,13 +2597,13 @@ QUEST_LV_0500_20230130_002596	Il y a une marchande plantée fermement là où le
 QUEST_LV_0500_20230130_002597	Récupérer les objets volés	마차 물품을 되찾아오기				
 QUEST_LV_0500_20230130_002598	La marchande est furieuse parce que sa voiture a été pillée.{nl}Récupérez les objets et obtenez la récompense.	여상인은 마차를 도둑맞은 것에 화가 나있다.{nl}물건을 되찾고 보수를 받자.				
 QUEST_LV_0500_20230130_002599	Vous avez récupéré une partie des objets.{nl}La marchande ne sera peut-être pas satisfaite mais donnons-les-lui quand même.	물건을 어느정도 되찾은 거 같다.{nl}여상인이 만족할지는 모르겠지만, 일단 가져다 주자.				
-QUEST_LV_0500_20230130_002600	Récupérer les biens volés par les Vubbe	부베가 약탈한 물품 되찾아오기				
+QUEST_LV_0500_20230130_002600	Récupérer les biens volés par{nl}les Vubbe	부베가 약탈한 물품 되찾아오기				
 QUEST_LV_0500_20230130_002601	Parler à la Marchande Cupide	탐욕스러운 여상인과 대화하기				
 QUEST_LV_0500_20230130_002602	Vous avez récupéré les objets mais la marchande ne semble pas contente.{nl}Parlez à la marchande.	물건을 되찾아왔지만, 여상인은 탐탁치 않은 모양이다.{nl}여상인과 대화를 해보자.				
 QUEST_LV_0500_20230130_002603	Chasser les Vubbe et prendre le joyau	부베를 처치해서 보석을 가져오기				
 QUEST_LV_0500_20230130_002604	La marchande souhaite se venger des Vubbe en prenant le joyau dans leurs corps et en le vendant.{nl}Chassez les Vubbe et rapportez le joyau.	여상인은 부베에게 복수할겸, 부베의 몸 안에 있는 보석을 가져와 팔 생각을 하고 있다.{nl}부베를 첯해서 보석을 가져오자				
 QUEST_LV_0500_20230130_002605	Vous avez récolté les joyaux des Vubbe.{nl}Donnez-les à la marchande.	부베의 보석을 모았다.{nl}여상인에게 가져다 주자.				
-QUEST_LV_0500_20230130_002606	Récolter les fragments de joyau des Vubbe	부베가 지니고 있는 보석 파편 획득				
+QUEST_LV_0500_20230130_002606	Récolter les fragments de{nl}joyau des Vubbe	부베가 지니고 있는 보석 파편 획득				
 QUEST_LV_0500_20230130_002607	Parler à l'érudit isolé	고립된 학자와 이야기하기				
 QUEST_LV_0500_20230130_002608	Quelqu'un tremble de peur à la Bibliothèque de Novaha.{nl}Demandez ce qui se passe.	노바하 서고에서 두려움에 떨고 있는 사람이 있다.{nl}무슨 일인지 대화를 해보자.				
 QUEST_LV_0500_20230130_002609	Se débarrasser des Vubbe	부베 처리하기				

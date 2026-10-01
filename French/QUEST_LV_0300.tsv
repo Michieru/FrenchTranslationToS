@@ -125,17 +125,17 @@ QUEST_LV_0300_20150729_000124	Merci. Laissez-moi essayer de les manger un par un
 QUEST_LV_0300_20150729_000125	Comme je le craignais... Je suis toujours là. J'ai entendu dire que le Maître Clerc a de l'eau bénite{nl}qui, mêlée à du Bluebane, peut tuer aisément n'importe quel démon.	예상대로.. 그대로군.{nl}클레릭마스터가 들고 있다는 성수에 섞어 먹으면 마족의 몸은 쉽게 죽을 수 있지 않을까.				쉬트리가일라
 QUEST_LV_0300_20150729_000126	Le Maître Clerc ! Allez le voir et procurez-vous de l'eau bénite.	클레릭 마스터!{nl}그에게로 가서 성수를 얻어와 주게.				쉬트리가일라
 QUEST_LV_0300_20150729_000127	Faites bon voyage jusqu'à Klaipeda.	클라페다까지 무사하길.				쉬트리가일라
-QUEST_LV_0300_20150729_000128	... ?{nl}Le gardien des âmes du Quartier de Dingofasil ?{nl}N'est-ce pas un démon ?	..?{nl}딩고파실 지구의 영혼 관리자?{nl}그 자는 마족 아닙니까?				
-QUEST_LV_0300_20150729_000129	Vous aidez un démon ?{nl}Je ne me mêlerai pas de vos affaires personnelles, mais en tant que maître au service de la déesse, {nl}je ne peux pas m'impliquer là-dedans. Quittez ce lieu, je vous prie.	계시자님이 마족의 일을 돕고 있다구요?{nl}개인적인 일들이야 관여하지 않겠습니다만, 여신을 섬기는 마스터로서 그 일에 협조할 수는 없습니다. 돌아가 주십시오.				
+QUEST_LV_0300_20150729_000128	... ? Le gardien des âmes du Quartier de Dingofasil ? N'est-ce pas un démon ?	..?{nl}딩고파실 지구의 영혼 관리자?{nl}그 자는 마족 아닙니까?				
+QUEST_LV_0300_20150729_000129	Vous aidez un démon ? Je ne me mêlerai pas de vos affaires personnelles, mais en tant que{nl}maître au service de la déesse, je ne peux pas m'impliquer là-dedans. Quittez ce lieu, je vous{nl}prie.	계시자님이 마족의 일을 돕고 있다구요?{nl}개인적인 일들이야 관여하지 않겠습니다만, 여신을 섬기는 마스터로서 그 일에 협조할 수는 없습니다. 돌아가 주십시오.				
 QUEST_LV_0300_20150729_000130	Je ne me mêlerai jamais de l'œuvre d'un démon.	마족의 일에는 앞으로도 협조하지 않을 것입니다.				클레릭 마스터
 QUEST_LV_0300_20150729_000131	Je vois... J'aurais dû m'y attendre... J'étais fou d'espérer autre chose.	과연.. 그러했군..{nl}괜한 기대를 한 것인가.				쉬트리가일라
-QUEST_LV_0300_20150729_000132	Si on en arrive là, je suppose que je vais devoir essayer cette méthode maintenant.{nl}Détruire le Compacteur d'âmes qui est ici... Les êtres qui m'ont envoyé ici me l'ont dit.{nl}Le Compacteur d'âmes et moi ne faisons qu'un. Pourquoi ne m'en suis-je pas souvenu jusqu'à maintenant ?	이렇게 되면 이제는 그 방법을 시도 해 봐야겠는걸.{nl}이 곳에 있는 영혼 집약기를 파괴 하는 것..{nl}나를 여기 보낸 이들이 말했지.{nl}나와 영혼 집약기는 하나라고. 왜 그 말을 지금껏 잊고 있었을까.				
+QUEST_LV_0300_20150729_000132	Si on en arrive là, je suppose que je vais devoir essayer cette méthode maintenant. Détruire le{nl}Compacteur d'âmes qui est ici... Les êtres qui m'ont envoyé ici me l'ont dit. Le Compacteur{nl}d'âmes et moi ne faisons qu'un. Pourquoi ne m'en suis-je pas souvenu jusqu'à maintenant ?	이렇게 되면 이제는 그 방법을 시도 해 봐야겠는걸.{nl}이 곳에 있는 영혼 집약기를 파괴 하는 것..{nl}나를 여기 보낸 이들이 말했지.{nl}나와 영혼 집약기는 하나라고. 왜 그 말을 지금껏 잊고 있었을까.				
 QUEST_LV_0300_20150729_000133	Quelque part dans cette zone se trouve un Compacteur d'âmes qui absorbe les âmes humaines.{nl}Il condense leur énergie et l'utilise. C'est un endroit vraiment approprié pour le Compacteur{nl}d'âmes car, même après le passage du gel pétrifiant, il grouille encore de l'activité des Chevaliers{nl}de Kaliss, des pilleurs de tombes et des soldats de l'armée royale.	이 곳 어딘가에 있는 영혼집약기는 인간의 영혼을 흡수하는 장치라네.{nl}그 에너지를 어딘가에 모아서 사용하고 있지.{nl}이렇게 석화서리가 불어오고 난 뒤에도 칼리스 기사단과 도굴꾼들, 왕국군이 활동하는 이 곳은 영혼 집약기가 있기에는 정말 적당한 장소겠지..				마족 쉬트리가일라
 QUEST_LV_0300_20150729_000134	{nl}{nl}Quand j'y pense, les êtres qui m'ont envoyé ici ont dû lier ma vie au Compacteur d'âmes pour{nl}que je puisse récolter des âmes pour eux à jamais. Alors si le Compacteur d'âmes est détruit, ne{nl}mourrais-je pas avec lui ?	{nl}{nl}생각해 보면 나를 이 곳에 보낸 이들은 그렇게 영원히 영혼을 모으기 위해 나를 영혼집약기와 생명으로 연결해 놓은 것이 아닐까. 영혼 집약기가 파괴 되면 나도 죽을 수 있지 않을까.				마족 쉬트리가일라
-QUEST_LV_0300_20150729_000135	Le Compacteur d'âmes a 3 terminaux dont il absorbe les âmes.{nl}Ce mauvais pressentiment que vous avez eu tout à l'heure était aussi un terminal qui tentait d'absorber votre âme.{nl}Pour l'instant, essayez d'anéantir ces terminaux.	영혼 집약기는 3개의 단말기로부터도 영혼을 흡수하지.{nl}조금 전의 네가 느꼈던 그 나쁜 기운도 단말기가 영혼을 흡수하는 과정이었어.{nl}일단 그 단말기들을 차례로 없애 보도록 하세.				
-QUEST_LV_0300_20150729_000136	{nl}Si vous parvenez à détruire un terminal, vous devriez pouvoir en récupérer le noyau.{nl}Vous devez récolter ces noyaux pour fabriquer un orbe qui vous aidera à détruire le Compacteur d'âmes.	{nl}파괴하는데 성공하면 단말기의 핵을 구할 수 있을거야.{nl}그 핵을 모아서 집약기의 파괴를 도와 줄 오브를 만들어야지.				
+QUEST_LV_0300_20150729_000135	Le Compacteur d'âmes a 3 terminaux dont il absorbe les âmes. Ce mauvais pressentiment que{nl}vous avez eu tout à l'heure était aussi un terminal qui tentait d'absorber votre âme. Pour{nl}l'instant, essayez d'anéantir ces terminaux.	영혼 집약기는 3개의 단말기로부터도 영혼을 흡수하지.{nl}조금 전의 네가 느꼈던 그 나쁜 기운도 단말기가 영혼을 흡수하는 과정이었어.{nl}일단 그 단말기들을 차례로 없애 보도록 하세.				
+QUEST_LV_0300_20150729_000136	{nl}Si vous parvenez à détruire un terminal, vous devriez pouvoir en récupérer le noyau. Vous{nl}devez récolter ces noyaux pour fabriquer un orbe qui vous aidera à détruire le Compacteur{nl}d'âmes.	{nl}파괴하는데 성공하면 단말기의 핵을 구할 수 있을거야.{nl}그 핵을 모아서 집약기의 파괴를 도와 줄 오브를 만들어야지.				
 QUEST_LV_0300_20150729_000137	Beau travail. Ce noyau servira à fabriquer un orbe qui surchargera l'unité centrale du{nl}Compacteur d'âmes. Maintenant je sens ma mort approcher.	잘 했군. 이 핵은 영혼 집약기 본체의 과부하를 일으킬 오브의 재료가 될 거야.{nl}이제 점점 죽음이 다가온다.				쉬트리가일라
-QUEST_LV_0300_20150729_000138	Essayez de faire sauter le second terminal.{nl}Tenez, je vais vous donner des explosifs, mais il vous faudra gratter des particules sur les objets pétrifiés{nl}de cette zone pour amplifier la puissance des explosifs.{nl}Comme le gel pétrifiant souffle souvent par ici, il y a des objets pétrifiés en abondance {nl}partout.	두 번째 단말기는 터뜨려 보도록 하게.{nl}여기 내가 폭약을 줄 테니, 이 폭약의 효과를 증폭시키도록 그 지역에서 석화물가루를 긁어가 봐.{nl}석화서리가 수시로 불어오는 지역 답게 석화물은 어디에나 있어.				
+QUEST_LV_0300_20150729_000138	Essayez de faire sauter le second terminal. Tenez, je vais vous donner des explosifs, mais il vous{nl}faudra gratter des particules sur les objets pétrifiés de cette zone pour amplifier la puissance des{nl}explosifs. Comme le gel pétrifiant souffle souvent par ici, il y a des objets pétrifiés en abondance{nl}partout.	두 번째 단말기는 터뜨려 보도록 하게.{nl}여기 내가 폭약을 줄 테니, 이 폭약의 효과를 증폭시키도록 그 지역에서 석화물가루를 긁어가 봐.{nl}석화서리가 수시로 불어오는 지역 답게 석화물은 어디에나 있어.				
 QUEST_LV_0300_20150729_000139	De nouveau, il vous faudra récupérer le noyau de ce terminal aussi.	역시 이번에도 단말기의 핵을 구해 와야 해.				
 QUEST_LV_0300_20150729_000140	Maintenant il ne reste plus qu'un terminal... Je me sens faiblir... Le dernier terminal est{nl}probablement en court-circuit. Essayez de prendre des noyaux sur les monstres pétrifiés de la{nl}zone et de les lancer sur le terminal. Cela devrait suffire à le faire s'effondrer.	이제 마지막 단말기군.. 서서히 기운이 빠지고 있어..{nl}아마 마지막 단말기는 폭주하고 있을지도 모르겠어.{nl}주변의 석화된 몬스터들로부터 석화된 몬스터의 코어를 얻어서 단말기에 던져 봐.{nl}서서히 무너질걸세.				쉬트리가일라
 QUEST_LV_0300_20150729_000141	Et bien sûr, rapportez le noyau du dernier terminal. Des âmes condensées sont concentrées dans{nl}ces noyaux... Il nous suffit de les utiliser pour fabriquer un orbe qui surchargera le Compacteur{nl}d'âmes.	그리고 역시 그 핵을 가져와야겠지.{nl}그 핵들에는 영혼들이 응축되어 있어서.. 그걸 모아 영혼 집약기의 과부하를 일으킬 오브를 만들면 돼.				쉬트리가일라
@@ -154,7 +154,7 @@ QUEST_LV_0300_20150729_000153	Obtenir %s en détruisant le terminal	단말기를
 QUEST_LV_0300_20150729_000154	Rapporter le Noyau du Terminal	단말기 핵 갖다 주기				
 QUEST_LV_0300_20150729_000155	Apporter le noyau du terminal à Svitrigaila.	쉬트리가일라에게 단말기의 핵을 가져다 주세요.				
 QUEST_LV_0300_20150729_000156	Fabriquer %s	제작으로 %s 만들기	QUEST_LV_0100_20150323_006614	Fabriquer %s	%s 만들기	
-QUEST_LV_0300_20150730_000157	Comme je m'y attendais, nous devons de nouveau récupérer le noyau du terminal.{nl}Hmm... Je vais jeter un sort de protection sur vous pour que le terminal ne vous terrasse pas comme la dernière fois.{nl}Il me reste au moins assez de force pour cela.	역시 이번에도 단말기의 핵을 구해 와야 돼.{nl}음.. 방금 전 처럼 단말기에 당하지 않도록 보호 마법을 걸어 주지.{nl}아직 그런 정도의 힘은 있어.	QUEST_LV_0300_20150729_000139	De nouveau, il vous faudra récupérer le noyau de ce terminal aussi.	역시 이번에도 단말기의 핵을 구해 와야 해.	
+QUEST_LV_0300_20150730_000157	Comme je m'y attendais, nous devons de nouveau récupérer le noyau du terminal. Hmm... Je{nl}vais jeter un sort de protection sur vous pour que le terminal ne vous terrasse pas comme la{nl}dernière fois. Il me reste au moins assez de force pour cela.	역시 이번에도 단말기의 핵을 구해 와야 돼.{nl}음.. 방금 전 처럼 단말기에 당하지 않도록 보호 마법을 걸어 주지.{nl}아직 그런 정도의 힘은 있어.	QUEST_LV_0300_20150729_000139	De nouveau, il vous faudra récupérer le noyau de ce terminal aussi.	역시 이번에도 단말기의 핵을 구해 와야 해.	
 QUEST_LV_0300_20150730_000158	Je guide les âmes pétrifiées selon la volonté de la déesse.	여신의 뜻을 받들어 석화된 영혼들을 인도하고 있어요.				큐폴 메일레
 QUEST_LV_0300_20150730_000159	Le gel pétrifiant soufflera bientôt ici. Mais nous ne savons pas quand... Je me demande si le{nl}détecteur de pétrification fonctionne correctement à Voie d'approvisionnement. Pourriez-vous{nl}le vérifier, je vous prie ?	석화서리가 불어올 거예요. 하지만 알 수가 없으니..{nl}보급로의 석화탐지기는 제대로 작동을 하고 있는 걸까요?{nl}한 번 봐 주셔야 될 거 같은데..				큐폴 메일레
 QUEST_LV_0300_20150730_000160	Fabriquer %s	제작스킬을 사용하여 %s 만들기	QUEST_LV_0300_20150729_000156	Fabriquer %s	제작으로 %s 만들기	
@@ -418,7 +418,7 @@ QUEST_LV_0300_20151001_000417	Il semble que le démon Svitrigaila le sache déj�
 QUEST_LV_0300_20151001_000418	Détruire la pierre de barrière dans la Rue de Dvus	드부스 거리의 결계석 파괴	QUEST_LV_0300_20150717_000095	Détruire le Terminal du Compacteur d'Âmes	영혼 집약 단말기 파괴하기	
 QUEST_LV_0300_20151001_000419	Le démon Svitrigaila mourra quand vous détruirez l'intégrateur à l'aide de la pierre de barrière. Détruisez la pierre de barrière qui protège l'intégrateur et récoltez les noyaux.	결계석을 이용하여 영혼 집약기를 파괴하면 마족 쉬트리가일라가 죽음에 이르게 된다고 합니다. 영혼 집약기를 지키고 있는 드부스 거리의 결계석을 파괴하고 그 핵을 수집하세요.	QUEST_LV_0300_20150717_000096	Pour aider Svitrigaila, vous devrez détruire le dispositif de compaction des âmes. Il vous faudra d'abord rassembler des outils pour vous aider à détruire le terminal du dispositif de compaction des âmes, puis son unité centrale. Chaque chose en son temps : détruisez le premier terminal.	쉬트리가일라를 도와주기 위해서는 일단 영혼 집약 장치를 파괴 해야 할 것 같습니다. 그 이전에 영혼 집약 장치의 단말기를 차례로 파괴해서 영혼 집약 장치 본체를 파괴할 도구의 재료를 구해야 한다고 합니다. 먼저 첫 번째 단말기를 파괴 하세요.	
 QUEST_LV_0300_20151001_000420	Vous avez récolté les noyaux en détruisant les pierres de barrière dans la Rue de Dvus. et remettez le noyau à Svitrigaila.	드부스 거리의 결계석을 파괴하여 핵을 수집햇습니다. 이 핵을 쉬트리가일라에게 전해 주세요.	QUEST_LV_0300_20150717_000098	Vous avez détruit le terminal. Et vous avez récupéré le noyau du terminal avec succès. Donnez le noyau à Svitrigaila.	단말기를 파괴 했습니다. 또한 단말기의 핵도 무사히 구했습니다. 이 핵을 쉬트리가일라에게 전해 주세요.	
-QUEST_LV_0300_20151001_000421	Détruire la pierre de barrière et récolter %s	결계석을 파괴하고 %s 수집	QUEST_LV_0300_20150729_000153	Obtenir %s en détruisant le terminal	단말기를 파괴하고 %s 구하기	
+QUEST_LV_0300_20151001_000421	Détruire la pierre de barrière{nl}et récolter %s	결계석을 파괴하고 %s 수집	QUEST_LV_0300_20150729_000153	Obtenir %s en détruisant le{nl}terminal	단말기를 파괴하고 %s 구하기	
 QUEST_LV_0300_20151001_000422	Détruire la pierre de barrière et récolter les noyaux	결계석을 파괴하고 핵 수집	QUEST_LV_0300_20150717_000099	Détruire le terminal et récupérer son noyau	단말기를 파괴하고 핵 구하기	
 QUEST_LV_0300_20151001_000423	Parler avec Svitrigaila de ce qu'il faut faire pour détruire la prochaine pierre de barrière.	다음 결계석을 파괴하기 위해서는 어떻게 해야 하는지 쉬트리가일라와 대화해 보세요.	QUEST_LV_0300_20150717_000100	Demander à Svitrigaila comment détruire le terminal de la zone suivante.	두 번째 지역의 단말기를 파괴 하기 위해서는 어떻게 해야 하는지 쉬트리가일라와 이야기 해 보세요.	
 QUEST_LV_0300_20151001_000424	Récolter les bombes sur les pilleurs de tombes pétrifiés	석화된 도굴꾼에게서 폭약 수집				
@@ -887,9 +887,9 @@ QUEST_LV_0300_20151224_000886	Le Maître Nécromancien veut obtenir la relique q
 QUEST_LV_0300_20151224_000887	Récolter les matériaux pour le neutralisant	중화제 재료 수집				
 QUEST_LV_0300_20151224_000888	Vaidotas vous a dit que pour neutraliser le gaz toxique de la Mine de cristal, vous devriez fabriquer un neutralisant. Obtenez de la terre digérée de Forêt d'Alemeth, de la poudre de chaux de la Côte de Cranto, et de la poudre de charbon de la Forêt de Nahash.	바이도타스는 수정광산에서 새어나오는 유독가스를 중화하기 위한 중화제를 만들어야 한다고 합니다. 알레멧 숲에서 소화된 흙을, 크란토 연안에서 석회 가루를, 나하스 숲에서 숯가루를 모아오세요.				
 QUEST_LV_0300_20151224_000889	Tous les matériaux du neutralisant sont obtenus. Retournez voir Vaidotas.	중화제의 재료를 모두 모았습니다. 바이도타스에게 돌아가세요.				
-QUEST_LV_0300_20151224_000890	Obtenir %s des monstres à la Forêt d'Alemeth	알레멧 숲의 몬스터에게서 %s				
-QUEST_LV_0300_20151224_000891	Obtenir %s des monstres à la Forêt de Nahash	나하스 숲의 몬스터에게서 %s				
-QUEST_LV_0300_20151224_000892	Obtenir %s des monstres à la Côte de Cranto	크란토 연안의 몬스터에게서 %s				
+QUEST_LV_0300_20151224_000890	Obtenir %s des monstres à la{nl}Forêt d'Alemeth	알레멧 숲의 몬스터에게서 %s				
+QUEST_LV_0300_20151224_000891	Obtenir %s des monstres à la{nl}Forêt de Nahash	나하스 숲의 몬스터에게서 %s				
+QUEST_LV_0300_20151224_000892	Obtenir %s des monstres à la{nl}Côte de Cranto	크란토 연안의 몬스터에게서 %s				
 QUEST_LV_0300_20151224_000893	Utiliser la bourse derrière les monstres et récolter les morceaux au parfum fruité	몬스터의 뒤에서 주머니를 사용하여 과일향이 나는 조각 수집				
 QUEST_LV_0300_20151224_000894	Le Maître Roublard veut offrir un cadeau au Maître Éclaireur pour rétablir leur relation. Utilisez la bourse derrière les monstres de Forêt d'Alemeth et récoltez les morceaux qui portent un parfum fruité.	로그 마스터는 한 때 친했던 스카우트 마스터와 소원해진 관계를 아쉬워하며 관계 회복을 위해 선물을 주고자 합니다. 알레멧 숲에 있는 몬스터의 뒤에서 주머니를 사용하여 과일향이 나는 조각을 모아오세요.				
 QUEST_LV_0300_20151224_000895	Vous avez récolté tous les morceaux au parfum fruité. Retournez voir le Maître Roublard.	과일향이 나는 조각을 모두 모았습니다. 로그 마스터에게 돌아가세요.				
@@ -1562,7 +1562,7 @@ QUEST_LV_0300_20160310_001561	Récupérer les matériaux de recherche sur les mo
 QUEST_LV_0300_20160310_001562	Gatre vous a dit qu'en transportant le matériel de recherche, il a été attaqué par les monstres et a perdu tout le matériel de recherche. Vainquez les monstres des Sentiers d'Engare et récupérez le matériel de recherche.	가트레는 연구 물품을 옮기던 중 몬스터에게 습격을 당해 연구 물품을 모두 빼앗겼다고 합니다. 엔가레 오솔길의 몬스터를 처치해서 연구 물품을 되찾아주세요.				
 QUEST_LV_0300_20160310_001563	Remettre les matériaux de recherche à Gatre	가트레에게 연구 물품 전달				
 QUEST_LV_0300_20160310_001564	Tous les matériaux de recherche sont obtenus. Remettez-les à Gatre.	연구 물품을 모두 회수했습니다. 가트레에게 전해주세요.				
-QUEST_LV_0300_20160310_001565	Récupérer %s en vainquant les monstres	몬스터를 처치해서 %s 회수				
+QUEST_LV_0300_20160310_001565	Récupérer %s en vainquant les{nl}monstres	몬스터를 처치해서 %s 회수				
 QUEST_LV_0300_20160310_001566	Demande de sauvetage secret	은밀한 구조 요청				
 QUEST_LV_0300_20160310_001567	Bien que vous ayez apporté les matériaux de recherche, Gatre semble avoir autre chose à dire.	연구물품을 가져왔지만 더 할 말이 있는 것 같습니다. 가트레와 이야기해보세요.				
 QUEST_LV_0300_20160310_001568	Trouver la boîte de rangement, lire le manuel et classer les matériaux de recherche. 	정리 상자를 찾아 설명서를 읽고 연구 물품 정리				
@@ -1581,12 +1581,12 @@ QUEST_LV_0300_20160310_001580	Utiliser la poudre paralysante pour extraire du Sa
 QUEST_LV_0300_20160310_001581	Sarma vous a dit que l'achèvement des recherches n'est plus très loin et qu'il veut donc que vous l'aidiez dans ses recherches. Utilisez la poudre de paralysie pour récolter le sang des Weldigo vert.	사르마는 연구의 완성이 머지 않았다며 연구를 도와주면 좋겠다고 합니다. 마취 가루를 사용해서 초록 엘디고의 혈액을 모아주세요.				
 QUEST_LV_0300_20160310_001582	Les remettre à Sarma	사르마에게 전달				
 QUEST_LV_0300_20160310_001583	Vous avez récolté assez de sang de Weldigo vert. Remettez-le à Sarma.	초록 엘디고의 혈액을 충분히 모았습니다. 사르마에게 가져다주세요.				
-QUEST_LV_0300_20160310_001584	Extraire %s à l'aide de la poudre paralysante	마취가루를 사용하여 %s 채취				
+QUEST_LV_0300_20160310_001584	Extraire %s à l'aide de la{nl}poudre paralysante	마취가루를 사용하여 %s 채취				
 QUEST_LV_0300_20160310_001585	Sarma vous a demandé de vous préparer après avoir reçu de Gatre la liste des matériaux nécessaires à l'expérience finale. Pendant l'absence de Sarma, parlez à Gatre des recherches de Sarma.	사르마는 가트레에게 최종 실험에 필요한 재료 목록을 받아서 준비하라고 했습니다. 사르마가 자리를 비운 사이에 가트레와 사르마의 연구에 대한 이야기를 해보세요.				
 QUEST_LV_0300_20160310_001586	Chercher le document de recherche perdu	유실된 연구 일지 수색				
 QUEST_LV_0300_20160310_001587	Pendant l'absence de Sarma, Gatre vous a demandé de chercher les documents de recherche de Boldas, qui est inconscient. Avant de faire ce que Sarma vous a demandé, cherchez les documents de recherche perdus. Les monstres pourraient les avoir ou ils pourraient être cachés quelque part.	가트레는 사르마가 자리를 비운 사이 의식불명 되었던 볼다스씨의 연구 일지를 찾아보자고 합니다. 사르마가 시킨 일을 하기 전에 먼저 유실된 연구 일지를 찾아보세요. 연구 일지는 몬스터가 가지고 있거나 어딘가에 숨겨져 있을 수도 있습니다.				
-QUEST_LV_0300_20160310_001588	Récupérer %s en vainquant les monstres	몬스터를 처치하여 %s 회수				
-QUEST_LV_0300_20160310_001589	Récupérer %s en fouillant les environs	주변을 수색하여 %s 회수				
+QUEST_LV_0300_20160310_001588	Récupérer %s en vainquant les{nl}monstres	몬스터를 처치하여 %s 회수				
+QUEST_LV_0300_20160310_001589	Récupérer %s en fouillant les{nl}environs	주변을 수색하여 %s 회수				
 QUEST_LV_0300_20160310_001590	Vaincre les monstres pour récolter les cristaux de jus de fruit	몬스터를 처치하여 과즙 결정 수집				
 QUEST_LV_0300_20160310_001591	Puisque vous avez trouvé les documents de recherche perdus, récoltez les cristaux de jus de fruit qui figurent sur la liste du matériel de recherche en vainquant les monstres. 	유실된 연구 일지를 찾았으니 사르마가 의뢰한 대로 연구 재료 목록표에 있는 과즙 결정을 몬스터를 처치하여 수집하세요.				
 QUEST_LV_0300_20160310_001592	Récolter les feuilles des plantes qui ont poussé étrangement	과성장한 식물의 잎사귀 수집				
@@ -1600,7 +1600,7 @@ QUEST_LV_0300_20160310_001599	Vérifier le document de recherche perdu	유실된
 QUEST_LV_0300_20160310_001600	Gatre vous a demandé de vérifier le document de recherche perdu. Ouvrez l'inventaire et lisez tous les documents de recherche perdus.	가트레는 유실된 연구 일지를 확인해보라고 합니다. 인벤토리를 열어 유실된 연구 일지를 전부 읽어보세요.				
 QUEST_LV_0300_20160310_001601	Sur le document de recherche perdu, l'expérience de Sarma est décrite en détail. Montrez le document de recherche perdu à Gatre.	유실된 연구 일지에는 사르마의 실험에 대한 자세한 이야기가 적혀있었습니다. 가트레에게 유실된 연구 일지를 보여주세요.				
 QUEST_LV_0300_20160310_001602	Bien que nous n'ayons pas trouvé de preuves, il est certain que Sarma fait quelque chose de mal si l'on se fie aux documents de recherche. Voyez avec Gatre ce qu'il faut faire ensuite.	물증은 찾지 못했지만 연구 일지를 토대로 생각할 때 정황상 사르마가 무언가 잘못된 연구를 하고 있는 것은 확실한 것 같습니다. 어떻게 해야 할 지 가트레와 대화해보세요.				
-QUEST_LV_0300_20160310_001603	Chercher le remède semblable au liquide mûri dans la réserve des matériaux de recherche	연구 자재 창고에서 과일 나무의 숙성액과 비슷한 약품 찾기				
+QUEST_LV_0300_20160310_001603	Chercher le remède semblable{nl}au liquide mûri dans la{nl}réserve des matériaux de{nl}recherche	연구 자재 창고에서 과일 나무의 숙성액과 비슷한 약품 찾기				
 QUEST_LV_0300_20160310_001604	Gatre vous a dit que, puisqu'il a ruiné les recherches de Sarma, il doit gagner du temps. Cherchez un autre remède qui ressemble au liquide mûri de l'arbre fruitier nécessaire aux recherches.	가트레는 사르마의 실험을 망쳐서 시간을 벌어야겠다고 합니다. 실험에 필요한 재료인 과일 나무의 숙성액과 비슷하게 생긴 다른 약품을 찾아보세요.				
 QUEST_LV_0300_20160310_001605	Les remettre à Gatre	가트레에게 전달				
 QUEST_LV_0300_20160310_001606	Vous avez trouvé le remède qui ressemble au liquide mûri de l'arbre fruitier. Retournez voir Gatre avec le remède.	과일 나무의 숙성액과 비슷하게 생긴 약품을 찾았습니다. 약품을 가지고 가트레에게 돌아가보세요.				
@@ -1703,7 +1703,7 @@ QUEST_LV_0300_20160310_001702	Récolter le Sang Rouge du Démon	마족의 붉은
 QUEST_LV_0300_20160310_001703	Le villageois James dit que, pour purifier le pouvoir corrompu de la déesse, il faut du sang rouge de démon. Vainquez les démons alentour pour récolter leur sang rouge. 	마을 주민 제임스는 여신의 오염된 힘을 정화하기 위해 마족의 붉은 피가 필요하다고 합니다. 주변의 마족을 처치하여 마족의 붉은 피를 모으세요.				
 QUEST_LV_0300_20160310_001704	Le livrer au villageois James	마을 주민 제임스에게 전달				
 QUEST_LV_0300_20160310_001705	Le sang rouge de démon demandé par le villageois James est obtenu. Retournez le voir.	마을 주민 제임스가 부탁한 마족의 붉은 피를 구했습니다. 그에게 돌아가세요.				
-QUEST_LV_0300_20160310_001706	Vaincre les démons alentour et récolter %s	주변의 마족을 처치하여 %s 수집				
+QUEST_LV_0300_20160310_001706	Vaincre les démons alentour{nl}et récolter %s	주변의 마족을 처치하여 %s 수집				
 QUEST_LV_0300_20160310_001707	Coups Bas	비열한 술수				
 QUEST_LV_0300_20160310_001708	Examiner le laboratoire annexe au-delà du mur noir	검은 벽 너머 별관 연구실 수색				
 QUEST_LV_0300_20160310_001709	Il y a quelque chose de caché au-delà du mur noir. Traversez le mur noir pour examiner le laboratoire annexe.	검은 벽 너머에 뭔가 숨겨져 있는 것 같습니다. 검은 벽을 통과해 별관 연구실을 조사해보세요.				
@@ -1750,7 +1750,7 @@ QUEST_LV_0300_20160310_001749	Acheter de l'Eau Bénite Auprès du Maître Prêtr
 QUEST_LV_0300_20160310_001750	L'abbé a besoin de plus de pouvoir pour purifier les âmes déchues des démons. L'eau bénite d'un Maître Prêtre l'aiderait grandement dans ce processus. Achetez 10 eaux bénites au Maître Prêtre.	엘고스 수도원장은 마족의 타락한 영혼을 정화하는데 힘이 부족하다고 합니다. 프리스트 마스터의 성수가 있으면 좀 더 쉽게 영혼을 정화할 수 있을 것 같다고 합니다. 프리스트 마스터에게서 성수를 10개 구매하세요.				
 QUEST_LV_0300_20160310_001751	Donner l'eau bénite à l'abbé	엘고스 수도원장에게 성수 전달				
 QUEST_LV_0300_20160310_001752	Vous avez acheté de l'eau bénite au Maître Prêtre. Retournez voir l'abbé d'Elgos.	프리스트 마스터로부터 성수를 구매했습니다. 엘고스 수도원장에게 돌아가세요.				
-QUEST_LV_0300_20160310_001753	Acheter %s auprès du Maître Prêtre	프리스트 마스터에게 %s 구매				
+QUEST_LV_0300_20160310_001753	Acheter %s auprès du Maître{nl}Prêtre	프리스트 마스터에게 %s 구매				
 QUEST_LV_0300_20160310_001754	Vous avez acheté de l'eau bénite au Maître Prêtre. Parlez à l'abbé d'Elgos.	프리스트 마스터로부터 성수를 구해왔습니다. 엘고스 수도원장과 대화해보세요.				
 QUEST_LV_0300_20160310_001755	Détruire l'Idole Sinistre	사악한 우상 파괴				
 QUEST_LV_0300_20160310_001756	L'abbé a purifié la sphère d'âmes. Il dit que l'utilisation de la sphère d'âmes purifiée détruira l'idole sinistre.	엘고스 수도원장이 영혼 구슬을 정화해냈습니다. 정화된 영혼 구슬을 사용하면 사악한 우상을 파괴할 수 있을 거라고 합니다.				
@@ -1822,7 +1822,7 @@ QUEST_LV_0300_20160310_001821	Le réfugié Elius fabrique des onguents pour soig
 QUEST_LV_0300_20160310_001822	Les livrer au réfugié Elius	난민 앨리유스에게 전달				
 QUEST_LV_0300_20160310_001823	Vous avez trouvé tous les ingrédients nécessaires. Livrez-les au réfugié Elius.	필요한 연고 재료를 모두 모았습니다. 난민 앨리유스에게 전해 주세요.				
 QUEST_LV_0300_20160310_001824	La marchande Felicia cherche quelqu'un pour l'aider.	상인 펠리시아는 도와줄 사람을 찾고있습니다.				
-QUEST_LV_0300_20160310_001825	Utiliser la pierre de recherche magique pour trouver un outil qui ouvre la boîte	마력 탐지기로 상자를 열 수 있는 도구 수색				
+QUEST_LV_0300_20160310_001825	Utiliser la pierre de recherche{nl}magique pour trouver un outil{nl}qui ouvre la boîte	마력 탐지기로 상자를 열 수 있는 도구 수색				
 QUEST_LV_0300_20160310_001826	La marchande Felicia cherche un moyen d'ouvrir la boîte. Utilisez la pierre de recherche magique pour trouver le bon outil.	상인 펠리시아는 상자를 열 방법을 찾고 있었습니다. 마력 탐지기로 봉인된 상자를 열 수 있는 도구를 찾아 보세요.				
 QUEST_LV_0300_20160310_001827	Le livrer à la marchande Felicia	상인 펠리시아에게 전달				
 QUEST_LV_0300_20160310_001828	Vous avez trouvé un sac qui répond au signal de la pierre de recherche magique. Livrez-le à la marchande Felicia.	마력 탐지기에 반응하는 가방을 찾았습니다. 상인 펠리시아에게 전해 주세요.				
@@ -3064,7 +3064,7 @@ QUEST_LV_0300_20160718_003063	Dievdirbys Asel semble essayer de faire quelque ch
 QUEST_LV_0300_20160718_003064	Récolter les Matériaux pour la Purification	정화에 필요한 재료 수집				
 QUEST_LV_0300_20160718_003065	Asel dit qu'un rituel de purification s'impose peut-être pour réveiller la sculpture de chouette. Récoltez des lianes de Vieux Kepa noir pour préparer les matériaux nécessaires au lancement du processus.	아젤은 일단 잠든 부엉이 조각상을 어떻게든 깨워보기 위해 정화의식을 준비한다고 합니다. 정화의 조각을 만들 재료인 늙은 검은케파의 줄기를 모아 오세요.				
 QUEST_LV_0300_20160718_003066	Vous avez récolté assez de lianes de Vieux Kepa noir. Livrez-les à Dievdirbys Asel.	늙은 검은케파의 줄기를 충분히 모았습니다. 딥디르비 아젤에게 전해 주세요.				
-QUEST_LV_0300_20160718_003067	Récolter les %s des Vieux Kepa noir	늙은 검은케파의 %s 수집				
+QUEST_LV_0300_20160718_003067	Récolter les %s des Vieux Kepa{nl}noir	늙은 검은케파의 %s 수집				
 QUEST_LV_0300_20160718_003068	Dievdirbys Asel dit qu'il est prêt à purifier la sculpture de chouette. Demandez à Dievdirbys Asel ce que vous pouvez faire pour aider.	딥디르비 아젤은 부엉이 조각상을 정화할 준비를 마쳤습니다. 무엇을 도우면 되는지 딥디르비 아젤과 대화하세요.				
 QUEST_LV_0300_20160718_003069	Retirer la Force Malveillante Près de la Sculpture de Chouette	부엉이 조각상 인근의 사악한 기운 제거				
 QUEST_LV_0300_20160718_003070	Dievdirbys Asel demande votre aide pour purifier la sculpture de chouette. Utilisez la sculpture de purification pour chasser l'énergie maléfique qui entoure la sculpture de chouette.	딥디르비 아젤은 부엉이 조각상을 정화하는 것을 도와달라고 합니다. 정화의 조각을 이용해 부엉이 조각상 인근의 사악한 기운을 정화하세요.				
@@ -3391,9 +3391,9 @@ QUEST_LV_0300_20160811_003390	Soit activer des dispositifs secrets pour attaquer
 QUEST_LV_0300_20160811_003391	Au fait, je vous serais reconnaissant de vous occuper de quelques monstres en chemin pour{nl}qu'ils ne puissent pas arriver jusqu'ici. Faites-moi signe avec la pierre magique turquoise dès{nl}que vous atteindrez la barrière.	그리고 가는 길에 몬스터들이 소각로로 오지 못하도록 처치해줘.{nl}마족의 결계까지 도달해서 은은한 녹색 마석으로 신호를 주면 가도록 할게.				자나스의 영혼
 QUEST_LV_0300_20160811_003392	J'espère qu'il n'est pas trop tard. Je ne veux vraiment pas échouer deux fois.	제발 늦지 않아야 할 텐데.{nl}두 번의 실패는 하고 싶지 않아.				자나스의 영혼
 QUEST_LV_0300_20160811_003393	La Révélation de la Prison de Kalejimas	칼레이마스 감옥의 계시				
-QUEST_LV_0300_20160811_003394	Je savais bien quel destin attendait Zanas... Et je savais qu'il était lui-même prêt à l'accepter,{nl}pourtant je n'avais d'autre choix que de lui confier la Révélation. Le pouvoir qui a mené Zanas,{nl}un simple garçon, jusqu'à la Révélation... Son dernier souffle, sa dernière prière... n'étaient que{nl}pour votre salut et celui de notre monde. On se souviendra de lui aussi longtemps que je vivrai.{nl}	자나스의 운명을 알면서도.. {nl}그가 그 운명을 받아들일 것을 알면서도 전 그에게 계시를 맡길 수 밖에 없었습니다.{nl}평범했던 그가 그대를 이 계시에게까지 이끌 수 있었던 힘을..{nl}그의 마지막 숨이, 마지막 기도가 오로지 당신과 이 세계의 구원을 위한 것임을..{nl}영원토록 제 가슴에 새겨 절대 잊지 않을 것입니다.{nl}				칼레이마스 감옥의 계시
-QUEST_LV_0300_20160811_003395	Je comprends que c'est un péché impardonnable. Mais les vies perdues chaque jour dans notre{nl}monde sont bien trop nombreuses. Un grave désastre est sur nous... Le même désastre qui nous{nl}a forcés à renoncer à la malédiction de pétrification, et qui a failli réduire le royaume en ruines.{nl}	이미 용서 받지 못할 죄라는 것은 알고 있습니다.{nl}하지만 너무나도 많은 생명들이.. 이 세상에서 꺼져가고 있습니다.{nl}석화의 저주를 포기해야 할 정도의 엄청난 재앙.. {nl}왕국을 파멸로 이끌 뻔했던 그 과거의 재앙이 다시 도래하려 합니다.{nl}				칼레이마스 감옥의 계시
-QUEST_LV_0300_20160811_003396	La déesse qui n'a pu être sauvée sera bientôt libérée de ses chaînes. Les chaînes passées d'un{nl}salut abandonné L'écrasent... Celle qui a été prise par la malédiction de la reine démon{nl}descendra de nouveau en Déesse de la Destruction. Sauveur. Vous devez vous rendre aux grottes{nl}qui retiennent la déesse cachée captive. Je vous en prie... protégez-la de la reine démon.	구하지 못했던 여신이.. 사슬에서 풀려납니다.{nl}구원을 포기했던 과거의 사슬은 여신의 마음을 억누르고..{nl}마왕의 저주에서 헤어나지 못한 자매는 파괴의 여신으로 다시금 강림할 것입니다.{nl}구원자여. 감춰진 여신이 묶여있는 동굴로 가야 합니다.{nl}부디 그녀를.. 마왕에게서 지켜주세요.				칼레이마스 감옥의 계시
+QUEST_LV_0300_20160811_003394	Je savais bien quel destin{nl}attendait Zanas...{nl}Et je savais qu'il était lui-même{nl}prêt à l'accepter, pourtant je{nl}n'avais d'autre choix que de lui{nl}confier la Révélation.{nl}Le pouvoir qui a mené Zanas, un{nl}simple garçon, jusqu'à la{nl}Révélation...{nl}Son dernier souffle, sa dernière{nl}prière... n'étaient que pour votre{nl}salut et celui de notre monde.{nl}On se souviendra de lui aussi{nl}longtemps que je vivrai.{nl}	자나스의 운명을 알면서도.. {nl}그가 그 운명을 받아들일 것을 알면서도 전 그에게 계시를 맡길 수 밖에 없었습니다.{nl}평범했던 그가 그대를 이 계시에게까지 이끌 수 있었던 힘을..{nl}그의 마지막 숨이, 마지막 기도가 오로지 당신과 이 세계의 구원을 위한 것임을..{nl}영원토록 제 가슴에 새겨 절대 잊지 않을 것입니다.{nl}				칼레이마스 감옥의 계시
+QUEST_LV_0300_20160811_003395	Je comprends que c'est un péché{nl}impardonnable.{nl}Mais les vies perdues chaque jour{nl}dans notre monde sont bien trop{nl}nombreuses.{nl}Un grave désastre est sur nous...{nl}Le même désastre qui nous a{nl}forcés à renoncer à la{nl}malédiction de pétrification, et{nl}qui a failli réduire le royaume en{nl}ruines.{nl}	이미 용서 받지 못할 죄라는 것은 알고 있습니다.{nl}하지만 너무나도 많은 생명들이.. 이 세상에서 꺼져가고 있습니다.{nl}석화의 저주를 포기해야 할 정도의 엄청난 재앙.. {nl}왕국을 파멸로 이끌 뻔했던 그 과거의 재앙이 다시 도래하려 합니다.{nl}				칼레이마스 감옥의 계시
+QUEST_LV_0300_20160811_003396	La déesse qui n'a pu être sauvée{nl}sera bientôt libérée de ses{nl}chaînes.{nl}Les chaînes passées d'un salut{nl}abandonné L'écrasent...{nl}Celle qui a été prise par la{nl}malédiction de la reine démon{nl}descendra de nouveau en Déesse{nl}de la Destruction.{nl}Sauveur. Vous devez vous rendre{nl}aux grottes qui retiennent la{nl}déesse cachée captive.{nl}Je vous en prie... protégez-la de la{nl}reine démon.	구하지 못했던 여신이.. 사슬에서 풀려납니다.{nl}구원을 포기했던 과거의 사슬은 여신의 마음을 억누르고..{nl}마왕의 저주에서 헤어나지 못한 자매는 파괴의 여신으로 다시금 강림할 것입니다.{nl}구원자여. 감춰진 여신이 묶여있는 동굴로 가야 합니다.{nl}부디 그녀를.. 마왕에게서 지켜주세요.				칼레이마스 감옥의 계시
 QUEST_LV_0300_20160811_003397	Écritures sur le Mur	벽의 낙서				
 QUEST_LV_0300_20160811_003398	les gard doivent etre vraimen bete. ou peut etre que je suis juste vraimen malin ?	간수드른 정말 멍충하다.{nl}아니면 내가 똑또칸건가?{nl}				벽의 낙서
 QUEST_LV_0300_20160811_003399	y cherche une botte de foin dans une éguille haha. y z'ont caché des truc dans un tas d'autres{nl}truc, ça fait six mois et y peuve toujour pas le retrouvé.{nl}	나무애 숲을 숨긴다고 하지.{nl}물건드리 많은 곳에다가 몰래 가져온 물건들을 숨겨떠니 벌써 반년째 못찾고 이따.{nl}				벽의 낙서
@@ -4354,19 +4354,19 @@ QUEST_LV_0300_20160811_004353	Chercher la pierre magique turquoise au dos de la 
 QUEST_LV_0300_20160811_004354	L'âme de Zanas dit que vous devriez obtenir la pierre magique turquoise qui vous permettra de le contacter sans alerter les démons. Cherchez la pierre magique turquoise au dos de la pierre tombale de la Parloir.	자나스의 영혼은 마족을 피해 자신과 연락할 수 있는 은은한 녹색 마석을 구하자고 합니다. 자백의 방에 있는 접견소의 비석의 뒷면을 조사하여 은은한 녹색 마석을 찾으세요.				
 QUEST_LV_0300_20160811_004355	Faire un rapport à Zanas	자나스에게 보고				
 QUEST_LV_0300_20160811_004356	Vous avez trouvé la pierre magique turquoise. Écoutez l'âme de Zanas.	은은한 녹색 마석을 찾았습니다. 자나스의 영혼에게 돌아가세요.				
-QUEST_LV_0300_20160811_004357	Chercher %s au dos de la pierre tombale	비석의 뒷면을 조사하여 %s 수색				
+QUEST_LV_0300_20160811_004357	Chercher %s au dos de la{nl}pierre tombale	비석의 뒷면을 조사하여 %s 수색				
 QUEST_LV_0300_20160811_004358	Parler à l'âme de Zanas de la suite maintenant que vous avez la pierre magique turquoise.	은은한 녹색 마석을 구했으니 이제 어떻게 할지 자나스의 영혼과 이야기해보세요.				
 QUEST_LV_0300_20160811_004359	Obtenir du sang de démon de Kalejimas en vainquant des démons	마족을 처치해 칼레이마스 마족의 피 획득				
 QUEST_LV_0300_20160811_004360	L'âme de Zanas souhaite mêler de l'énergie démoniaque à la pierre magique turquoise pour éviter les soupçons. Vainquez des démons pour obtenir du sang de démon de Kalejimas.	자나스의 영혼은 은은한 녹색 마석의 기운을 마족이 눈치채지 못하도록 마족의 기운을 섞자고 합니다. 마족을 처치해서 칼레이마스 마족의 피를 구해오세요.				
 QUEST_LV_0300_20160811_004361	Le donner à l'âme de Zanas	자나스의 영혼에게 전달				
 QUEST_LV_0300_20160811_004362	Vous avez récolté assez de sang de démon de Kalejimas. Apportez-le à l'âme de Zanas.	칼레이마스 마족의 피를 충분히 모았습니다. 자나스에 영혼에게 가져다주세요.				
-QUEST_LV_0300_20160811_004363	Obtenir %s en vainquant des démons	마족을 처치해 %s 획득				
+QUEST_LV_0300_20160811_004363	Obtenir %s en vainquant des{nl}démons	마족을 처치해 %s 획득				
 QUEST_LV_0300_20160811_004364	Comment vaincre des ennemis plus forts	강적을 상대하는 법				
 QUEST_LV_0300_20160811_004365	Vous avez mêlé de l'énergie démoniaque à la pierre magique turquoise pour éviter les soupçons. Écoutez ce que Zanas a à dire sur la marche à suivre.	은은한 녹색 마석에 마족의 기운을 섞어서 마족이 눈치채지 못하게 만들었습니다. 이제 어떻게 할 생각인지 자나스의 이야기를 들어보세요.				
 QUEST_LV_0300_20160811_004366	Désamorcer le Dispositif Secret de la Zone Isolée	차폐구역의 비밀 장치 해제				
 QUEST_LV_0300_20160811_004367	L'âme de Zanas dit qu'il vous faut les parchemins de contrôle magique de Kalejimas pour vaincre le démon Mandara qui garde la Parloir. Faites correspondre les lumières à la même couleur quand elles apparaissent après avoir activé le dispositif secret de la zone isolée. Vous pourrez obtenir le parchemin de contrôle magique une fois le dispositif secret désamorcé.	자나스의 영혼은 칼레이마스 접견소를 지키고 있는 마족 만다라를 처치하려면 반드시 마력 억제 주문서가 필요하다고 한다고 합니다. 차폐구역에 있는 비밀 장치를 작동하면 양쪽에 나타나는 두 개의 빛을 같은 빛으로 맞추세요. 두 빛이 같은 빛이 되면 비밀 장치가 해제되어 마력 억제 주문서를 얻을 수 있습니다.				
 QUEST_LV_0300_20160811_004368	Vous avez trouvé le parchemin de contrôle magique. Parlez à l'âme de Zanas avec la pierre magique turquoise.	마력 억제 주문서를 찾았습니다. 인벤토리에 있는 은은한 녹색 마석을 사용하여 자나스의 영혼을 불러 대화하세요.				
-QUEST_LV_0300_20160811_004369	Obtenir %s en désamorçant le dispositif secret de la zone isolée	차폐구역의 비밀 장치를 해제하여 %s 획득				
+QUEST_LV_0300_20160811_004369	Obtenir %s en désamorçant le{nl}dispositif secret de la zone{nl}isolée	차폐구역의 비밀 장치를 해제하여 %s 획득				
 QUEST_LV_0300_20160811_004370	Utilisez la pierre magique turquoise pour appeler l'âme de Zanas et écoutez ce qu'il faut faire ensuite.	인벤토리에 있는 은은한 녹색 마석을 사용하여 자나스의 영혼을 불러 해야할 일에 대해 들어보세요.				
 QUEST_LV_0300_20160811_004371	Enregistrer la Magie Démoniaque sur le Parchemin de Contrôle Magique	마력 억제 주문서에 마족의 마력 기록				
 QUEST_LV_0300_20160811_004372	L'âme de Zanas dit que vous devez inscrire la magie que vous souhaitez contrôler sur le parchemin de contrôle magique. Vainquez des démons pour inscrire leur magie sur le parchemin de contrôle magique.	자나스의 영혼은 마력 억제 주문서로 억제할 마력을 주문서에 새겨넣어야 한다고 합니다. 마족을 처치하여 마력 억제 주문서에 마족의 마력을 기록하세요.				
@@ -4378,7 +4378,7 @@ QUEST_LV_0300_20160811_004377	Utilisez la pierre magique turquoise pour appeler 
 QUEST_LV_0300_20160811_004378	Désamorcer le dispositif secret pour obtenir l'orbe de magie de domination dans la réserve de matériaux auxiliaires	자재실의 비밀 장치를 해제하여 영역 지배 마법의 보주 획득				
 QUEST_LV_0300_20160811_004379	L'âme de Zanas dit que vous devez utiliser la magie de domination pour désamorcer la barrière démoniaque. Désamorcez le dispositif secret de la Réserve de matériaux auxiliaires pour trouver l'orbe de magie de domination.	자나스의 영혼은 마족의 결계를 해제하기 위해 영역 지배 마법을 사용해야한다고 합니다. 자재실의 비밀 장치를 해제하여 영역 지배 마법의 보주를 찾으세요.				
 QUEST_LV_0300_20160811_004380	Vous avez obtenu l'orbe de magie de domination. Annoncez-le à l'âme de Zanas à l'aide de la pierre magique turquoise.	영역 지배 마법의 보주를 얻었습니다. 인벤토리에 있는 은은한 녹색 마석을 사용하여 자나스의 영혼을 불러 전해주세요.				
-QUEST_LV_0300_20160811_004381	Obtenir %s en désamorçant le dispositif secret de la réserve de matériaux auxiliaires	자재실의 비밀 장치를 해제하여 %s 획득				
+QUEST_LV_0300_20160811_004381	Obtenir %s en désamorçant le{nl}dispositif secret de la réserve{nl}de matériaux auxiliaires	자재실의 비밀 장치를 해제하여 %s 획득				
 QUEST_LV_0300_20160811_004382	Se Rendre à la Barrière Démoniaque	마족의 결계로 이동				
 QUEST_LV_0300_20160811_004383	L'âme de Zanas dit qu'elle désamorcera la barrière démoniaque avec la magie de domination. Rendez-vous à la barrière démoniaque.	자나스의 영혼은 영역 지배 마법으로 마족의 결계를 해제하겠다고 합니다. 마족의 결계로 가세요.				
 QUEST_LV_0300_20160811_004384	Une Autre Âme de Zanas	또 다른 자나스의 영혼				
@@ -4396,7 +4396,7 @@ QUEST_LV_0300_20160811_004395	Demander ce dont l'âme de Zanas se souvient.	숨�
 QUEST_LV_0300_20160811_004396	Chercher les Instructions du Dispositif Secret de Kalejimas	칼레이마스의 비밀 장치 설명서 수색				
 QUEST_LV_0300_20160811_004397	L'âme de Zanas se souvient de l'endroit où sont cachées les instructions des dispositifs secrets. Trouvez les instructions du dispositif secret de Kalejimas en éclairant les boîtes de l'entrepôt n° 2 avec la pierre magique turquoise.	숨어있던 자나스의 영혼은 비밀 장치들을 작동하는 방법이 적힌 설명서를 숨겨둔 장소를 기억하고 있었습니다. 제2 보관창고에 있는 상자들에 은은한 녹색 마석의 빛을 비춰서 칼레이마스의 비밀 장치 설명서를 찾아오세요.				
 QUEST_LV_0300_20160811_004398	Vous avez trouvé les instructions du dispositif secret de Kalejimas. Parlez à l'âme de Zanas dans la zone de rassemblement centrale.	칼레이마스의 비밀 장치 설명서를 찾았습니다. 중앙 집결지에 있는 자나스의 영혼에게 돌아가세요.				
-QUEST_LV_0300_20160811_004399	Chercher %s dans la caisse à l'entrepôt n° 2	제2 보관창고의 상자에서 %s 수색				
+QUEST_LV_0300_20160811_004399	Chercher %s dans la caisse à{nl}l'entrepôt n° 2	제2 보관창고의 상자에서 %s 수색				
 QUEST_LV_0300_20160811_004400	Lampe de l'Entrepôt	보관실의 램프				
 QUEST_LV_0300_20160811_004401	Vous avez obtenu les instructions du dispositif secret de Kalejimas. Demandez à l'esprit de Zanas quel dispositif doit être activé.	칼레이마스의 비밀 장치 설명서를 얻었습니다. 어떤 장치를 작동해야 하는지 자나스의 영혼에게 물어보세요.				
 QUEST_LV_0300_20160811_004402	Chercher la Lampe Bleue	푸른 램프 수색				
@@ -4407,14 +4407,14 @@ QUEST_LV_0300_20160811_004406	Récupérer l'huile de la bourse d'huile voisine p
 QUEST_LV_0300_20160811_004407	Comment allumer la lampe bleue : il vous faut une huile spéciale pour allumer la lampe bleue. L'huile nécessaire pour allumer la lampe bleue est toujours à proximité.	푸른 램프 작동법 : 푸른 램프를 밝히려면 특수한 기름이 필요하다. 푸른 램프를 밝히는데 필요한 기름은 항상 푸른 램프 주변에 준비되어 있다.				
 QUEST_LV_0300_20160811_004408	Donner l'Huile de la Lampe Bleue	푸른 램프에 기름 주입				
 QUEST_LV_0300_20160811_004409	Vous avez assez d'huile pour la lampe bleue. Allumez la lampe bleue après l'avoir huilée.	푸른 램프의 기름을 모두 모았습니다. 푸른 램프에 기름을 넣고 불을 밝히세요.				
-QUEST_LV_0300_20160811_004410	Obtenir %s de la bourse d'huile voisine	주변의 기름 주머니에서 %s 획득				
+QUEST_LV_0300_20160811_004410	Obtenir %s de la bourse{nl}d'huile voisine	주변의 기름 주머니에서 %s 획득				
 QUEST_LV_0300_20160811_004411	Vérifier la Lampe Rouge	붉은 램프 확인				
 QUEST_LV_0300_20160811_004412	Vous avez trouvé la lampe rouge. Voyez si vous pouvez l'allumer.	붉은 램프를 찾았습니다. 램프에 불을 켤 수 있는지 살펴보세요.				
 QUEST_LV_0300_20160811_004413	Récupérer l'huile de la lampe rouge en vainquant des monstres	몬스터를 처치해서 붉은 램프의 기름 회수				
 QUEST_LV_0300_20160811_004414	Comment allumer la lampe rouge : il vous faut une huile spéciale pour allumer la lampe rouge. Les monstres aiment l'odeur de l'huile de la lampe rouge.	붉은 램프 작동법 : 붉은 램프를 밝히려면 특수한 기름이 필요하다. 붉은 램프의 기름은 몬스터가 좋아하는 향기가 난다.				
 QUEST_LV_0300_20160811_004415	Donner l'Huile de la Lampe Rouge	붉은 램프에 기름 주입				
 QUEST_LV_0300_20160811_004416	Vous avez rassemblé assez d'huile pour la lampe rouge. Allumez-la après lui avoir donné assez d'huile.	붉은 램프의 기름을 모두 모았습니다. 붉은 램프에 기름을 넣고 불을 밝히세요.				
-QUEST_LV_0300_20160811_004417	Vaincre les monstres alentour pour récupérer %s	주변의 몬스터를 처치해서 %s 회수				
+QUEST_LV_0300_20160811_004417	Vaincre les monstres alentour{nl}pour récupérer %s	주변의 몬스터를 처치해서 %s 회수				
 QUEST_LV_0300_20160811_004418	Vous avez allumé les deux lampes. Retournez voir l'esprit de Zanas et demandez où se trouve la dernière lampe.	두 개의 램프에 불을 밝혔습니다. 자나스의 영혼에게 돌아가서 마지막 램프의 위치를 물어보세요.				
 QUEST_LV_0300_20160811_004419	Activer tous les cercles magiques de la lampe jaune	노란 램프의 모든 마법진 활성화				
 QUEST_LV_0300_20160811_004420	Comment allumer la lampe jaune : vous devez activer tous les cercles magiques pour allumer la lampe jaune. Activez d'abord la lampe jaune pour envoyer de la magie aux cercles magiques et contrôlez-les pour l'activer. Activer un cercle magique affectera les cercles voisins et les allumera ou les éteindra.	노란 램프 작동법 : 노란 램프를 밝히려면 주변에 있는 마법진을 전부 활성화해야 한다. 먼저 노란 램프를 통해 마법진에 마력이 공급되도록 한 뒤 마법진을 조작해서 활성화 시킨다. 단, 마법진을 조작하면 양옆에 있는 마법진도 영향을 받아 활성화되거나 꺼지게 된다.				
@@ -4445,13 +4445,13 @@ QUEST_LV_0300_20160811_004444	Parler à l'esprit de Zanas des informations obten
 QUEST_LV_0300_20160811_004445	Obtenir les sceaux de Grinende en vainquant les démons	마족을 처치해서 그라이넨더의 인장 획득				
 QUEST_LV_0300_20160811_004446	Il semble que vous ayez besoin des sceaux de Grinende pour désamorcer les cercles magiques démoniaques. Vainquez les démons pour obtenir des sceaux de Grinende.	마족이 설치한 마법진을 해제하기 위해서는 그라이넨더의 인장이 필요한 모양입니다. 마족을 처치해서 그라이넨더의 인장을 구하세요.				
 QUEST_LV_0300_20160811_004447	Vous avez obtenu les sceaux de Grinende. Retournez voir l'esprit de Zanas.	그라이넨더의 인장을 구했습니다. 자나스의 영혼에게 돌아가세요.				
-QUEST_LV_0300_20160811_004448	Obtenir %s en vainquant des démons	마족을 처치해서 %s 획득				
+QUEST_LV_0300_20160811_004448	Obtenir %s en vainquant des{nl}démons	마족을 처치해서 %s 획득				
 QUEST_LV_0300_20160811_004449	Mouvement de la Prison	감옥이동				
 QUEST_LV_0300_20160811_004450	Parler à l'esprit de Zanas de la suite maintenant que vous avez obtenu les sceaux de Grinende.	그라이넨더의 인장도 구했으니 이제 어떻게 해야 할지 자나스의 영혼과 이야기해보세요.				
 QUEST_LV_0300_20160811_004451	Obtenir des parchemins de téléportation de Kalejimas dans le dispositif secret de la salle d'attente des prisonniers	죄수 대기실 위쪽에 있는 비밀 장치에서 칼레이마스 공간이동 주문서 획득				
 QUEST_LV_0300_20160811_004452	On dit que les parchemins permettant de se téléporter dans la Prison de Kalejimas se trouvent dans le dispositif secret de la Salle d'attente des prisonniers. Désamorcez le dispositif secret pour obtenir les parchemins de téléportation de Kalejimas.	죄수 대기실 위쪽에 있는 비밀 장치에는 칼레이마스 감옥 내에서 공간이동 마법을 쓸 수 있는 주문서가 숨겨져 있다고 합니다. 비밀 장치를 풀어서 칼레이마스 공간이동 주문서를 얻으세요.				
 QUEST_LV_0300_20160811_004453	Vous avez désamorcé le dispositif secret et obtenu les parchemins de téléportation de Kalejimas. Retournez voir l'esprit de Zanas.	비밀 장치를 풀고 칼레이마스 공간이동 주문서를 얻었습니다. 자나스의 영혼에게 돌아가세요.				
-QUEST_LV_0300_20160811_004454	Obtenir %s du dispositif secret dans la salle d'attente des prisonniers	죄수 대기실 위쪽에 있는 비밀 장치에서 %s 획득				
+QUEST_LV_0300_20160811_004454	Obtenir %s du dispositif secret{nl}dans la salle d'attente des{nl}prisonniers	죄수 대기실 위쪽에 있는 비밀 장치에서 %s 획득				
 QUEST_LV_0300_20160811_004455	Les choses semblent bien se passer. Parlez à l'esprit de Zanas.	일이 순조롭게 풀리고 있는 것 같습니다. 자나스의 영혼과 이야기해보세요.				
 QUEST_LV_0300_20160811_004456	Utiliser le Parchemin de Téléportation de Kalejimas	칼레이마스 공간이동 주문서 사용				
 QUEST_LV_0300_20160811_004457	Se rendre à la cellule des longues peines à l'aide des parchemins de téléportation de Kalejimas.	칼레이마스 공간이동 주문서를 사용해서 장기 복역 수감소로 이동하세요.				
@@ -4482,7 +4482,7 @@ QUEST_LV_0300_20160811_004481	On dit que le roi Kadumel a installé une magie de
 QUEST_LV_0300_20160811_004482	L'Esprit Entravé de Zanas	구속된 자나스의 영혼				
 QUEST_LV_0300_20160811_004483	Obtenir la pierre spirituelle d'entrave en vainquant des monstres	몬스터를 처치해서 속박의 영혼석 획득				
 QUEST_LV_0300_20160811_004484	Vous avez besoin de la pierre spirituelle d'entrave afin de libérer l'esprit de Zanas capturé par les démons. Vainquez les monstres pour les obtenir.	마족에게 잡혀있는 자나스의 영혼을 풀어주기 위해서는 몬스터들이 가지고 있는 속박의 영혼석이 필요합니다. 몬스터를 처치해서 속박의 영혼석을 획득하세요.				
-QUEST_LV_0300_20160811_004485	Obtenir %s en vainquant des monstres	몬스터를 처치해서 %s 획득				
+QUEST_LV_0300_20160811_004485	Obtenir %s en vainquant des{nl}monstres	몬스터를 처치해서 %s 획득				
 QUEST_LV_0300_20160811_004486	Secourir l'esprit de Zanas en désamorçant le cercle magique d'entrave	속박 마법진을 해제하여 자나스의 영혼 구출				
 QUEST_LV_0300_20160811_004487	Vous avez obtenu assez de pierres spirituelles. Trouvez et désamorcez le cercle magique d'entrave pour libérer l'esprit de Zanas.	속박의 영혼석을 모두 모았습니다. 감시탑에 속박되어 있는 자나스의 영혼을 찾아 속박 마법진을 해제하세요.				
 QUEST_LV_0300_20160811_004488	Parler à l'esprit de Zanas désormais libre	풀려난 자나스의 영혼과 대화				
@@ -4552,7 +4552,7 @@ QUEST_LV_0300_20160811_004551	Obtenir le joyau bleu du roi après avoir vaincu N
 QUEST_LV_0300_20160811_004552	L'esprit de Zanas s'est sacrifié pour détruire la barrière du démon. Obtenez le joyau du roi après avoir vaincu Nebulas afin que ce sacrifice ne soit pas vain.	자나스의 영혼은 자기 자신을 희생하여 마족의 결계를 파괴했습니다. 그의 희생이 헛되지 않도록 네뷸라스를 처치하고 마지막 왕의 보석을 손에 넣으세요.				
 QUEST_LV_0300_20160811_004553	Obtenir la révélation dans le dispositif secret du confessionnal	참회실에 있는 비밀 장치에서 계시 획득				
 QUEST_LV_0300_20160811_004554	Vous avez vaincu Nebulas et obtenu le joyau bleu du roi. Obtenez la révélation dans le dispositif secret du confessionnal.	네뷸라스를 처치하고 왕의 푸른 보석까지 얻었습니다. 참회실에 있는 비밀 장치에서 계시를 획득하세요.				
-QUEST_LV_0300_20160811_004555	Obtenir %s en vainquant des Nébuleuses	네뷸라스를 처치해서 %s 획득				
+QUEST_LV_0300_20160811_004555	Obtenir %s en vainquant des{nl}Nébuleuses	네뷸라스를 처치해서 %s 획득				
 QUEST_LV_0300_20160811_004556	Vérifier les Inscriptions sur le Mur	벽의 낙서 확인				
 QUEST_LV_0300_20160811_004557	Il y a quelque chose d'écrit sur une cellule près de la salle d'attente. Lisez-le et voyez ce qu'il dit.	접견 대기실 근처 수용실에 무언가 적혀있습니다. 무슨 내용인지 확인해보세요.				
 QUEST_LV_0300_20160811_004558	Vérifier l'emplacement indiqué par les inscriptions sur le mur	벽의 낙서가 가리키는 장소 확인				
@@ -4598,7 +4598,7 @@ QUEST_LV_0300_20160811_004597	Vous avez rassemblé assez d'herbes de Barha. Hât
 QUEST_LV_0300_20160811_004598	Vaincre les Grand Griba rouge pour obtenir du jus de Griba	붉은 빅 그리바를 처치해서 그리바의 미끈한 즙 획득				
 QUEST_LV_0300_20160811_004599	Il vous faut aussi du jus de Griba pour fabriquer l'antidote. Vainquez des Grand Griba rouge pour récolter du jus de Griba.	해독제를 만들기 위해서는 그리바의 미끈한 즙도 필요하다고 합니다. 붉은 빅 그리바를 처치해서 그리바의 미끈한 즙을 모으세요.				
 QUEST_LV_0300_20160811_004600	Vous avez rassemblé tout le jus de Griba requis. Retournez voir Adas.	그리바의 미끈한 즙을 모두 모았습니다. 에이다스에게 돌아가세요.				
-QUEST_LV_0300_20160811_004601	Vaincre le Grand Griba rouge et obtenir %s	붉은 빅 그리바를 처치해서 %s 획득				
+QUEST_LV_0300_20160811_004601	Vaincre le Grand Griba rouge{nl}et obtenir %s	붉은 빅 그리바를 처치해서 %s 획득				
 QUEST_LV_0300_20160811_004602	Vous avez rassemblé tous les ingrédients de l'antidote. Demandez à Adas comment fabriquer l'antidote.	해독제의 재료는 모두 모았습니다. 이제 에이다스에게 해독제를 만드는 방법을 물어보세요.				
 QUEST_LV_0300_20160811_004603	Mélanger les Ingrédients de l'Antidote	해독제 재료 가공				
 QUEST_LV_0300_20160811_004604	Vous pouvez fabriquer un antidote à l'aide du matériel de recherche ci-dessous. Utilisez le matériel fumant de gauche pour traiter les herbes de Barha et celui de droite pour traiter le jus de Griba avant de fabriquer l'antidote sur la table d'alchimie au milieu.	해독제는 아래쪽에 있는 연구용 시약 제조기를 이용해서 만들 수 있다고 합니다. 연기가 나는 왼쪽 제조기로 바르하의 허브를 가공하고 오른쪽 제조기로 그리바의 미끈한 즙을 가공한 뒤 가운데 있는 연금술 탁자에서 해독제를 제작하세요.				
@@ -4629,7 +4629,7 @@ QUEST_LV_0300_20160811_004628	Vaincre les Rafflesia verte pour obtenir de la Raf
 QUEST_LV_0300_20160811_004629	D'après la combinaison et le matériel de recherche de Sarma, il vous faut de la sève collante de Rafflesia pour renforcer l'antidote. Vainquez les Rafflesia verte et obtenez de la sève collante de Rafflesia.	조합식과 사르마의 연구자료에 따르면 해독제를 강화하기 위해 라플레시아의 끈적한 수액이 필요한 모양입니다. 초록 라플레시아를 처치해서 라플레시아의 끈적한 수액을 구하세요.				
 QUEST_LV_0300_20160811_004630	Parler à la Chercheuse Sireah	연구원 시레아와 대화				
 QUEST_LV_0300_20160811_004631	Vous pouvez maintenant renforcer l'antidote avec de la Sève de Rafflesia collante. Allez chercher la chercheuse Sireah.	라플레시아의 끈적한 수액을 모두 모아 이제 해독제를 강화할 수 있습니다. 비드가 말한 연구원 시레아를 찾아가세요.				
-QUEST_LV_0300_20160811_004632	Obtenir %s en vainquant des Rafflesia verte	초록 라플레시아를 처치해서 %s 획득				
+QUEST_LV_0300_20160811_004632	Obtenir %s en vainquant des{nl}Rafflesia verte	초록 라플레시아를 처치해서 %s 획득				
 QUEST_LV_0300_20160811_004633	Fabriquer un Antidote Renforcé Avec la Chercheuse Sireah	연구원 시레아를 통해 강화된 해독제 제조				
 QUEST_LV_0300_20160811_004634	Demander à la chercheuse Sireah de renforcer l'antidote.	연구원 시레아에게 해독제 강화를 부탁하세요.				
 QUEST_LV_0300_20160811_004635	Purifier le Sol Empoisonné Avec l'Antidote Renforcé	강화된 해독제로 독지대 해독				
@@ -4668,12 +4668,12 @@ QUEST_LV_0300_20160811_004667	Le vieux pèlerin Jacob est assis dans un coin afi
 QUEST_LV_0300_20160811_004668	Trouver le bagage perdu de Jacob sur les Tini à Étendue sauvage de Rjudin	리우딘 황야의 티니에게서 제이콥의 잃어버린 짐을 찾기				
 QUEST_LV_0300_20160811_004669	Jacob dit qu'il a perdu son bagage quand les Tini l'ont attaqué. Vainquez les Tini d'Étendue sauvage de Rjudin et cherchez le Tini qui a pris son bagage.	제이콥은 티니의 습격을 받아 가지고 있던 짐을 빼앗겼다고 합니다. 리우딘 황야의 티니를 처치하고 짐을 빼앗아간 티니를 찾아보세요.				
 QUEST_LV_0300_20160811_004670	Vous avez récupéré le bagage de Jacob. Rendez-le-lui.	제이콥의 짐을 되찾았습니다. 그에게 짐을 돌려주세요.				
-QUEST_LV_0300_20160811_004671	Fouiller les Tini pour trouver %s	티니로부터 %s 수색				
+QUEST_LV_0300_20160811_004671	Fouiller les Tini pour trouver{nl}%s	티니로부터 %s 수색				
 QUEST_LV_0300_20160811_004672	Le pèlerin Jacob semble toujours incapable de partir malgré la récupération de son bagage. Demandez-lui si vous pouvez aider.	순례자 제이콥은 짐을 되찾았지만 아직 길을 떠날 수 없는 것 같습니다. 그를 도울 방법이 있는지 대화해 보세요.				
 QUEST_LV_0300_20160811_004673	Trouver une Branche Solide	튼튼한 나뭇가지 구하기				
 QUEST_LV_0300_20160811_004674	Jacob dit qu'il a besoin d'une canne pour partir à cause de ses blessures. Voyez s'il y a une branche alentour qui pourrait servir de canne.	제이콥은 부상을 입어 지팡이를 짚고 나서야 움직일 수 있을 것 같다고 합니다. 근처에서 지팡이로 쓸만한 나뭇가지를 찾아 보세요.				
 QUEST_LV_0300_20160811_004675	Vous avez trouvé une branche convenable. Donnez-la à Jacob.	적당한 나뭇가지를 찾은 것 같습니다. 제이콥에게 지팡이를 들려 주세요.				
-QUEST_LV_0300_20160811_004676	Trouver un %s qui puisse servir de canne	지팡이로 쓸 만한 %s 수집				
+QUEST_LV_0300_20160811_004676	Trouver un %s qui puisse{nl}servir de canne	지팡이로 쓸 만한 %s 수집				
 QUEST_LV_0300_20160811_004677	Le pèlerin Jacob s'est enfin remis sur pied mais semble encore craindre les monstres. Parlez-lui.	순례자 제이콥은 이제 간신히 일어설 수 있게 되었지만 몬스터들이 두려운 것 같습니다. 그와 대화해보세요.				
 QUEST_LV_0300_20160811_004678	Aller avec le pèlerin Jacob vers la Forêt de Salvia	순례자 제이콥과 함께 살비야스 숲 방면으로 이동				
 QUEST_LV_0300_20160811_004679	Jacob a demandé au Révélateur de l'accompagner jusqu'à un bâtiment près de la Forêt de Salvia. Escortez-le jusqu'à ce bâtiment.	제이콥은 살비야스 숲 방면에 있는 건물까지 계시자가 동행해 줄 것을 요청했습니다. 그를 호위하며 살비야스 숲 방면으로 가세요.				
@@ -4692,7 +4692,7 @@ QUEST_LV_0300_20160811_004691	Le pèlerin Jacob souhaite s'assurer que son ami a
 QUEST_LV_0300_20160811_004692	Récolter du Bois de Chauffage à Terrain Vague de Vabalas	바발라스 공터에서 땔감용 나무 수집				
 QUEST_LV_0300_20160811_004693	Le pèlerin Jacob essaie d'allumer un feu pour réchauffer le moine. Récoltez du bois au Terrain vague de Vabalas.	순례자 제이콥은 모닥불을 피워 수도사를 따뜻하게 해주려 합니다. 바발라스 공터에 있는 땔감용 나무들을 수집하세요.				
 QUEST_LV_0300_20160811_004694	Vous avez assez de bois pour allumer un feu. Retournez voir Jacob.	장작으로 쓸만한 나무가 충분히 모였습니다. 제이콥에게 돌아가세요.				
-QUEST_LV_0300_20160811_004695	Récolter %s à Terrain vague de Vabalas	바발라스 공터에서 %s 수집				
+QUEST_LV_0300_20160811_004695	Récolter %s à Terrain vague de{nl}Vabalas	바발라스 공터에서 %s 수집				
 QUEST_LV_0300_20160811_004696	Interroger le pèlerin Jacob sur l'état de son ami le moine Ethan.	순례자 제이콥에게 친구인 수도사 에단의 상태를 물어보세요.				
 QUEST_LV_0300_20160811_004697	Parler au Moine Ethan	수도사 에단과 대화				
 QUEST_LV_0300_20160811_004698	Le moine Ethan semble avoir repris conscience. Parlez-lui pour savoir ce qui s'est passé.	수도사 에단이 정신을 차린 것 같습니다. 그와 대화하여 자초지종을 물어보세요.				
@@ -4712,7 +4712,7 @@ QUEST_LV_0300_20160811_004711	La pèlerine Diane est étendue au sol et appelle 
 QUEST_LV_0300_20160811_004712	Récolter des baies sur les Ronces Salvia	살비야스 덤불의 열매를 모으기				
 QUEST_LV_0300_20160811_004713	Diane semble affamée. Récoltez des baies sur les Ronces Salvia voisins.	다이앤은 극심한 허기를 호소하고 있습니다. 근처에서 살비야스 덤불의 열매를 모으세요.				
 QUEST_LV_0300_20160811_004714	Vous avez récolté plus qu'assez de baies pour une personne. Apportez-les à Diane.	한 사람이 먹고도 남을 만큼의 열매를 모았습니다. 다이앤에게 가져다 주세요.				
-QUEST_LV_0300_20160811_004715	Récolter %s sur les Ronces Salvia	살비야스 덤불에서 %s 수집				
+QUEST_LV_0300_20160811_004715	Récolter %s sur les Ronces{nl}Salvia	살비야스 덤불에서 %s 수집				
 QUEST_LV_0300_20160811_004716	Parler au Pèlerin Barry	순례자 배리와 대화				
 QUEST_LV_0300_20160811_004717	Le pèlerin Barry semble terrifié. Parlez-lui pour tenter de le calmer.	순례자 배리는 매우 겁에 질려 있는 것 같습니다. 그와 대화하여 그를 안심시킬 방법을 찾아 보세요.				
 QUEST_LV_0300_20160811_004718	Vaincre les monstres près du pèlerin Barry	순례자 배리 근처의 몬스터 처치				
@@ -4762,7 +4762,7 @@ QUEST_LV_0300_20160811_004761	David semble douter que Dorma soit vraiment moine.
 QUEST_LV_0300_20160811_004762	Trouver un moyen pour Dorma de prouver qu'elle est moine	도르마가 수도사임을 증명할 방법 찾기				
 QUEST_LV_0300_20160811_004763	La moine Dorma dit qu'elle pourra prouver qu'elle est une moine si vous retrouvez son chapelet. Cherchez son chapelet qui devrait se trouver quelque part sur la Route forestière de Deveera.	수도사 도르마는 자신의 묵주를 찾는다면 자신이 수도사임을 증명할 수 있을 것이라고 합니다. 데비라 숲길에 떨어져 있을 묵주를 찾아 보세요.				
 QUEST_LV_0300_20160811_004764	Vous avez trouvé le chapelet de Dorma. Montrez-le au pèlerin David.	도르마의 묵주를 찾아내는 데 성공했습니다. 순례자 데이비드에게 묵주를 보여주세요.				
-QUEST_LV_0300_20160811_004765	Chercher %s à la Route forestière de Deveera	데비라 숲길에서 %s 수색				
+QUEST_LV_0300_20160811_004765	Chercher %s à la Route{nl}forestière de Deveera	데비라 숲길에서 %s 수색				
 QUEST_LV_0300_20160811_004766	Parler au Pèlerin Eli	순례자 일라이와 대화				
 QUEST_LV_0300_20160811_004767	Le pèlerin Eli semble être la première personne à avoir été témoin de la scène. Demandez-lui ce qu'il soupçonne.	순례자 일라이는 현장을 최초로 본 사람이라고 합니다. 그가 의심하고 있는 바를 물어보세요.				
 QUEST_LV_0300_20160811_004768	Le pèlerin Eli semble trouver suspect que la moine Dorma tenait une arme ensanglantée. Demandez à la moine Dorma ce qui s'est passé.	순례자 일라이는 수도사 도르마가 피 묻은 흉기를 들고 있었던 상황 자체가 의심스러운 모양입니다. 수도사 도르마에게 어찌된 영문인지 물어보세요.				
@@ -4818,7 +4818,7 @@ QUEST_LV_0300_20160811_004817	La moine Stella semble avoir l'intention de démas
 QUEST_LV_0300_20160811_004818	Trouver l'équipement magique sur la tombe du moine	수도사에 무덤에서 마법 도구 찾기				
 QUEST_LV_0300_20160811_004819	Stella dit que vous devriez chercher un orbe ou des miroirs parmi les souvenirs des tombes des moines qui ont combattu des démons par le passé. Trouvez laquelle des quatre tombes du Cimetière de Ketra est celle du moine.	스텔라는 예전에 마족과 싸우던 수도사의 유품을 묻은 무덤이 있다며 그곳에서 보주나 거울을 찾아보라고 합니다. 케트라 묘지의 네 무덤 중 수도사의 무덤을 발견하세요.				
 QUEST_LV_0300_20160811_004820	L'orbe semble brisé, mais vous avez trouvé un miroir intact. Apportez le miroir à Stella.	보주는 깨져 있었지만 온전한 상태의 거울을 찾을 수 있었습니다. 스텔라에게 거울을 가져다 주세요.				
-QUEST_LV_0300_20160811_004821	Trouver le Souvenir du Moine au Cimetière de Ketra	케트라 묘지에서 수도사의 유품 찾기				
+QUEST_LV_0300_20160811_004821	Trouver le Souvenir du Moine{nl}au Cimetière de Ketra	케트라 묘지에서 수도사의 유품 찾기				
 QUEST_LV_0300_20160811_004822	Il ne semble pas possible d'utiliser le miroir dans son état actuel. Demandez à la moine Stella comment vous devriez utiliser le miroir.	구해온 거울은 이대로는 바로 사용할 수 없는 것 같습니다. 수도사 스텔라에게 거울을 사용할 수 있는 방법을 물어보세요.				
 QUEST_LV_0300_20160811_004823	Remplir le miroir de l'énergie vitale des monstres	몬스터의 생명력으로 거울의 마력을 채우기				
 QUEST_LV_0300_20160811_004824	Stella dit que le miroir devrait absorber la magie des monstres si vous les vainquez. Vainquez les monstres des environs et remplissez le miroir de vérité de magie.	스텔라는 몬스터를 해치우면 거울이 알아서 몬스터의 마력을 흡수할 것이라고 합니다. 주변의 몬스터를 해치우고 진실의 거울에 마력을 채우세요.				
@@ -4853,7 +4853,7 @@ QUEST_LV_0300_20160811_004852	Récupérer la Sève de l'Arbre Oasseu	오아쓰 �
 QUEST_LV_0300_20160811_004853	Stella vous a demandé de détruire aussi le dispositif aux Champs de Rijekavi. Rendez-vous-y après avoir obtenu de la sève de l'arbre Oasseu.	스텔라는 리에카비 벌판의 장치도 파괴해 줄 것을 부탁했습니다. 오아쓰 나무의 수액을 떠서 준비를 갖추세요.				
 QUEST_LV_0300_20160811_004854	Parler au Moine Mattas	수도사 마타스와 대화				
 QUEST_LV_0300_20160811_004855	Vous êtes prêt à détruire le dispositif. Rendez-vous au dispositif d'étouffement du pouvoir divin aux Champs de Rijekavi.	장치를 파괴할 준비를 갖추었습니다. 리에카비 벌판의 신성력 억제 장치로 가세요.				
-QUEST_LV_0300_20160811_004856	Se rendre aux Champs de Rijekavi après avoir préparé %s	%s을 준비한 뒤 리에카비 벌판으로 가기				
+QUEST_LV_0300_20160811_004856	Se rendre aux Champs de{nl}Rijekavi après avoir préparé{nl}%s	%s을 준비한 뒤 리에카비 벌판으로 가기				
 QUEST_LV_0300_20160811_004857	Le moine Mattas vous empêche de détruire le dispositif d'étouffement du pouvoir divin. Parlez-lui et essayez de trouver un moyen de le convaincre.	수도사 마타스는 신성력 억제 장치를 파괴하지 못하게 막고 있습니다. 그와 대화하여 설득할 방법을 찾아 보세요.				
 QUEST_LV_0300_20160811_004858	Conduire Mattas à Stella	마타스를 스텔라에게 데려다주기				
 QUEST_LV_0300_20160811_004859	Mattas ne croit pas que la moine Stella soit en vie. Conduisez-le à elle.	마타스는 수도사 스텔라가 살아있다는 사실을 믿지 않고 있습니다. 그를 그녀에게 데려다 주세요.				
@@ -4867,7 +4867,7 @@ QUEST_LV_0300_20160811_004866	Récolter la sève de l'arbre Oasseu après avoir 
 QUEST_LV_0300_20160811_004867	Stella vous a donné un parchemin en vous demandant d'amplifier le dispositif de la Colline de Krasjia au lieu de le détruire. Parlez-en au moine Mattas car cela ne semble pas normal.	스텔라는 크라샤 언덕의 장치는 파괴가 아니라 신성력 증폭 장치로 바꾸라며 어느 스크롤을 주었습니다. 무언가 느낌이 좋지 않으니 수도사 마타스와 상의해 보세요.				
 QUEST_LV_0300_20160811_004868	Utiliser le parchemin sur le dispositif à Collines de Krasjia	크라샤 언덕의 장치에 스크롤 사용				
 QUEST_LV_0300_20160811_004869	Mattas vous a averti de vous préparer au pire. Maintenant que vous avez la sève de l'arbre Oasseu, rendez-vous sur la Colline de Krasjia et utilisez le parchemin sur le dispositif comme Stella l'a demandé.	마타스는 만일의 사태에 대비를 갖추고 가라고 조언해 주었습니다. 오아쓰 나무의 수액도 챙겼으니 스텔라의 말대로 크라샤 언덕으로 가 장치에 스크롤을 사용해 보세요.				
-QUEST_LV_0300_20160811_004870	Préparer la sève de l'arbre Oasseu après en avoir discuté avec le moine Mattas avant d'aller examiner le dispositif à la Colline de Krasjia	수도사 마타스와 상의 후 오아쓰 나무의 수액을 준비하여 크라샤 언덕의 장치 조사				
+QUEST_LV_0300_20160811_004870	Préparer la sève de l'arbre{nl}Oasseu après en avoir discuté{nl}avec le moine Mattas avant{nl}d'aller examiner le dispositif à{nl}la Colline de Krasjia	수도사 마타스와 상의 후 오아쓰 나무의 수액을 준비하여 크라샤 언덕의 장치 조사				
 QUEST_LV_0300_20160811_004871	Utiliser le parchemin sur le dispositif d'étouffement du pouvoir divin	신성력 억제 장치에 스크롤 사용하기				
 QUEST_LV_0300_20160811_004872	Utiliser le parchemin sur le dispositif à la Colline de Krasjia	크라샤 언덕의 장치에 스크롤을 사용해 보세요.				
 QUEST_LV_0300_20160811_004873	Vaincre les démons invoqués par Medea	메데야가 불러낸 마족들 처치				
@@ -4884,7 +4884,7 @@ QUEST_LV_0300_20160811_004883	Secourir la Moine Stella	수도사 스텔라 구�
 QUEST_LV_0300_20160811_004884	La moine Stella est retenue à gauche de Croisement de Stjeva. Hâtez-vous d'y aller et de la sauver.	수도사 스텔라는 스티에바 사거리 왼쪽 공터에 잡혀 있다고 합니다. 서둘러 그녀를 구출해 주세요.				
 QUEST_LV_0300_20160811_004885	Vous avez réussi à secourir Stella. Demandez-lui si elle va bien.	스텔라를 무사히 구해내는 데 성공하였습니다. 그녀의 상태는 괜찮은지 물어 보세요.				
 QUEST_LV_0300_20160811_004886	La moine Stella semble avoir trouvé un moyen plus sûr d'entraver l'officier supérieur Medea avant son départ. Parlez-lui.	수도사 스텔라는 떠나기 전 간부 메데야를 좀 더 확실히 구속할 방법을 찾는 것 같습니다. 그녀와 대화해 보세요.				
-QUEST_LV_0300_20160811_004887	Récolter les Fragments du Dispositif d'Étouffement du Pouvoir Divin	신성력 억제 장치의 파편 수집				
+QUEST_LV_0300_20160811_004887	Récolter les Fragments du{nl}Dispositif d'Étouffement du{nl}Pouvoir Divin	신성력 억제 장치의 파편 수집				
 QUEST_LV_0300_20160811_004888	Stella souhaite entraver Medea avec un cercle magique mais dit qu'elle n'a pas assez de force. Récoltez les fragments du dispositif d'étouffement du pouvoir divin, qui devraient encore contenir de l'énergie, à la Tombe de l'ermite, aux Champs de Rijekavi et sur la Colline de Krasjia. Vous trouverez deux fragments par endroit.	스텔라는 마법진으로 메데야를 속박하고자 하지만 힘이 부족하다고 합니다. 아직 힘이 남아 있을 신성력 억제 장치의 파편들을 은자의 무덤, 리에카비 벌판, 크라샤 언덕에서 모아주세요. 파편은 각 장소에서 두 개씩 모을 수 있습니다.				
 QUEST_LV_0300_20160811_004889	Vous avez récolté tous les fragments. Retournez voir Stella et donnez-lui les fragments.	모든 파편들을 모았습니다. 스텔라에게 돌아가 파편들을 건네 주세요.				
 QUEST_LV_0300_20160811_004890	Examiner la Pierre Tombale du Moine sans Nom	무명수도사의 묘비를 조사				
@@ -4939,7 +4939,7 @@ QUEST_LV_0300_20160811_004938	Vous avez vaincu un grand nombre de démons traîn
 QUEST_LV_0300_20160811_004939	Vaincre les Nuo rouge restants	남아있는 붉은 누오 처치				
 QUEST_LV_0300_20160811_004940	Il pourrait y avoir des informations importantes dans ces notes. Il a perdu les notes en direction{nl}du Site de récolte du jus, essayez donc de fouiller cette zone d'abord.{nl}	어쩌면 그 일지 안에 중요한 정보가 들어 있을지도 몰라요.{nl}과즙 채집장에서 잃어버렸으니 그쪽을 찾아 주세요.{nl}	QUEST_LV_0300_20160310_001011	Il pourrait y avoir des informations importantes dans ces notes. Il a perdu les notes en direction{nl}du Site de récolte du jus, essayez donc de fouiller cette zone d'abord.{nl}	어쩌면 그 일지 안에 중요한 정보가 들어 있을지도 몰라요.{nl}과즙 채집장에서 잃어버렸으니 그 쪽을 찾아 주세요.{nl}	가트레
 QUEST_LV_0300_20160811_004941	Il faudrait un sérieux talent pour faire ces entailles. Et pour manier une énergie maléfique aussi{nl}puissante.{nl}	이만한 칼자국을 남기다니 보통 솜씨는 아니로군.{nl}이렇게 강력하고도 사악한 기운을 다루는 점도 말야.{nl}	QUEST_LV_0300_20160718_002339	Il faudrait un sérieux talent pour faire ces entailles. Et pour manier une énergie maléfique aussi{nl}puissante.{nl}	이 만한 칼자국을 남기다니 보통 솜씨는 아니로군.{nl}이렇게 강력하고도 사악한 기운을 다루는 점도 말야.{nl}	딥디르비 아젤
-QUEST_LV_0300_20160925_004942	Je savais bien quel destin attendait Zanas... Et je savais qu'il était lui-même prêt à l'accepter,{nl}pourtant je n'avais d'autre choix que de lui confier la Révélation. Le pouvoir qui a mené Zanas,{nl}un simple garçon, jusqu'à la Révélation... Son dernier souffle, sa dernière prière... n'étaient que{nl}pour votre salut et celui de notre monde. On se souviendra de lui aussi longtemps que je vivrai.{nl}	자나스의 운명을 알면서도.. {nl}그가 그 운명을 받아들일 것을 알면서도 전 그에게 계시를 맡길 수밖에 없었습니다.{nl}평범했던 그가 그대를 이 계시에게까지 이끌 수 있었던 힘을..{nl}그의 마지막 숨이, 마지막 기도가 오로지 당신과 이 세계의 구원을 위한 것임을..{nl}영원토록 제 가슴에 새겨 절대 잊지 않을 것입니다.{nl}	QUEST_LV_0300_20160811_003394	Je savais bien quel destin attendait Zanas... Et je savais qu'il était lui-même prêt à l'accepter,{nl}pourtant je n'avais d'autre choix que de lui confier la Révélation. Le pouvoir qui a mené Zanas,{nl}un simple garçon, jusqu'à la Révélation... Son dernier souffle, sa dernière prière... n'étaient que{nl}pour votre salut et celui de notre monde. On se souviendra de lui aussi longtemps que je vivrai.{nl}	자나스의 운명을 알면서도.. {nl}그가 그 운명을 받아들일 것을 알면서도 전 그에게 계시를 맡길 수 밖에 없었습니다.{nl}평범했던 그가 그대를 이 계시에게까지 이끌 수 있었던 힘을..{nl}그의 마지막 숨이, 마지막 기도가 오로지 당신과 이 세계의 구원을 위한 것임을..{nl}영원토록 제 가슴에 새겨 절대 잊지 않을 것입니다.{nl}	칼레이마스 감옥의 계시
+QUEST_LV_0300_20160925_004942	Je savais bien quel destin{nl}attendait Zanas...{nl}Et je savais qu'il était lui-même{nl}prêt à l'accepter, pourtant je{nl}n'avais d'autre choix que de lui{nl}confier la Révélation.{nl}Le pouvoir qui a mené Zanas, un{nl}simple garçon, jusqu'à la{nl}Révélation...{nl}Son dernier souffle, sa dernière{nl}prière... n'étaient que pour votre{nl}salut et celui de notre monde.{nl}On se souviendra de lui aussi{nl}longtemps que je vivrai.{nl}	자나스의 운명을 알면서도.. {nl}그가 그 운명을 받아들일 것을 알면서도 전 그에게 계시를 맡길 수밖에 없었습니다.{nl}평범했던 그가 그대를 이 계시에게까지 이끌 수 있었던 힘을..{nl}그의 마지막 숨이, 마지막 기도가 오로지 당신과 이 세계의 구원을 위한 것임을..{nl}영원토록 제 가슴에 새겨 절대 잊지 않을 것입니다.{nl}	QUEST_LV_0300_20160811_003394	Je savais bien quel destin{nl}attendait Zanas...{nl}Et je savais qu'il était lui-même{nl}prêt à l'accepter, pourtant je{nl}n'avais d'autre choix que de lui{nl}confier la Révélation.{nl}Le pouvoir qui a mené Zanas, un{nl}simple garçon, jusqu'à la{nl}Révélation...{nl}Son dernier souffle, sa dernière{nl}prière... n'étaient que pour votre{nl}salut et celui de notre monde.{nl}On se souviendra de lui aussi{nl}longtemps que je vivrai.{nl}	자나스의 운명을 알면서도.. {nl}그가 그 운명을 받아들일 것을 알면서도 전 그에게 계시를 맡길 수 밖에 없었습니다.{nl}평범했던 그가 그대를 이 계시에게까지 이끌 수 있었던 힘을..{nl}그의 마지막 숨이, 마지막 기도가 오로지 당신과 이 세계의 구원을 위한 것임을..{nl}영원토록 제 가슴에 새겨 절대 잊지 않을 것입니다.{nl}	칼레이마스 감옥의 계시
 QUEST_LV_0300_20160925_004943	Nous étions déterminés à refuser quand les démons ont proposé de nous donner des provisions{nl}en échange du meurtre du Révélateur, mais quand ils ont menacé de nous tuer si nous ne le{nl}faisions pas, nous n'avons eu d'autre choix que d'obéir.	마족이 저희에게 보급품을 지원해주는 대신 계시자로 보이는 자를 죽이라고 했을 때 완강하게 거절하려고 했지만 자신들의 지시를 따르지 않으면 죽이겠다고 협박 했을 때 그들의 지시를 따를 수밖에 없었습니다.	QUEST_LV_0300_20160718_002270	Nous étions déterminés à refuser quand les démons ont proposé de nous donner des provisions{nl}en échange du meurtre du Révélateur, mais quand ils ont menacé de nous tuer si nous ne le{nl}faisions pas, nous n'avons eu d'autre choix que d'obéir.	마족이 저희에게 보급품을 지원해주는 대신 계시자로 보이는 자를 죽이라고 했을 때 완강하게 거절하려고 했지만 자신들의 지시를 따르지 않으면 죽이겠다고 협박 했을 때 그들의 지시를 따를 수 밖에 없었습니다.	보급병 해른타스
 QUEST_LV_0300_20160925_004944	Je compte élaborer diverses recettes à partir des écorces. Chaque fois que je mange de la viande,{nl}mes gencives se mettent à saigner et je me sens affaibli.	그 껍질로 여러 가지 레시피를 개발해 볼 생각입니다.{nl}고기만 먹으면 잇몸에서 피가 나고 기력이 쇠약해지거든요.	QUEST_LV_0200_20151001_009473	Je compte élaborer diverses recettes à partir des écorces. Chaque fois que je mange de la viande,{nl}mes gencives se mettent à saigner et je me sens affaibli.	그 껍질로 여러가지 레시피를 개발해 볼 생각입니다.{nl}고기만 먹으면 잇몸에서 피가 나고 기력이 쇠약해지거든요.	마법사 호라스
 QUEST_LV_0300_20160925_004945	{nl}Je ne peux m'empêcher de douter de son innocence. Pourquoi étaient-ils ici et où était-il au{nl}moment du meurtre.	{nl}저 분이 왜 여기에 와 계신지, 동료분이 살해당하는 동안 왜 자리를 비우셨는지.{nl}그 사실들을 밝히지 못하신다면 저 분을 의심할 수밖에요.	QUEST_LV_0300_20160811_003725	{nl}Je ne peux m'empêcher de douter de son innocence. Pourquoi étaient-ils ici et où était-il au{nl}moment du meurtre.	{nl}저 분이 왜 여기에 와 계신지, 동료분이 살해당하는 동안 왜 자리를 비우셨는지.{nl}그 사실들을 밝히지 못하신다면 저 분을 의심할 수 밖에요.	순례자 조지
@@ -6867,7 +6867,7 @@ QUEST_LV_0300_20161005_006866	Fabriquer quelque chose qui puisse briser le coffr
 QUEST_LV_0300_20161005_006867	Vous ne pouvez pas ouvrir le coffre. Rassemblez le tas de bric-à-brac dans la Zone de sécurité commune pour fabriquer un marteau.	자재 보관함이 잠겨있어 열 수 없습니다. 자재 보관함을 부술 수 있도록 공동 정비 구역에서 잡동사니를 모아 망치를 만드세요.				
 QUEST_LV_0300_20161005_006868	Détruire le Coffre de Stockage des Matériaux	자재 보관함 파괴				
 QUEST_LV_0300_20161005_006869	Défoncer le coffre et prendre l'œil magique.	망치로 자재 보관함을 파괴하고 마력의 눈을 획득하세요.				
-QUEST_LV_0300_20161005_006870	Fabriquer %s après avoir trouvé la Bille d'acier et le Bâton en bois	쇠뭉치와 나무 막대를 찾아 %s 제작				
+QUEST_LV_0300_20161005_006870	Fabriquer %s après avoir{nl}trouvé la Bille d'acier et le{nl}Bâton en bois	쇠뭉치와 나무 막대를 찾아 %s 제작				
 QUEST_LV_0300_20161005_006871	Vérifier le département de maintenance des cercles magiques	마법진 관리부 확인				
 QUEST_LV_0300_20161005_006872	À côté du noyau magique se trouve le département de maintenance des cercles magiques. Vérifiez son contenu.	마력의 핵이 있던 보관함에는 마법진 관리부도 함께 들어있었습니다. 무슨 내용이 적혀있는지 확인해보세요.				
 QUEST_LV_0300_20161005_006873	Se rendre au cercle magique	마법진으로 이동				
@@ -6905,7 +6905,7 @@ QUEST_LV_0300_20161005_006904	Fouiller la salle de commandement pour trouver les
 QUEST_LV_0300_20161005_006905	Chercher les documents dont Kupole Liepa a parlé.	사령실에서 큐폴 리에파가 말한 자료를 찾아보세요.				
 QUEST_LV_0300_20161005_006906	Livrer à Kupole Liepa	큐폴 리에파에게 전달				
 QUEST_LV_0300_20161005_006907	Vous avez obtenu les documents de maintenance de Quartier du mur intérieur 9. Donnez-les à Kupole Liepa.	내성벽 제 9구역 관리문서를 찾았습니다. 큐폴 리에파에게 가져다주세요.				
-QUEST_LV_0300_20161005_006908	Chercher %s dans la salle de commandement	사령실에서 %s 수색				
+QUEST_LV_0300_20161005_006908	Chercher %s dans la salle de{nl}commandement	사령실에서 %s 수색				
 QUEST_LV_0300_20161005_006909	Kupole Liepa lit les documents de maintenance. Demandez ce que Liepa a trouvé.	큐폴 리에파는 관리문서를 읽어보고 있습니다. 뭔가 알아낸 것이 있는지 한번 물어보세요.				
 QUEST_LV_0300_20161005_006910	Examiner la Salle d'Administration	관리실 조사				
 QUEST_LV_0300_20161005_006911	Kupole Liepa dit qu'il nous faut le parchemin de projection qui se trouvait dans la salle de gestion. Pendant que Kupole Liepa trie les documents, inspectez la salle de gestion et trouvez le parchemin de projection.	큐폴 리에파는 관리실에 보관하고 있었다는 투영의 마법 주문서가 필요하다고 합니다. 큐폴 리에파가 관리문서를 정리하는 동안 관리실을 수색해서 투영의 마법 주문서를 찾으세요.				
@@ -6940,7 +6940,7 @@ QUEST_LV_0300_20161005_006939	La déduction est achevée à partir des indices t
 QUEST_LV_0300_20161005_006940	Vérifier le contenu de l'ordre d'urgence après l'avoir obtenu sur les monstres de la salle de réunion	회의실의 몬스터를 처치해서 긴급 명령서를 획득 후 내용 확인				
 QUEST_LV_0300_20161005_006941	Kupole Liepa dit qu'en raison du grand nombre de monstres dans la salle de réunion, elle n'a pas pu  l'examiner correctement. Vainquez les monstres de la salle de réunion et rassemblez des indices.	큐폴 리에파는 회의실에 몬스터가 많아 제대로 확인하지 못했다고 합니다. 회의실의 몬스터를 처치하고 미처 얻지 못한 단서를 찾으세요.				
 QUEST_LV_0300_20161005_006942	Sur les ordres d'urgence figurent des contenus scandaleux que le bon sens ne peut pleinement comprendre. Montrez-les à Kupole Liepa.	긴급 명령서에는 상식적으로 납득할 수 없는 명령이 적혀있었습니다. 큐폴 리에파에게 보여주세요.				
-QUEST_LV_0300_20161005_006943	Obtenir %s en vainquant les monstres de la salle de réunion	회의실의 몬스터를 처치해서 %s 획득				
+QUEST_LV_0300_20161005_006943	Obtenir %s en vainquant les{nl}monstres de la salle de{nl}réunion	회의실의 몬스터를 처치해서 %s 획득				
 QUEST_LV_0300_20161005_006944	Écoutez ce que Kupole Milda a à dire pour trouver le noyau du mur extérieur.	외성벽에 있는 코어를 찾기 위해 큐폴 밀다의 이야기를 들어보세요.				
 QUEST_LV_0300_20161005_006945	Réparer le Cercle Magique d'Urgence	비상 마법진 복구				
 QUEST_LV_0300_20161005_006946	L'alimentation du cercle magique d'urgence a été coupée et, peut-être à cause de Medzio Diena, elle est maintenant protégée par des dispositifs qui protègent le noyau. Alimentez le cercle magique d'urgence avec l'énergie des pierres génératrices de magie.	신수의 날의 영향인지 비상 마법진에 마력 공급이 해제되어 코어를 보호하는 장치들에 비상 보호막이 걸려있습니다. 마력 재생석의 마력을 흡수해서 비상 마법진에 마력을 공급하세요.				
@@ -7130,7 +7130,7 @@ QUEST_LV_0300_20161005_007129	L'alchimiste Sophia est déçue des résultats. De
 QUEST_LV_0300_20161005_007130	Récolter les Herbes d'Astrus	아스트러스 약초 수집				
 QUEST_LV_0300_20161005_007131	Sophia dit qu'en dernier recours, il faut réveiller le centaure endormi. Comme elle l'a dit, rapportez des herbes Astrus près de Ruisseau de Virszutinis.	소피야는 마지막 수단으로 잠든 켄타우로스를 깨우려는 것 같습니다. 그녀가 얘기한대로 비르수티니스 냇가 주변에서 아스트러스 약초를 모아다 주세요.				
 QUEST_LV_0300_20161005_007132	Cela semble suffisant. Rapportez-les à Sophia.	이 정도면 충분한 양의 약초를 모은 것 같습니다. 소피야에게 가져다 주세요.				
-QUEST_LV_0300_20161005_007133	Déchirer %s pour réveiller les Centauri	켄타우로스를 깨우기 위한 %s 뜯어오기				
+QUEST_LV_0300_20161005_007133	Déchirer %s pour réveiller les{nl}Centauri	켄타우로스를 깨우기 위한 %s 뜯어오기				
 QUEST_LV_0300_20161005_007134	Effet Trop Puissant	효과가 지나쳤다				
 QUEST_LV_0300_20161005_007135	L'alchimiste Sophia compte réveiller le centaure avec les herbes d'Astrus que vous avez récoltées à deux. Parlez-lui.	알케미스트 소피야는 둘이서 수집한 아스트러스 약초를 이용해 켄타우로스를 깨우려고 합니다. 그녀와 대화해 보세요.				
 QUEST_LV_0300_20161005_007136	Brûler les herbes d'Astrus autour de Centaurus	켄타우로스 주위에서 아스트러스 약초 태우기				
@@ -7151,7 +7151,7 @@ QUEST_LV_0300_20161005_007150	Cette fois, le résultat est satisfaisant. Demande
 QUEST_LV_0300_20161005_007151	Récolter des ailes de Blue Beetow et des fougères séchées	바싹 마른 고사리 잎과 푸른 비토우의 날개 수집				
 QUEST_LV_0300_20161005_007152	Sophia dit qu'elle doit fabriquer des produits chimiques similaires à la poudre de centauri. Pour les produire, il faut des feuilles de braken séchées et des ailes de blue beetow. Obtenez ce qui est demandé en récoltant des feuilles de braken et en vainquant des blue beetow sur les Champs de Loba.	소피야는 켄타우로스 분진과 유사한 성분의 약을 만들어내기 위해 바싹 마른 고사리 잎과 푸른 비토우의 날개가 필요하다고 합니다. 로바 들판 주변에서 고사리 잎을 수집하고 푸른 비토우의 날개를 각각 모아다 주세요.				
 QUEST_LV_0300_20161005_007153	Tous les matériaux demandés sont obtenus. Livrez-les à Sophia.	부탁받은 재료를 모두 모을 수 있었습니다. 소피야에게 재료들을 전해 주세요.				
-QUEST_LV_0300_20161005_007154	Récolter %s sur les Beetow bleu	푸른 비토우를 해치우고 %s 수집				
+QUEST_LV_0300_20161005_007154	Récolter %s sur les Beetow{nl}bleu	푸른 비토우를 해치우고 %s 수집				
 QUEST_LV_0300_20161005_007155	Récolter les %s tombés 	떨어진 %s을 수집				
 QUEST_LV_0300_20161005_007156	L'alchimiste Sophia semble apaisée à présent. Parlez-lui.	알케미스트 소피야는 이제 한시름 놓은 듯한 모습입니다. 그녀와 대화해보세요.				
 QUEST_LV_0300_20161005_007157	Sophia est extrêmement reconnaissante de votre aide. Faites-lui vos adieux.	소피야는 자신을 도와준 것에 대해 깊은 감사를 표하고 있습니다. 그녀와 작별인사를 나누세요.				
@@ -7165,12 +7165,12 @@ QUEST_LV_0300_20161005_007164	La chef de l'équipe d'enquête Ella veut le parch
 QUEST_LV_0300_20161005_007165	Récupérer le parchemin sur les gobelins verts	초록 고블린을 처치하고 양피지 회수				
 QUEST_LV_0300_20161005_007166	Vainquez les green goblin wizard et rapportez-en le parchemin. Faites ce qu'elle a dit et obtenez les parchemins des goblin wizard.	엘라는 주변의 초록 고블린 마법사들을 해치우고 그들로부터 양피지 고문서를 빼앗아 달라고 부탁해 왔습니다. 그녀의 부탁대로 주변의 고블린 마법사들을 처치하세요.				
 QUEST_LV_0300_20161005_007167	Vous avez réussi à récupérer une quantité considérable de parchemin auprès des green goblin wizard. Rendez le reste à Ella.	초록 고블린 마법사들이 빼앗아 간 양피지를 상당수 회수할 수 있었습니다. 엘라에게 마저 건네 주세요.				
-QUEST_LV_0300_20161005_007168	Récolter %s sur les Sorciers gobelins vert	초록 고블린 마법사로부터 %s 회수				
+QUEST_LV_0300_20161005_007168	Récolter %s sur les Sorciers{nl}gobelins vert	초록 고블린 마법사로부터 %s 회수				
 QUEST_LV_0300_20161005_007169	La chef de l'équipe d'enquête Ella soupçonne qu'il y a quelque chose derrière l'obsession des green goblin pour le parchemin. Parlez-lui.	조사대장 엘라는 초록 고블린들이 양피지에 그토록 집착했던 점이 의문스러운 것 같습니다. 그녀와 대화해 보세요.				
 QUEST_LV_0300_20161005_007170	Extraire le Jus de la Racine d'Arbre Contaminée	오염된 나무뿌리 즙 수집				
 QUEST_LV_0300_20161005_007171	Ella veut découvrir pourquoi les green goblin en veulent au parchemin. Elle compte fabriquer de faux parchemins pour les attirer. Rassemblez le jus de racine qui est l'ingrédient principal de la fabrication des faux parchemins. Utilisez le couteau à main qu'Ella vous a donné, entaillez la surface d'une racine exposée et récoltez-en le jus.	엘라는 가짜 양피지를 만들어 초록 고블린들을 속인 다음 그들이 왜 양피지를 모으려 하는지 조사하려는 것 같습니다. 그녀의 부탁대로 가짜 양피지를 만드는 데에 필요한 재료인 나무뿌리 즙을 모아오세요. 엘라가 건네준 손칼을 이용해 드러난 나무뿌리에 상처를 내면 즙을 모을 수 있습니다.				
 QUEST_LV_0300_20161005_007172	Ella a tout ce qu'il lui faut à présent. L'odeur écœurante est insupportable. Remettez-la vite à Ella.	이정도면 엘라가 필요로 하는 양이 모인 것 같습니다. 역한 냄새가 나니 서둘러 엘라에게 전해 주세요.				
-QUEST_LV_0300_20161005_007173	Récolter %s à l'aide du couteau à main	손칼을 사용해 %s 수집				
+QUEST_LV_0300_20161005_007173	Récolter %s à l'aide du couteau{nl}à main	손칼을 사용해 %s 수집				
 QUEST_LV_0300_20161005_007174	La chef de l'équipe d'enquête Ella a fabriqué un faux parchemin. Demandez-lui maintenant comment l'utiliser.	조사대장 엘라는 고블린들을 속여 넘길 가짜 양피지를 만든 것 같습니다. 이제 가짜 양피지를 어떻게 사용하려는지 물어보세요.				
 QUEST_LV_0300_20161005_007175	Placer le faux parchemin à un endroit bien visible	눈에 띄는 곳에 가짜 양피지 놓기				
 QUEST_LV_0300_20161005_007176	Ella veut placer le faux parchemin bien en vue pour que les Gobelins verts l'emportent, puis les faire suivre par ses hommes. Rendez-vous à l'endroit qu'elle vous a indiqué et déposez-y le faux parchemin. Attention : si l'on vous voit faire, les Gobelins verts ne se laisseront pas prendre — commencez donc par éliminer ceux des environs.	엘라는 가짜 양피지를 일부러 눈에 띄는 곳에 놓아 초록 고블린들이 가져가게 한 후 부하를 시켜 그 뒤를 추적하려는 것 같습니다. 그녀가 알려준 지점으로 가 가짜 양피지를 놓으세요. 단, 그 과정이 눈에 띄면 초록 고블린이 속지 않을테니 주변의 초록 고블린부터 먼저 소탕해야 합니다.				
@@ -7188,17 +7188,17 @@ QUEST_LV_0300_20161005_007187	L'enquêteur Gasper a peur des gobelins verts et n
 QUEST_LV_0300_20161005_007188	Récolter les livres relativement intacts	아직 온전한 책 수집				
 QUEST_LV_0300_20161005_007189	L'enquêteur Gasper veut que vous trouviez des livres relativement peu abîmés dans les tas de livres. Vainquez les gobelins alentour et rapportez les livres.	조사원 개스퍼는 자신 대신 주변의 책더미를 뒤져 그나마 온전한 상태의 책들을 가져다 달라고 부탁했습니다. 초록 고블린에 주의하며 책들을 모아다 주세요.				
 QUEST_LV_0300_20161005_007190	Vous avez pu récolter plus de livres que prévu. Remettez-les à Gasper.	생각보다 많은 책들을 회수할 수 있었습니다. 개스퍼에게 찾아낸 서적을 전달하세요.				
-QUEST_LV_0300_20161005_007191	Récolter %s dans la pile de livres	책더미에서 %s 수집				
+QUEST_LV_0300_20161005_007191	Récolter %s dans la pile de{nl}livres	책더미에서 %s 수집				
 QUEST_LV_0300_20161005_007192	L'enquêteur Gasper, bien que terrifié, veut encore récupérer les souvenirs de ceux qui l'ont précédé. Parlez-lui.	조사원 개스퍼는 두려운 가운데서도 이곳에 먼저 왔던 선발대의 유품을 회수하고 싶은 것 같습니다. 그와 대화해 보세요.				
 QUEST_LV_0300_20161005_007193	Récupérer les souvenirs sur les guerriers et chargeurs gobelins verts	초록 고블린 전사와 돌격병에게서 유품 회수				
 QUEST_LV_0300_20161005_007194	La première équipe d'enquête a dû être anéantie par les green goblin. Gasper veut récupérer les souvenirs de ses camarades tombés. Vainquez les green goblin et obtenez les souvenirs.	이곳에 먼저 왔던 선발 조사대는 아무래도 초록 고블린들에게 전멸한 모양입니다. 개스퍼는 초록 고블린전사와 돌격병들이 그들의 유품을 가지고 다니는 모습을 보았다며 초록 고블린을 물리치고 그 유품을 회수해 줄 것을 부탁했습니다.				
 QUEST_LV_0300_20161005_007195	Tous les souvenirs sont obtenus. Rapportez-les à Gasper.	이 정도면 모든 유품을 회수한 것 같습니다. 개스퍼에게 돌아가 유품을 전달해 주세요.				
-QUEST_LV_0300_20161005_007196	Récupérer %s sur les Guerriers gobelins vert et Chargeur	초록 고블린 전사와 돌격병에게서 %s 회수				
+QUEST_LV_0300_20161005_007196	Récupérer %s sur les Guerriers{nl}gobelins vert et Chargeur	초록 고블린 전사와 돌격병에게서 %s 회수				
 QUEST_LV_0300_20161005_007197	L'enquêteur Gasper dit que la première équipe d'enquête a découvert quelque chose et l'a caché en lieu sûr. Demandez-lui comment le trouver.	조사원 개스퍼는 선발 조사대들이 분명 무언가를 발견하고 숨겨놓았을 것이라 생각하는 것 같습니다. 그에게 선발대가 숨긴 물건을 찾아낼 방법을 물어 보세요.				
 QUEST_LV_0300_20161005_007198	Utiliser le pendule de l'équipe d'enquête pour trouver l'artéfact caché	조사대 펜듈럼으로 숨겨진 유물 찾기				
 QUEST_LV_0300_20161005_007199	Gasper vous a remis un pendule spécialement conçu pour les équipes d'enquête. Utilisez le pendule pour trouver les reliques cachées.	개스퍼는 조사대 사이에서 사용할 목적으로 만들어진 펜듈럼을 건네주었습니다. 펜듈럼을 사용해 선발대가 숨겨놓은 유물을 찾아내세요.				
 QUEST_LV_0300_20161005_007200	Vous avez trouvé toutes les anciennes tablettes de pierre que la première équipe a cachées dans le sol. Remettez-les à Gasper.	선발대가 땅 속에 숨겨놓았던 고대의 석판을 모두 찾아낸 것 같습니다. 개스퍼에게 찾아낸 유물을 건네 주세요.				
-QUEST_LV_0300_20161005_007201	Déterrer la relique dans la zone détectée par le pendule	펜듈럼이 반응하는 곳에서 숨겨진 유물 파내기				
+QUEST_LV_0300_20161005_007201	Déterrer la relique dans la{nl}zone détectée par le pendule	펜듈럼이 반응하는 곳에서 숨겨진 유물 파내기				
 QUEST_LV_0300_20161005_007202	L'enquêteur Gasper semble vouloir vous remercier de votre aide d'une façon ou d'une autre. Parlez-lui.	조사원 개스퍼는 도움받은 것에 대해 무언가 답례를 하고 싶어하는 것 같습니다. 그와 대화해 보세요.				
 QUEST_LV_0300_20161005_007203	Parler à l'Enquêteur Horatio	조사원 호레이쇼와 대화				
 QUEST_LV_0300_20161005_007204	L'enquêteur Horatio veut examiner l'intérieur du bâtiment effondré. Demandez-lui comment vous pourriez aider.	조사원 호레이쇼는 가라앉은 건물 내부를 조사해보려는 것 같습니다. 그를 도와줄 방법은 없는지 물어보세요.				
@@ -7210,7 +7210,7 @@ QUEST_LV_0300_20161005_007209	L'enquêteur Horatio prépare l'expédition. Deman
 QUEST_LV_0300_20161005_007210	Récolter les Joyaux du Chaman Gobelin	고블린 주술사의 보석 모으기				
 QUEST_LV_0300_20161005_007211	Horatio dit qu'il faut une source de lumière. Par chance, les joyaux des green goblin shaman brillent magiquement. Rassemblez les joyaux des goblin shaman.	호레이쇼는 어두운 건물 내부를 밝혀 줄 빛이 필요하다고 합니다. 초록 고블린 주술사들이 가진 보석에는 주술적 기운이 들어있어 자체적으로 빛을 발한다고 하니 고블린 주술사의 보석을 모아다 주세요.				
 QUEST_LV_0300_20161005_007212	Vous avez récolté assez de joyaux pour toute l'expédition. Remettez-les à Horatio et commencez l'expédition.	이 정도면 호레이쇼가 건물 내부에서 조사하는 동안 빛을 내주기 충분한 것 같습니다. 그에게 보석을 건네주고 조사를 시작할 수 있게 해 주세요.				
-QUEST_LV_0300_20161005_007213	Récolter %s sur les chamans gobelins verts	초록 고블린 주술사로부터 %s 수집				
+QUEST_LV_0300_20161005_007213	Récolter %s sur les chamans{nl}gobelins verts	초록 고블린 주술사로부터 %s 수집				
 QUEST_LV_0300_20161005_007214	L'enquêteur Horatio commence son expédition à l'intérieur du bâtiment. Demandez-lui ce qu'il peut faire pour aider.	조사원 호레이쇼는 이제 건물 내부의 조사를 시작하려는 것 같습니다. 그가 조사하는 동안 도울 일은 없는지 물어 보세요.				
 QUEST_LV_0300_20161005_007215	Vaincre les gobelins verts alentour	주변의 초록 고블린 처치				
 QUEST_LV_0300_20161005_007216	Horatio est entré dans le bâtiment. Vainquez les gobelins verts alentour pendant son absence.	호레이쇼는 건물 안으로 내려갔습니다. 그가 조사하는 동안 방해받지 않도록 주변의 초록 고블린들을 해치워주세요.				
@@ -7292,7 +7292,7 @@ QUEST_LV_0300_20161005_007291	Interroger le gardien de la forêt Brunonas au suj
 QUEST_LV_0300_20161005_007292	Examiner la Mousse sur le Sentier de Raffye	라파이 오솔길의 이끼 조사				
 QUEST_LV_0300_20161005_007293	Le gardien de la forêt Brunonas dit qu'une mousse censée ne pousser qu'en automne est apparue aux Carrefours de Raffye. {nl}Brunonas vous a demandé d'en rapporter des échantillons.	산지기 브루노나스는 라파이 오솔길에 가면 돌 밑에 가을에만 자라는 이끼가 존재한다고 합니다.{nl}브루노나스는 이끼를 채취해달라고 부탁했습니다.				
 QUEST_LV_0300_20161005_007294	La mousse demandée par le gardien de la forêt Brunonas a été extraite. Retournez le voir avec la mousse.	산지기 브루노나스가 부탁한 이끼를 모두 채취했습니다. 이끼를 가지고 브루노나스에게 돌아가서 전달하세요.				
-QUEST_LV_0300_20161005_007295	Extraire et examiner la mousse de la roche	돌을 조사해서 이끼 채취하기				
+QUEST_LV_0300_20161005_007295	Extraire et examiner la{nl}mousse de la roche	돌을 조사해서 이끼 채취하기				
 QUEST_LV_0300_20161005_007296	Parler à l'Herboriste Cesaris	약초꾼 채자리스와 대화				
 QUEST_LV_0300_20161005_007297	Se rendre auprès de l'herboriste Cesaris dont Brunonas a parlé.	브루노나스가 말한, 약초꾼 채자리스에게 가 보세요.				
 QUEST_LV_0300_20161005_007298	Rassembler des Herbes à Aire de Repos de Pjama	피아마 쉼터에서 약초 채집				
@@ -7302,7 +7302,7 @@ QUEST_LV_0300_20161005_007301	Demander à l'herboriste ce qu'il va faire du rest
 QUEST_LV_0300_20161005_007302	Déterrer les racines de vhelis qu'Iyran trouve	아이란이 찾아주는 벨리스 뿌리 채취				
 QUEST_LV_0300_20161005_007303	L'herboriste Cesaris dit que vous devriez emmener son chien Iyran avec vous pour déterrer les racines de vhelis.	약초꾼 채자리스는 자신의 개 아이란을 데려가서 벨리스의 뿌리를 채취해달라고 부탁했습니다.				
 QUEST_LV_0300_20161005_007304	Vous avez rassemblé assez de racines de Vhelis pour l'herboriste Cesaris. Retournez le voir.	약초꾼 채자리스가 부탁한 벨리스의 뿌리를 모두 채취했습니다. 채자리스에게 돌아가세요.				
-QUEST_LV_0300_20161005_007305	Extraire les %s trouvés par Vhelis Iyran	아이란이 발견한 벨리스로부터 %s 채취				
+QUEST_LV_0300_20161005_007305	Extraire les %s trouvés par{nl}Vhelis Iyran	아이란이 발견한 벨리스로부터 %s 채취				
 QUEST_LV_0300_20161005_007306	Parler au Bûcheron Dowedas	나무꾼 도위다스와 대화				
 QUEST_LV_0300_20161005_007307	L'herboriste Cesaris dit de prendre le dernier rapport auprès du bûcheron Dowedas et de porter les rapports à Chronomancienne Ida. Parlez au bûcheron Dowedas.	약초꾼 채자리스는 마지막으로 나무꾼 도위다스의 보고서를 받아서 크로노맨서 아이다에게 가보라고 했습니다. 나무꾼 도위다스와 대화하세요.				
 QUEST_LV_0300_20161005_007308	Examiner les piles de bois sur la Zone d'abattage de Kunck	컨크 벌목장에 놓인 장작더미 조사				
@@ -7319,7 +7319,7 @@ QUEST_LV_0300_20161005_007318	Obtenir l'Échantillon de Sang	혈액 샘플 수�
 QUEST_LV_0300_20161005_007319	La chronomancienne Ida veut que vous vainquiez les ennemis alentour et récupériez leurs échantillons de sang.	크로노맨서 아이다는 인근 몬스터를 해치우고 혈액 샘플을 모아달라고 부탁했습니다.				
 QUEST_LV_0300_20161005_007320	Vous avez récolté assez de sang, comme la chronomancienne Ida l'a demandé. Rapportez les échantillons de sang à Ida.	크로노맨서 아이다가 부탁한 혈액을 모두 모았습니다. 혈액 샘플을 가지고 아이다에게 돌아가세요.				
 QUEST_LV_0300_20161005_007321	La chronomancienne Ida tente de mener une sorte d'expérience.	크로노맨서 아이다는 무언가 실험을 하려는 것 같습니다.				
-QUEST_LV_0300_20161005_007322	Prendre l'échantillon de sang et se rendre au Quartier du mur extérieur 8	혈액 샘플을 가지고 내성벽 제 8구역으로 이동				
+QUEST_LV_0300_20161005_007322	Prendre l'échantillon de sang{nl}et se rendre au Quartier du{nl}mur extérieur 8	혈액 샘플을 가지고 내성벽 제 8구역으로 이동				
 QUEST_LV_0300_20161005_007323	Chronomancienne Ida trouve étrange que le sang ne se coagule pas immédiatement. Emportez le sang hors de la zone anormale. Peut-être qu'inner wall district 8 serait un bon endroit pour tester cela.	크로노맨서 아이다는 혈액이 굳지 않는 것은 이상하다며 인근의, 단풍숲이 아닌 지역에 다녀와 보는 것이 좋겠다고 말했습니다. 이 곳에서 가장 가까운 단풍숲이 아닌 지역인, 내성벽 제 8구역 쪽으로 가 보는 것이 좋겠습니다.				
 QUEST_LV_0300_20161005_007324	Dès votre arrivée dans une autre région, le sang s'est immédiatement coagulé. Rapportez les échantillons de sang à Chronomancienne Ida.	다른 지역에 가자 혈액이 바로 굳어버렸습니다. 크로노맨서 아이다에게 돌아가서 혈액 샘플을 건네주세요.				
 QUEST_LV_0300_20161005_007325	La chronomancienne Ida a quelque chose à vous demander.	크로노맨서 아이다는 당신에게 부탁이 있는 것 같습니다.				
@@ -7345,7 +7345,7 @@ QUEST_LV_0300_20161005_007344	Le représentant des réfugiés Morkus cherche les
 QUEST_LV_0300_20161005_007345	Trouver la trace de la poupée de chiffon au Terrain de Lereth	레레스 공터에서 헝겊인형의 흔적 찾기				
 QUEST_LV_0300_20161005_007346	Le représentant des réfugiés Morcus a vérifié les environs mais n'a pas pu trouver la poupée de chiffon. Il pense que les monstres en ont peut-être effacé les traces. Il veut que vous enquêtiez.	피난민 대표 모르쿠스는 근방을 확인했지만 일기에서 언급된 헝겊인형의 흔적을 찾지 못했다고 합니다. 그는 혹시 몬스터들에 의해 흔적이 사라진게 아닐까 의심된다며 조사를 부탁했습니다.				
 QUEST_LV_0300_20161005_007347	Vous avez trouvé la poupée de chiffon comme le représentant des réfugiés Morcus l'a demandé. Retournez voir Morcus.	피난민 대표 모르쿠스가 부탁한 헝겊인형의 흔적을 찾았습니다. 모르쿠스에게 돌아가세요.				
-QUEST_LV_0300_20161005_007348	Récolter %s sur les monstres à Terrain de Lereth	레레스 공터의 몬스터로부터 %s 수집				
+QUEST_LV_0300_20161005_007348	Récolter %s sur les monstres à{nl}Terrain de Lereth	레레스 공터의 몬스터로부터 %s 수집				
 QUEST_LV_0300_20161005_007349	Le représentant des réfugiés Morcus a trouvé quelque chose.	피난민 대표 모르쿠스는 인근에서 무언가 찾은 것 같습니다.				
 QUEST_LV_0300_20161005_007350	Trouver l'Homme Mystérieux	의문의 사나이 찾기				
 QUEST_LV_0300_20161005_007351	Le représentant des réfugiés Morkus cherche à trouver l'homme mystérieux et à l'interroger sur le sort des soldats. Parlez à l'homme mystérieux.	피난민 대표 모르쿠스는 수상한 남자를 찾아서 병사들의 행방을 물어봐달라고 부탁했습니다. 의문의 사나이와 대화하세요.				
@@ -7433,7 +7433,7 @@ QUEST_LV_0300_20161005_007432	Kupole Leda prépare quelque chose. Parlez-lui.	�
 QUEST_LV_0300_20161005_007433	Obtenir l'Essence de Démon	마족의 정수 수집				
 QUEST_LV_0300_20161005_007434	Kupole Leda veut installer une alarme au cas où les démons approcheraient. Elle vous demande de récolter de l'essence démoniaque à utiliser comme échantillon d'étalonnage. On peut extraire l'essence en affaiblissant les démons. Attaquez les ragbird et les ragged butcher, étourdissez-les et extrayez leur essence.	큐폴 레다는 흔적이 있던 장소에 마족이 나타나면 자신에게 알려주는 경보기를 설치하려고 한다고 합니다. 그녀는 경보기에 마족의 샘플로 사용할 인근 마족의 정수를 모아달라고 부탁했습니다. 마족의 정수는 마족을 약하게 만든 후 채취하면 된다고 합니다. 누더기 도살자와 누덕새를 공격하여 기절시킨 후 마족의 정수를 채취하세요.				
 QUEST_LV_0300_20161005_007435	Vous avez récolté toute l'essence de démon et fait le bonheur de Kupole Leda. Retournez la voir.	큐폴 레다가 부탁한 마족의 정수를 모두 모았습니다. 그녀에게 돌아가세요.				
-QUEST_LV_0300_20161005_007436	Obtenir %s des Bouchers en haillons et des Ragbird	누더기 도살자와 누덕새로부터 %s 얻기				
+QUEST_LV_0300_20161005_007436	Obtenir %s des Bouchers en{nl}haillons et des Ragbird	누더기 도살자와 누덕새로부터 %s 얻기				
 QUEST_LV_0300_20161005_007437	Kupole Leda semble avoir fini de fabriquer le cristal d'alarme. Parlez-lui.	큐폴 레다는 경보 수정을 완성한 것 같습니다. 그녀와 대화하세요.				
 QUEST_LV_0300_20161005_007438	Installer le Cristal d'Alarme	경보수정 설치				
 QUEST_LV_0300_20161005_007439	Kupole Leda veut que vous installiez le cristal d'alarme aux endroits où une trace a été trouvée. Installez les cristaux d'alarme à Parc Jeromel et au Mémorial Jonael.	큐폴 레다는 아우슈리네의 흔적이 있던 장소들에 경보수정을 설치해달라고 부탁했습니다. 제로멜 공원과 요나엘 기념구의 흔적이 있던 장소에 경보 수정을 설치하세요.				
@@ -7549,9 +7549,9 @@ QUEST_LV_0300_20161005_007548	Récolter les matériaux pour fabriquer l'encens	�
 QUEST_LV_0300_20161005_007549	Le Maître Alchimiste dit qu'il y a des vubbe au Lot minier de cristal 2 qui essaient d'atteindre le village minier. Installez des encens qui les frappent de peur et de léthargie.	알케미스트 마스터는 수정광산 2광구에 있는 부베들이 샤울레이 광산 마을로 나오지 못하게 하기 위해 부베들이 두려움과 무기력함을 느끼게 하는 향을 만들어 수정광산 2광구 입구에 배치하려고 합니다. 향에 필요한 재료를 구해오세요.				
 QUEST_LV_0300_20161005_007550	Forêt de Khamadon, Forêt de Nheto, Quartier de la Muraille Intérieure 9	카마돈 숲, 네토 숲, 내성벽 제 9구역				
 QUEST_LV_0300_20161005_007551	Vous avez tout ce qu'il faut pour fabriquer l'encens. Parlez au Maître Alchimiste.	향에 필요한 재료를 모두 구했습니다. 알케미스트 마스터와 대화하세요				
-QUEST_LV_0300_20161005_007552	Obtenir %s des Beetow bleu à la Forêt de Khamadon	카마돈 숲에 있는 푸른 비토우를 처치해 %s 구하기				
-QUEST_LV_0300_20161005_007553	Obtenir %s des Rhodetad à la Forêt de Nheto	네토 숲 로데타드를 처치해 %s 구하기				
-QUEST_LV_0300_20161005_007554	Obtenir %s des Akhlass Hump au Quartier du mur intérieur 9	내성벽 제 9구역에 아클라스 험프를 처치해 %s 구하기				
+QUEST_LV_0300_20161005_007552	Obtenir %s des Beetow bleu à{nl}la Forêt de Khamadon	카마돈 숲에 있는 푸른 비토우를 처치해 %s 구하기				
+QUEST_LV_0300_20161005_007553	Obtenir %s des Rhodetad à la{nl}Forêt de Nheto	네토 숲 로데타드를 처치해 %s 구하기				
+QUEST_LV_0300_20161005_007554	Obtenir %s des Akhlass Hump{nl}au Quartier du mur intérieur 9	내성벽 제 9구역에 아클라스 험프를 처치해 %s 구하기				
 QUEST_LV_0300_20161005_007555	Parler au Maître Démoniste dans la Chambre de Mokusul.	모크슬 묘실에 있는 워록 마스터와 대화하세요				
 QUEST_LV_0300_20161005_007556	Utiliser le Sceau de domination pour absorber les esprits maléfiques.	지배의 인장을 사용하여 악령을 흡수하기				
 QUEST_LV_0300_20161005_007557	Le Maître Démoniste dit qu'il vous manque encore la finesse dans le maniement des esprits maléfiques. Utilisez son sceau de domination pour trouver et absorber les esprits maléfiques.	워록 마스터는 악령을 지배하고 사용하는 기술이 아직은 미숙하다고 합니다. 그녀는 지배의 인장으로 몬스터에게 숨어있는 악령을 찾고 흡수하는 것으로 악령을 지배하고 사용하는 기술을 익히라고 합니다.				
@@ -7573,8 +7573,8 @@ QUEST_LV_0300_20161005_007572	Parler au Maître Médecin de peste aux Ruines d'I
 QUEST_LV_0300_20161005_007573	Obtenir les fluides des monstres animaux sauvages et végétaux	야수형 몬스터의 혈액, 식물형 몬스터의 체액을 구하기				
 QUEST_LV_0300_20161005_007574	Les gens attaqués par des monstres de type plante et bête présentent certains symptômes. Le Maître Médecin de peste veut que vous extrayiez des échantillons sur les monstres de type plante et bête, utilisables pour fabriquer le remède. Extrayez les fluides et le sang des monstres de type plante et bête.	식물형 몬스터와 야수형 몬스터에게 공격을 받은 사람들이 병에 걸리고 있다고 합니다. 플레이그닥터 마스터는 야수형 몬스터와 식물형 몬스터의 표본을 검사해 치료제를 만들려 하고 있습니다. 야수형 몬스터와 식물형 몬스터를 처치해 혈액과 체액을 구해 주세요.				
 QUEST_LV_0300_20161005_007575	Vous avez extrait les échantillons avec succès. Parlez au Maître Médecin de peste.	몬스터의 표본을 구했습니다. 플레이그닥터 마스터와 대화하세요.				
-QUEST_LV_0300_20161005_007576	Obtenir %s des monstres de type Bête	야수형 몬스터를 처치하고 %s 구하기				
-QUEST_LV_0300_20161005_007577	Obtenir %s des monstres de type Plante	식물형 몬스터를 처치하고 %s 구하기				
+QUEST_LV_0300_20161005_007576	Obtenir %s des monstres de{nl}type Bête	야수형 몬스터를 처치하고 %s 구하기				
+QUEST_LV_0300_20161005_007577	Obtenir %s des monstres de{nl}type Plante	식물형 몬스터를 처치하고 %s 구하기				
 QUEST_LV_0300_20161005_007578	Parler au Maître Kabbaliste	카발리스트와 대화				
 QUEST_LV_0300_20161005_007579	Parler au Maître Kabbaliste aux Ruines d'Istora	이스토라 유적지에 있는 카발리스트와 대화하세요				
 QUEST_LV_0300_20161005_007580	Vaincre le monstre indiqué par le nombre affiché sur la sphère de cristal	수정구에 나타난 숫자가 의미하는 몬스터 처치				
@@ -8231,10 +8231,10 @@ QUEST_LV_0300_20170510_008230	Détecteur de Maladie [Avancement Médecin de Pest
 QUEST_LV_0300_20170510_008231	Récupérer les Rapports	결과 보고서 가져오기	QUEST_LV_0300_20151224_000942	Éprouver le Poison et le Sommeil	중독과 슬리프 경험	
 QUEST_LV_0300_20170510_008232	Le Maître Médecin de peste veut voir les rapports de ses détecteurs de maladie. Récupérez les rapports des détecteurs du Plateau du roi, de la Forêt de Viltis, du Ancien jardin de la Déesse et de Jungle de Knidos.	플레이그 닥터 마스터는 질병 탐지기에 결과를 확인하고 싶어합니다. 왕의 고원, 빌티스 숲, 여신의 옛뜰, 크니도스 숲에 있는 질병 탐지기에서 결과 보고서를 가져오세요.	QUEST_LV_0300_20151224_000943	Le Médecin de peste vous a dit que pour soigner les effets néfastes ou les employer, vous devez bien comprendre ces effets. Faites l'expérience du poison à la Forteresse côtière et du sommeil au Quartier de Dingofasil.	플레이그 닥터 마스터는 해로운 효능을 치료하거나 이용하기 위해서는 해로운 효능 자체를 잘 알고 있어야 한다고 합니다. 연안요새에서 중독, 딩고파실 지구에서 슬리프를 경험해보세요.	
 QUEST_LV_0300_20170510_008233	Vous avez obtenu tous les rapports. Apportez-les au Maître Médecin de peste.	결과 보고서를 모두 획득했습니다. 결과 보고서를 플레이그 닥터 마스터에게 전달하세요.	QUEST_LV_0300_20151224_000945	Vous avez acquis assez d'expérience sur le poison et le sommeil. Retournez voir le Maître Médecin de peste.	중독과 슬리프에 대해 많은 경험을 쌓았습니다. 플레이그 닥터 마스터에게 돌아가세요.	
-QUEST_LV_0300_20170510_008234	Récupérer %s sur le détecteur au Plateau du roi	왕의 고원 질병 탐지기에서 %s 가져오기				
-QUEST_LV_0300_20170510_008235	Récupérer %s sur le détecteur à la Forêt de Viltis	빌티스 숲 질병 탐지기에서 %s 가져오기				
-QUEST_LV_0300_20170510_008236	Récupérer %s sur le détecteur de l'ancien jardin de la Déesse	여신의 옛뜰 질병 탐지기에서 %s 가져오기				
-QUEST_LV_0300_20170510_008237	Récupérer %s sur le détecteur à Jungle de Knidos	크니도스 숲 질병 탐지기에서 %s 가져오기				
+QUEST_LV_0300_20170510_008234	Récupérer %s sur le détecteur{nl}au Plateau du roi	왕의 고원 질병 탐지기에서 %s 가져오기				
+QUEST_LV_0300_20170510_008235	Récupérer %s sur le détecteur{nl}à la Forêt de Viltis	빌티스 숲 질병 탐지기에서 %s 가져오기				
+QUEST_LV_0300_20170510_008236	Récupérer %s sur le détecteur{nl}de l'ancien jardin de la Déesse	여신의 옛뜰 질병 탐지기에서 %s 가져오기				
+QUEST_LV_0300_20170510_008237	Récupérer %s sur le détecteur{nl}à Jungle de Knidos	크니도스 숲 질병 탐지기에서 %s 가져오기				
 QUEST_LV_0300_20170510_008238	Parler à la Sculpture de Chouette Solitaire	외로운 부엉이 조각상과 대화	QUEST_LV_0300_20160718_003058	Parler à la Sculpture de Chouette Solitaire	외로운 부엉이 조각상상과 대화	
 QUEST_LV_0300_20171128_008239	Maître Marqueur de Balles	불릿 마커 마스터				
 QUEST_LV_0300_20171128_008240	Sachez-le bien, la voie du Marqueur de balles n'est pas finie, elle ne fait que commencer. Non{nl}seulement vous devez avoir un talent et un entraînement solides, mais comprendre les{nl}propriétés de base est indispensable. J'ai tout préparé, nous commençons donc maintenant. 	불릿 마커 된 건 끝이 아니야 시작이지.{nl}꾸준한 숙달과 훈련이 필요한데 그중에서도 속성에 대한 훈련이 중요해.{nl}훈련장도 꾸려 놓았으니 지금부터 바로 시작해봐.				불릿 마커 마스터
@@ -8364,7 +8364,7 @@ QUEST_LV_0300_20180418_008363	Règles d'entraînement{nl}Pendant l'entraînement
 QUEST_LV_0300_20180418_008364	L'esprit de Zanas dit qu'il a perdu les quatre éclats de Feu, Glace, Foudre et Poison car les démons les ont pris. Les quatre sont nécessaires pour désamorcer le dispositif secret où est caché le joyau jaune du roi, vous devez donc tous les récupérer pour obtenir le joyau.	자나스의 영혼은 자신이 가지고 있던 불, 얼음, 전기, 독인 네 개의 조각을 마족에게 빼앗겨버렸다고 합니다. 왕의 노란 보석이 숨겨진 비밀 장치를 해제하기 위해서는 네 개의 조각이 반드시 필요하니 몬스터를 처치해서 보석을 되찾으세요.	QUEST_LV_0300_20160811_004493	L'esprit de Zanas dit qu'il a perdu les quatre éclats de Feu, Glace, Foudre et Poison car les démons les ont pris. Les quatre sont nécessaires pour désamorcer le dispositif secret où est caché le joyau jaune du roi, vous devez donc tous les récupérer pour obtenir le joyau.	자나스의 영혼은 자신이 가지고 있던 불, 얼음, 번개, 독인 네 개의 조각을 마족에게 빼앗겨버렸다고 합니다. 왕의 노란 보석이 숨겨진 비밀 장치를 해제하기 위해서는 네 개의 조각이 반드시 필요하니 몬스터를 처치해서 보석을 되찾으세요.	
 QUEST_LV_0300_20180418_008365	Les souvenirs de la Mine de cristal sont enregistrés dans l'orbe. Retournez voir le Maître Chronomancien.	수정광산의 기억이 보주에 충분히 기록되었습니다. 알케미스트 마스터에게 보주를 전달하세요.				
 QUEST_LV_0300_20180418_008366	Donner la Flèche au Maître Empenneur	플레쳐 마스터에게 화살 전달				
-QUEST_LV_0300_20180418_008367	Vaincre le Templeshooter qui Bloque Votre Chemin	단서 수색을 방해하는 템플슈터 처치				
+QUEST_LV_0300_20180418_008367	Vaincre le Templeshooter qui{nl}Bloque Votre Chemin	단서 수색을 방해하는 템플슈터 처치				
 QUEST_LV_0300_20180418_008368	Parler au Maître Onmyoji	음양사 마스터와 대화				
 QUEST_LV_0300_20180418_008369	Entraînement de Concentration	정신력 훈련				
 QUEST_LV_0300_20180418_008370	Pour commencer l'entraînement, le Maître Onmyoji vous a dit de vous rendre à Exil de Sventimas.{nl}Utilisez le Shikiban que le Maître Onmyoji vous a donné pour changer la direction des poupées de papier mobiles dans le sens antihoraire.{nl}{nl}- Si les poupées de papier qui entrent en collision sont du même type{nl} 5 points par poupée seront accordés.{nl} Si elles ne sont pas du même type{nl} 1 point par poupée sera accordé. {nl} Critères de réussite {nl} Niveau 1 : 350 points{nl} Niveau 2 : 450 points {nl} Niveau 3 : 550 points{nl}	음양사 마스터가 얘기한 훈련지역인 스벤티마스 유형지로 이동해 훈련을 진행하세요.{nl}음양사 마스터에게 받은 훈련용 육임식반은 종이 인형의 움직이는 방향을 반시계 방향으로 회전시킵니다.{nl}{nl}- 부딪힌 종이 인형이 모두 같은 타입인 경우{nl} 종이 인형 당 5점 획득{nl}- 부딪힌 종이 인형이 같은 타입이 아닌 경우{nl} 종이 인형 당 1점 획득{nl}{nl}- 성공 기준{nl} 1단계 : 350점{nl} 2단계 : 450점{nl} 3단계 : 550점{nl}				

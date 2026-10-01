@@ -476,7 +476,7 @@ QUEST_LV_0400_20161005_000475	Chapitre 2 : Légendes du{nl}mausolée royal cach�
 
 {nl}그런데 이상하게도 왕실과 관련된{nl}이야기는 없는데 그 이유가{nl}타니엘 2세 시대에 이곳에{nl}비밀 왕릉을 만든 후 엄청난{nl}부장품을 함께 묻었기 때문이라는{nl}소문이 있습니다.				전설 속 동굴 : 개정판 제 2권
 QUEST_LV_0400_20161005_000476	Ce que je dis, c'est que la Royauté{nl}semblait laisser cet endroit{nl}tranquille car il y avait ici un lieu{nl}secret.	즉 왕실에서는 선대 국왕의{nl}비밀영묘가 있기에 외려 이곳에 관심을{nl}두지 않는 척 했다는 말입니다.				전설 속 동굴 : 개정판 제 2권
-QUEST_LV_0400_20161005_000477	À vrai dire, les archives des{nl}funérailles de Taniel{nl}II sont extrêmement rares ce qui{nl}prête davantage de crédibilité à{nl}ces affirmations.{nl}C'est parce que les autres{nl}funérailles avaient une sorte{nl}d'archives aussi minimes{nl}soient-elles.{nl}Cependant, même si ces{nl}affirmations sont vraies le{nl}mausolée ne verra jamais le jour.	사실 역대 다른 국왕과 달리{nl}타니엘 2세의 공식 장례 기록은{nl}부실하기 때문에 이 소문은 상당한{nl}신빙성을 지녔습니다.{nl}역대의 국왕들께서는 화장이든{nl}매장이든 상관없이 확실한 기록이{nl}남아있기 때문입니다.{nl}하지만 이 소문이 사실이라도{nl}그 무덤이 세상에 모습을 드러낼{nl}날은 오지 않을 것 같습니다.				전설 속 동굴 : 개정판 제 2권
+QUEST_LV_0400_20161005_000477	À vrai dire, les archives des{nl}funérailles de Taniel II sont{nl}extrêmement rares ce qui prête{nl}davantage de crédibilité à ces{nl}affirmations.{nl}C'est parce que les autres{nl}funérailles avaient une sorte{nl}d'archives aussi minimes{nl}soient-elles.{nl}Cependant, même si ces{nl}affirmations sont vraies le{nl}mausolée ne verra jamais le jour.	사실 역대 다른 국왕과 달리{nl}타니엘 2세의 공식 장례 기록은{nl}부실하기 때문에 이 소문은 상당한{nl}신빙성을 지녔습니다.{nl}역대의 국왕들께서는 화장이든{nl}매장이든 상관없이 확실한 기록이{nl}남아있기 때문입니다.{nl}하지만 이 소문이 사실이라도{nl}그 무덤이 세상에 모습을 드러낼{nl}날은 오지 않을 것 같습니다.				전설 속 동굴 : 개정판 제 2권
 QUEST_LV_0400_20161005_000478	L'emplacement du mausolée{nl}secret demeure caché car il est{nl}presque impossible d'échapper{nl}au regard de la Déesse Medeina.{nl}Voilà pourquoi, même si les{nl}rumeurs sont vraies, il est{nl}probable que cela restera une{nl}simple légende.	
 
 아무리 깊은 숲속에서 몰래{nl}왕릉의 위치를 캐고 다니고 싶어도{nl}대삼림지대를 돌보시는 {nl}메데이나 여신의눈을{nl}피하기는 어렵기 때문입니다.{nl}그러므로 이 소문은 설령{nl}사실이라도 영원히 전설로만{nl}남을 것 같습니다.				전설 속 동굴 : 개정판 제 2권
@@ -486,7 +486,7 @@ QUEST_LV_0400_20161005_000481	Chapitre 3 : Les filons d'or de{nl}Barconsi{nl}-{n
 QUEST_LV_0400_20161005_000482	On dit aussi que le héros n'a pris{nl}le filon que pour empêcher le{nl}démon de s'en servir et n'avait{nl}aucun intérêt à l'utiliser{nl}lui-même.{nl}Voilà pourquoi il en a enfoui{nl}l'emplacement à jamais.	그 용사는 마족이 금을 가지고{nl}사람들을 상대로 나쁜 일을 할까봐{nl}광산을 가졌을 뿐, 돈에는 관심이{nl}없는 명예로운 용사여서 광산의{nl}위치를 영원히 비밀로 하고, 그 안의{nl}황금도 자신을 위해서는 사용하지{nl}않았다고 합니다.				전설 속 동굴 : 개정판 제 3권
 QUEST_LV_0400_20161005_000483	Le héros finit par mourir de{nl}vieillesse et ne laissa aucun{nl}enfant, laissant l'or à qui voudrait{nl}le prendre s'il parvenait à le{nl}trouver.	오랜 세월에 흘러 그 용사도 늙어{nl}수명이 다하고 자손을 남기지{nl}않았기에 이 전설의 금광은{nl}소유권이 없는 상태이며 누구든{nl}발견한다면 부자가 될 수 있다고{nl}합니다.				전설 속 동굴 : 개정판 제 3권
 QUEST_LV_0400_20161005_000484	Cependant, il y a quelque chose{nl}de suspect dans cette légende.{nl}Il n'existe aucune trace de{nl}Barconsi, le héros qui aurait pris{nl}l'or au démon dans aucune des{nl}archives du Royaume.	다만 이 전설적인 소문에는{nl}한 가지 의심스런 사실이 있습니다.{nl}그것은 왕국의 역사나 다른 어떤{nl}기록에도 이 광산을 마족에게서{nl}빼았었다는 바로콘시라는 이름을{nl}지닌 영웅을 찾아볼 수 없다는 점입니다.				전설 속 동굴 : 개정판 제 3권
-QUEST_LV_0400_20161005_000485	Aussi, bien des gens croient que{nl}cette légende est fictive puisqu'il{nl}n'existe aucune trace de{nl}Barconsi.{nl}Cependant, ils ne cherchent pas à{nl}expliquer pourquoi le nom de{nl}Barconsi y est mêlé.{nl}Bien sûr, il y a aussi bien des gens{nl}qui continuent de chercher l'or.	따라서 많은 사람들은 영웅{nl}바로콘시가 실존하는 인물이{nl}아니기에 바로콘시의 황금광산{nl}역시 그냥 소문이라고 생각합니다.{nl}전설은 이 광산의 이름이{nl}바로콘시가 된 다른 까닭을{nl}설명하지 않고 있습니다.{nl}물론 세상에는 그럼에도 이러한{nl}전설을 믿고 나름대로 탐색을{nl}멈추지 않는 사람들도 있지만{nl}말입니다.				전설 속 동굴 : 개정판 제 3권
+QUEST_LV_0400_20161005_000485	Aussi, bien des gens croient que{nl}cette légende est fictive puisqu'il{nl}n'existe aucune trace de Barconsi.{nl}Cependant, ils ne cherchent pas à{nl}expliquer pourquoi le nom de{nl}Barconsi y est mêlé.{nl}Bien sûr, il y a aussi bien des gens{nl}qui continuent de chercher l'or.	따라서 많은 사람들은 영웅{nl}바로콘시가 실존하는 인물이{nl}아니기에 바로콘시의 황금광산{nl}역시 그냥 소문이라고 생각합니다.{nl}전설은 이 광산의 이름이{nl}바로콘시가 된 다른 까닭을{nl}설명하지 않고 있습니다.{nl}물론 세상에는 그럼에도 이러한{nl}전설을 믿고 나름대로 탐색을{nl}멈추지 않는 사람들도 있지만{nl}말입니다.				전설 속 동굴 : 개정판 제 3권
 QUEST_LV_0400_20161005_000486	Réfugié Brandon	피난민 브랜든				
 QUEST_LV_0400_20161005_000487	J'aurais dû écouter quand tout le monde me réprimandait ! Cette forêt est dangereuse !	다들 만류할 때 충고를 들을 걸 그랬소.{nl}이 숲은 위험해..!				피난민 브랜든
 QUEST_LV_0400_20161005_000488	Je ne comprends pas pourquoi ce chasseur voudrait garder cette forêt pour lui seul.	도대체 이런 곳을 왜 그렇게 독차지하려 드는지 그 사냥꾼의 속을 알 수가 없군.				피난민 브랜든
@@ -1084,7 +1084,7 @@ QUEST_LV_0400_20161005_001079	Vous avez trouvé assez d'informations sur la Grot
 QUEST_LV_0400_20161005_001080	Récolter des Morceaux de Stalactite	종유석 덩어리 수집				
 QUEST_LV_0400_20161005_001081	Le marchand de l'Alliance de Kedora Alta dit que les morceaux de stalactite obtenus dans la Grotte d'Alembique peuvent révéler le mystère de cette zone. Récoltez des morceaux de stalactite dans la Grotte d'Alembique en y vainquant les monstres.	케도라 상단원 알타는 알렘빅 동굴의 몬스터에서 얻은 종유석 덩어리가 이 지역의 비밀을 밝혀줄 중요한 자료가 될 것이라고 합니다. 알렘빅 동굴의 몬스터들을 처치하고 종유석 덩어리를 수집하세요				
 QUEST_LV_0400_20161005_001082	Vous avez obtenu assez de morceaux de stalactite en vainquant des monstres. Retournez voir le marchand de l'Alliance de Kedora Alta.	몬스터들을 처치하고 종유석 덩어리를 충분히 모았습니다. 케도라 상단원 알타에게 돌아가세요				
-QUEST_LV_0400_20161005_001083	Obtenir %s en vainquant les monstres de la Grotte d'Alembique	알렘빅 동굴의 몬스터를 처치하여 %s 획득				
+QUEST_LV_0400_20161005_001083	Obtenir %s en vainquant les{nl}monstres de la Grotte{nl}d'Alembique	알렘빅 동굴의 몬스터를 처치하여 %s 획득				
 QUEST_LV_0400_20161005_001084	Retirer le mystérieux dispositif démoniaque	수수깨끼의 마족장치 제거				
 QUEST_LV_0400_20161005_001085	Le marchand de l'Alliance de Kedora Alta veut que vous retiriez le mystérieux dispositif démoniaque que l'on croit être le médium magique dans la Grotte d'Alembique.	케도라 상단원 알타는 알렘빅 동굴에 퍼져있는 마법의 매개체로 추정되는 수수깨끼의 마족장치를 제거해달라고 부탁했습니다				
 QUEST_LV_0400_20161005_001086	Vous avez assez détruit le mystérieux dispositif démoniaque. Retournez voir Alta	케도라 상단원 알타의 요청대로 수수깨끼의 마족 장치를 충분히 파괴했습니다. 알타에게 돌아가세요				
@@ -1125,7 +1125,7 @@ QUEST_LV_0400_20161005_001120	Vous n'avez pas assez de matériaux pour fabriquer
 QUEST_LV_0400_20161005_001121	Récolter le poison paralysant sur les Kugheri Somy	쿠게리 소미에게서 마비약 모으기				
 QUEST_LV_0400_20161005_001122	Il lui faut du poison paralysant pour le piège. Vainquez les Kugheri Somy afin de prendre leur poison paralysant.	마비 함정에 들어갈 마비약이 필요하다고 합니다. 쿠게리 소미들을 해치우고 그들이 가지고 다니는 마비약을 모아다 주세요.				
 QUEST_LV_0400_20161005_001123	Vous avez récolté assez de poison paralysant. Donnez-le à Vilhelmas afin qu'il fabrique un piège.	충분한 양의 마비약을 모았습니다. 빌헬마스에게 건네주고 함정을 만들게 하세요.				
-QUEST_LV_0400_20161005_001124	Récolter %s sur les Kugheri Somy	쿠게리 소미에게서 %s을 획득				
+QUEST_LV_0400_20161005_001124	Récolter %s sur les Kugheri{nl}Somy	쿠게리 소미에게서 %s을 획득				
 QUEST_LV_0400_20161005_001125	Piéger une bête	괴수를 함정으로 몰아넣기				
 QUEST_LV_0400_20161005_001126	Vilhelmas semble avoir fabriqué le piège. Demandez-lui comment il compte l'utiliser.	빌헬마스가 마비 함정을 완성한 것 같습니다. 이제 그 함정을 사용할 방법을 물어보세요.				
 QUEST_LV_0400_20161005_001127	Poser le piège	길목에 함정 설치				
@@ -1148,7 +1148,7 @@ QUEST_LV_0400_20161005_001143	La réfugiée Mylija s'inquiète de savoir où che
 QUEST_LV_0400_20161005_001144	Obtenir des Fruits Caudaux de Leafnut	리프넛의 꼬리열매 획득				
 QUEST_LV_0400_20161005_001145	Mylija vous a demandé de récolter des tailfruits de Leafnut pour servir de nourriture temporaire. Vainquez les Leafnut jaune et récoltez leurs tailfruits.	밀리아는 부족한 식량의 임시방편으로 리프넛의 꼬리열매를 모아달라고 합니다. 주변의 노란 리프넛들을 사냥하고 그 꼬리열매를 모아다 주세요.				
 QUEST_LV_0400_20161005_001146	Vous avez rassemblé de quoi nourrir les réfugiés. Donnez la nourriture à Mylija.	피난민들에게 필요한 만큼의 열매를 모은 것 같습니다. 밀리아에게 전달해 주세요.				
-QUEST_LV_0400_20161005_001147	Vaincre les Leafnut jaune et récolter %s	노란 리프넛을 처치하고 %s 모으기				
+QUEST_LV_0400_20161005_001147	Vaincre les Leafnut jaune et{nl}récolter %s	노란 리프넛을 처치하고 %s 모으기				
 QUEST_LV_0400_20161005_001148	Parler au Réfugié Greg	피난민 그렉과 대화				
 QUEST_LV_0400_20161005_001149	Le réfugié Greg semble très inquiet des monstres des environs. Parlez-lui.	피난민 그렉은 주변의 몬스터가 매우 신경쓰이는 것 같습니다. 그와 대화해 보세요.				
 QUEST_LV_0400_20161005_001150	Récolter des Bâtons de Bois Dur	단단한 나무막대 수집				
@@ -1168,12 +1168,12 @@ QUEST_LV_0400_20161005_001163	Il semble qu'il en faille davantage pour empêcher
 QUEST_LV_0400_20161005_001164	Récolter des pattes de Grummer orange	주황 그루머의 다리 수집				
 QUEST_LV_0400_20161005_001165	Il semble que vous deviez broyer et mélanger les pattes de Grummer orange aux racines afin de fabriquer l'antidote. Récoltez des pattes de Grummer orange dans les environs et remettez-les au seigneur Ryudhas.	먼저 구한 뿌리 즙에 그루머의 다리를 갈아 섞어야 돌림병의 약이 완성되는 듯 합니다. 근처의 주황 그루머를 사냥하고 그 다리를 모아 리우다스에게 전해 주세요.				
 QUEST_LV_0400_20161005_001166	Vous avez obtenu une bonne quantité de pattes. Donnez-les au seigneur Ryudhas.	알맞은 양의 다리를 모을 수 있었습니다. 어서 리우다스에게 전달해 주세요.				
-QUEST_LV_0400_20161005_001167	Récolter %s en vainquant des Grummer orange	주황 그루머를 처치하고 %s 수집				
+QUEST_LV_0400_20161005_001167	Récolter %s en vainquant des{nl}Grummer orange	주황 그루머를 처치하고 %s 수집				
 QUEST_LV_0400_20161005_001168	Le seigneur Ryudhas semble avoir une dernière tâche à vous demander. Écoutez ce qu'il a à demander et faites-lui accepter d'avoir une conversation.	영주 리우다스는 마지막으로 개인적인 일을 부탁하려는 것 같습니다. 그의 부탁을 마저 들어주고 대화 약속을 받아내세요.				
 QUEST_LV_0400_20161005_001169	Déterrer la boîte à jouets sous l'arbre marqué	상처있는 나무에서 장난감 상자 파내기				
 QUEST_LV_0400_20161005_001170	Ryudhas souhaite récupérer une boîte à jouets de sa jeunesse. Il a dit qu'elle était sous un arbre marqué, mais vous devez retirer la mousse des arbres afin de trouver l'arbre marqué. Récoltez du fluide de Colimen rouge dans les environs afin de retirer la mousse et de trouver l'arbre marqué.	리우다스는 어린시절 추억의 장난감 상자를 되찾고자 합니다. 그는 흉터가 있는 나무를 찾으라고 하는데, 이곳의 나무들은 모두 이끼가 덮여 먼저 이끼를 녹일 필요가 있습니다. 붉은 콜리멘의 체액을 모아 아트민티스 공터에 있는 나무의 이끼를 녹여 흉터를 확인하고 그 밑에서 장난감 상자를 찾아 리우다스에게 전해 주세요.				
 QUEST_LV_0400_20161005_001171	Vous avez trouvé la boîte à jouets que le seigneur Ryudhas cherchait. Donnez-la-lui et faites-lui accepter d'avoir une conversation.	리우다스가 어린 시절 묻어 놓았던 상자를 찾았습니다. 어서 그에게 가져다 주고 대화 약속을 받아내세요.				
-QUEST_LV_0400_20161005_001172	Déterrer %s sous l'arbre marqué	상처있는 나무 밑에서 %s 파내기				
+QUEST_LV_0400_20161005_001172	Déterrer %s sous l'arbre{nl}marqué	상처있는 나무 밑에서 %s 파내기				
 QUEST_LV_0400_20161005_001173	Convaincre le Seigneur Joquvas	요쿠바스 영주 설득하기				
 QUEST_LV_0400_20161005_001174	Parler au Seigneur Joquvas	영주 요쿠바스와 대화				
 QUEST_LV_0400_20161005_001175	Parler au seigneur Joquvas comme les réfugiés l'ont demandé.	피난민들의 부탁에 따라 먼저 요쿠바스 영주에게 말을 걸어 보세요.				
@@ -1220,7 +1220,7 @@ QUEST_LV_0400_20161005_001215	Indraja semble avoir échoué à interpréter les 
 QUEST_LV_0400_20161005_001216	Obtenir d'autres ordres démoniaques sur les Kugheri Zabbi	쿠게리 자비로부터 마족의 지령서를 습득				
 QUEST_LV_0400_20161005_001217	Indraja pense qu'elle pourra interpréter les ordres si elle a plus de documentation. Allez lui récolter d'autres ordres.	인드라야는 다른 지령서들을 좀 더 모아 비교하면서 조사하면 자신의 능력으로도 의미를 추측할 수 있을 것 같다고 합니다. 그녀를 위해 지령서를 더 모아다 주세요.				
 QUEST_LV_0400_20161005_001218	Vous avez rassemblé assez d'ordres pour Indraja. Donnez-les-lui pour qu'elle les interprète.	인드라야가 요구한 숫자의 지령서를 모았습니다. 그녀가 해석할 수 있도록 전달해 주세요.				
-QUEST_LV_0400_20161005_001219	Obtenir %s sur les Kugheri Zabbi	쿠게리 자비에게서 %s 입수				
+QUEST_LV_0400_20161005_001219	Obtenir %s sur les Kugheri{nl}Zabbi	쿠게리 자비에게서 %s 입수				
 QUEST_LV_0400_20161005_001220	Indraja semble avoir réussi à comprendre ce que cherchaient les démons. Demandez-lui quelle est la prochaine étape du plan.	인드라야는 여러 장의 지령서를 통해 자신을 쫓고 있던 마족의 현재 상황을 추측한 것 같습니다. 이제 그녀에게 다음으로 해야 할 일을 물어 보세요.				
 QUEST_LV_0400_20161005_001221	Vaincre Vhalterris et récupérer le coffre du mausolée royal	마족 발테리스를 처치하고 왕릉의 상자 회수				
 QUEST_LV_0400_20161005_001222	Indraja dit que vous devez vaincre Vhalterris et récupérer le coffre du Mausolée royal afin de poursuivre la recherche de l'entrée. Trouvez Vhalterris à l'Autel d'Apeighos et vainquez-le.	인드라야는 마족 발테리스를 물리치고 그가 빼앗아 간 왕릉의 상자를 회수 해야 왕릉의 입구를 계속 조사할 수 있다고 합니다. 아페이고스 제단을 조사 중인 발테리스를 찾아 그를 물리치세요.				
@@ -1243,7 +1243,7 @@ QUEST_LV_0400_20161005_001238	Vous avez réussi à trouver l'entrée du Mausolé
 QUEST_LV_0400_20161005_001239	Récolter les Bâtons des Kugheri Numani	쿠게리 누마니의 지팡이 수집				
 QUEST_LV_0400_20161005_001240	Indraja souhaite resceller l'entrée du Mausolée royal. Allez récolter des bâtons de Kugheri Numani car il est trop risqué d'utiliser davantage le sceau royal.	인드라야는 왕릉의 입구를 다시 봉인할 생각입니다. 왕가의 문장을 더 사용하기엔 무리가 있는 것 같으니 쿠게리 누마니의 지팡이를 모아다 주세요.				
 QUEST_LV_0400_20161005_001241	Vous avez récolté assez de bâtons pour resceller l'entrée du Mausolée royal. Donnez-lui les bâtons afin qu'elle puisse resceller l'entrée.	왕릉 입구의 재봉인에 필요한 정도의 지팡이가 충분히 모였습니다. 인드라야가 재봉인을 할 수 있도록 그녀에게 지팡이를 건네 주세요.				
-QUEST_LV_0400_20161005_001242	Obtenir %s sur les Kugheri Numani	쿠게리 누마니에게서 %s 획득				
+QUEST_LV_0400_20161005_001242	Obtenir %s sur les Kugheri{nl}Numani	쿠게리 누마니에게서 %s 획득				
 QUEST_LV_0400_20161005_001243	Indraja a rescellé l'entrée du Mausolée royal mais s'inquiète du fait qu'il y ait encore des gens qui connaissent son emplacement. Parlez-lui pour voir ce qu'il convient de faire.	인드라야는 왕릉의 입구를 다시 숨겼지만 그 사실을 알고 있을 발테리스의 남은 협력자들이 신경쓰이는 모양입니다. 우선 그녀와 대화해 보세요.				
 QUEST_LV_0400_20161005_001244	S'Occuper de la Tribu Kugheri	쿠게리 부족을 처치				
 QUEST_LV_0400_20161005_001245	Indraja dit que laisser des Kugheri qui connaissent l'emplacement de l'entrée est un détail en suspens. Occupez-vous de la tribu Kugheri comme elle l'a demandé.	인드라야는 발테리스의 지시를 받던 쿠게리들이 아직 남아 있어 비밀유지에 방해가 된다고 생각합니다. 그녀의 요청대로 쿠게리 부족을 처치해 주세요.				
@@ -1260,7 +1260,7 @@ QUEST_LV_0400_20161005_001255	Parler à Woognis	우그니스와 대화
 QUEST_LV_0400_20161005_001256	Parler à Woognis	우그니스와 대화하세요				
 QUEST_LV_0400_20161005_001257	Récolter de la fourrure de Vilkas malodorante	빌카스의 냄새 나는 털 구하기				
 QUEST_LV_0400_20161005_001258	Woognis a des difficultés à chercher la fléchette car un nid de Vilkas bloque le passage. Woognis croit que ce sera plus sûr s'il est couvert de fourrure de Vilkas malodorante. Récoltez de la fourrure de Vilkas malodorante pour Woognis.	플레세트 수색지가 빌카스의 서식지라 수색 활동에 어려움이 있습니다. 우그니스는 빌카스의 냄새나는 털을 간직하고 있으면 몸에서 빌카스의 냄새가 몬스터들이 공격하지 않을거라 합니다. 빌카스의 냄새 나는 털을 구하세요				
-QUEST_LV_0400_20161005_001259	Récolter %s en vainquant des Archers Vilkas	빌카스와 빌카스 궁수를 처치해 %s 구하기				
+QUEST_LV_0400_20161005_001259	Récolter %s en vainquant des{nl}Archers Vilkas	빌카스와 빌카스 궁수를 처치해 %s 구하기				
 QUEST_LV_0400_20161005_001260	Fouiller le nid de Vilkas	빌카스의 서식지 수색				
 QUEST_LV_0400_20161005_001261	Fouiller le nid des Vilkas s'avère difficile car les monstres sont méfiants. Utilisez la fourrure de Vilkas malodorante pour tromper les monstres et cherchez la fléchette.	빌카스의 서식지에 플레세트가 있는지 확인하려고 했지만 몬스터의 경계심때문에 수색이 쉽지 않습니다. 빌카스의 냄새 나는 털을 사용해 빌카스의 경계심을 푼 뒤 빌카스의 서식지에서 플레세트를 수색하세요				
 QUEST_LV_0400_20161005_001262	Trouver Jenonhas au Croisement de Kainen	카이넨 나루터에서 제노나스 찾기				
@@ -1272,10 +1272,10 @@ QUEST_LV_0400_20161005_001267	Retourner au camp de Mechen et arrêter Jenonhas	�
 QUEST_LV_0400_20161005_001268	Parler au Maître Empenneur	플레쳐 마스터와 대화하세요				
 QUEST_LV_0400_20161005_001269	Obtenir l'essence magique de Romplenuka	롬펠누카의 마력 정수 구하기				
 QUEST_LV_0400_20161005_001270	L'essence magique de Romplenuka est nécessaire pour fabriquer le dispositif de détection de la fléchette. Vainquez des Romplenuka afin d'obtenir leur essence magique	플레세트 탐색 장치를 만들기 위해선 롬펠누카의 마력 정수가 필요하다고 합니다. 롬펠누카를 처치하고 마력 정수 구하세요				
-QUEST_LV_0400_20161005_001271	Vaincre Romplenuka et obtenir %s	롬펠누카를 처치해 %s 구하기				
+QUEST_LV_0400_20161005_001271	Vaincre Romplenuka et{nl}obtenir %s	롬펠누카를 처치해 %s 구하기				
 QUEST_LV_0400_20161005_001272	Obtenir l'essence de Vilkas	빌카스의 정수 구하기				
 QUEST_LV_0400_20161005_001273	On dit que l'essence de Vilkas est nécessaire pour maîtriser l'essence de Romplenuka. Vainquez des Vilkas afin d'obtenir leur essence	롬펠누카의 정수를 제어하기 위해선 빌카스의 정수가 필요하다고 합니다. 빌카스를 처치해 빌카스의 정수를 구하세요				
-QUEST_LV_0400_20161005_001274	Vaincre les Vilkas et obtenir %s	빌카스를 처치해 %s 구하기				
+QUEST_LV_0400_20161005_001274	Vaincre les Vilkas et obtenir{nl}%s	빌카스를 처치해 %s 구하기				
 QUEST_LV_0400_20161005_001275	Trouvez la Fléchette à l'aide du Dispositif de Détection de Fléchettes	플레세트 탐색 장치로 플레세트 찾기				
 QUEST_LV_0400_20161005_001276	Trouver la Fléchette Avec le Dispositif de Détection de Fléchettes	완성된 플레세트 탐색 장치로 플레세트를 찾으세요				
 QUEST_LV_0400_20161005_001277	Les Vœux de Maven	메이번의 유지				
@@ -1321,7 +1321,7 @@ QUEST_LV_0400_20161005_001316	Trouver les Cocons de Papillon de la Forêt des Ar
 QUEST_LV_0400_20161005_001317	Liel dit qu'il faut des cocons de Papillon de nuit de la forêt d'Arbre blanc Forest pour réparer la tente. Récoltez des cocons de Papillon de nuit de la forêt à la place d'Ohla et de Liel qui ne peuvent pas se défendre des monstres.	리엘은 천막을 고치기 위해 흰나무 숲 나방의 고치가 필요하다고 합니다. 몬스터로부터 안전하지 못한 올라와 리엘을 대신해 흰나무 숲 나방의 고치를 수집하세요.				
 QUEST_LV_0400_20161005_001318	Remettre les Cocons de Papillon à Ohla	올라에게 흰나무숲 나방의 고치 전달				
 QUEST_LV_0400_20161005_001319	Vous avez rassemblé les cocons de papillon. Retournez voir Ohla et remettez-les-lui.	흰나무 숲 나방의 고치를 구했습니다. 올라에게 돌아가서 고치를 전달해 주세요.				
-QUEST_LV_0400_20161005_001320	Fouiller l'herbe alentour et trouver %s.	주변의 풀섶에서 %s 구하기				
+QUEST_LV_0400_20161005_001320	Fouiller l'herbe alentour et{nl}trouver %s.	주변의 풀섶에서 %s 구하기				
 QUEST_LV_0400_20161005_001321	Parler à Curtis	커티스와 대화				
 QUEST_LV_0400_20161005_001322	Parler à Curtis	커티스와 대화하세요				
 QUEST_LV_0400_20161005_001323	Trouver des objets comestibles	식량으로 쓸만한 것 구해다 주기				
@@ -1343,7 +1343,7 @@ QUEST_LV_0400_20161005_001338	Parler à Curtis.	커티스와 대화하세요.
 QUEST_LV_0400_20161005_001339	Récupérer les Sacs de Pièces Détachées du Téléphérique	부품 자루 회수하기				
 QUEST_LV_0400_20161005_001340	Le téléphérique est bien trop vieux et sujet à de nombreuses pannes. Le kit de réparation est dans le sac volé par les monstres. Vainquez les monstres et récupérez-les.	케이블카가 노후화가 심해 잔고장을 일으킨다고 합니다. 잔고장을 일으킬 때 마다 수리를 해야 하는데 몬스터들이 수리에 필요한 부품이 담긴 자루를 훔쳐가 버렸다고 합니다. 몬스터들을 처치하고 자루를 회수해 오세요.				
 QUEST_LV_0400_20161005_001341	Vous avez récupéré tous les sacs de pièces détachées du téléphérique. Retournez les remettre à Curtis. 	부품 자루를 모두 회수했습니다. 이제 커티스에게 갖다 주세요.				
-QUEST_LV_0400_20161005_001342	Récupérer %s après avoir vaincu des monstres	몬스터를 처치하고 %s 회수하기				
+QUEST_LV_0400_20161005_001342	Récupérer %s après avoir{nl}vaincu des monstres	몬스터를 처치하고 %s 회수하기				
 QUEST_LV_0400_20161005_001343	Vaincre les monstres de la ferme	농경지 안에 있는 몬스터 처치하기				
 QUEST_LV_0400_20161005_001344	Curtis dit que l'infestation de monstres dans la ferme est le plus gros problème auquel il fait face. Reprenez la ferme aux monstres.	커티스는 농경지 안에 있는 몬스터 때문에 농사를 짓기 어렵다고 합니다. 몬스터를 처치해 농경지를 되찾으세요.				
 QUEST_LV_0400_20161005_001345	Vaincre %s à la Ferme de Phavegheliai	파베겔리아이 농경지에 있는 %s 처치				
@@ -1545,7 +1545,7 @@ QUEST_LV_0400_20161214_001542	Parler à Kupole Lenja.	큐폴 레냐와 대화하
 QUEST_LV_0400_20161214_001543	Attester des Pagodes de la Prophétie	예언의 석탑 확인				
 QUEST_LV_0400_20161214_001544	D'après Kupole Lenja, pour prouver que vous êtes le Sauveur, vous devez attester de votre statut auprès des pagodes de Voie de Pranasyste. Faites vos preuves auprès des trois pagodes de pierre et obtenez le tome de la prophétie.	큐폴 레냐는 진정한 구원자가 맞는지 확인하기 위해 프라나시스테 길에 있는 예언의 석탑에 확인을 받으라고 합니다. 세 개의 예언의 석탑에 확인을 받고 예언의 서를 획득하세요.				
 QUEST_LV_0400_20161214_001545	Vous avez attesté de votre statut auprès des pagodes et reçu le tome de la prophétie. Retournez voir Kupole Lenja.	예언의 석탑을 모두 확인하고 예언의 서를 얻었습니다. 큐폴 레냐에게 돌아가세요.				
-QUEST_LV_0400_20161214_001546	Attester des pagodes de la prophétie et obtenir le %s	모든 예언의 탑을 확인하고 %s 획득				
+QUEST_LV_0400_20161214_001546	Attester des pagodes de la{nl}prophétie et obtenir le %s	모든 예언의 탑을 확인하고 %s 획득				
 QUEST_LV_0400_20161214_001547	Il ne semble rien y avoir d'écrit sur le tome de la prophétie. Demandez à Kupole Lenja ce qu'il faut faire.	예언의 서에는 아무런 내용도 써있지 않습니다. 어떻게 해야하는지 큐폴 레냐에게 물어보세요.				
 QUEST_LV_0400_20161214_001548	Recevoir le Pouvoir du Destin de l'Orbe du Destin	운명의 보주에서 운명의 힘 흡수				
 QUEST_LV_0400_20161214_001549	Pour lire le tome de la prophétie, il vous faut le pouvoir du destin de Laima. Obtenez le pouvoir du destin auprès de l'orbe du destin situé sur Voie de Rechimas.	예언의 서의 내용을 보려면 운명의 힘이 필요하다고 합니다. 리키마스 길에 있는 운명의 보주에서 운명의 힘을 흡수하세요.				
@@ -2585,7 +2585,7 @@ QUEST_LV_0400_20171128_002596	Demander au Beholder où se trouve le prochain cri
 QUEST_LV_0400_20171128_002597	Absorber la magie d'une pierre de cristal au Terrain de Lemtis	렘티스 공터 수정석의 마력을 흡수				
 QUEST_LV_0400_20171128_002598	Le Beholder vous a demandé d'absorber la magie d'une pierre de cristal du terrain.{nl}Examinez la pierre de cristal pour trouver la procédure de désactivation et désactivez sa protection. Une fois la protection retirée, absorbez la magie de la pierre de cristal.	주시자는 이번엔 공터의 수정석에 있는 마력을 흡수해오라고 합니다.{nl}수정석을 조사하여 보호되는 방법을 알아내고 보호를 해제시켜 수정석의 마력을 흡수하세요.				
 QUEST_LV_0400_20171128_002599	Vous avez absorbé la magie de la pierre de cristal du terrain.{nl}Parlez au Beholder pour lui remettre la magie absorbée.	공터에 있는 수정석의 마력을 흡수했습니다.{nl}주시자에게 건네주기 위해 주시자와 대화하세요.				
-QUEST_LV_0400_20171128_002600	Examiner la Pierre de Cristal du Terrain de Lemtis	렘티스 공터의 수정석 조사하기				
+QUEST_LV_0400_20171128_002600	Examiner la Pierre de Cristal{nl}du Terrain de Lemtis	렘티스 공터의 수정석 조사하기				
 QUEST_LV_0400_20171128_002601	La pierre de cristal du carrefour	교차로의 수정석				
 QUEST_LV_0400_20171128_002602	Vous avez absorbé la magie de la pierre de cristal du terrain. Remettez l'orbe au Beholder et demandez où chercher ensuite.	공터에 있는 수정석의 마력을 흡수했습니다. 주시자에게 오브를 건내주고 다음 수정석에 대한 정보를 알기 위해 주시자와 대화하세요.				
 QUEST_LV_0400_20171128_002603	Absorber la magie de la pierre de cristal du Carrefour de Zibukas	지부카스 교차로 수정석의 마력을 흡수				
@@ -2631,7 +2631,7 @@ QUEST_LV_0400_20171128_002642	Abraomas s'agite après avoir entendu ce que vous 
 QUEST_LV_0400_20171128_002643	Chercher la recrue	신입의 행방 찾기				
 QUEST_LV_0400_20171128_002644	Abraomas n'est pas encore prêt à renoncer. Il vous a demandé d'aller de l'autre côté chercher la recrue.{nl}Passez de l'autre côté pour chercher la recrue.	아브라오마스는 아직 속단하긴 이르다면서 건너편에서 신입의 행방을 알 수 있는 것이 있는지 알아봐달라고 합니다.{nl}건너편으로 넘어가 신입의 행방을 조사해보세요.				
 QUEST_LV_0400_20171128_002645	Vous avez appris quelques indices sur l'endroit où se trouve la recrue auprès d'un démon que vous avez vaincu.{nl}Transmettez l'information à Abraomas.	처치한 마족에게서 신입의 행방에 대한 단서가 될 말을 들었습니다.{nl}이 말을 아브라오마스에게 전해주세요.				
-QUEST_LV_0400_20171128_002646	Chercher des indices sur la recrue	신입의 단서 찾기				
+QUEST_LV_0400_20171128_002646	Chercher des indices sur la{nl}recrue	신입의 단서 찾기				
 QUEST_LV_0400_20171128_002647	Vaincu %	% 처치				
 QUEST_LV_0400_20171128_002648	Abraomas semble soulagé d'entendre parler de la recrue.{nl}Parlez à Abraomas.	신입에 대한 이야기를 들은 아브라오마스가 약간 안심한 듯 합니다.{nl}아브라오마스와 대화하세요.				
 QUEST_LV_0400_20171128_002649	Parler à Leonardas	레오나르다스와 대화				
@@ -2674,7 +2674,7 @@ QUEST_LV_0400_20171128_002685	Parler à Leonardas pour connaître ses prochains 
 QUEST_LV_0400_20171128_002686	Trouver des catalyseurs dans la réserve	창고에서 촉매제 찾기				
 QUEST_LV_0400_20171128_002687	Fouillez les boîtes d'une réserve près du Carrefour de Sviesus pour trouver des catalyseurs magiques.	스비에수스 사거리 근처에 있는 마족의 창고에 있는 상자를 탐색하여 마법 효과 촉매제를 모아오세요.				
 QUEST_LV_0400_20171128_002688	Vous avez rassemblé assez de catalyseurs.{nl}Donnez-les à Leonardas.	창고에서 마법 효과 촉매제를 다 모았습니다.{nl}레오나르다스에게 가져다주세요.				
-QUEST_LV_0400_20171128_002689	Un catalyseur magique trouvé dans la boîte	상자 속에서 마법 효과 촉매제 찾기				
+QUEST_LV_0400_20171128_002689	Un catalyseur magique trouvé{nl}dans la boîte	상자 속에서 마법 효과 촉매제 찾기				
 QUEST_LV_0400_20171128_002690	Leonardas a commencé à préparer la sève.{nl}Recevez les instructions de Leonardas.	레오나르다스는 이제 본격적으로 수액을 만들려고 합니다.{nl}레오나르다스에게 설명을 들으세요.				
 QUEST_LV_0400_20171128_002691	Combiner la Sève Avec les Esprits des Terres Lacustres	호수의 정기를 담은 수액 조합				
 QUEST_LV_0400_20171128_002692	Leonardas vous a demandé de créer la sève en utilisant les ingrédients récoltés, ses outils et l'essence du lac.{nl}Combinez la sève en suivant ses instructions.{nl}	레오나르다스는 지금까지 모아온 재료들과 자신이 준 물건들을 가지고 호수의 정기를 담은 수액을 만들어달라고 합니다.{nl}재료들을 가지고 조합하여 호수의 정기를 담은 수액을 만드세요.{nl}				
@@ -2765,7 +2765,7 @@ QUEST_LV_0400_20171128_002776	Parler au Moine Aistis	수도사 아이스티스�
 QUEST_LV_0400_20171128_002777	Aller parler au moine Aistis.	수도사 아이스티스와 대화하세요.				
 QUEST_LV_0400_20171128_002778	Récolter de l'Essence Démoniaque	마족의 정수를 구하기				
 QUEST_LV_0400_20171128_002779	Le moine Aistis vous a dit que l'énergie de la barrière est sur le point de s'épuiser. Il vous a demandé d'apporter de l'essence démoniaque pour servir de source d'énergie. Vainquez les démons du Plateau d'Izoliacjia pour récolter de l'essence démoniaque.	수도사 아이스티스는 방어시설의 에너지가 바닥이 났다고 합니다. 그는 에너지를 대신할 수 있는 마족의 정수를 구해서 사용하자고 합니다. 이졸라챠 고원에 있는 마족을 처치해 정수를 구하세요.				
-QUEST_LV_0400_20171128_002780	Vaincre des démons pour récolter %s	마족을 처치해 %s 구하기				
+QUEST_LV_0400_20171128_002780	Vaincre des démons pour{nl}récolter %s	마족을 처치해 %s 구하기				
 QUEST_LV_0400_20171128_002781	Briser le système de détection auxiliaire	보조 감지 시설 작동 중지 시키기				
 QUEST_LV_0400_20171128_002782	Aistis a proposé de modifier le système de détection pour le transformer en quelque chose de défensif. Pour cela, le système de détection doit être éteint. Cependant, les systèmes de détection auxiliaires empêcheront cela. Aistis arrêtera le système de détection, vous devez donc éteindre ses systèmes auxiliaires.	수도사 아이스티스는 감지시설을 개조해 방어 시설로 사용하자고 합니다. 그러기 위해서는 감지 시설을 중지시켜야 하는데 본체 감지 시설을 정지시켜도 보조 감지 시설은 계속 작동한다고 합니다. 수도사 아이스티스는 자신이 본체 감지 시설을 작동 중지시킬테니 대신 보조 감지 시설을 꺼달라고 합니다.				
 QUEST_LV_0400_20171128_002783	Rapporter les pièces d'un système défensif détruit à proximité	근처에 파괴된 방어시설에게 부품 가져오기				
@@ -2787,10 +2787,10 @@ QUEST_LV_0400_20171128_002798	Hauberk de suspicion a ordonné à ses démons de 
 QUEST_LV_0400_20171128_002799	Vaincre les sbires de Hauberk de suspicion qui tentent de détruire l'équipement de Flurry	플러리의 시설을 파괴하려는 하우벅 추종자들을 처치하기				
 QUEST_LV_0400_20171128_002800	Récolter de la Puissante Essence de Démon	마족의 강력한 정수 구하기				
 QUEST_LV_0400_20171128_002801	Le moine Aistis veut améliorer l'équipement d'Agailla Flurry. Il a besoin de puissante essence de démon pour alimenter l'amélioration. Récoltez de la puissante essence de démon pour lui.	수도사 아이스티스는 아가일라 플러리의 시설을 강화시키기 위해 손 볼테니 시설을 작동 시키기 위한 에너지로 쓰일 강력한 마족의 정수를 구해달라고 합니다. 마족의 강력한 정수를 구해주세요.				
-QUEST_LV_0400_20171128_002802	Vaincre les sbires de Hauberk de suspicion pour récolter %s	주변에 있는 하우벅의 추종대를 처치해 %s 구하기				
+QUEST_LV_0400_20171128_002802	Vaincre les sbires de Hauberk{nl}de suspicion pour récolter %s	주변에 있는 하우벅의 추종대를 처치해 %s 구하기				
 QUEST_LV_0400_20171128_002803	Récolter le sang des Mages Hohen noir	검은 호헨 메이지의 피를 구하기				
 QUEST_LV_0400_20171128_002804	Aistis a découvert que l'équipement de la zone est déjà ruiné par les fidèles de Hauberk de suspicion. Cependant, ses composants principaux fonctionnent encore. Avec assez de réparations, il peut être remis en état et même amélioré. Il lui faut du sang démoniaque pour cela. Vainquez un Mage Hohen noir et apportez son sang à Aistis.	수도사 아이스티스는 아가일라 플러리의 시설은 이미 의심의 하우벅 추종 마족에 의해 망가졌다고 합니다. 하지만 핵심 부품은 완전히 손상되지 않아 충분히 고치고 기능을 더 강력하고 효율적인 보강시킬 수 있다고 합니다. 시설을 보강하기 위해선 마족의 피가 필요하다고 합니다. 검은 호헨 메이지를 처치해 마족의 피를 구해오세요.				
-QUEST_LV_0400_20171128_002805	Vaincre les Mages Hohen noir pour récolter %s	주변에 있는 검은 호헨 메이지를 처치해 %s 구하기				
+QUEST_LV_0400_20171128_002805	Vaincre les Mages Hohen noir{nl}pour récolter %s	주변에 있는 검은 호헨 메이지를 처치해 %s 구하기				
 QUEST_LV_0400_20171128_002806	Récolter l'eau bénite mêlée de sang démoniaque	마족의 피가 섞인 성수 수집하기				
 QUEST_LV_0400_20171128_002807	Aistis pense que si de l'eau bénite est mélangée à du sang démoniaque, les installations ne cibleront que les démons. Il veut que vous apportiez une bouteille d'eau bénite mélangée à du sang démoniaque.	수도사 아이스티스는 성수가 든 용기에 마족의 피를 섞어서 사용하면 시설이 마족만을 목표로 잡고 작동할 거라 합니다. 그는 마족의 피를 성수가 든 용기에 넣고 섞어서 가져오라고 합니다. 성수에 마족의 피를 섞어서 가져오세요.				
 QUEST_LV_0400_20171128_002808	Espionner Hauberk de l'ambition et ses sbires	야망의 하우벅과 그의 추종 마족이 하는 이야기를 엿듣기				
@@ -2822,7 +2822,7 @@ QUEST_LV_0400_20171128_002833	Récolter de la Chair de Démon	마족의 살점 �
 QUEST_LV_0400_20171128_002834	L'apparition vous a dit qu'il faut informer Hauberk de suspicion de ce que fait Hauberk de tromperie. Cependant, comme son nom l'indique, Hauberk de suspicion se méfie beaucoup de tout, l'approcher ne sera donc pas facile. L'apparition veut que vous tuiez son sbire et vous déguisiez en lui pour vous approcher. D'abord, il vous faudra de la chair de démon pour cela. Allez en chercher.	아가일라 플러리의 환영체는 의심의 하우벅이 기만의 하우벅이 하는 일을 알게끔 만들어야 한다고 합니다. 하지만 의심의 하우벅은 이름처럼 의심이 많아 쉽게 접근하기 어려울 것이라고 합니다. 그의 부하 마족을 처치하고 부하 마족으로 변장해서 의심의 하우벅에게 접근하자고 합니다. 아가일라 플러리의 환영체는 부하 마족으로 변하기 위해서는 먼저 마족의 살점이 필요하다고 합니다. 마족의 살점을 구하세요.				
 QUEST_LV_0400_20171128_002835	Vaincre un sbire d'élite de Hauberk de suspicion	의심의 하우벅 핵심 추종자 처치하기				
 QUEST_LV_0400_20171128_002836	L'apparition vous a dit que l'un des fidèles principaux de Hauberk de suspicion cherche quelque chose. Trouvez le fidèle et vainquez-le pour utiliser son sang comme déguisement.	아가일라 플러리의 환영체는 의심의 하우벅 핵심 추종자가 의심의 하우벅의 명을 받고 무엇인가를 찾으러 다니고 있다고 합니다. 핵심 추종자를 처치해 그의 피를 활용해 변장하자고 합니다.				
-QUEST_LV_0400_20171128_002837	Vaincre Marteau du roi et récolter %s	킹 해머를 처치하고 %s를 구하기				
+QUEST_LV_0400_20171128_002837	Vaincre Marteau du roi et{nl}récolter %s	킹 해머를 처치하고 %s를 구하기				
 QUEST_LV_0400_20171128_002838	Approcher Hauberk de Suspicion	의심의 하우벅에게 접근하기				
 QUEST_LV_0400_20171128_002839	Un parchemin pour se déguiser en l'un des fidèles principaux de Hauberk de suspicion est prêt. Utilisez le parchemin pour l'approcher, et informez-le de ce que fait Hauberk de tromperie.	의심의 하우벅 핵심 추종자로 변신 할 수 있는 스크롤이 완성됐습니다. 이것을 사용해 의심의 하우벅에게 접근하고 기만의 하우벅이 하고 있는 일을 알리세요.				
 QUEST_LV_0400_20171128_002840	Modifier le Jeton de Contrat	계약의 증표 변형시키기				
@@ -2833,7 +2833,7 @@ QUEST_LV_0400_20171128_002844	Modifier l'Orbe de Registre	기록의 보주 내�
 QUEST_LV_0400_20171128_002845	Agailla Flurry vous a dit qu'il faut informer Hauberk de l'ambition de ce que fait Hauberk de tromperie. Son fidèle principal est déjà mort, il vous faudra donc soumettre les sbires d'Hauberk de l'ambition pour le pousser à agir. Il y a dans la zone un orbe de registre qui aide les responsables de ce lieu à se souvenir des petits détails. Agailla Flurry a proposé d'utiliser la version modifiée de l'orbe et de s'en servir sur leurs sbires. Modifiez l'orbe de registre comme elle l'a suggéré.	아가일라 플러리는 야망의 하우벅에게 기만의 하우벅이 지금 하고 있는 일을 알려야 한다고 합니다. 그의 핵심 추종자는 이미 죽었기에 직속 부하 마족들을 세뇌시켜 야망의 하우벅을 충동질하자고 합니다. 이곳 시설 관리인이 유의사항을 잊어먹지 않게끔 잠깐동안 머리 속에 숙지시켜주는 기록의 보주란 것이 있다고 합니다. 아가일라 플러리는 이 보주의 내용을 수정해 부하 마족들에게 사용하면 될 것 같다고 합니다. 기록의 보주 내용을 수정하세요.				
 QUEST_LV_0400_20171128_002846	Trouver l'essence d'un sbire d'élite de Hauberk	정예 하우벅 추종자의 정수 구하기				
 QUEST_LV_0400_20171128_002847	L'apparition d'Agailla Flurry vous a dit que vous devez soumettre les fidèles d'élite d'Hauberk de l'ambition. Cependant, il n'est pas facile de distinguer les élites des autres fidèles. L'apparition va fabriquer une marque d'identification en utilisant l'essence des élites. Vainquez les fidèles d'élite pour récolter leur essence.	아가일라 플러리의 환영체는 야망의 하우벅 정예 추종자들을 세뇌시켜야 하는데 누가 야망의 하우벅 정예 추종자인지 구분하기 어렵다고 합니다. 그래서 그녀는 정예 추종자들을 처치해서 나온 정수를 조사해 누가 야망의 하우벅 추종자인지를 할 수 있는 피아식별의 인장을 만들겠다고 합니다. 정예 추종자들을 처치해 정수를 구해오세요.				
-QUEST_LV_0400_20171128_002848	Vaincre les Harugal pour récolter %s	하루갈을 처치해 %s 구하기				
+QUEST_LV_0400_20171128_002848	Vaincre les Harugal pour{nl}récolter %s	하루갈을 처치해 %s 구하기				
 QUEST_LV_0400_20171128_002849	Utiliser l'orbe de registre sur Harugal noir, l'un des sbires d'élite d'Hauberk de l'ambition	야망의 하우벅 정예 부하 검은 하루갈에게 기록의 보주 사용하기				
 QUEST_LV_0400_20171128_002850	L'apparition vous a demandé d'utiliser la marque d'identification pour trouver les Harugal noir, qui sont les fidèles d'élite d'Hauberk de l'ambition, et d'utiliser l'orbe de registre sur eux. Affaiblissez-les d'abord, puis utilisez l'orbe de registre sur eux en cliquant sur l'objet dans l'inventaire.	아가일라 플러리의 환영체는 완성된 피아식별의 인장을 사용해 야망의 하우벅 정예 검은 하루갈을 찾고 그들에게 기록의 보주를 사용하라고 합니다. 야망의 하우벅 정예 검은 하루갈을 약하게 만든 후 인벤토리에 있는 기록의 보주를 클릭하여 사용하세요.				
 QUEST_LV_0400_20171128_002851	Observer la situation d'Hauberk de l'ambition	야망의 하우벅의 상황 살피기				
@@ -3085,7 +3085,7 @@ QUEST_LV_0400_20180208_003104	Je prie pour que cela vous soit utile.	이 힘이 
 QUEST_LV_0400_20180305_003111	Chapitre 2 : Légendes du{nl}mausolée royal caché{nl}-{nl}Les Grands bois ont été utilisées{nl}par les nobles comme par le{nl}peuple comme terrains de chasse{nl}ou refuge grâce à leur végétation{nl}luxuriante.{nl}Aussi est-il inévitable que les{nl}gens en aient l'expérience.{nl}Cependant, le plus drôle est qu'il{nl}n'existe aucun récit lié à la famille{nl}royale.{nl}D'après certaines rumeurs, la{nl}raison de cette absence de récits{nl}est qu'après l'ère de Taniel II.{nl}De nombreuses offrandes ont été{nl}enterrées dans le mausolée{nl}secret.	제 2장 : 숨겨진 왕릉 전설{nl}-{nl}대삼림지대는 예로부터 그 울창한{nl}삼림 덕분에 평시에는 귀족들의{nl}사냥터를 제공하고, 비상시에는{nl}귀족은 물론 일반 백성의 피난처로{nl}쓰이곤 했습니다.{nl}따라서 곳곳에 그런 사람들이{nl}겪은 이야기가 있는 것은{nl}당연합니다.{nl}그런데 이상하게도 왕실과 관련된{nl}이야기는 없는데 그 이유가{nl}타니엘 2세 시대에 이곳에{nl}비밀 왕릉을 만든 후 엄청난{nl}부장품을 함께 묻었기 때문이라는{nl}소문이 있습니다.	QUEST_LV_0400_20161005_000475	Chapitre 2 : Légendes du{nl}mausolée royal caché{nl}-{nl}Les Grands bois ont été utilisées{nl}par les nobles comme par le{nl}peuple comme terrains de chasse{nl}ou refuge grâce à leur végétation{nl}luxuriante.{nl}Aussi est-il inévitable que les{nl}gens en aient l'expérience.{nl}Cependant, le plus drôle est qu'il{nl}n'existe aucun récit lié à la famille{nl}royale.{nl}D'après certaines rumeurs, la{nl}raison de cette absence de récits{nl}est qu'après l'ère de Taniel II.{nl}De nombreuses offrandes ont été{nl}enterrées dans le mausolée{nl}secret.	제 2장 : 숨겨진 왕릉 전설{nl}-{nl}대삼림지대는 예로부터 그 울창한{nl}삼림 덕분에 평시에는 귀족들의{nl}사냥터를 제공하고, 비상시에는{nl}귀족은 물론 일반 백성의 피난처로{nl}쓰이곤 했습니다.{nl}따라서 곳곳에 그런 사람들이{nl}겪은 이야기가 있는 것은{nl}당연합니다.
 
 {nl}그런데 이상하게도 왕실과 관련된{nl}이야기는 없는데 그 이유가{nl}타니엘 2세 시대에 이곳에{nl}비밀 왕릉을 만든 후 엄청난{nl}부장품을 함께 묻었기 때문이라는{nl}소문이 있습니다.	전설 속 동굴 : 개정판 제 2권
-QUEST_LV_0400_20180305_003112	À vrai dire, les archives des{nl}funérailles de Taniel{nl}II sont extrêmement rares ce qui{nl}prête davantage de crédibilité à{nl}ces affirmations.{nl}C'est parce que les autres{nl}funérailles avaient une sorte{nl}d'archives aussi minimes{nl}soient-elles.{nl}Cependant, même si ces{nl}affirmations sont vraies le{nl}mausolée ne verra jamais le jour.	사실 역대 다른 국왕과 달리{nl}타니엘 2세의 공식 장례 기록은{nl}부실하기 때문에 이 소문은 상당한{nl}신빙성을 지녔습니다.{nl}역대의 국왕들께서는 화장이든{nl}매장이든 상관없이 확실한 기록이{nl}남아있기 때문입니다.{nl}하지만 이 소문이 사실이라도{nl}그 무덤이 세상에 모습을 드러낼{nl}날은 오지 않을 것 같습니다.{nl}	QUEST_LV_0400_20161005_000477	À vrai dire, les archives des{nl}funérailles de Taniel{nl}II sont extrêmement rares ce qui{nl}prête davantage de crédibilité à{nl}ces affirmations.{nl}C'est parce que les autres{nl}funérailles avaient une sorte{nl}d'archives aussi minimes{nl}soient-elles.{nl}Cependant, même si ces{nl}affirmations sont vraies le{nl}mausolée ne verra jamais le jour.	사실 역대 다른 국왕과 달리{nl}타니엘 2세의 공식 장례 기록은{nl}부실하기 때문에 이 소문은 상당한{nl}신빙성을 지녔습니다.{nl}역대의 국왕들께서는 화장이든{nl}매장이든 상관없이 확실한 기록이{nl}남아있기 때문입니다.{nl}하지만 이 소문이 사실이라도{nl}그 무덤이 세상에 모습을 드러낼{nl}날은 오지 않을 것 같습니다.	전설 속 동굴 : 개정판 제 2권
+QUEST_LV_0400_20180305_003112	À vrai dire, les archives des{nl}funérailles de Taniel II sont{nl}extrêmement rares ce qui prête{nl}davantage de crédibilité à ces{nl}affirmations.{nl}C'est parce que les autres{nl}funérailles avaient une sorte{nl}d'archives aussi minimes{nl}soient-elles.{nl}Cependant, même si ces{nl}affirmations sont vraies le{nl}mausolée ne verra jamais le jour.	사실 역대 다른 국왕과 달리{nl}타니엘 2세의 공식 장례 기록은{nl}부실하기 때문에 이 소문은 상당한{nl}신빙성을 지녔습니다.{nl}역대의 국왕들께서는 화장이든{nl}매장이든 상관없이 확실한 기록이{nl}남아있기 때문입니다.{nl}하지만 이 소문이 사실이라도{nl}그 무덤이 세상에 모습을 드러낼{nl}날은 오지 않을 것 같습니다.{nl}	QUEST_LV_0400_20161005_000477	À vrai dire, les archives des{nl}funérailles de Taniel II sont{nl}extrêmement rares ce qui prête{nl}davantage de crédibilité à ces{nl}affirmations.{nl}C'est parce que les autres{nl}funérailles avaient une sorte{nl}d'archives aussi minimes{nl}soient-elles.{nl}Cependant, même si ces{nl}affirmations sont vraies le{nl}mausolée ne verra jamais le jour.	사실 역대 다른 국왕과 달리{nl}타니엘 2세의 공식 장례 기록은{nl}부실하기 때문에 이 소문은 상당한{nl}신빙성을 지녔습니다.{nl}역대의 국왕들께서는 화장이든{nl}매장이든 상관없이 확실한 기록이{nl}남아있기 때문입니다.{nl}하지만 이 소문이 사실이라도{nl}그 무덤이 세상에 모습을 드러낼{nl}날은 오지 않을 것 같습니다.	전설 속 동굴 : 개정판 제 2권
 QUEST_LV_0400_20180305_003113	L'emplacement du mausolée{nl}secret demeure caché car il est{nl}presque impossible d'échapper{nl}au regard de la Déesse Medeina.{nl}Voilà pourquoi, même si les{nl}rumeurs sont vraies, il est{nl}probable que cela restera une{nl}simple légende.	아무리 깊은 숲속에서 몰래{nl}왕릉의 위치를 캐고 다니고 싶어도{nl}대삼림지대를 돌보시는 {nl}메데이나 여신의눈을{nl}피하기는 어렵기 때문입니다.{nl}그러므로 이 소문은 설령{nl}사실이라도 영원히 전설로만{nl}남을 것 같습니다.	QUEST_LV_0400_20161005_000478	L'emplacement du mausolée{nl}secret demeure caché car il est{nl}presque impossible d'échapper{nl}au regard de la Déesse Medeina.{nl}Voilà pourquoi, même si les{nl}rumeurs sont vraies, il est{nl}probable que cela restera une{nl}simple légende.	
 
 아무리 깊은 숲속에서 몰래{nl}왕릉의 위치를 캐고 다니고 싶어도{nl}대삼림지대를 돌보시는 {nl}메데이나 여신의눈을{nl}피하기는 어렵기 때문입니다.{nl}그러므로 이 소문은 설령{nl}사실이라도 영원히 전설로만{nl}남을 것 같습니다.	전설 속 동굴 : 개정판 제 2권
@@ -3917,7 +3917,7 @@ QUEST_LV_0400_20180827_003938	Assez de démons ont été vaincus. Retournez parl
 QUEST_LV_0400_20180827_003939	Récupérer les Affaires des Kupole Sauvées	구조된 큐폴의 소지품 회수				
 QUEST_LV_0400_20180827_003940	La Kupole secourue croit que les démons les trouveront grâce aux affaires qu'elles ont égarées en fuyant. Vainquez les démons et récupérez les affaires des Kupole pour les rassurer.	구조된 큐폴은 마족들로부터 도망치다 잃어버린 소지품들 때문에 마족들이 언젠가 자신을 찾아낼 것 이라고 생각하고 있습니다. 불안을 덜어주기 위해 타바라스 교구를 배회 중인 마족들을 처치하고 구조된 큐폴의 소지품을 되찾아주세요				
 QUEST_LV_0400_20180827_003941	Vous avez récupéré toutes les affaires de la Kupole. Livrez-les-lui.	타바라스 교구에서 구조된 큐폴의 소지품을 모두 회수 했습니다. 그녀에게 되돌려주세요				
-QUEST_LV_0400_20180827_003942	Vaincre les démons porteurs de pièges et récupérer %s	환원의 덫을 소지한 마족을 처치해 %s 회수				
+QUEST_LV_0400_20180827_003942	Vaincre les démons porteurs{nl}de pièges et récupérer %s	환원의 덫을 소지한 마족을 처치해 %s 회수				
 QUEST_LV_0400_20180827_003943	La Spirale Descendante	상황은 최악으로				
 QUEST_LV_0400_20180827_003944	Kupole Grisia attend votre aide au Mémorial de Gliehel.	글리헬 기념구의 큐폴 그리시아가 당신의 도움을 기다리고 있습니다				
 QUEST_LV_0400_20180827_003945	Kupole Grisia veut que vous vainquiez les démons de la zone pendant qu'elle l'examine.	큐폴 그리시아는 이 지역의 상황을 파악하기 위해 준비하는 동안 주변 마족들을 처치해달라고 부탁했습니다.				
@@ -3954,7 +3954,7 @@ QUEST_LV_0400_20180827_003975	Kupole Velad s'est de nouveau enfuie. Retournez vo
 QUEST_LV_0400_20180827_003976	Récolter les Orbes Neutralisants	무력화 보주 수집				
 QUEST_LV_0400_20180827_003977	Kupole Grisia croit qu'elle doit d'abord capturer Kupole Velad et la neutraliser afin de la protéger. Obtenez l'orbe neutralisant auprès des démons du Lieu de naissance de Frienal.	큐폴 그리시아는 큐폴 블라드를 보호하기 위해선 우선 그녀를 무력화시켜 잡아둘 필요가 있다고 생각하는 것 같습니다. 프리넬 생가 복원지의 마족들로부터 그녀가 필요로하는 무력화 보주를 구해다 주세요				
 QUEST_LV_0400_20180827_003978	Vous avez récolté assez d'orbes neutralisants. Retournez voir Kupole Grisia.	무력화 보주를 충분히 수집했습니다. 큐폴 그리시아에게 돌아갑시다				
-QUEST_LV_0400_20180827_003979	Vaincre les monstres Évêque Gray et Évêque Blanco pour récolter %s.	비숍 그레이와 비숍블랑코를 처치해 %s 수집				
+QUEST_LV_0400_20180827_003979	Vaincre les monstres Évêque{nl}Gray et Évêque Blanco pour{nl}récolter %s.	비숍 그레이와 비숍블랑코를 처치해 %s 수집				
 QUEST_LV_0400_20180827_003980	Livrer le Faux Souvenir à Kupole Velad	큐폴 블라드에게 속임수 증표 전달				
 QUEST_LV_0400_20180827_003981	Kupole Grisia vous a demandé de dire à Kupole Velad qu'elle fera ce que Velad veut d'elle en livrant le faux souvenir.	큐폴 그리시아는 속임수 증표를 큐폴 블라드에게 전달하면서 자신이 블라드의 뜻을 따르겠다는 의사를 밝혔다고 전해달라고 했습니다.				
 QUEST_LV_0400_20180827_003982	Vaincre le Chef Démon	마족 보스 처치				
@@ -4105,7 +4105,7 @@ QUEST_LV_0400_20180827_004126	Le commandant de la Résistance Byle veut faire le
 QUEST_LV_0400_20180827_004127	Obtenir la clé en vainquant Ancien Cezaris	장로 세자리스를 물리치고 열쇠 획득				
 QUEST_LV_0400_20180827_004128	Byle vous a dit que Cezaris se sera entièrement transformé en démon et vous a donné une flèche qui annule le pouvoir des démons. Il a utilisé cette flèche pour vaincre Henika et suppose qu'elle sera aussi efficace sur Cezaris.{nl}Rendez-vous aux Chambres de l'ancien Schaffenstar, vainquez Cezaris et obtenez la clé.	바일은 장로 아다욱스의 말을 통해 장로 세자리스는 완전한 마족화가 되었을 거라며 장로 헤니카를 무력화시켰던 힘만큼 있는 건 아니나 마족을 약화시킬 수 있는 마력 무력화 화살촉을 주며 이걸 이용해 세자리스의 힘을 무력화하여 물리치라고 합니다.{nl}샤펜스타 장로실로 이동하여 장로 세자리스와 전투 후 장로 세자리스의 열쇠를 획득하세요.				
 QUEST_LV_0400_20180827_004129	Vous avez vaincu Ancien Cezaris et obtenu sa clé.{nl}Faites votre rapport à Byle.	장로 세자리스를 물리치고 세자리스의 열쇠를 획득했습니다.{nl}바일에게 돌아가 보고하세요.				
-QUEST_LV_0400_20180827_004130	Vaincre Ancien Cezaris et obtenir %s	장로 세자리스를 물리치고 %s 획득				
+QUEST_LV_0400_20180827_004130	Vaincre Ancien Cezaris et{nl}obtenir %s	장로 세자리스를 물리치고 %s 획득				
 QUEST_LV_0400_20180827_004131	Utiliser les Clés pour Activer le Dispositif de Commande de l'Ascenseur	바일이 준 열쇠들로 승강기 관리 장치를 작동				
 QUEST_LV_0400_20180827_004132	Byle dit que vous devez activer l'ascenseur pour atteindre le 21F. L'ascenseur peut être activé à l'aide de toutes les clés que vous avez obtenues sur le dispositif de contrôle de l'ascenseur dans le Bureau de garde de nuit.{nl}Activez le dispositif de contrôle de l'ascenseur pour monter au 21F.	바일은 21층으로 가기 위해선 승강기를 이용해야한다며 관리자 숙직실에 있는 승강기 관리 장치에 모든 열쇠를 사용하여 작동시키라고 합니다.{nl}21층으로 이동할 수 있도록 승강기 관리 장치를 작동시켜주세요.				
 QUEST_LV_0400_20180827_004133	Vous avez activé l'ascenseur vers le 21F.{nl}Faites votre rapport à Byle.	21층으로 가는 승강기를 작동시켰습니다.{nl}바일에게 돌아가 보고하세요.				
@@ -4384,7 +4384,7 @@ QUEST_LV_0400_20180827_004405	Parler au secrétaire.	서기관과 대화하세�
 QUEST_LV_0400_20180827_004406	Parler au secrétaire.	서기관과 대화하세요.				
 QUEST_LV_0400_20180827_004407	Vaincre les Monstres pour Récupérer les Registres des Habitants	몬스터를 처치해 입주 기록지 구하기				
 QUEST_LV_0400_20180827_004408	Vaincre les monstres pour récupérer les registres des habitants.	몬스터를 처치해 입주 기록지를 구하세요.				
-QUEST_LV_0400_20180827_004409	Vaincre les monstres pour récupérer le %s	몬스터를 처치해 %s 찾기				
+QUEST_LV_0400_20180827_004409	Vaincre les monstres pour{nl}récupérer le %s	몬스터를 처치해 %s 찾기				
 QUEST_LV_0400_20180827_004410	Vérifier les Registres des Habitants	입주 기록지 확인하기				
 QUEST_LV_0400_20180827_004411	Utiliser les registres des habitants pour réduire la liste des suspects.	입주 기록지를 확인해 용의자를 추려내세요.				
 QUEST_LV_0400_20180827_004412	Lire les registres des habitants pour déterminer qui est possédé.	찾은 입주 기록지를 읽어 빙의 의심자를 추려내세요.				
@@ -4400,7 +4400,7 @@ QUEST_LV_0400_20180827_004421	Examiner les vêtements brûlés obtenus du mendia
 QUEST_LV_0400_20180827_004422	Parler à Auguste Dupin	오귀스트 뒤팽과 대화하기				
 QUEST_LV_0400_20180827_004423	Vaincre les Mimorat pour Obtenir la Poudre Ingredy	미모랫을 처치해  잉레디 가루 구하기				
 QUEST_LV_0400_20180827_004424	Récolter la poudre Ingredy en vainquant des Mimorat blanc et des Mimorat rose.	미모랫 화이트와 미모랫 핑크를 처치해 약품을 확인할 수 있는 잉레디 가루를 구하세요.				
-QUEST_LV_0400_20180827_004425	Obtenir %s pour identifier les traces chimiques	희미한 약품의 정체를 알아내는데 필요한 %s를 구하기				
+QUEST_LV_0400_20180827_004425	Obtenir %s pour identifier les{nl}traces chimiques	희미한 약품의 정체를 알아내는데 필요한 %s를 구하기				
 QUEST_LV_0400_20180827_004426	Le Filet se Resserre	좁혀지는 수사망				
 QUEST_LV_0400_20180827_004427	Suivre Auguste Dupin	오귀스트 뒤팽을 따라가기				
 QUEST_LV_0400_20180827_004428	Suivre Auguste Dupin.	오귀스트 뒤팽을 따라가세요.				
@@ -5619,7 +5619,7 @@ QUEST_LV_0400_20190419_005640	Vous avez vaincu le monstre. Parlez au Chef Laker.
 QUEST_LV_0400_20190419_005641	Récolter les Matériaux pour les Armes d'Autodéfense	호신용품 재료 수집				
 QUEST_LV_0400_20190419_005642	Le Chef Laker veut fabriquer de nouvelles armes d'autodéfense pour ses jeunes Laker. Vainquez les Frocolis au Abri Laker et récoltez des matériaux pour les armes.	레이커 리더는 어린 레이커들을 위한 호신용품의 수가 얼마 남지 않았다고 합니다. 다친 레이커 리더를 대신하여 레이커 대피소에 있는 프로콜리를 처치하고 호신용품에 들어갈 재료를 수집해 주세요.				
 QUEST_LV_0400_20190419_005643	Vous avez récolté assez de matériaux. Apportez-les au Chef Laker.	재료를 충분히 모았습니다. 레이커 리더에게 돌아가 재료를 건내주세요.				
-QUEST_LV_0400_20190419_005644	Vaincre les Frocolis pour obtenir %s	프로콜리를 처치하고 %s를 획득하기.				
+QUEST_LV_0400_20190419_005644	Vaincre les Frocolis pour{nl}obtenir %s	프로콜리를 처치하고 %s를 획득하기.				
 QUEST_LV_0400_20190419_005645	Des Circonstances Différentes	저마다의 사정				
 QUEST_LV_0400_20190419_005646	Tadas de l'Alliance de Kedora cherche de l'aide au Quartier du mur extérieur 14.	외성벽 제 14구역에서 케도라 상단원 타다스가 누군가의 도움을 기다리고 있습니다				
 QUEST_LV_0400_20190419_005647	Tadas de l'Alliance de Kedora vous attend au Toit de la caserne de Quartier du mur extérieur 14.	외성벽 제 14구역의 병영 옥상에서 케도라 상단원 타다스가 당신을 기다리고 있습니다				
@@ -5683,7 +5683,7 @@ QUEST_LV_0400_20190419_005704	L'adjudant Schaffenstar Apollonius veut vous dire 
 QUEST_LV_0400_20190419_005705	Vaincre les Démons Alentour pour Récolter les Ordres	주변 마족을 처치해 지령서를 수집				
 QUEST_LV_0400_20190419_005706	Apollonius veut que vous récoltiez des ordres écrits auprès des démons alentour. Vainquez les démons et obtenez leurs documents.	아폴로니유스는 주변 마족들이 가지고 있는 지령서를 모아달라고 합니다. 마족들을 처치해 지령서를 모으세요.				
 QUEST_LV_0400_20190419_005707	Vous avez maintenant assez d'ordres écrits. Apportez-les à Apollonius.	지령서가 충분히 모여졌으니 아폴로니유스에게 모은 지령서들을 전해주세요.				
-QUEST_LV_0400_20190419_005708	Obtenir les Ordres des Démons	마족의 지령서 획득				
+QUEST_LV_0400_20190419_005708	Obtenir les Ordres des{nl}Démons	마족의 지령서 획득				
 QUEST_LV_0400_20190419_005709	L'adjudant des Schaffenstar Apollonius cherche des moyens d'évaluer les plans des démons. Parlez à Apollonius.	샤펜스타 부관 아폴로니유스는 좀 더 마족의 정황을 알기 위한 방법을 모색하고 있습니다. 아폴로니유스와 대화하세요.				
 QUEST_LV_0400_20190419_005710	Apollonius veut tenter de se transformer en démon afin de les espionner. Trouvez le Maître Druide et demandez son avis.	아폴로니유스는 직접 마족으로 변해 마족들의 동향을 살피는 방법을 시도해보려고 합니다. 드루이드 마스터를 찾아가 방법이 없는지 상담해보세요.				
 QUEST_LV_0400_20190419_005711	Le Maître Druide vous a donné une potion. Apportez-la à Apollonius.	드루이드 마스터가 시약병을 건네줬습니다. 아폴로니유스에게 시약병을 전해주세요.				
@@ -5805,7 +5805,7 @@ QUEST_LV_0400_20190419_005826	Aller au Jardin de Ruduo	루두오 안뜰 안쪽�
 QUEST_LV_0400_20190419_005827	Kupole Ilona dit que les traces de Medeina s'arrêtent près du Jardin de Ruduo.{nl}Elle veut s'aventurer dans le jardin pour trouver d'autres indices.{nl}Suivez Ilona dans le Jardin de Ruduo.	큐폴 일로나는 루두오 안뜰 근처에서 메데이나 여신의 흔적이 끊겨있다고 합니다.{nl}그러면서 루두오 안뜰 안쪽으로 좀더 이동하자고 합니다.{nl}큐폴들과 함께 루두오 안뜰 안쪽으로 이동하세요.				
 QUEST_LV_0400_20190419_005828	Récolter l'Essence de Railleur Rouge	붉은 밴터러의 정수 수집				
 QUEST_LV_0400_20190419_005829	Kupole Yulia croit que détruire les cercles magiques de soutien affaiblira le cercle magique de téléportation.{nl}Malheureusement, ils ne peuvent pas être détruits par la seule force. Vous devrez récolter l'essence des monstres Railleur rouge et l'ajouter aux cercles magiques afin de les surcharger.{nl}Vainquez des Railleurs rouges et récoltez leur essence.{nl}	큐폴 율리아는 주변에 설치된 보조 마법진을 망가뜨린다면 마계 이동 마법진에 영향이 갈 거라고 얘기합니다.{nl}그러면서 보조 마법진은 단순히 물리적인 힘으로 파괴되지 않으니 붉은 밴터러의 정수에 담겨 있는 마나로 오히려 과한 마력을 주입해 과부하를 일으켜 망가뜨리자고 얘기합니다.{nl}붉은 밴터러를 처치해 붉은 밴터러의 정수를 획득하세요.{nl}				
-QUEST_LV_0400_20190419_005830	Vaincre les Railleurs rouges pour récolter %s	붉은 밴터러를 처치해 %s 수집				
+QUEST_LV_0400_20190419_005830	Vaincre les Railleurs rouges{nl}pour récolter %s	붉은 밴터러를 처치해 %s 수집				
 QUEST_LV_0400_20190419_005831	Étouffer le Pouvoir de la Pierre Magique	마법석의 마력 봉인하기				
 QUEST_LV_0400_20190419_005832	La déesse Medeina dit que le seul moyen de désactiver la barrière qui recouvre la forêt est d'empêcher une pierre magique de l'alimenter.{nl}Rendez-vous à l'emplacement de la pierre magique et utilisez le parchemin de la déesse pour en sceller le pouvoir.	메데이나 여신은 이곳을 탈출하기 위해 숲 일대의 결계에 마나를 공급하고 있는 마법석을 찾아서 마나 공급을 중단시켜야 한다고 얘기합니다.{nl}마법석이 있는 곳으로 가서 메데이나 여신에게 받은 주문서로 마법석의 마나 공급을 중단시키세요.				
 QUEST_LV_0400_20190419_005833	Les démons vous ont trouvé.{nl}Protégez la Déesse Medeina contre eux.	마족들에게 위치가 발각되었습니다.{nl}마족들로부터 메데이나를 보호하세요.				
@@ -5920,7 +5920,7 @@ QUEST_LV_0400_20190611_005941	Je ne peux pas le faire.	자신은 역부족이라
 QUEST_LV_0400_20190611_005942	Placer la chair de Hohen Olben noir	검은 호헨 올벤의 살점 집어넣는 중	QUEST_LV_0400_20171128_002430	Placer la chair de Hohen Olben noir	검은 호헨 올벤의 살접 집어넣는 중	
 QUEST_LV_0400_20190611_005943	Eclipse Ubik, le Maître Ombremancien, semble préoccupée par quelque chose. Parlez au Maître Ombremancien et demandez-lui ce qui ne va pas.	섀도우맨서 마스터, 이클립스 유빅은 무언가 심각한 고민을 하는 듯 합니다. 섀도우맨서 마스터와 대화해 무슨 일이 있었는지 물어보세요.				
 QUEST_LV_0400_20190611_005944	Le Maître Ombremancien a besoin d'aide pour sceller le démon qu'elle a croisé pendant ses études. Le démon est très puissant, elle a donc besoin d'aventuriers compétents pour l'assister. Parlez au Maître Ombremancien quand vous serez prêt.	섀도우맨서 마스터는 자신이 발견한 마족을 확실하게 봉인하기 위해 도움이 필요하다고 합니다. 그러나, 그 마족은 그만큼 강력하기에 준비가 된 사람들에 한해서 같이 이동하겠다고 합니다. 준비가 됐다면 섀도우맨서 마스터와 대화하세요.				
-QUEST_LV_0400_20190611_005945	Parler à Kupole Ilona et vaincre les Railleurs rouges des environs pour récolter %s.	큐폴 일로나와 대화 후에 주변에 보이는 붉은 밴터러를 처치해 %s 수집	QUEST_LV_0400_20190419_005823	Parler à Kupole Ilona et vaincre les démons alentour pour récolter %s	큐폴 일로나와 대화 후에 주변 마족을 처치해 %s 수집	
+QUEST_LV_0400_20190611_005945	Parler à Kupole Ilona et{nl}vaincre les Railleurs rouges{nl}des environs pour récolter %s.	큐폴 일로나와 대화 후에 주변에 보이는 붉은 밴터러를 처치해 %s 수집	QUEST_LV_0400_20190419_005823	Parler à Kupole Ilona et{nl}vaincre les démons alentour{nl}pour récolter %s	큐폴 일로나와 대화 후에 주변 마족을 처치해 %s 수집	
 QUEST_LV_0400_20191024_005946	C'est la cachette parfaite. Voulez-vous vous cacher ici ?	몸을 숨기기에 적당한 장소이다.{nl}몸을 숨길까?	QUEST_LV_0400_20171128_001860	C'est la cachette parfaite. Voulez-vous vous cacher ici ?	몸을 숨기기에 전달한 장소이다.{nl}몸을 숨길까?	몸을 숨기기에 적당한 장소
 QUEST_LV_0400_20191024_005947	Nous avons peut-être sous-estimé les humains. Nous avons besoin les uns des autres pour{nl}repousser les démons. Vous nous mènerez à l'unité.	우리가 인간들을 너무 과소평가하고 있었는지도 모릅니다.{nl}마족에 맞서기 위해서는 서로의 도움이 필요합니다.{nl}당신이 그 첫걸음이 되겠군요.				큐폴 사야
 QUEST_LV_0400_20191024_005948	C'était horrible, les tourments mentaux que j'ai subis pendant mon emprisonnement. Je ne peux{nl}m'empêcher de compter sur la bonté d'un humain tel que vous.	마력 감옥에 갇혀있는 동안 겪은 정신적인 피해는 정말 끔찍했습니다.{nl}인간인 당신에게 기댈 수밖에 없는 처지가 되어 마음이 무겁군요.				큐폴 위다
@@ -6478,7 +6478,7 @@ QUEST_LV_0400_20210115_006499	Écoutons la bonne idée du Maître Rangda	랑다 
 QUEST_LV_0400_20210115_006500	Prélever un échantillon de sang sur le groupe de Raganosis	래거노시스 무리에게서 혈액을 채취				
 QUEST_LV_0400_20210115_006501	Prélever un échantillon de sang sur le groupe de Raganosis	래거노시스 무리를 처치하고 혈액을 채취하세요				
 QUEST_LV_0400_20210115_006502	Dire au Maître Rangda que vous avez tout récolté	랑다 마스터에게 다 구해왔다고 전합시다				
-QUEST_LV_0400_20210115_006503	Vaincre le groupe de Raganosis et prendre %s	래거노시스 무리를 처치하고 %s를 채취				
+QUEST_LV_0400_20210115_006503	Vaincre le groupe de{nl}Raganosis et prendre %s	래거노시스 무리를 처치하고 %s를 채취				
 QUEST_LV_0400_20210115_006504	Groupe de Raganosis	래거노시스 무리				
 QUEST_LV_0400_20210115_006505	Recevoir l'essence maudite préparée par le Maître Rangda avec le sang des Raganosis	랑다 마스터가 래거노시스의 혈액으로 저주의 정수를 수령하세요				
 QUEST_LV_0400_20210115_006506	Répandre l'Essence Maudite	저주의 정수 뿌리기				

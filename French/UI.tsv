@@ -4671,7 +4671,7 @@ UI_20210115_004670	{@st42}Matériau de Transmutation	{@st42}연성 재료
 UI_20210115_004671	{@st42}{s20}Argent nécessaire	{@st42}{s20}필요 실버				
 UI_20210115_004672	{@st41b}{s14}{#009999}Déesse	{@st41b}{s14}{#009999}가디스				
 UI_20210115_004673	{#FFFF00}{ol}{s12}0 seconde	{#FFFF00}{ol}{s12}0초				
-UI_20210115_004674	Niveau Res Sacrae	장착 가능 성물 레벨				
+UI_20210115_004674	Niv. Res Sacrae	장착 가능 성물 레벨				
 UI_20210115_004675	{@st59}Vérifier les Infos de Récompense{/}	{@st59}보상 정보 확인{/}				
 UI_20210115_004676	nomequipe8lettresmax	팀명최대여덟글자				
 UI_20210115_004677	%s : %s	%s : %s개				
@@ -4817,7 +4817,7 @@ UI_20210809_004816	{@st42}Afficher les Objets Équipables	{@st42}착용 가능�
 UI_20210809_004817	{@st42}{s20}Placer l'Objet{/}{/}	{@st42}{s20}아이템을 올려주세요{/}{/}				
 UI_20210809_004818	Épée de Vasilisa	바실리사 소드				
 UI_20210809_004819	{@sti1c}{s18} - Seul un équipement de Niv.440 ou plus avec un palier de transcendance 8 ou plus peut faire l'objet d'une succession.{nl} {nl}  - 2/3 du [Amélioration] et des [Statistiques d'enchantement] seront transférés lors d'une succession d'équipement avec une valeur d'amélioration +11 ou plus et un palier de transcendance 10.{nl}{#11cc88} ※ La valeur d'amélioration maximale transférée lors d'une succession de rang légendaire Niv.440 est +14.{nl} ※ Une Aide à l'amélioration (non échangeable) sera donnée à ceux effectuant une succession de rang légendaire Niv.440 avec une valeur d'amélioration +21 ou plus. {nl}{/}{/}	{@sti1c}{s18} - 초월 단계 8이상의 Lv.440이상 장비만 계승이 가능합니다.{nl} {nl}  - 강화 수치가 +11이상, 초월 단계가 10인 장비는 계승 시 [강화], [인챈트 옵션]이 2/3만큼 이전됩니다.{nl}{#11cc88} ※Lv.440 레전드 등급 계승 시 이전되는 강화 수치는 최대 +14입니다.{nl} ※Lv.440 레전드 등급 계승 시 강화 수치가 +21을 초과하는 장비는 강화 보조제(거래불가)가 지급됩니다. {nl}{/}{/}				
-UI_20210809_004820	{@st42}{s20}Objet pour la Succession{/}{/}	{@st42}{s20}계승 대상 아이템{/}{/}				
+UI_20210809_004820	{@st42}{s20}Objet successeur{/}{/}	{@st42}{s20}계승 대상 아이템{/}{/}				
 UI_20210809_004821	Bâton de Vasilisa	바실리사 로드				
 UI_20210809_004822	{@st42}{s26}{#ff1212}Le personnage ne peut pas équiper cet équipement.{/}{/}	{@st42}{s26}{#ff1212}해당 캐릭터가 장착할 수 없는 장비입니다.{/}{/}				
 UI_20210809_004823	Succession d'Équipement	장비 계승				
@@ -5572,7 +5572,7 @@ UI_20231218_005571	{@st43}{s40}Aucune Info d'Enchère	{@st43}{s40}입찰 정보 
 UI_20231218_005572	{@st66b}Enchère en cours{/}	{@st66b}진행중인 경매{/}				
 UI_20231218_005573	{@st66b}Programme des Enchères{/}	{@st66b}경매 일정{/}				
 UI_20231218_005574	{@st66b}Statut de Mes Enchères{/}	{@st66b}나의 경매 현황{/}				
-UI_20231218_005575	{@st43}Liste de Démantèlement{/}	{@st43}분해 목록{/}				
+UI_20231218_005575	{@st43}Liste de démontage{/}	{@st43}분해 목록{/}				
 UI_20231218_005576	{@st41b}Total de fragments de mémoire de Snigo gagnés : {/}	{@st41b}총 스니고의 기억조각 획득량 : {/}				
 UI_20231218_005577	Voulez-vous démanteler l'objet en fragment de mémoire de Snigo ?	해당 아이템을 스니고의 기억조각으로 분해하시겠습니까?				
 UI_20231218_005578	{@st43}{s24}Boutique de Démantèlement d'Objets à Thème [Fragment de Mémoire de Snigo]	{@st43}{s24}[스니고의 기억] 테마 상품 분해 상점				
@@ -5887,9 +5887,9 @@ UI_20260828_005886	{@st59}Mémoires de la Déesse (Alt + F3){/}	{@st59}여신의
 UI_20260828_005887	{@st43}{#FFF1C7}{s24}Kupole	{@st43}{#FFF1C7}{s24}큐폴
 UI_20260828_005888	{@st66d}{#173E50}{s17}Liste des Kupoles	{@st66d}{#173E50}{s17}큐폴 목록
 UI_20260828_005889	{@st66d}{#173E50}{s17}Préréglage	{@st66d}{#173E50}{s17}프리셋
-UI_20260828_005890	{@st66d}{#F2DEB1}{s14}Préréglage 1	{@st66d}{#F2DEB1}{s14}프리셋 1
+UI_20260828_005890	{@st66d}{#F2DEB1}{s14}Preset 1	{@st66d}{#F2DEB1}{s14}프리셋 1
 UI_20260828_005891	{@st66d}{#C8BFAE}{s13}Vide	{@st66d}{#C8BFAE}{s13}비어 있음
-UI_20260828_005892	{@st66d}{#F0C86D}{s11}Appliqué	{@st66d}{#F0C86D}{s11}적용 중
+UI_20260828_005892	{@st66d}{#F0C86D}{s11}Actif	{@st66d}{#F0C86D}{s11}적용 중
 UI_20260828_005893	{@st66d}{s12}Appliquer	{@st66d}{s12}적용
 UI_20260828_005894	{@st66d}{s12}Modifier	{@st66d}{s12}편집
 UI_20260828_005895	{@st66d}{s11}Écraser	{@st66d}{s11}덮어쓰기
@@ -5897,11 +5897,11 @@ UI_20260828_005896	{@st66d}{s10}Enregistrer la Configuration Actuelle	{@st66d}{s
 UI_20260828_005897	Enregistre la configuration actuelle dans ce préréglage.	현재 편성을 이 프리셋에 저장합니다.
 UI_20260828_005898	{@st66d}{s11}Créer Nouveau	{@st66d}{s11}새로 만들기
 UI_20260828_005899	Sélectionnez manuellement des Kupoles pour configurer un nouveau préréglage.	큐폴을 직접 선택해 새 프리셋을 구성합니다.
-UI_20260828_005900	{@st66d}{#F2DEB1}{s14}Préréglage 2	{@st66d}{#F2DEB1}{s14}프리셋 2
-UI_20260828_005901	{@st66d}{#F2DEB1}{s14}Préréglage 3	{@st66d}{#F2DEB1}{s14}프리셋 3
-UI_20260828_005902	{@st66d}{#F2DEB1}{s14}Préréglage 4	{@st66d}{#F2DEB1}{s14}프리셋 4
-UI_20260828_005903	{@st66d}{#F2DEB1}{s14}Préréglage 5	{@st66d}{#F2DEB1}{s14}프리셋 5
-UI_20260828_005904	{@st66d}{#173E50}{s16}Effet d'Accompagnement	{@st66d}{#173E50}{s16}동행 효과
+UI_20260828_005900	{@st66d}{#F2DEB1}{s14}Preset 2	{@st66d}{#F2DEB1}{s14}프리셋 2
+UI_20260828_005901	{@st66d}{#F2DEB1}{s14}Preset 3	{@st66d}{#F2DEB1}{s14}프리셋 3
+UI_20260828_005902	{@st66d}{#F2DEB1}{s14}Preset 4	{@st66d}{#F2DEB1}{s14}프리셋 4
+UI_20260828_005903	{@st66d}{#F2DEB1}{s14}Preset 5	{@st66d}{#F2DEB1}{s14}프리셋 5
+UI_20260828_005904	{@st66d}{#173E50}{s16}Effet d'escorte	{@st66d}{#173E50}{s16}동행 효과
 UI_20260828_005905	{@st66d}{#173E50}{s16}Effet Possédé	{@st66d}{#173E50}{s16}보유 효과
 UI_20260828_005906	{@st66d}{#173E50}{s16}Skill Passif	{@st66d}{#173E50}{s16}패시브 스킬
 UI_20260828_005907	{@st66d}{#173E50}{s16}Skill Actif	{@st66d}{#173E50}{s16}액티브 스킬
@@ -5917,7 +5917,7 @@ UI_20260828_005916	{@st66d}{#173E50}{s18}Effet d'Accompagnement	{@st66d}{#173E50
 UI_20260828_005917	{@st66d}{#173E50}{s18}Effet Possédé	{@st66d}{#173E50}{s18}보유 효과
 UI_20260828_005918	{@st66d}{s18}Recruter	{@st66d}{s18}영입
 UI_20260828_005919	{@st43}{#FFF1C7}{s22}Recrutement Garanti de Kupole	{@st43}{#FFF1C7}{s22}큐폴 확정 영입
-UI_20260828_005920	{@st43}{#FFF1C7}{s22}Augmenter l'Amitié du Kupole	{@st43}{#FFF1C7}{s22}큐폴 호감도 상승
+UI_20260828_005920	{@st43}{#FFF1C7}{s22}Amitié du Kupole	{@st43}{#FFF1C7}{s22}큐폴 호감도 상승
 UI_20260828_005921	{@st66d}{#762C3D}{s15}Amitié Actuelle : %s	{@st66d}{#762C3D}{s15}현재 호감도 %s
 UI_20260828_005922	{@st66d}{#173E50}{s15}Matériaux Requis	{@st66d}{#173E50}{s15}필요 재료
 UI_20260828_005923	{@st66d}{#355F56}{s15}Amitié Après Augmentation : %s	{@st66d}{#355F56}{s15}상승 후 호감도 %s
@@ -5925,7 +5925,7 @@ UI_20260828_005924	{@st66d}{#762C3D}{s18}Effet Actuel	{@st66d}{#762C3D}{s18}현�
 UI_20260828_005925	{@st66d}{#173E50}{s15}Effet d'Accompagnement{/}{nl}{@st66d}{#314A55}{s14}%s	{@st66d}{#173E50}{s15}동행 효과{/}{nl}{@st66d}{#314A55}{s14}%s
 UI_20260828_005926	{@st66d}{#173E50}{s15}Effet Possédé{/}{nl}{@st66d}{#314A55}{s14}%s	{@st66d}{#173E50}{s15}보유 효과{/}{nl}{@st66d}{#314A55}{s14}%s
 UI_20260828_005927	{@st66d}{#173E50}{s16}Skill{/}{nl}{@st66d}{#314A55}{s14}%s	{@st66d}{#173E50}{s16}스킬{/}{nl}{@st66d}{#314A55}{s14}%s
-UI_20260828_005928	{@st66d}{#355F56}{s18}Effet Après Augmentation	{@st66d}{#355F56}{s18}상승 후 효과
+UI_20260828_005928	{@st66d}{#355F56}{s18}Effet après hausse	{@st66d}{#355F56}{s18}상승 후 효과
 UI_20260828_005929	{@st66d}{#173E50}{s15}Effet d'Accompagnement{/}{nl}{@st66d}{#355F56}{s14}%s	{@st66d}{#173E50}{s15}동행 효과{/}{nl}{@st66d}{#355F56}{s14}%s
 UI_20260828_005930	{@st66d}{#173E50}{s15}Effet Possédé{/}{nl}{@st66d}{#355F56}{s14}%s	{@st66d}{#173E50}{s15}보유 효과{/}{nl}{@st66d}{#355F56}{s14}%s
 UI_20260828_005931	{@st66d}{#173E50}{s16}Skill{/}{nl}{@st66d}{#355F56}{s14}%s	{@st66d}{#173E50}{s16}스킬{/}{nl}{@st66d}{#355F56}{s14}%s
@@ -5960,11 +5960,11 @@ UI_20260828_005959	{@st43b}{s20}Historique d'Objets Trouvés sur le Terrain	{@st
 UI_20260828_005960	{@st42}{#AAB1BC}{s12}Portée de l'Historique	{@st42}{#AAB1BC}{s12}집계 범위
 UI_20260828_005961	{@st42b}{s14}Session Totale	{@st42b}{s14}전체 세션
 UI_20260828_005962	{@st42b}{s14}Pas d'Infos de Carte	{@st42b}{s14}맵 정보 없음
-UI_20260828_005963	{@st42}{#AAB1BC}{s12}Temps de Farming	{@st42}{#AAB1BC}{s12}파밍 시간
+UI_20260828_005963	{@st42}{#AAB1BC}{s12}Temps de farm	{@st42}{#AAB1BC}{s12}파밍 시간
 UI_20260828_005964	{@st42}{#AAB1BC}{s12}Objets / Types	{@st42}{#AAB1BC}{s12}아이템 / 종류
 UI_20260828_005965	{@st42b}{s14}%s / %s Types	{@st42b}{s14}%s / %s종
 UI_20260828_005966	{@st42}{#AAB1BC}{s12}Argent	{@st42}{#AAB1BC}{s12}실버
-UI_20260828_005967	{@st42}{#AAB1BC}{s11}Insigne de Mercenaire	{@st42}{#AAB1BC}{s11}용병단 증표
+UI_20260828_005967	{@st42}{#AAB1BC}{s11}Insigne Merc.	{@st42}{#AAB1BC}{s11}용병단 증표
 UI_20260828_005968	{@st42b}{s12}Vue : Session Totale	{@st42b}{s12}보기: 전체 세션
 UI_20260828_005969	{@st42b}{s12}Vue : Carte Actuelle	{@st42b}{s12}보기: 현재 맵
 UI_20260828_005970	{@st42b}{s12}Rareté : Tout	{@st42b}{s12}희귀: 전체
