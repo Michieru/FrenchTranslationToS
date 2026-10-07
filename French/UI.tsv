@@ -6116,3 +6116,104 @@ UI_20260901_006115	Quantité Actuelle : 20	현재 보유량 : 20
 UI_20260901_006116	{@st45tw2}Échelle(%%){/}	{@st45tw2}배율(%%){/}
 UI_20260901_006117	{@st45tw2}Opacité(%%){/}	{@st45tw2}투명도(%%){/}
 UI_20260901_006118	{@st45tw5}Lignes/Colonnes 1~8 · Échelle 50~150 · Opacité 10~100{nl}Une fois déverrouillé, déposer hors de l'emplacement /{nl}Alt+Clic droit pour vider{/}	{@st45tw5}행·열 1~8 · 배율 50~150 · 투명도 10~100{nl}해제 후 슬롯 밖 드롭/Alt+우클릭으로 비우기{/}
+UI_20260930_006119	%s x%s	%s %s개
+UI_20260930_006120	Voulez-vous démanteler les reliques sélectionnées pour obtenir les objets suivants ?{nl}%s	선택한 유물을 분해하여 다음 아이템을 획득하시겠습니까?{nl}%s
+UI_20260930_006121	{@st43}Démanteler une Relique{/}	{@st43}유물 분해{/}
+UI_20260930_006122	{@st59}Enregistrement Auto sélectionne jusqu'à 60 objets déverrouillés visibles avec le filtre actuel.{nl}Les sélections masquées par le filtre sont aussi incluses dans les cibles du démantèlement et les quantités prévues.{nl}Les objets grisés sont verrouillés et ne peuvent pas être sélectionnés. Tout Effacer efface aussi les sélections masquées.{/}	{@st59}자동 등록은 현재 필터에 보이는 잠금 해제 아이템을 최대 60개 선택합니다.{nl}필터로 숨긴 선택도 분해 대상과 예정 수량에 포함됩니다.{nl}회색 아이템은 잠금 상태로 선택할 수 없습니다. 전체 해제는 숨긴 선택도 해제합니다.{/}
+UI_20260930_006123	{@st66b}Bric-à-brac{/}	{@st66b}잡동사니{/}
+UI_20260930_006124	{@st66d}{s14}Inclut %s verrouillés / %s masqués / %s sélections masquées{/}	{@st66d}{s14}잠금 %s개 / 숨김 %s개 / 숨긴 선택 %s개 포함{/}
+UI_20260930_006125	{@st41b}Enregistrement Auto{/}	{@st41b}자동 등록{/}
+UI_20260930_006126	{@st41b}Tout Effacer{/}	{@st41b}전체 해제{/}
+UI_20260930_006127	{@st41b}{s14}Possédé : %s{/}	{@st41b}{s14}보유: %s{/}
+UI_20260930_006128	{@st41b}{s14}À obtenir : %s{/}	{@st41b}{s14}획득 예정: %s{/}
+UI_20260930_006129	{@st41b}{s14}Après : %s{/}	{@st41b}{s14}분해 후: %s{/}
+UI_20260930_006130	{@st41b}Démanteler{/}	{@st41b}분해하기{/}
+UI_20260930_006131	{@st42}{s26}Entrée du Portail d'Exploration Archéologique{/}	{@st42}{s26}고고학 탐사 포탈 입장{/}
+UI_20260930_006132	{@st66d}{s16}Difficulté{/}	{@st66d}{s16}난이도{/}
+UI_20260930_006133	{@st41b}{s16}Facile{/}	{@st41b}{s16}쉬움{/}
+UI_20260930_006134	{@st41b}{s16}Normal{/}	{@st41b}{s16}보통{/}
+UI_20260930_006135	{@st41b}{s16}Difficile{/}	{@st41b}{s16}어려움{/}
+UI_20260930_006136	{@st41b}{s15}Très Difficile{/}	{@st41b}{s15}매우 어려움{/}
+UI_20260930_006137	{#FFB29B}{s17}Difficulté fixée sur celle réservée aux boss{/}   {@st66d}{s14}Difficulté non sélectionnable{/}	{#FFB29B}{s17}보스 전용 난이도 고정{/}   {@st66d}{s14}난이도 선택 불가{/}
+UI_20260930_006138	Puissance des Ennemis	적 강도
+UI_20260930_006139	Récompenses Rares	희귀 보상
+UI_20260930_006140	Éclats d'Archive	기록 파편
+UI_20260930_006141	Ajouter des Reliques	유물 추가
+UI_20260930_006142	{#E8CF8B}{s15}Correction après 2 non-apparitions d'Anéantissement d'Essaims · Garanti pour cette entrée{/}	{#E8CF8B}{s15}군집 섬멸 2회 미등장 보정 · 이번 입장 확정{/}
+UI_20260930_006143	{@st41b}{s18}Réinitialiser{/}	{@st41b}{s18}초기화{/}
+UI_20260930_006144	{@st41b}{s18}Derniers Réglages{/}	{@st41b}{s18}최근 설정{/}
+UI_20260930_006145	{@st41b}{s20}Entrer{/}	{@st41b}{s20}입장{/}
+UI_20260930_006146	{@st42}{s22}Dernier Autel{/}	{@st42}{s22}마지막 제단{/}
+UI_20260930_006147	{@st59}Ferme le Dernier Autel.{/}	{@st59}마지막 제단을 닫습니다.{/}
+UI_20260930_006148	{@st42b}Progression de l'Autel{/}	{@st42b}제단 진행도{/}
+UI_20260930_006149	{@st66d}{s18}Rang de l'Autel %s{/}	{@st66d}{s18}제단 등급 %s{/}
+UI_20260930_006150	Prochaine Récompense : Aucune	다음 보상: 없음
+UI_20260930_006151	EXP de l'Autel 0 / 0	제단 경험치 0 / 0
+UI_20260930_006152	0 avant le rang suivant	다음 등급까지 0
+UI_20260930_006153	{@st42}Prochaine Récompense{/}	{@st42}다음 보상{/}
+UI_20260930_006154	Faire monter le rang de l'Autel accorde de nouvelles récompenses.	제단 등급을 높이면 새로운 보상을 얻습니다.
+UI_20260930_006155	{@st42}Braise{/}	{@st42}불씨{/}
+UI_20260930_006156	Aucune Braise	불씨 없음
+UI_20260930_006157	Vous pouvez équiper une braise qui ajuste les effets des reliques enregistrées.	등록한 유물의 효과를 보정하는 불씨를 장착할 수 있습니다.
+UI_20260930_006158	Débloqué au Rang 3 de l'Autel	제단 등급 3에서 개방
+UI_20260930_006159	{@st42b}Emplacements de Reliques de l'Autel{/}	{@st42b}제단 유물 슬롯{/}
+UI_20260930_006160	{@st66d}{s13}Vous pouvez enregistrer au Dernier Autel les reliques de votre inventaire par clic droit ou en les faisant glisser.{/}	{@st66d}{s13}인벤토리의 유물을 우클릭하거나 드래그해서 마지막 제단에 등록할 수 있습니다.{/}
+UI_20260930_006161	{@st42b}Prestige{/}	{@st42b}위광{/}
+UI_20260930_006162	{@st66d}{s18}Prestige {#%s}%s{/} / %s{/}	{@st66d}{s18}위광 {#%s}%s{/} / %s{/}
+UI_20260930_006163	{@st66d}{s12}Plus le rang de l'Autel est élevé, plus la limite de Prestige augmente.{/}	{@st66d}{s12}제단 등급이 오를수록 위광 한도가 증가합니다.{/}
+UI_20260930_006164	{@st41b}{s14}Tout Effacer{/}	{@st41b}{s14}전체 해제{/}
+UI_20260930_006165	{@st42}Montée de Rang de l'Autel	{@st42}제단 등급 상승
+UI_20260930_006166	{@st42b}Effet{/}	{@st42b}활성 효과{/}
+UI_20260930_006167	{@st66d}{s12}Effets des reliques et de la braise actuellement enregistrées{/}	{@st66d}{s12}현재 등록한 유물과 불씨의 효과{/}
+UI_20260930_006168	{@st66d}{s14}Le rang de l'Autel est partagé par toute l'équipe, tandis que les emplacements de l'Autel sont enregistrés séparément pour chaque personnage.{/}{/}	{@st66d}{s14}제단 등급은 팀 전체에 공유되며, 제단 슬롯은 캐릭터마다 따로 저장됩니다.{/}{/}
+UI_20260930_006169	{#FFE7AD}{s18}Montée de Rang de l'Autel{/}	{#FFE7AD}{s18}제단 등급 상승{/}
+UI_20260930_006170	{#F1E8D9}{s13}Utiliser 1 accorde +1 EXP de l'Autel{/}	{#F1E8D9}{s13}1개 사용 시 제단 경험치 +1{/}
+UI_20260930_006171	{#F1E8D9}{s14}Quantité possédée : %s{/}	{#F1E8D9}{s14}보유 수량: %s개{/}
+UI_20260930_006172	{#F1E8D9}{s14}Quantité utilisable : 1 ~ %s{/}	{#F1E8D9}{s14}사용 가능 수량: 1 ~ %s개{/}
+UI_20260930_006173	{#FFB29B}{s14}Vous n'avez aucune Pièce de Fouille.{/}	{#FFB29B}{s14}보유한 발굴 주화가 없습니다.{/}
+UI_20260930_006174	{#FFE7AD}{s14}Le Dernier Autel est au rang maximal.{/}	{#FFE7AD}{s14}마지막 제단이 최고 등급입니다.{/}
+UI_20260930_006175	{#F1E8D9}{s14}Quantité{/}	{#F1E8D9}{s14}사용 수량{/}
+UI_20260930_006176	{#F1E8D9}{s14}À consommer : {#FFE5A7}%s{/}{/}	{#F1E8D9}{s14}소모 예정: {#FFE5A7}%s개{/}{/}
+UI_20260930_006177	{#F1E8D9}{s14}Après utilisation : %s{/}	{#F1E8D9}{s14}사용 후 보유: %s개{/}
+UI_20260930_006178	{#F1E8D9}{s14}EXP obtenue : +%s{/}	{#F1E8D9}{s14}획득 경험치: +%s{/}
+UI_20260930_006179	{#F1E8D9}{s14}Avant le rang suivant après utilisation : %s{/}	{#F1E8D9}{s14}사용 후 다음 등급까지: %s{/}
+UI_20260930_006180	{#FFB29B}{s14}Saisissez un nombre entier dans la plage utilisable.{/}	{#FFB29B}{s14}사용 가능 범위의 정수를 입력하세요.{/}
+UI_20260930_006181	{@st41b}{s14}Annuler{/}	{@st41b}{s14}취소{/}
+UI_20260930_006182	{@st41b}{s14}Utiliser %s{/}	{@st41b}{s14}%s개 사용{/}
+UI_20260930_006183	Traitement en cours...	처리 중…
+UI_20260930_006184	Identifier les Stats	옵션 감정
+UI_20260930_006185	{@st42}{s22}Identifier une Relique{/}	{@st42}{s22}유물 감정{/}
+UI_20260930_006186	{@st42b}{s17}Enregistrer une Relique{/}	{@st42b}{s17}유물 등록{/}
+UI_20260930_006187	{@st66d}{s13}Faites un clic droit dessus ou glissez-la{nl}depuis votre inventaire{nl}Enregistrez la relique à identifier.{/}	{@st66d}{s13}인벤토리에서 우클릭하거나 드래그해{nl}감정할 유물을 등록하세요.{/}
+UI_20260930_006188	Enregistrez une relique.	유물을 등록하세요.
+UI_20260930_006189	{@st42b}{s17}Résultat d'Identification{/}	{@st42b}{s17}감정 결과{/}
+UI_20260930_006190	{@st66d}{s13}Stats identifiées {#9C978D}{s12}(valeurs avant taux d'effet de l'Autel · amplification){/}{/}{/}	{@st66d}{s13}감정된 옵션 {#9C978D}{s12}(제단 효과율·증폭 적용 전 값){/}{/}{/}
+UI_20260930_006191	[Niv.530] Requête d'Exploration de Reliques	[Lv.530] 유물 탐사 의뢰
+UI_20260930_006192	Sélectionnez une zone d'exploration	탐사 지역을 선택하세요
+UI_20260930_006193	Les combats et les récompenses supplémentaires du Portail d'Exploration varient selon les traits de la zone.	지역 특성에 따라 탐사 포탈의 전투와 추가 보상이 달라집니다.
+UI_20260930_006194	Préparation de la Requête	의뢰 준비
+UI_20260930_006195	Veuillez enregistrer les matériaux requis	필요한 재료를 등록해 주세요
+UI_20260930_006196	Requis : %s  x %s	필요 아이템  %s  × %s
+UI_20260930_006197	Explorer la zone sélectionnée	선택한 지역 탐사
+UI_20260930_006198	Voulez-vous abandonner l'exploration et partir ?{nl}Les récompenses obtenues jusqu'ici seront remises.	탐사를 포기하고 밖으로 나가시겠습니까?{nl}지금까지 획득한 보상은 정산됩니다.
+UI_20260930_006199	{#%s}{s16}Exploration Archéologique · %s{/}	{#%s}{s16}고고학 탐사 · %s{/}
+UI_20260930_006200	{#%s}{s14}Temps restant %s{/}	{#%s}{s14}남은 시간 %s{/}
+UI_20260930_006201	{@st59}Coffre d'Exploration · Cliquez pour développer{/}	{@st59}고고학 탐사 보관함 · 클릭하여 펼치기{/}
+UI_20260930_006202	{#FFE082}Coffre d'Exploration{/}	{#FFE082}고고학 탐사 보관함{/}
+UI_20260930_006203	{@st59}Réduire le coffre{/}	{@st59}보관함 최소화{/}
+UI_20260930_006204	Les récompenses s'accumulent ici tant que vous êtes dans le Portail.	포탈 입장 시 보상이 이곳에 쌓입니다.
+UI_20260930_006205	{#AFAFAF}Vous n'avez encore trouvé aucune récompense.{/}	{#AFAFAF}아직 발견한 보상이 없습니다.{/}
+UI_20260930_006206	{#AFAFAF}Récompenses conservées sur le serveur · Remises en une seule fois à la fin de l'exploration{/}	{#AFAFAF}서버에 보관된 보상 · 탐사 종료 시 한 번에 정산{/}
+UI_20260930_006207	{@st66d}Aucune relique n'est sélectionnée.{/}	{@st66d}선택한 유물이 없습니다.{/}
+UI_20260930_006208	{#FFB29B}{s13}Combat{/}	{#FFB29B}{s13}전투{/}
+UI_20260930_006209	{#C9F0B8}{s13}Récompenses{/}	{#C9F0B8}{s13}보상{/}
+UI_20260930_006210	Cliquez pour sélectionner	클릭하여 선택
+UI_20260930_006211	{@st42b}Dernier Autel{/}	{@st42b}마지막 제단{/}
+UI_20260930_006212	{@st66d}{s13}{#%s}%s{/} - Emplacement %s{/}	{@st66d}{s13}{#%s}%s{/} - %s번 슬롯{/}
+UI_20260930_006213	{@st42b}Effets de Relique{/}	{@st42b}유물 효과{/}
+UI_20261006_006214	{@st59}Enregistrement Auto sélectionne jusqu'à 60 emplacements d'objets déverrouillés actuellement visibles dans le filtre.{nl}Pour les objets empilés dans un même emplacement, la quantité entière est sélectionnée.{nl}Les sélections masquées par le filtre sont aussi incluses dans les cibles du démantèlement et la quantité totale.{nl}Les objets grisés sont verrouillés et ne peuvent pas être sélectionnés. Tout Effacer efface aussi les sélections masquées.{/}	{@st59}자동 등록은 현재 필터에 보이는 잠금 해제 아이템을 최대 60칸 선택합니다.{nl}같은 칸에 쌓인 아이템은 수량 전체가 선택됩니다.{nl}필터로 숨긴 선택도 분해 대상과 예정 수량에 포함됩니다.{nl}회색 아이템은 잠금 상태로 선택할 수 없습니다. 전체 해제는 숨긴 선택도 해제합니다.{/}
+UI_20261006_006215	{@st42b}Points d'Exposition{/}	{@st42b}전시 점수{/}
+UI_20261006_006216	{@st66d}{s18}Points d'Exposition {#%s}%s{/} / %s{/}	{@st66d}{s18}전시 점수 {#%s}%s{/} / %s{/}
+UI_20261006_006217	{@st66d}{s12}Plus le rang de l'Autel est élevé, plus la limite de Points d'Exposition augmente.{/}	{@st66d}{s12}제단 등급이 오를수록 전시 점수 한도가 증가합니다.{/}
+UI_20261006_006218	Objectif cible - Vaincre Nebulas	목표 - 네뷸라스 처치
+UI_20261006_006219	{#8FFFA8}Vaincu{/}	{#8FFFA8}처치 완료{/}

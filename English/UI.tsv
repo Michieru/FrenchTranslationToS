@@ -6116,3 +6116,104 @@ UI_20260901_006115	Current Amount : 20	현재 보유량 : 20
 UI_20260901_006116	{@st45tw2}Scale(%%){/}	{@st45tw2}배율(%%){/}
 UI_20260901_006117	{@st45tw2}Opacity(%%){/}	{@st45tw2}투명도(%%){/}
 UI_20260901_006118	{@st45tw5}Rows/Cols 1~8 · Scale 50~150 · Opacity 10~100{nl}Unlocked - Drop outside slot / Alt+Right-Click to clear{/}	{@st45tw5}행·열 1~8 · 배율 50~150 · 투명도 10~100{nl}해제 후 슬롯 밖 드롭/Alt+우클릭으로 비우기{/}
+UI_20260930_006119	%s x%s	%s %s개
+UI_20260930_006120	Do you want to dismantle the selected Relics to obtain the following items?{nl}%s	선택한 유물을 분해하여 다음 아이템을 획득하시겠습니까?{nl}%s
+UI_20260930_006121	{@st43}Dismantle Relic{/}	{@st43}유물 분해{/}
+UI_20260930_006122	{@st59}Auto-register selects up to 60 unlocked items visible under the current filter.{nl}Selections hidden by the filter are also included in the dismantling targets and the expected amounts.{nl}Grey items are locked and cannot be selected. Clear All also clears hidden selections.{/}	{@st59}자동 등록은 현재 필터에 보이는 잠금 해제 아이템을 최대 60개 선택합니다.{nl}필터로 숨긴 선택도 분해 대상과 예정 수량에 포함됩니다.{nl}회색 아이템은 잠금 상태로 선택할 수 없습니다. 전체 해제는 숨긴 선택도 해제합니다.{/}
+UI_20260930_006123	{@st66b}Junk{/}	{@st66b}잡동사니{/}
+UI_20260930_006124	{@st66d}{s14}Includes %s locked / %s hidden / %s hidden selections{/}	{@st66d}{s14}잠금 %s개 / 숨김 %s개 / 숨긴 선택 %s개 포함{/}
+UI_20260930_006125	{@st41b}Auto-Register{/}	{@st41b}자동 등록{/}
+UI_20260930_006126	{@st41b}Clear All{/}	{@st41b}전체 해제{/}
+UI_20260930_006127	{@st41b}{s14}Owned: %s{/}	{@st41b}{s14}보유: %s{/}
+UI_20260930_006128	{@st41b}{s14}To be obtained: %s{/}	{@st41b}{s14}획득 예정: %s{/}
+UI_20260930_006129	{@st41b}{s14}After: %s{/}	{@st41b}{s14}분해 후: %s{/}
+UI_20260930_006130	{@st41b}Dismantle{/}	{@st41b}분해하기{/}
+UI_20260930_006131	{@st42}{s26}Archaeology Exploration Portal Entry{/}	{@st42}{s26}고고학 탐사 포탈 입장{/}
+UI_20260930_006132	{@st66d}{s16}Difficulty{/}	{@st66d}{s16}난이도{/}
+UI_20260930_006133	{@st41b}{s16}Easy{/}	{@st41b}{s16}쉬움{/}
+UI_20260930_006134	{@st41b}{s16}Normal{/}	{@st41b}{s16}보통{/}
+UI_20260930_006135	{@st41b}{s16}Hard{/}	{@st41b}{s16}어려움{/}
+UI_20260930_006136	{@st41b}{s15}Very Hard{/}	{@st41b}{s15}매우 어려움{/}
+UI_20260930_006137	{#FFB29B}{s17}Fixed to the boss-only difficulty{/}   {@st66d}{s14}Difficulty cannot be selected{/}	{#FFB29B}{s17}보스 전용 난이도 고정{/}   {@st66d}{s14}난이도 선택 불가{/}
+UI_20260930_006138	Enemy Strength	적 강도
+UI_20260930_006139	Rare Rewards	희귀 보상
+UI_20260930_006140	Record Shards	기록 파편
+UI_20260930_006141	Add Relics	유물 추가
+UI_20260930_006142	{#E8CF8B}{s15}Adjustment for Swarm Annihilation not appearing twice · Guaranteed for this entry{/}	{#E8CF8B}{s15}군집 섬멸 2회 미등장 보정 · 이번 입장 확정{/}
+UI_20260930_006143	{@st41b}{s18}Reset{/}	{@st41b}{s18}초기화{/}
+UI_20260930_006144	{@st41b}{s18}Recent Settings{/}	{@st41b}{s18}최근 설정{/}
+UI_20260930_006145	{@st41b}{s20}Enter{/}	{@st41b}{s20}입장{/}
+UI_20260930_006146	{@st42}{s22}Last Altar{/}	{@st42}{s22}마지막 제단{/}
+UI_20260930_006147	{@st59}Close the Last Altar.{/}	{@st59}마지막 제단을 닫습니다.{/}
+UI_20260930_006148	{@st42b}Altar Progress{/}	{@st42b}제단 진행도{/}
+UI_20260930_006149	{@st66d}{s18}Altar Rank %s{/}	{@st66d}{s18}제단 등급 %s{/}
+UI_20260930_006150	Next Reward: None	다음 보상: 없음
+UI_20260930_006151	Altar EXP 0 / 0	제단 경험치 0 / 0
+UI_20260930_006152	0 till next rank	다음 등급까지 0
+UI_20260930_006153	{@st42}Next Reward{/}	{@st42}다음 보상{/}
+UI_20260930_006154	Raising the Altar rank grants new rewards.	제단 등급을 높이면 새로운 보상을 얻습니다.
+UI_20260930_006155	{@st42}Ember{/}	{@st42}불씨{/}
+UI_20260930_006156	No Ember	불씨 없음
+UI_20260930_006157	You can equip an Ember that adjusts the effects of the registered Relics.	등록한 유물의 효과를 보정하는 불씨를 장착할 수 있습니다.
+UI_20260930_006158	Unlocked at Altar Rank 3	제단 등급 3에서 개방
+UI_20260930_006159	{@st42b}Altar Relic Slots{/}	{@st42b}제단 유물 슬롯{/}
+UI_20260930_006160	{@st66d}{s13}You can register Relics from your inventory at the Last Altar by right-clicking or dragging them.{/}	{@st66d}{s13}인벤토리의 유물을 우클릭하거나 드래그해서 마지막 제단에 등록할 수 있습니다.{/}
+UI_20260930_006161	{@st42b}Tribute{/}	{@st42b}위광{/}
+UI_20260930_006162	{@st66d}{s18}Tribute {#%s}%s{/} / %s{/}	{@st66d}{s18}위광 {#%s}%s{/} / %s{/}
+UI_20260930_006163	{@st66d}{s12}The higher the Altar rank, the higher the Tribute limit.{/}	{@st66d}{s12}제단 등급이 오를수록 위광 한도가 증가합니다.{/}
+UI_20260930_006164	{@st41b}{s14}Clear All{/}	{@st41b}{s14}전체 해제{/}
+UI_20260930_006165	{@st42}Altar Rank Up	{@st42}제단 등급 상승
+UI_20260930_006166	{@st42b}Effect{/}	{@st42b}활성 효과{/}
+UI_20260930_006167	{@st66d}{s12}Current Relics & Ember effect{/}	{@st66d}{s12}현재 등록한 유물과 불씨의 효과{/}
+UI_20260930_006168	{@st66d}{s14}The Altar rank is shared across the whole team, while the Altar slots are saved separately for each character.{/}{/}	{@st66d}{s14}제단 등급은 팀 전체에 공유되며, 제단 슬롯은 캐릭터마다 따로 저장됩니다.{/}{/}
+UI_20260930_006169	{#FFE7AD}{s18}Altar Rank Up{/}	{#FFE7AD}{s18}제단 등급 상승{/}
+UI_20260930_006170	{#F1E8D9}{s13}Using 1 grants Altar EXP +1{/}	{#F1E8D9}{s13}1개 사용 시 제단 경험치 +1{/}
+UI_20260930_006171	{#F1E8D9}{s14}Amount Owned: %s{/}	{#F1E8D9}{s14}보유 수량: %s개{/}
+UI_20260930_006172	{#F1E8D9}{s14}Usable Amount: 1 ~ %s{/}	{#F1E8D9}{s14}사용 가능 수량: 1 ~ %s개{/}
+UI_20260930_006173	{#FFB29B}{s14}You have no Excavation Coins.{/}	{#FFB29B}{s14}보유한 발굴 주화가 없습니다.{/}
+UI_20260930_006174	{#FFE7AD}{s14}The Last Altar is at its highest rank.{/}	{#FFE7AD}{s14}마지막 제단이 최고 등급입니다.{/}
+UI_20260930_006175	{#F1E8D9}{s14}Amount{/}	{#F1E8D9}{s14}사용 수량{/}
+UI_20260930_006176	{#F1E8D9}{s14}To be Consumed: {#FFE5A7}%s{/}{/}	{#F1E8D9}{s14}소모 예정: {#FFE5A7}%s개{/}{/}
+UI_20260930_006177	{#F1E8D9}{s14}After Use: %s{/}	{#F1E8D9}{s14}사용 후 보유: %s개{/}
+UI_20260930_006178	{#F1E8D9}{s14}EXP gained: +%s{/}	{#F1E8D9}{s14}획득 경험치: +%s{/}
+UI_20260930_006179	{#F1E8D9}{s14}To the next rank after use: %s{/}	{#F1E8D9}{s14}사용 후 다음 등급까지: %s{/}
+UI_20260930_006180	{#FFB29B}{s14}Enter a whole number within the usable range.{/}	{#FFB29B}{s14}사용 가능 범위의 정수를 입력하세요.{/}
+UI_20260930_006181	{@st41b}{s14}Cancel{/}	{@st41b}{s14}취소{/}
+UI_20260930_006182	{@st41b}{s14}Use %s{/}	{@st41b}{s14}%s개 사용{/}
+UI_20260930_006183	Processing...	처리 중…
+UI_20260930_006184	Identify Stat	옵션 감정
+UI_20260930_006185	{@st42}{s22}Identify Relic{/}	{@st42}{s22}유물 감정{/}
+UI_20260930_006186	{@st42b}{s17}Register Relic{/}	{@st42b}{s17}유물 등록{/}
+UI_20260930_006187	{@st66d}{s13}Right-click or drag it from your inventory{nl}to register the Relic you want to identify.{/}	{@st66d}{s13}인벤토리에서 우클릭하거나 드래그해{nl}감정할 유물을 등록하세요.{/}
+UI_20260930_006188	Register a Relic.	유물을 등록하세요.
+UI_20260930_006189	{@st42b}{s17}Identification Result{/}	{@st42b}{s17}감정 결과{/}
+UI_20260930_006190	{@st66d}{s13}Identified stats {#9C978D}{s12}(values before the Altar effect rate ·amplification){/}{/}{/}	{@st66d}{s13}감정된 옵션 {#9C978D}{s12}(제단 효과율·증폭 적용 전 값){/}{/}{/}
+UI_20260930_006191	[Lv.530] Relic Exploration Request	[Lv.530] 유물 탐사 의뢰
+UI_20260930_006192	Select an exploration area	탐사 지역을 선택하세요
+UI_20260930_006193	The Exploration Portal's battles and additional rewards differ depending on the area's traits.	지역 특성에 따라 탐사 포탈의 전투와 추가 보상이 달라집니다.
+UI_20260930_006194	Request Preparation	의뢰 준비
+UI_20260930_006195	Please register the required materials	필요한 재료를 등록해 주세요
+UI_20260930_006196	Required : %s  x %s	필요 아이템  %s  × %s
+UI_20260930_006197	Explore selected area	선택한 지역 탐사
+UI_20260930_006198	Do you want to abandon the exploration and leave?{nl}The rewards you have obtained so far will be settled.	탐사를 포기하고 밖으로 나가시겠습니까?{nl}지금까지 획득한 보상은 정산됩니다.
+UI_20260930_006199	{#%s}{s16}Archaeology Exploration · %s{/}	{#%s}{s16}고고학 탐사 · %s{/}
+UI_20260930_006200	{#%s}{s14}Time left %s{/}	{#%s}{s14}남은 시간 %s{/}
+UI_20260930_006201	{@st59}Exploration Storage · Click to expand{/}	{@st59}고고학 탐사 보관함 · 클릭하여 펼치기{/}
+UI_20260930_006202	{#FFE082}Exploration Storage{/}	{#FFE082}고고학 탐사 보관함{/}
+UI_20260930_006203	{@st59}Minimize storage{/}	{@st59}보관함 최소화{/}
+UI_20260930_006204	Rewards accumulate here while you are inside the Portal.	포탈 입장 시 보상이 이곳에 쌓입니다.
+UI_20260930_006205	{#AFAFAF}You have not found any rewards yet.{/}	{#AFAFAF}아직 발견한 보상이 없습니다.{/}
+UI_20260930_006206	{#AFAFAF}Rewards held on the server · Settle all at once when the exploration ends{/}	{#AFAFAF}서버에 보관된 보상 · 탐사 종료 시 한 번에 정산{/}
+UI_20260930_006207	{@st66d}No Relic is selected.{/}	{@st66d}선택한 유물이 없습니다.{/}
+UI_20260930_006208	{#FFB29B}{s13}Battle{/}	{#FFB29B}{s13}전투{/}
+UI_20260930_006209	{#C9F0B8}{s13}Rewards{/}	{#C9F0B8}{s13}보상{/}
+UI_20260930_006210	Click to select	클릭하여 선택
+UI_20260930_006211	{@st42b}Last Altar{/}	{@st42b}마지막 제단{/}
+UI_20260930_006212	{@st66d}{s13}{#%s}%s{/} - Slot %s{/}	{@st66d}{s13}{#%s}%s{/} - %s번 슬롯{/}
+UI_20260930_006213	{@st42b}Relic Effects{/}	{@st42b}유물 효과{/}
+UI_20261006_006214	{@st59}Auto-Register selects up to 60 slots of unlocked items currently visible in the filter.{nl}For items stacked in the same slot, the entire quantity is selected.{nl}Selections hidden by the filter are also included in the dismantle targets and total quantity.{nl}Grayed-out items are locked and cannot be selected. Deselecting all will also clear hidden selections.{/}	{@st59}자동 등록은 현재 필터에 보이는 잠금 해제 아이템을 최대 60칸 선택합니다.{nl}같은 칸에 쌓인 아이템은 수량 전체가 선택됩니다.{nl}필터로 숨긴 선택도 분해 대상과 예정 수량에 포함됩니다.{nl}회색 아이템은 잠금 상태로 선택할 수 없습니다. 전체 해제는 숨긴 선택도 해제합니다.{/}
+UI_20261006_006215	{@st42b}Exhibition Points{/}	{@st42b}전시 점수{/}
+UI_20261006_006216	{@st66d}{s18}Exhibition Points {#%s}%s{/} / %s{/}	{@st66d}{s18}전시 점수 {#%s}%s{/} / %s{/}
+UI_20261006_006217	{@st66d}{s12}The higher the Altar rank, the higher the Exhibition Points limit.{/}	{@st66d}{s12}제단 등급이 오를수록 전시 점수 한도가 증가합니다.{/}
+UI_20261006_006218	Target Objective - Defeat Nebulas	목표 - 네뷸라스 처치
+UI_20261006_006219	{#8FFFA8}Defeated{/}	{#8FFFA8}처치 완료{/}

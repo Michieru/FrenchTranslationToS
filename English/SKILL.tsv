@@ -26503,3 +26503,84 @@ SKILL_20260907_026502	Inferno Resonance	인페르노 공명
 SKILL_20260907_026503	Reduces continuous damage taken from Burn in Zmei Raid.	즈메이 레이드에서 화상으로 받는 지속 피해가 감소합니다.
 SKILL_20260908_026504	※ Some Fanaticus skills consume HP instead of SP, gaining 1 stack of [Cruor] for every 1% of Max HP consumed{nl}* HP consumption will not reduce HP below 50% of Max HP, SP is consumed instead and stacks are gained as normal{nl}* Cruor{nl}- Max 20 stacks{nl}- Fanaticus skill Final Damage +0.75% per stack{nl}- Movement Speed +1 per stack (Max 10){nl}- Grants [Ecstasy] upon reaching 20 stacks{nl}- Duration: 60 seconds{nl}* Ecstasy{nl}- Granted after removing Cruor{nl}- Fanaticus skill Final Damage fixed at 20%, HP consumption stops{nl}- Enables Divine Fanaticism{nl}- Duration: 10 seconds	* 파나티쿠스 일부 스킬은 SP 대신 HP를 소모하며, 최대 HP의 1% 소모마다 [크루오르] 1스택 획득{nl}* HP가 최대 HP의 50% 미만이 되는 소모는 발생하지 않으며, 이때는 SP를 소모하고 스택은 동일하게 획득{nl}* 크루오르{nl}- 최대 20 중첩{nl}- 스택당 파나티쿠스 스킬 최종 대미지 0.75% 증가{nl}- 스택당 이동속도 1 증가 (최대 10){nl}- 20스택 도달 시 [황홀] 부여{nl}- 지속시간 : 60초{nl}* 황홀{nl}- 크루오르 제거 후 부여{nl}- 파나티쿠스 스킬 최종 대미지 20%로 고정, HP 소모 중단{nl}- 디바인 파나티시즘 사용 가능{nl}- 지속시간 : 10초
 SKILL_20260908_026505	※ When using Fulminatio, consumes 2% Max HP instead of SP to gain 2 stacks of [Cruor]{nl}* If HP is insufficient, consumes SP instead and gains 2 stacks of [Cruor] as normal. While in [Ecstasy], consumes SP and does not gain stacks{nl}* Can only be changed in town.	* 풀미나티오 사용 시 SP 대신 최대 HP의 2%를 소모하고 [크루오르] 2스택 획득{nl}* HP가 부족하면 SP를 소모하되 [크루오르] 2스택은 그대로 획득{nl}* [황홀] 중에는 SP를 소모하며 스택을 획득하지 않음{nl}* 마을에서만 변경 가능합니다.
+SKILL_20260930_026506	Fixed Straight Laser	고정 직선 레이저
+SKILL_20260930_026507	It attacks the straight warning area.	직선 경고 범위를 공격합니다.
+SKILL_20260930_026508	Frontal Barrage	전방 탄막
+SKILL_20260930_026509	Nebulas Frontal Barrage	네뷸라스 전방 탄막
+SKILL_20260930_026510	Charging Lightning Strike	돌진 낙뢰
+SKILL_20260930_026511	Nebulas Charging Lightning Strike	네뷸라스 돌진 낙뢰
+SKILL_20260930_026512	Rage Lightning Flurry	분노 번개 난무
+SKILL_20260930_026513	Nebulas Rage Lightning Flurry	네뷸라스 분노 번개 난무
+SKILL_20260930_026514	Seal Resonance Wave	봉인 공명파
+SKILL_20260930_026515	It attacks everything outside the marked safe zone with a resonance wave.	표시된 안전 지대 밖을 공명파로 공격합니다.
+SKILL_20260930_026516	Omnidirectional Gravity Barrage	전방위 중력 포격
+SKILL_20260930_026517	It barrages the whole area except the marked safe zone.	표시된 안전 지대를 제외한 영역을 포격합니다.
+SKILL_20260930_026518	Homing Gravity Mine	유도 중력 지뢰
+SKILL_20260930_026519	It places gravity mines at the marked positions.	표시된 위치에 중력 지뢰를 배치합니다.
+SKILL_20260930_026520	Prelude	프렐류드
+SKILL_20260930_026521	Swing the censer low to lay a wide, thin veil of smoke ahead. Attacking enemies standing on the smoke builds up incense and deals greater damage to them.	향로를 낮게 흔들어 전방에 넓고 옅은 연기를 깝니다. 연기 위의 적을 공격하면 향화가 쌓이고, 연기 위의 적에게 더 큰 피해를 줍니다.
+SKILL_20260930_026522	Incense Breath	인센스 브레스
+SKILL_20260930_026523	Swing the censer wide to spew smoke in a fan ahead of you, attacking enemies.	향로를 크게 휘둘러 전방 부채꼴로 연기를 뿜어 적을 공격합니다.
+SKILL_20260930_026524	Ember Wave	엠버 웨이브
+SKILL_20260930_026525	A pillar of smoke rising from the censer settles down and spreads in all directions, engulfing nearby enemies.	향로에서 피어오른 연기 기둥이 내려앉으며 사방으로 퍼져 주변의 적을 덮칩니다.
+SKILL_20260930_026526	Incense Beacon	인센스 비컨
+SKILL_20260930_026527	Set a censer down in front of you. The standing censer continuously damages nearby enemies for a set duration.	전방에 향로를 세웁니다. 세워진 향로는 일정 시간 동안 주변의 적에게 지속적으로 피해를 줍니다.
+SKILL_20260930_026528	Casting time 0.5 sec{nl}Skill factor #{SkillFactor}#% x 12 hits{nl}Duration 6 sec{nl}Targets #{CaptionRatio}#	캐스팅 시간 0.5초{nl}스킬 계수 #{SkillFactor}#% x 12회{nl}지속시간 6초{nl}대상 수 #{CaptionRatio}#
+SKILL_20260930_026529	Vertigo	베르티고
+SKILL_20260930_026530	Smoke swells up around you three times over, damaging nearby enemies.	자신을 중심으로 연기가 세 번에 걸쳐 부풀어 오르며 주변의 적에게 피해를 줍니다.
+SKILL_20260930_026531	Casting time 0.8 sec{nl}Skill factor #{SkillFactor}#% x #{CaptionRatio3}# hits{nl}Duration #{CaptionRatio2}# sec{nl}Targets #{CaptionRatio}#	캐스팅 시간 0.8초{nl}스킬 계수 #{SkillFactor}#% x #{CaptionRatio3}#회{nl}지속시간 #{CaptionRatio2}#초{nl}대상 수 #{CaptionRatio}#
+SKILL_20260930_026532	Botafumeiro	보타푸메이로
+SKILL_20260930_026533	A giant censer appears in the sky and begins swinging like a pendulum across the area ahead.	하늘에 거대한 향로가 나타나 전방을 가로지르는 진자 운동을 시작합니다.
+SKILL_20260930_026534	{#005060}Usable when [Incense Flame] is fully stacked{/}{nl}Casting time 1 sec{nl}Skill factor #{SkillFactor}#% x 15 hits{nl}Duration 4 sec{nl}Targets #{CaptionRatio}#	{#005060}[향화]가 가득 찼을 때 사용 가능{/}{nl}캐스팅 시간 1초{nl}스킬 계수 #{SkillFactor}#% x 15회{nl}지속시간 4초{nl}대상 수 #{CaptionRatio}#
+SKILL_20260930_026535	Incense Flame	향화
+SKILL_20260930_026536	Attacking enemies on the [Haze] increases the stack. At 15 stacks it switches to the Officiation state.	[연무] 위의 적을 공격하면 중첩이 증가. 15중첩 시 집전 상태로 전환됨
+SKILL_20260930_026537	Officiation	집전
+SKILL_20260930_026538	Incense Flame has reached its maximum stack. You can use Botafumeiro, and the damage dealt to enemies on the [Haze] and the minimum critical rate of Officiant skills increase.	향화 최대 중첩 달성. 보타푸메이로를 사용할 수 있으며, [연무] 위의 적에게 주는 피해와 오피시언트 스킬의 최소 치명타 확률이 증가합니다.
+SKILL_20260930_026539	Incense Flame internal cooldown	향화 내부쿨
+SKILL_20260930_026540	Incense Flame stacks Internal cooldown	향화 중첩 내부 재사용 대기시간
+SKILL_20260930_026541	Encroachment	잠식
+SKILL_20260930_026542	The stack increases while the enemy stays inside the [Haze]. Each stack increases the final damage of Officiant skills.	[연무] 안에 머무는 동안 중첩이 증가. 중첩당 오피시언트 스킬의 최종 대미지가 증가함
+SKILL_20260930_026543	Divine Aroma	예향
+SKILL_20260930_026544	Increases the critical damage of Officiant skills by 30%	오피시언트 스킬의 치명타 대미지 30% 증가
+SKILL_20260930_026545	Haze	연무
+SKILL_20260930_026546	Standing on a [Haze] zone	[연무] 지대 위에 있음
+SKILL_20260930_026547	Standing on a [Haze] zone (Agarwood)	[연무] 지대(침향) 위에 있음
+SKILL_20260930_026548	Corrosive Poison	부식 독
+SKILL_20260930_026549	Defense and Magic Defense decrease.	방어력과 마법 방어력이 감소합니다.
+SKILL_20260930_026550	[Dev Only] Attack x5	[개발용] 공격력 5배
+SKILL_20260930_026551	{@st66d_y}Development/test only: Physical and Magic Attack become 5 times higher.{/}	{@st66d_y}개발/테스트 전용: 물리, 마법 공격력이 5배가 됩니다.{/}
+SKILL_20260930_026552	Sacred Incense	훈향
+SKILL_20260930_026553	* Attacking enemies on the [Haze] increases the [Incense Flame] buff stack (1 per 1 second internal cooldown){nl}* Reaching 15 stacks of [Incense Flame] grants the [Officiation] buff{nl}* Incense Flame{nl}- Up to 15 stacks{nl}- Damage dealt to enemies on the [Haze] increased by 2% per stack{nl}- Minimum critical rate of Officiant skills increased by 1% per stack{nl}- Duration: 60 sec{nl}* Officiation{nl}- Granted after Incense Flame is removed{nl}- Botafumeiro becomes usable{nl}- Damage dealt to enemies on the [Haze] increased by 30%{nl}- Minimum critical rate of Officiant skills increased by 15%{nl}- Duration: 15 sec	* [연무] 위의 적을 공격 시 [향화] 버프 스택 증가 (내부쿨 1초에 1씩){nl}* [향화] 15스택 달성 시 [집전] 버프 부여{nl}* 향화{nl}- 최대 15 중첩{nl}- 스택당 [연무] 위의 적에게 주는 피해 2% 증가{nl}- 스택당 오피시언트 스킬의 최소 치명타 확률 1% 증가{nl}- 지속시간 : 60초{nl}* 집전{nl}- 향화 제거 후 부여{nl}- 보타푸메이로 사용 가능{nl}- [연무] 위의 적에게 주는 피해 30% 증가{nl}- 오피시언트 스킬의 최소 치명타 확률 15% 증가{nl}- 지속시간 : 15초
+SKILL_20260930_026554	Incense Breath: Enhance	인센스 브레스: 강화
+SKILL_20260930_026555	Ember Wave: Enhance	엠버 웨이브: 강화
+SKILL_20260930_026556	Incense Beacon: Enhance	인센스 비컨: 강화
+SKILL_20260930_026557	Vertigo: Enhance	베르티고: 강화
+SKILL_20260930_026558	Botafumeiro: Enhance	보타푸메이로: 강화
+SKILL_20260930_026559	[Arts] Incense Breath: Enhanced Upgrade	[아츠] 인센스 브레스: 상급 강화
+SKILL_20260930_026560	[Arts] Ember Wave: Enhanced Upgrade	[아츠] 엠버 웨이브: 상급 강화
+SKILL_20260930_026561	[Arts] Incense Beacon: Enhanced Upgrade	[아츠] 인센스 비컨: 상급 강화
+SKILL_20260930_026562	[Arts] Vertigo: Enhanced Upgrade	[아츠] 베르티고: 상급 강화
+SKILL_20260930_026563	[Arts] Botafumeiro: Enhanced Upgrade	[아츠] 보타푸메이로: 상급 강화
+SKILL_20260930_026564	[Arts] Prelude: Enhanced Upgrade	[아츠] 프렐류드: 잠식
+SKILL_20260930_026565	* Applies the [Encroachment] debuff to enemies on the [Haze]{nl}* Gains 1 stack every second while the enemy stays inside the [Haze]{nl}* Disappears immediately once the enemy leaves the [Haze]{nl}* Encroachment{nl}- Up to 20 stacks{nl}- Final damage of Officiant skills increased by 1% per stack{nl}* The [Haze] duration is reduced to 30 seconds{nl}* Can only be changed in a town.	* [연무] 위의 적에게 [잠식] 디버프를 부여함{nl}* [연무] 안에 머무는 동안 1초마다 1중첩 증가{nl}* [연무]를 벗어나면 즉시 사라짐{nl}* 잠식{nl}- 최대 20 중첩{nl}- 1중첩당 오피시언트 스킬의 최종 대미지 1% 증가{nl}* [연무] 지속시간이 30초로 감소함{nl}* 마을에서만 변경 가능합니다.
+SKILL_20260930_026566	Ember Wave: Agarwood	엠버 웨이브: 침향
+SKILL_20260930_026567	* Creates a [Haze] zone at the point of impact{nl}- Duration 10 sec{nl}- Its area is narrower than Prelude's [Haze]{nl}- It does not remove Prelude's [Haze] and remains alongside it{nl}- The effect of [Arts] Prelude: Encroachment is not applied{nl}* SP consumption increased by 30%{nl}* Can only be changed in a town.	* 타격 지점에 [연무] 지대를 생성함{nl}- 지속시간 10초{nl}- 범위는 프렐류드의 [연무]보다 좁음{nl}- 프렐류드의 [연무]를 제거하지 않으며 함께 유지됨{nl}- [아츠] 프렐류드: 잠식의 효과는 적용되지 않음{nl}* SP소모 30% 증가{nl}* 마을에서만 변경 가능합니다.
+SKILL_20260930_026568	[Arts] Vertigo: Lingering Scent	[아츠] 베르티고: 잔향
+SKILL_20260930_026569	* The duration increases to 4 seconds, so the explosion occurs 4 times{nl}* SP consumption increased by 50%{nl}* Can only be changed in a town.	* 지속시간이 4초로 증가하여 폭발이 4회 발생함{nl}* SP소모 50% 증가{nl}* 마을에서만 변경 가능합니다.
+SKILL_20260930_026570	[Arts] Incense Breath: Divine Aroma	[아츠] 인센스 브레스: 예향
+SKILL_20260930_026571	* Using Incense Breath grants the [Divine Aroma] buff for 3 seconds{nl}* Divine Aroma{nl}- Critical damage of Officiant skills increased by 30%{nl}* SP consumption increased by 50%{nl}* Can only be changed in a town.	* 인센스 브레스 사용 시 3초 동안 [예향] 버프 부여{nl}* 예향{nl}- 오피시언트 스킬의 치명타 대미지 30% 증가{nl}* SP소모 50% 증가{nl}* 마을에서만 변경 가능합니다.
+SKILL_20260930_026572	Incense Breath Lv 1 and above	인센스 브레스 1레벨 이상
+SKILL_20260930_026573	Ember Wave Lv 1 and above	엠버 웨이브 1레벨 이상
+SKILL_20260930_026574	Incense Beacon Lv 1 and above	인센스 비컨 1레벨 이상
+SKILL_20260930_026575	Vertigo Lv 1 and above	베르티고 1레벨 이상
+SKILL_20260930_026576	Botafumeiro Lv 1 and above	보타푸메이로 1레벨 이상
+SKILL_20260930_026577	Prelude Lv 1 and above	프렐류드 1레벨 이상
+SKILL_20260930_026578	[Incense Breath: Enhance] Attribute Lv. 65	[인센스 브레스: 강화] 특성 65 레벨 달성
+SKILL_20260930_026579	[Ember Wave: Enhance] Attribute Lv. 65	[엠버 웨이브: 강화] 특성 65 레벨 달성
+SKILL_20260930_026580	[Incense Beacon: Enhance] Attribute Lv. 65	[인센스 비컨: 강화] 특성 65 레벨 달성
+SKILL_20260930_026581	[Vertigo: Enhance] Attribute Lv. 65	[베르티고: 강화] 특성 65 레벨 달성
+SKILL_20260930_026582	[Botafumeiro: Enhance] Attribute Lv. 65	[보타푸메이로: 강화] 특성 65 레벨 달성
+SKILL_20261006_026583	Duration #{CaptionRatio2}# seconds{nl}Targets #{CaptionRatio}#	지속시간 #{CaptionRatio2}#초{nl}대상 수 #{CaptionRatio}#
+SKILL_20261006_026584	Increases the critical damage of Officiant skills by 15%	오피시언트 스킬의 치명타 대미지 15% 증가
+SKILL_20261006_026585	* Applies the [Encroachment] debuff to enemies on the [Haze]{nl}* Gains 1 stack every second while the enemy stays inside the [Haze]{nl}* Disappears immediately once the enemy leaves the [Haze]{nl}* Encroachment{nl}- Up to 20 stacks{nl}- Final damage of Officiant skills increased by 0.5% per stack{nl}* The [Haze] duration is reduced to 30 seconds{nl}* Can only be changed in a town.	* [연무] 위의 적에게 [잠식] 디버프를 부여함{nl}* [연무] 안에 머무는 동안 1초마다 1중첩 증가{nl}* [연무]를 벗어나면 즉시 사라짐{nl}* 잠식{nl}- 최대 20 중첩{nl}- 1중첩당 오피시언트 스킬의 최종 대미지 0.5% 증가{nl}* [연무] 지속시간이 30초로 감소함{nl}* 마을에서만 변경 가능합니다.
+SKILL_20261006_026586	* Using Incense Breath grants the [Divine Aroma] buff for 3 seconds{nl}* Divine Aroma{nl}- Critical damage of Officiant skills increased by 15%{nl}* SP consumption increased by 50%{nl}* Can only be changed in a town.	* 인센스 브레스 사용 시 3초 동안 [예향] 버프 부여{nl}* 예향{nl}- 오피시언트 스킬의 치명타 대미지 15% 증가{nl}* SP소모 50% 증가{nl}* 마을에서만 변경 가능합니다.

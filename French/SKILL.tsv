@@ -26503,3 +26503,84 @@ SKILL_20260907_026502	Inferno Résonance	인페르노 공명
 SKILL_20260907_026503	Réduit les dégâts continus dus à Brûlure{nl}dans le Raid Zmei.	즈메이 레이드에서 화상으로 받는 지속 피해가 감소합니다.
 SKILL_20260908_026504	※ Certains Skills Fanaticus consomment des PV au lieu de PM, gagnant 1 cumul de [Cruor] par tranche de 1 % de PV Max consommés{nl}* La consommation de PV ne réduira pas les PV sous 50 % du Max ; des PM sont alors consommés à la place et les cumuls sont gagnés normalement{nl}* Cruor{nl}- 20 cumuls maximum{nl}- Dégâts Finaux des Skills Fanaticus +0,75 % par cumul{nl}- Vitesse de déplacement +1 par cumul (Max. 10){nl}- Accorde [Extase] à 20 cumuls{nl}- Durée : 60 secondes{nl}* Extase{nl}- Accordée après la disparition de Cruor{nl}- Dégâts Finaux des Skills Fanaticus fixés à 20 %, la consommation de PV s'arrête{nl}- Active Divine Fanaticism{nl}- Durée : 10 secondes	* 파나티쿠스 일부 스킬은 SP 대신 HP를 소모하며, 최대 HP의 1% 소모마다 [크루오르] 1스택 획득{nl}* HP가 최대 HP의 50% 미만이 되는 소모는 발생하지 않으며, 이때는 SP를 소모하고 스택은 동일하게 획득{nl}* 크루오르{nl}- 최대 20 중첩{nl}- 스택당 파나티쿠스 스킬 최종 대미지 0.75% 증가{nl}- 스택당 이동속도 1 증가 (최대 10){nl}- 20스택 도달 시 [황홀] 부여{nl}- 지속시간 : 60초{nl}* 황홀{nl}- 크루오르 제거 후 부여{nl}- 파나티쿠스 스킬 최종 대미지 20%로 고정, HP 소모 중단{nl}- 디바인 파나티시즘 사용 가능{nl}- 지속시간 : 10초
 SKILL_20260908_026505	※ En utilisant Fulminatio, consomme 2 % des PV Max au lieu des PM pour gagner 2 cumuls de [Cruor]{nl}* Si les PV sont insuffisants, consomme des PM à la place et gagne 2 cumuls de [Cruor] normalement. En [Extase], consomme des PM et ne gagne aucun cumul{nl}* Modifiable uniquement en ville.	* 풀미나티오 사용 시 SP 대신 최대 HP의 2%를 소모하고 [크루오르] 2스택 획득{nl}* HP가 부족하면 SP를 소모하되 [크루오르] 2스택은 그대로 획득{nl}* [황홀] 중에는 SP를 소모하며 스택을 획득하지 않음{nl}* 마을에서만 변경 가능합니다.
+SKILL_20260930_026506	Laser Droit Fixe	고정 직선 레이저
+SKILL_20260930_026507	Attaque la zone d'alerte rectiligne.	직선 경고 범위를 공격합니다.
+SKILL_20260930_026508	Barrage Frontal	전방 탄막
+SKILL_20260930_026509	Barrage Frontal de Nebulas	네뷸라스 전방 탄막
+SKILL_20260930_026510	Charge Foudroyante	돌진 낙뢰
+SKILL_20260930_026511	Charge Foudroyante de Nebulas	네뷸라스 돌진 낙뢰
+SKILL_20260930_026512	Rafale d'Éclairs de Rage	분노 번개 난무
+SKILL_20260930_026513	Rafale d'Éclairs de Rage de Nebulas	네뷸라스 분노 번개 난무
+SKILL_20260930_026514	Onde de Résonance du Sceau	봉인 공명파
+SKILL_20260930_026515	Attaque tout ce qui se trouve hors de la zone{nl}sûre indiquée avec une onde de résonance.	표시된 안전 지대 밖을 공명파로 공격합니다.
+SKILL_20260930_026516	Barrage de Gravité Omnidirectionnel	전방위 중력 포격
+SKILL_20260930_026517	Bombarde toute la zone à l'exception de la{nl}zone sûre indiquée.	표시된 안전 지대를 제외한 영역을 포격합니다.
+SKILL_20260930_026518	Mine de Gravité Autoguidée	유도 중력 지뢰
+SKILL_20260930_026519	Place des mines de gravité aux{nl}emplacements indiqués.	표시된 위치에 중력 지뢰를 배치합니다.
+SKILL_20260930_026520	Prélude	프렐류드
+SKILL_20260930_026521	Agitez l'encensoir à ras du sol pour étendre{nl}devant vous un voile de fumée large et ténu.{nl}Attaquer des ennemis sur la fumée{nl}accumule de la Flamme d'Encens et leur{nl}inflige davantage de dégâts.	향로를 낮게 흔들어 전방에 넓고 옅은 연기를 깝니다. 연기 위의 적을 공격하면 향화가 쌓이고, 연기 위의 적에게 더 큰 피해를 줍니다.
+SKILL_20260930_026522	Souffle d'Encens	인센스 브레스
+SKILL_20260930_026523	Brandissez largement l'encensoir pour{nl}souffler de la fumée en éventail devant vous{nl}et attaquer les ennemis.	향로를 크게 휘둘러 전방 부채꼴로 연기를 뿜어 적을 공격합니다.
+SKILL_20260930_026524	Vague de Braise	엠버 웨이브
+SKILL_20260930_026525	Un pilier de fumée s'élevant de l'encensoir{nl}retombe et se répand dans toutes les{nl}directions, engloutissant les ennemis{nl}alentour.	향로에서 피어오른 연기 기둥이 내려앉으며 사방으로 퍼져 주변의 적을 덮칩니다.
+SKILL_20260930_026526	Balise d'Encens	인센스 비컨
+SKILL_20260930_026527	Plante un encensoir devant vous. L'encensoir{nl}dressé inflige des dégâts continus aux{nl}ennemis proches pendant une durée{nl}déterminée.	전방에 향로를 세웁니다. 세워진 향로는 일정 시간 동안 주변의 적에게 지속적으로 피해를 줍니다.
+SKILL_20260930_026528	Temps d'incantation 0,5 seconde{nl}Facteur de Skill #{SkillFactor}#% x 12 coups{nl}Durée 6 secondes{nl}Cibles #{CaptionRatio}#	캐스팅 시간 0.5초{nl}스킬 계수 #{SkillFactor}#% x 12회{nl}지속시간 6초{nl}대상 수 #{CaptionRatio}#
+SKILL_20260930_026529	Vertige	베르티고
+SKILL_20260930_026530	De la fumée gonfle trois fois autour de vous,{nl}infligeant des dégâts aux ennemis proches.	자신을 중심으로 연기가 세 번에 걸쳐 부풀어 오르며 주변의 적에게 피해를 줍니다.
+SKILL_20260930_026531	Temps d'incantation 0,8 seconde{nl}Facteur de Skill #{SkillFactor}#% x #{CaptionRatio3}# coups{nl}Durée #{CaptionRatio2}# secondes{nl}Cibles #{CaptionRatio}#	캐스팅 시간 0.8초{nl}스킬 계수 #{SkillFactor}#% x #{CaptionRatio3}#회{nl}지속시간 #{CaptionRatio2}#초{nl}대상 수 #{CaptionRatio}#
+SKILL_20260930_026532	Botafumeiro	보타푸메이로
+SKILL_20260930_026533	Un encensoir géant apparaît dans le ciel et se{nl}met à osciller comme un pendule à travers la{nl}zone devant vous.	하늘에 거대한 향로가 나타나 전방을 가로지르는 진자 운동을 시작합니다.
+SKILL_20260930_026534	{#005060}Utilisable quand [Flamme d'Encens] est au{nl}maximum de cumuls{/}{nl}Temps d'incantation 1 seconde{nl}Facteur de Skill #{SkillFactor}#% x 15 coups{nl}Durée 4 secondes{nl}Cibles #{CaptionRatio}#	{#005060}[향화]가 가득 찼을 때 사용 가능{/}{nl}캐스팅 시간 1초{nl}스킬 계수 #{SkillFactor}#% x 15회{nl}지속시간 4초{nl}대상 수 #{CaptionRatio}#
+SKILL_20260930_026535	Flamme d'Encens	향화
+SKILL_20260930_026536	Attaquer des ennemis sur la [Brume]{nl}augmente les cumuls. À 15 cumuls, passe à{nl}l'état d'Officiation.	[연무] 위의 적을 공격하면 중첩이 증가. 15중첩 시 집전 상태로 전환됨
+SKILL_20260930_026537	Officiation	집전
+SKILL_20260930_026538	Flamme d'Encens a atteint son maximum de{nl}cumuls. Vous pouvez utiliser Botafumeiro, et{nl}les dégâts infligés aux ennemis sur la{nl}[Brume] ainsi que la chance critique{nl}minimale des Skills d'Officiant augmentent.	향화 최대 중첩 달성. 보타푸메이로를 사용할 수 있으며, [연무] 위의 적에게 주는 피해와 오피시언트 스킬의 최소 치명타 확률이 증가합니다.
+SKILL_20260930_026539	Temps de recharge interne de Flamme{nl}d'Encens	향화 내부쿨
+SKILL_20260930_026540	Temps de recharge interne des cumuls de{nl}Flamme d'Encens	향화 중첩 내부 재사용 대기시간
+SKILL_20260930_026541	Envahissement	잠식
+SKILL_20260930_026542	Les cumuls augmentent tant que l'ennemi{nl}reste dans la [Brume]. Chaque cumul{nl}augmente les dégâts finaux des Skills{nl}d'Officiant.	[연무] 안에 머무는 동안 중첩이 증가. 중첩당 오피시언트 스킬의 최종 대미지가 증가함
+SKILL_20260930_026543	Arôme Divin	예향
+SKILL_20260930_026544	Augmente de 30 % les dégâts critiques des{nl}Skills d'Officiant	오피시언트 스킬의 치명타 대미지 30% 증가
+SKILL_20260930_026545	Brume	연무
+SKILL_20260930_026546	Se trouve sur une zone de [Brume]	[연무] 지대 위에 있음
+SKILL_20260930_026547	Se trouve sur une zone de [Brume] (Bois{nl}d'Agar)	[연무] 지대(침향) 위에 있음
+SKILL_20260930_026548	Poison Corrosif	부식 독
+SKILL_20260930_026549	La Défense et la Défense Magique diminuent.	방어력과 마법 방어력이 감소합니다.
+SKILL_20260930_026550	[Dev uniquement] Attaque x5	[개발용] 공격력 5배
+SKILL_20260930_026551	{@st66d_y}Réservé au développement et aux tests :{nl}l'Attaque physique et magique est multipliée{nl}par 5.{/}	{@st66d_y}개발/테스트 전용: 물리, 마법 공격력이 5배가 됩니다.{/}
+SKILL_20260930_026552	Encens Sacré	훈향
+SKILL_20260930_026553	* Attaquer des ennemis sur la [Brume]{nl}augmente le cumul du buff [Flamme{nl}d'Encens] (temps de recharge interne : 1{nl}cumul par seconde){nl}* Atteindre 15 cumuls de [Flamme d'Encens]{nl}octroie le buff [Officiation]{nl}* Flamme d'Encens{nl}- Jusqu'à 15 cumuls{nl}- Dégâts infligés aux ennemis sur la [Brume]{nl}+2 % par cumul{nl}- Chance critique minimale des Skills{nl}d'Officiant +1 % par cumul{nl}- Durée : 60 secondes{nl}* Officiation{nl}- Octroyée après le retrait de Flamme{nl}d'Encens{nl}- Botafumeiro devient utilisable{nl}- Dégâts infligés aux ennemis sur la [Brume]{nl}+30 %{nl}- Chance critique minimale des Skills{nl}d'Officiant +15 %{nl}- Durée : 15 secondes	* [연무] 위의 적을 공격 시 [향화] 버프 스택 증가 (내부쿨 1초에 1씩){nl}* [향화] 15스택 달성 시 [집전] 버프 부여{nl}* 향화{nl}- 최대 15 중첩{nl}- 스택당 [연무] 위의 적에게 주는 피해 2% 증가{nl}- 스택당 오피시언트 스킬의 최소 치명타 확률 1% 증가{nl}- 지속시간 : 60초{nl}* 집전{nl}- 향화 제거 후 부여{nl}- 보타푸메이로 사용 가능{nl}- [연무] 위의 적에게 주는 피해 30% 증가{nl}- 오피시언트 스킬의 최소 치명타 확률 15% 증가{nl}- 지속시간 : 15초
+SKILL_20260930_026554	Souffle d'Encens : Amélioration	인센스 브레스: 강화
+SKILL_20260930_026555	Vague de Braise : Amélioration	엠버 웨이브: 강화
+SKILL_20260930_026556	Balise d'Encens : Amélioration	인센스 비컨: 강화
+SKILL_20260930_026557	Vertige : Amélioration	베르티고: 강화
+SKILL_20260930_026558	Botafumeiro : Amélioration	보타푸메이로: 강화
+SKILL_20260930_026559	[Arts] Souffle d'Encens : Amélioration{nl}Renforcée	[아츠] 인센스 브레스: 상급 강화
+SKILL_20260930_026560	[Arts] Vague de Braise : Amélioration{nl}Renforcée	[아츠] 엠버 웨이브: 상급 강화
+SKILL_20260930_026561	[Arts] Balise d'Encens : Amélioration{nl}Renforcée	[아츠] 인센스 비컨: 상급 강화
+SKILL_20260930_026562	[Arts] Vertige : Amélioration Renforcée	[아츠] 베르티고: 상급 강화
+SKILL_20260930_026563	[Arts] Botafumeiro : Amélioration Renforcée	[아츠] 보타푸메이로: 상급 강화
+SKILL_20260930_026564	[Arts] Prélude : Envahissement	[아츠] 프렐류드: 잠식
+SKILL_20260930_026565	* Applique le débuff [Envahissement] aux{nl}ennemis sur la [Brume]{nl}* Gagne 1 cumul par seconde tant que{nl}l'ennemi reste dans la [Brume]{nl}* Disparaît immédiatement quand l'ennemi{nl}quitte la [Brume]{nl}* Envahissement{nl}- Jusqu'à 20 cumuls{nl}- Dégâts finaux des Skills d'Officiant +1 % par{nl}cumul{nl}* La durée de la [Brume] est réduite à 30{nl}secondes{nl}* Modifiable uniquement en ville.	* [연무] 위의 적에게 [잠식] 디버프를 부여함{nl}* [연무] 안에 머무는 동안 1초마다 1중첩 증가{nl}* [연무]를 벗어나면 즉시 사라짐{nl}* 잠식{nl}- 최대 20 중첩{nl}- 1중첩당 오피시언트 스킬의 최종 대미지 1% 증가{nl}* [연무] 지속시간이 30초로 감소함{nl}* 마을에서만 변경 가능합니다.
+SKILL_20260930_026566	Vague de Braise : Bois d'Agar	엠버 웨이브: 침향
+SKILL_20260930_026567	* Crée une zone de [Brume] au point{nl}d'impact{nl}- Durée 10 secondes{nl}- Sa zone est plus étroite que la [Brume] de{nl}Prélude{nl}- Ne supprime pas la [Brume] de Prélude et{nl}coexiste avec elle{nl}- L'effet de [Arts] Prélude : Envahissement ne{nl}s'applique pas{nl}* Coût en PM +30 %{nl}* Modifiable uniquement en ville.	* 타격 지점에 [연무] 지대를 생성함{nl}- 지속시간 10초{nl}- 범위는 프렐류드의 [연무]보다 좁음{nl}- 프렐류드의 [연무]를 제거하지 않으며 함께 유지됨{nl}- [아츠] 프렐류드: 잠식의 효과는 적용되지 않음{nl}* SP소모 30% 증가{nl}* 마을에서만 변경 가능합니다.
+SKILL_20260930_026568	[Arts] Vertige : Parfum Rémanent	[아츠] 베르티고: 잔향
+SKILL_20260930_026569	* La durée passe à 4 secondes : l'explosion se{nl}produit donc 4 fois{nl}* Coût en PM +50 %{nl}* Modifiable uniquement en ville.	* 지속시간이 4초로 증가하여 폭발이 4회 발생함{nl}* SP소모 50% 증가{nl}* 마을에서만 변경 가능합니다.
+SKILL_20260930_026570	[Arts] Souffle d'Encens : Arôme Divin	[아츠] 인센스 브레스: 예향
+SKILL_20260930_026571	* Utiliser Souffle d'Encens octroie le buff{nl}[Arôme Divin] pendant 3 secondes{nl}* Arôme Divin{nl}- Dégâts critiques des Skills d'Officiant +30 %{nl}* Coût en PM +50 %{nl}* Modifiable uniquement en ville.	* 인센스 브레스 사용 시 3초 동안 [예향] 버프 부여{nl}* 예향{nl}- 오피시언트 스킬의 치명타 대미지 30% 증가{nl}* SP소모 50% 증가{nl}* 마을에서만 변경 가능합니다.
+SKILL_20260930_026572	Souffle d'Encens Niv 1 et plus	인센스 브레스 1레벨 이상
+SKILL_20260930_026573	Vague de Braise Niv 1 et plus	엠버 웨이브 1레벨 이상
+SKILL_20260930_026574	Balise d'Encens Niv 1 et plus	인센스 비컨 1레벨 이상
+SKILL_20260930_026575	Vertige Niv 1 et plus	베르티고 1레벨 이상
+SKILL_20260930_026576	Botafumeiro Niv 1 et plus	보타푸메이로 1레벨 이상
+SKILL_20260930_026577	Prélude Niv 1 et plus	프렐류드 1레벨 이상
+SKILL_20260930_026578	[Souffle d'Encens : Amélioration] Attribut{nl}Niv. 65	[인센스 브레스: 강화] 특성 65 레벨 달성
+SKILL_20260930_026579	[Vague de Braise : Amélioration] Attribut{nl}Niv. 65	[엠버 웨이브: 강화] 특성 65 레벨 달성
+SKILL_20260930_026580	[Balise d'Encens : Amélioration] Attribut Niv.{nl}65	[인센스 비컨: 강화] 특성 65 레벨 달성
+SKILL_20260930_026581	[Vertige : Amélioration] Attribut Niv. 65	[베르티고: 강화] 특성 65 레벨 달성
+SKILL_20260930_026582	[Botafumeiro : Amélioration] Attribut Niv. 65	[보타푸메이로: 강화] 특성 65 레벨 달성
+SKILL_20261006_026583	Durée #{CaptionRatio2}# secondes{nl}Cibles #{CaptionRatio}#	지속시간 #{CaptionRatio2}#초{nl}대상 수 #{CaptionRatio}#
+SKILL_20261006_026584	Augmente de 15 % les dégâts critiques des{nl}Skills d'Officiant	오피시언트 스킬의 치명타 대미지 15% 증가
+SKILL_20261006_026585	* Applique le débuff [Envahissement] aux{nl}ennemis sur la [Brume]{nl}* Gagne 1 cumul par seconde tant que{nl}l'ennemi reste dans la [Brume]{nl}* Disparaît immédiatement quand l'ennemi{nl}quitte la [Brume]{nl}* Envahissement{nl}- Jusqu'à 20 cumuls{nl}- Dégâts finaux des Skills d'Officiant +0,5 %{nl}par cumul{nl}* La durée de la [Brume] est réduite à 30{nl}secondes{nl}* Modifiable uniquement en ville.	* [연무] 위의 적에게 [잠식] 디버프를 부여함{nl}* [연무] 안에 머무는 동안 1초마다 1중첩 증가{nl}* [연무]를 벗어나면 즉시 사라짐{nl}* 잠식{nl}- 최대 20 중첩{nl}- 1중첩당 오피시언트 스킬의 최종 대미지 0.5% 증가{nl}* [연무] 지속시간이 30초로 감소함{nl}* 마을에서만 변경 가능합니다.
+SKILL_20261006_026586	* Utiliser Souffle d'Encens octroie le buff{nl}[Arôme Divin] pendant 3 secondes{nl}* Arôme Divin{nl}- Dégâts critiques des Skills d'Officiant +15 %{nl}* Coût en PM +50 %{nl}* Modifiable uniquement en ville.	* 인센스 브레스 사용 시 3초 동안 [예향] 버프 부여{nl}* 예향{nl}- 오피시언트 스킬의 치명타 대미지 15% 증가{nl}* SP소모 50% 증가{nl}* 마을에서만 변경 가능합니다.
