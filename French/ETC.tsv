@@ -84494,3 +84494,16 @@ ETC_20261006_084474	Veuillez d'abord enregistrer tous les matériaux à échange
 ETC_20261006_084475	Veuillez saisir la quantité à échanger sous forme d'entier supérieur ou égal à 1.	교환 수량은 1개 이상의 정수로 입력해 주세요.
 ETC_20261006_084476	(Les Gemmes de Réplique ne peuvent pas être enregistrées dans la Collection)	(사본 젬은 컬렉션 등록 불가)
 ETC_20261006_084477	Résurrections Restantes {REMAIN} / {MAX}	남은 부활 {REMAIN} / {MAX}
+ETC_20261008_084478	Type non enregistré transmis à tolua.cast (objet renvoyé inchangé)	tolua.cast 에 tolua 바인딩에 등록되지 않은 타입 이름이 전달됨 (객체는 태그 변경 없이 그대로 반환)
+ETC_20261008_084479	Indice de maillage hors des limites des sommets ; exclu de la collision (fichier peut-être corrompu).	모델 메시 인덱스가 정점 수를 벗어나 충돌 메시에서 제외함(파일 손상 의심).
+ETC_20261008_084480	Pack Ticket Doré	황금빛 입장권 패키지
+ETC_20261008_084481	Pack Déesse Doré	황금빛 가디스 패키지
+ETC_20261008_084482	Pack Flamme Doré	황금빛 불꽃 패키지
+ETC_20261008_084483	Pack Tout-en-un Doré	황금빛 올인원 패키지
+ETC_20261008_084484	Pack Croissance d'Automne	가을의 성장 패키지
+ETC_20261008_084485	Pack Éveil d'Automne	가을의 해방 패키지
+ETC_20261008_084486	Pack Accessoires d'Automne	가을의 장신구 패키지
+ETC_20261008_084487	{img icon_archeology_strong_enemy 24 24} Sorcier Résonateur de Valandis - Doppelsoeldner	{img icon_archeology_strong_enemy 24 24} 발란디스 공진술사 - 도펠죌트너
+ETC_20261008_084488	{@st66d_y}{s18}Brume blanche{/}{/}{nl} - Ne consomme pas d'endurance lors des sauts{nl}- EXP{img green_up_arrow 16 16}300 %{nl}- Vitesse de déplacement{img green_up_arrow 16 16}3{nl}- Endurance{img green_up_arrow 16 16}10{nl}	{@st66d_y}{s18}백색 운무{/}{/}{nl}- 점프 시 스태미나 소모 없음{nl}- 경험치 증가{img green_up_arrow 16 16}300%{nl}- 이동 속도{img green_up_arrow 16 16}3{nl}- 스태미나{img green_up_arrow 16 16}10{nl}
+ETC_20261008_084489	- Ne consomme pas d'endurance lors des sauts{nl}- EXP{img green_up_arrow 16 16}300 %{nl}- Vitesse de déplacement{img green_up_arrow 16 16}3{nl}- Endurance{img green_up_arrow 16 16}10{nl}	- 점프 시 스태미나 소모 없음{nl}- 경험치 증가{img green_up_arrow 16 16}300%{nl}- 이동 속도{img green_up_arrow 16 16}3{nl}- 스태미나{img green_up_arrow 16 16}10{nl}
+ETC_20261012_084490	Reprise de la connexion BD (reconnexion réussie et réexécution immédiate des commandes après la déconnexion)	DB 연결 복구(끊긴 연결 재연결 성공, 끊김 직후 명령 재실행)
